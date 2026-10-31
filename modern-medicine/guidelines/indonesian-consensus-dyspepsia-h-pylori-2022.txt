@@ -1,0 +1,1069 @@
+Syam et al. Gut Pathogens    (2023) 15:25                                                                                                                      Gut Pathogens
+https://doi.org/10.1186/s13099-023-00551-2
+
+
+
+
+ REVIEW                                                                                                                                                         Open Access
+
+Management of dyspepsia and Helicobacter
+pylori infection: the 2022 Indonesian Consensus
+Report
+Ari Fahrial Syam1*, Muhammad Miftahussurur2,3*, Dadang Makmun1, Murdani Abdullah1, Abdul Aziz Rani1,
+Gontar Alamsyah Siregar4, Marcellus Simadibrata1, Nasrul Zubir5, I. Dewa Nyoman Wibawa6,
+Hery Djagat Purnomo7, Chudahman Manan1, Dharmika Djojoningrat1, Achmad Fauzi1, Kaka Renaldi1,
+Hasan Maulahela1, Amanda Pitarini Utari1, Rabbinu Rangga Pribadi1, Virly Nanda Muzellina1,
+Saskia Aziza Nursyirwan1, Muhammad Firhat Idrus1, Ruswhandi Ruswhandi8, Titong Sugihartono2,
+Muhammad Begawan Bestari9, Putut Bayupurnama10, Triyanta Yuli Pramana11, Bogi Pratomo Wibowo12,
+Achmad Fuad Bakry13, Fardah Akil14, Andi Muhammad Luthfi Parewangi14, Haris Widita15, I Ketut Mariadi6,
+Ignatia Sinta Murti16, Ali Imron Yusuf17, Arles Arles18, Fauzi Yusuf19, Bradley Jimmy Waleleng20,
+Abimanyu Abimanyu21, Yustar Mulyadi22, Maria Inge Lucida23, Yudith Annisa Ayu Rezkhita3,24,
+Ricky Indra Alfaray3,25 and Yoshio Yamaoka25,26,27
+
+
+
+  Abstract
+  Dyspepsia still becomes a major challenge in upper gastrointestinal disease in Indonesia. This disease often
+  correlated with Helicobacter pylori infection. However, the prevalence of this bacterium is generally low in Indonesia.
+  Therefore, several considerations should be taken into consideration during the management of dyspepsia and H.
+  pylori infection. “Management of dyspepsia and H. pylori infection in Indonesia: The Indonesian consensus report”
+  comprises information gathered from 22 gastroenterology centers across Indonesia. The experts gathered to evolve
+  a consensus, that consists of the statements, grades of recommendations, evidence levels, and rationales for the
+  dyspepsia and H. pylori infection management for daily clinical practice. The report explains several aspects from the
+  updated epidemiology information to comprehensive management therapy. After the experts worked together on
+  all statements in the recommendations, the results are presented with the final agreement as a consensus to help
+  clinicians in understanding, diagnosing, and treating dyspepsia and H. pylori infection patients in daily clinical practice
+  in Indonesia.
+  Keywords Management, Dyspepsia, Helicobacter pylori infection, Indonesia, Human and illness
+
+
+
+
+*Correspondence:
+Ari Fahrial Syam
+ari_syam@hotmail.com
+Muhammad Miftahussurur
+muhammad-m@fk.unair.ac.id
+Full list of author information is available at the end of the article
+
+
+                                             © The Author(s) 2023. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which
+                                             permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the
+                                             original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or
+                                             other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line
+                                             to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory
+                                             regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this
+                                             licence, visit http://​creat​iveco​mmons.​org/​licen​ses/​by/4.​0/. The Creative Commons Public Domain Dedication waiver (http://​creat​iveco​
+                                             mmons.​org/​publi​cdoma​in/​zero/1.​0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.
+Syam et al. Gut Pathogens   (2023) 15:25                                                                                  Page 2 of 19
+
+
+
+
+Introduction                                                Methods
+Dyspepsia becomes the fifth and sixth most common           The current knowledge, clinical practice evidence,
+disorder among inpatients and outpatients in                published guidelines, and journals were collected,
+Indonesia, respectively [1, 2]. This condition often        investigated, and analyzed by working groups in the
+associated with the infection of Helicobacter pylori,       workshop. The working group on each sub-topic
+a stomach pathogen that causes gastrointestinal             constructed statements and rationale based on their
+(GI) diseases including gastritis, gastric B-cell           expertise, and prepared a draft. Midway through the
+lymphoma, gastroduodenal peptic ulcer, and gastric          meeting, the working group leader, accompanied by
+adenocarcinoma [3]. While the prevalence of H. pylori       the working group secretary, led the discussion on each
+infection in the neighbors and majority of Asian            statement. Subsequently, the statements were presented
+countries is high, Indonesia becomes unique since the       to all the key experts present and discussed to meet the
+infection rate this bacterium in the general population     standard template. Evidence quality is an objective and
+is low. Unfortunately, the incidence of dyspepsia           reproducible parameter that considers risk of study
+remains high in the general population regardless           bias, evidence of possible publication bias, presence
+of the prevalence of H. pylori infection. Therefore,        of unexplained heterogeneity within experiments,
+a different approach is needed to effectively treat         directness of evidence, and accuracy of estimates was
+dyspepsia and H. pylori infection in Indonesia.             evaluated during 2021 until 2022 period (Table 1; Fig. 1).
+  “Management of dyspepsia and H. pylori Infection:           The grades of recommendation were developed
+The Indonesian Consensus Report” gathered key               considering the quality of evidence, risks and benefits,
+opinion experts from across the country to review           as well as the values and preferences of the patients and
+and assess clinical aspects of dyspepsia and H. pylori      health practitioners. The grades of recommendation
+infection. Twenty-eight gastroenterologists and             were also developed considering the cost effectiveness,
+clinicians had a discussion in an integrated meeting        applicability, and general condition of health care centers
+and developed consensus statements, grades of               in Indonesia. The considerations were then discussed and
+recommendations, levels of evidence, and rationales         decided into grades of recommendation upon agreement
+for the dyspepsia and H. pylori infection management        among the experts (Table 2; Fig. 1).
+in daily practice in Indonesia. In addition, this             The quality of evidence and grades of recommendation
+consensus guideline contains a special topic on the         were developed in several steps as shown in Fig. 1. All
+dyspepsia management in patients with COVID-19.             statements and rationales were discussed and agreed
+This renewed consensus for Indonesia was developed          upon the meeting. A consensus was achieved when at
+to summarize the current theory and perspectives            least 80% of the participants agreed. The final list of
+on dyspepsia and H. pylori infection from several           statements, grades of recommendation, level of evidence,
+guidelines [1, 4–11] and subsequently adapted to            and rationale was written by the secretary, reviewed
+the healthcare center conditions in Indonesia. This         by the working group leaders, and summarized in this
+consensus referring ‘clinicians’ for the medical doctors    consensus report.
+while ‘health practitioner’ for all the health workers
+including medical doctors and nurses. In the future,        Dyspepsia
+at a minimum frequency of once every 5 years, this          Dyspepsia often explained as chronic pain or
+consensus report will be updated as the knowledge           disconcert localized to the upper abdomen [4, 12].
+and understanding of dyspepsia and H. pylori infection      In this consensus, we described dyspepsia as any
+increases.                                                  persistent discomfort feeling (e.g., epigastric pain,
+
+
+
+Table 1 Quality of evidence
+Quality of evidence                                  Comments
+
+High (level 1)                                       Estimation of effect by further research is very unlikely to change our confidence
+Moderate (level 2)                                   Estimation of effect by further research is unlikely to change our confidence
+Low (level 3)                                        Estimation of effect by further research is likely to have an important impact and
+                                                     change our confidence
+Very low (level 4)                                   Estimation of effect is considerably very uncertain
+Syam et al. Gut Pathogens    (2023) 15:25                                                                                              Page 3 of 19
+
+
+
+
+ Fig. 1 Steps for assigning the quality of evidence until grade of recommendation
+
+
+
+
+Table 2 Grade of recommendation
+Grade of              Comments
+recommendation
+
+Strong                Most of the patients should receive the recommended management of action as the statements mentioned
+Conditional           Several patients may follow the recommended management of action; however, alternative options could be suitable for other
+                      patients, necessitating further discussion so that each patient can make a decision based on their individual condition
+Against               Most of the patients should not receive the recommended management of action as the statements mentioned
+Not applicable        The statement is not correlated with a management recommendation (i.e., definition and prevalence); therefore, it cannot be
+                      applicable
+
+
+
+
+burning feeling, postprandial fullness, and early                          classified as Postprandial Distress Syndrome (PDS) and
+satiety) originating from the upper abdomen or                             Epigastric Pain Syndrome (EPS) (Fig. 2) [1, 12]. PDS
+GI tract. Dyspepsia can be classified as organic or                        primarily involves early satiety or postprandial satiety,
+functional dyspepsia (FD). Organic dyspepsia can be                        and EPS primarily includes epigastralgia or burning
+defined as dyspepsia that induced by known etiology                        [16].
+that diagnosed after thorough investigation especially                       Although it is often benign, especially for FD,
+concerning structural disease (e.g., endoscopic                            dyspepsia has been observed reduce the quality of life.
+lesion). The example etiology or risk factor of organic                    A multi-center Asian study comprising 1115 patients
+dyspepsia are duodenal or gastric ulcer, erosive                           with un-investigated dyspepsia from nine countries
+gastritis, duodenitis, gastritis, and malignant processes.                 including Indonesia revealed that 43% of the patients
+FD can be defined as dyspepsia with the absence of                         were shown to have FD [17]. According to data
+structural disease after the investigation using imaging,                  from the Ministry of Health, Republic of Indonesia,
+endoscopy, or similar method. The etiology of FD is                        dyspepsia was the fifth and sixth most prevalent
+most likely multifactorial with the exact cause remain                     disease in inpatients and outpatients in Indonesia
+unclear. The female sex, rise of age, high socioeconomic                   [18]. The risk factors for patients with dyspepsia such
+status, decreased of urbanization, infection of H. pylori,                 as macronutrient and micronutrient intake in dietary
+macro and micronutrient intake in dietary habits,                          habits in Indonesia may vary among sub-populations
+and nonsteroidal anti-inflammatory drug use are risk                       [19]. Therefore, determining a guideline for dyspepsia
+factor for dyspepsia [1, 13–15]. In general, FD can be                     management in daily clinical practice is necessary.
+Syam et al. Gut Pathogens    (2023) 15:25                                                                        Page 4 of 19
+
+
+
+
+ Fig. 2 Algorithm for the diagnosis of uninvestigated dyspepsia
+
+
+
+Diagnosis and evaluation of patients with dyspepsia               defines dyspepsia as a group of upper gastrointestinal
+                                                                  symptoms lasting more than 4 weeks [20]. Dyspepsia
+Statement 1 The diagnosis of ‘FD’ can be made if the              due to structural abnormalities or another specific
+patients mentioned to have a syndrome; however, the               etiology can be classified as organic dyspepsia while
+upper GI endoscopy or imaging investigation do not show           dyspepsia with unclear etiology can be likely classified
+any structural abnormality that can explain the symptoms          as FD [21].
+(unexplained after a routine clinical evaluation). The              FD describe as disease with one or more
+syndrome is a group of patient’s complaints with one or           gastroduodenal manifestations based on Rome IV
+more the following symptoms, which have been present              criteria. The signs included postprandial satiety, early
+within the past 3 months in at least 6 months from                satiety, sensation of epigastric pain and burning, with
+the previous onset: epigastric pain, burning feeling,             no evidence of structural disease (including upper
+uncomfortably postprandial satiety, and early or quick            endoscopy). According Rome III criteria, a diagnosis
+satiety. The diagnosis of ‘organic dyspepsia’ can be made         of FD can be made without requiring a minimum
+by clinicians if the patients mentioned the syndrome and          frequency of occurrence. Criteria are met if symptoms
+the upper GI endoscopy or imaging investigation clearly           persist for at least 3 months in his 6 months prior to
+show any structural abnormality that may explain the              diagnosis. Likely no signs of structural disease to
+symptoms. The diagnosis of ‘un-investigated dyspepsia’            explain symptoms [12, 22–25]. Of note, multiple
+can be made if the patients experience any persistent             organic, systemic, or metabolic disorders of and
+discomfort feeling as likely to be the dyspepsia syndrome         medications that can cause symptoms resembling
+in the upper abdomen; however, the upper GI endoscopy             organic dyspepsia and should be considered withdrawn
+or imaging investigation has yet to be done.                      from FD diagnosis. The differential diagnosis of FD
+                                                                  includes for example: gastritis, peptic ulcer disease
+Grade of recommendation: Strong.                                  (PUD), GI and hepatobiliary cancers, parasitic
+  Level of evidence: High.                                        infections, H. pylori infections, celiac disease,
+  Rationale:                                                      gastroparesis, small intestinal bacterial overgrowth,
+  Dyspepsia described as chronic pain or disconcert               irritable bowel syndrome, chronic pancreatic disorders,
+localized to the upper abdomen [4, 12]. Patient                   hyper- and hypothyroidism, acute cholecystitis, chronic
+with single or multiple symptoms related with                     renal failure, electrolyte imbalances, and medications
+gastroduodenal abnormalities (e.g., epigastric pain               [17, 21].
+and burning, postprandial satiation, early satiety, etc.)
+according to Rome III and IV criteria Indigestion is              Statement 2 The alarm symptoms of dyspepsia are
+diagnosed. However, these criteria remain somewhat                still beneficial in Indonesia. Thus, health practitioners
+vague and can be difficult to interpret for patients              should understand and apply observation of the alarm
+and physicians. The British Gastroenterology Society              symptoms of dyspepsia during clinical practice. Patients
+Syam et al. Gut Pathogens   (2023) 15:25                                                                     Page 5 of 19
+
+
+
+
+with the alarm symptoms should prompt referral for the        Management of dyspepsia
+upper endoscopy investigation.                                Statement 4 Patients with dyspepsia should undergo
+                                                              initial treatment with empirical proton pump inhibitor
+  Grade of recommendation: Strong.                            (PPI) therapy with or without a prokinetic if there is no
+  Level of evidence: High.                                    alarm symptom.
+  Rationale:
+  The alarm symptoms of dyspepsia involve weight loss         Grade of recommendation: Strong.
+(unintended weight loss), continuous dysphagia, constant        Level of evidence: High.
+vomiting, gastrointestinal bleeding, anemia, fever,             Rationale:
+mass in the upper abdomen, family history of stomach            PPI therapy is superior to placebo or antacid therapy
+cancer, and age 50 years [1, 26]. As many as 13% and          in treating dyspepsia. The test and treat strategy may be
+4% of patients with alarm symptoms who underwent              cost-effective when applied to the regions in Indonesia
+endoscopy were diagnosed with clinically significant          with high prevalence of H. pylori infection (please refer
+peptic ulcer disease and gastric cancer, respectively [26].   to H. pylori infection consensus section). Exercise-
+Patients with the alarm symptoms in Indonesia may not         promoting therapy should be used with caution and
+because of H. pylori infection since the prevalence of this   at the lowest effective dose (e.g., metoclopramide
+bacterium infection is low in general population. This        for < 12 weeks, domperidone doses ≤ 30 mg daily)
+condition may lead to more serious differential diagnosis     (Fig. 3) [4, 6].
+during the etiology analysis. Therefore, even though there
+only 313 hospitals in Indonesia have gastrointestinal         Statement 5 After H. pylori eradication, FD patients
+endoscopy systems with most of them in mainland Java          with any dyspepsia symptom should be treated with a
+[18], patients with the alarm symptoms should referred        PPI.
+to the health care centers (hospital) where the endoscopy
+investigation could be performed [26, 27]. Careful              Grade of recommendation: Conditional.
+observation and management should be performed by               Level of evidence: Medium.
+monitoring the patients’ health condition according             Rationale:
+to the patient’s and health care centers’ situation. The        Symptoms that might appear after H. pylori eradication
+health practitioners should be wary of the new onset of       may vary among heartburn, epigastric pain, nausea,
+dyspepsia and alarm symptoms in the above patients [1].       or other symptoms [28]. PPI therapy has a statistically
+                                                              significant impact on dyspepsia symptoms with a number
+Statement 3 Endoscopy investigation is suggested to           needed to treat (NNT) of 10 (95% CI: 7–20). Overall,
+exclude upper GI neoplasia or other organic diseases          69.6% patients of PPI group had persistent dyspeptic
+in dyspeptic patients with aged 50 years or greater,          symptoms in comparison with 75.2% control group
+dyspepsia patients with the alarm symptoms, and/              [6]. However, if PPI therapy is observed to no longer
+or patients presenting with symptoms that are non-            beneficial, it should be stopped and evaluated [4].
+responsive to the initial treatment.
+                                                              Statement 6 Tricyclic antidepressants (TCAs) and
+  Grade of recommendation: Conditional.                       prokinetics can be considered as an optional therapy for
+  Level of evidence: Moderate.                                patients with FD in whom treatment with PPIs failed. An
+  Rationale:                                                  evaluation or re-evaluation of H. pylori infection status
+  Gastric cancer is the fifth highest incidence among         should be conducted for such patients.
+cancers worldwide and as the fourth most prevalent
+cause of cancer-related death globally (1) and frequently       Grade of recommendation: Conditional.
+presents with dyspepsia. In Indonesia, the new case             Level of evidence: Moderate.
+and risk of gastric cancer is low (19th rank in new case        Rationale:
+of cancer) (2); however, some ethnic groups had severe          Based on the excellent evidence for TCAs in this
+gastric mucosal disease as a hallmark of high-risk            indication, TCAs should be administered before
+populations (3). Endoscopy is not widely available in all     prokinetic drugs to treat FD. TCAs have been shown
+areas in Indonesia; thus, stratifying the risk by the alarm   to be highly effective in treating patients with FD [29].
+symptoms is necessary to increase the cancer detection        TCAs are commonly associated with adverse events
+rate (4).                                                     (constipation, dry mouth, urinary retention, and
+                                                              somnolence) [6, 10, 29]. Evaluation or re-evaluation of
+Syam et al. Gut Pathogens   (2023) 15:25            Page 6 of 19
+
+
+
+
+ Fig. 3 Algorithm for the management of dyspepsia
+Syam et al. Gut Pathogens   (2023) 15:25                                                                     Page 7 of 19
+
+
+
+
+the H. pylori infection status should be conducted as         infection [35, 36]. Not only dyspepsia but other severe
+there is still a possibility of recurrence or recrudescence   conditions induced by organic dyspepsia might also
+even after eradication therapy, which can cause the           occur. For example, in other countries, it was reported
+symptoms to persist [26, 30]. In addition, a recent meta-     that approximately 4% of patients with SARS-CoV-2
+analysis study showed that TCAs, but not Selective            pneumonia had gastrointestinal bleeding [37]. Thus, the
+Serotonin Reuptake Inhibitors (SSRIs), are efficacious        etiology of dyspepsia in patients with COVID-19 should
+in the treatment of FD, but antidepressants were also         be evaluated carefully. The evaluation should begin with
+associated with a higher incidence of adverse events than     the profound anamnesis to dispose any other possible
+placebo [29].                                                 differential diagnosis.
+
+Statement 7 Psychological therapies should be                 Statement 9 When the onset of dyspepsia occurs likely
+considered for FD patients with no response prior to          together with the first onset of COVID-19 symptoms
+drug therapy.                                                 and most of differential diagnosis for ‘organic dyspepsia’
+                                                              can be eliminated, the clinicians should consider the
+  Grade of recommendation: Conditional.                       diagnosis as ‘organic dyspepsia et causa COVID-19’.
+  Level of evidence: Low.
+  Rationale:                                                    Grade of recommendation: Strong.
+  A review that involved a total of 12 Randomized               Level of evidence: High.
+Controlled Trials (RCT) in FD patients showed that              Rationale:
+psychological therapies will give significant benefit over      Generally, the diagnosis of dyspepsia in COVID-
+the control group. Studies suggested that psychological       19 patients is the same as the diagnosis of dyspepsia in
+therapies have a significant benefit of reducing dyspepsia    general (Statement 1). There is no clear difference in
+symptoms (RR = 0.53; 95% CI: 0.44–0.65) with an NNT of        treatment or diagnosis of dyspepsia between patients
+3 (95% CI: 3–4). The most common approaches included          who test positive or negative for COVID-19. Diagnosis
+cognitive behavioral therapy or other various forms of        and management should be done with caution, but
+psychotherapy. Although a dramatic effect was observed        as a mandatory standard he should ensure certain
+with regard to the reduction of dyspepsia symptoms,           protection through the use of PPE [38]. The clinical and
+the quality of the data is very low [6]. Future RCT-based     procedural guidelines provided by the experts should be
+study in Indonesia is needed to provide more evidence of      implemented thoroughly, especially while carrying out
+psychological therapies benefits towards FD patients.         invasive management such as endoscopy [39]. The health
+                                                              practitioners should use personal protective equipment
+Dyspepsia patients with COVID‑19                              (PPE) to prevent infection with the virus.
+Statement 8 Patients’ dyspepsia with COVID-19 should
+be carefully evaluated whether the etiology of dyspepsia      Statement 10 The clinicians should carefully determine
+is because of the viral infection or there is another         the management therapy for dyspepsia patients with
+etiology.                                                     COVID-19 in order to get the best therapeutic option
+                                                              with less side effect to the upper GI tract.
+Grade of recommendation: Conditional.
+  Level of evidence: High.                                      Grade of recommendation: Conditional.
+  Rationale:                                                    Level of evidence: Low.
+  COVID-19 can have GI manifestations, including                Rationale:
+symptoms related to dyspepsia, during or post the               Management of patients with dyspepsia and COVID-
+disease process. The symptoms such as nausea and mild         19 is the same as management of patients with systemic
+and transient vomiting might cause by a gastrointestinal      dyspepsia (Statement 4). Several risk factors lead to
+response to the severe acute respiratory syndrome             damage to the gastric mucosa from stress in COVID-
+coronavirus 2 (SARS-CoV-2) infection or to antiviral          19 patients, especially in critically ill patients. These
+medication [31]. Some of the GI manifestations could          include mechanical ventilation, hypoxia, multiple organ
+also be a predictor of worse prognoses of COVID-              failure, psychological stress, and acute respiratory
+19 [26]. Specific to the upper GI, this might be due to       distress syndrome. Theoretically, the COVID-19 patients,
+direct pathological pathways since viral nucleocapsid         especially during their critical condition, should have
+proteins were detected in the cytoplasm of the stomach        a higher incidence of stress-induced gastric mucosal
+cells [32–34]. In Indonesia, several studies reported         damage. PPIs can be used as an option to prevent
+that dyspepsia may occur during or post COVID-19
+Syam et al. Gut Pathogens   (2023) 15:25                                                                                Page 8 of 19
+
+
+
+
+stress-induced gastritis erosion in COVID-19 patients          Table 3 Prevalence of H. pylori infection in Indonesia [46, 55, 81]
+with such risk factors. Additionally, enteral nutrition and    Island (city)                                   H. pylori prevalence
+mucosal protectants help protect the gastrointestinal
+mucosa. Other recommended treatments, such as                  Bali (Bangli)                                   12%
+antipyretic, liver support, management of drug-related         Java                                            2.4–4%
+adverse events, and psychotherapeutic support, may also        (Surabaya)                                      5%
+be provided as needed. Metoclopramide, domperidone,            (Jakarta)                                       0.03%
+or 5-hydroxytryptamine receptor antagonists are                (Malang)                                        1%
+preferred treatment options for nausea and vomiting            (Semarang)                                      0%
+[31].                                                          Kalimantan (Pontianak)                          6.7–7.5%
+  Next, the management therapy (e.g., antiviral and            Papua (Jayapura)                                43%
+vitamin including their dose) should be chosen carefully       Sumatera                                        20%
+in order to get the best option with less side effect to the   (Medan)                                         27.9–40%
+upper GI tract. The 4th Edition of Indonesian COVID-           (Aceh)                                          0%
+19 Management Guideline (published in 2022) stated             Sulawesi                                        15%
+that antiviral drugs including Favipiravir, Redesivir,         (Manado)                                        12%
+Molnupiravir, and Nirmatrelvir/Ritonavir with several          (Makassar)                                      20%
+doses’ regimen can be used as the treatment for COVID-         Timor (Kupang)                                  36.7–40%
+19 infection [40]. According to The Indonesian Food
+and Drug Authority and previous studies, while all these
+drugs potentially induce upper GI tract symptoms such          Source of drinking water, age, and religion, were risk
+as nausea, vomiting, and abdominal pain, certain drug          factors for H. pylori infection; however, only ethnicity
+reported to have lower side effect compared to other           could be considered as an independent risk factor for
+[41–43]. Single drug regimen and lower dose regimen            H. pylori infection in Indonesia [48]. Future studies on a
+are desirable to reduce the risk of nausea, vomiting, and      larger study population are needed to achieve an accurate
+abdominal pain. Combination between drugs should be            representative number of the Indonesian population.
+assessed carefully. For example, previous studies showed       Nevertheless, since different islands and cities have
+that GI adverse events were more commonly found in             different prevalence of H. pylori infection (Table 3),
+patients with LPV/r (a Lopinavir-Ritonavir recombinant         management consensus of H. pylori infections remains
+therapy) compared to any other regimen therapy.                desirable.
+Compared to LPV/r, single regimen of Favipiravir showed
+a lower side effect of nausea, vomiting, and abdominal         Epidemiology and disease‑related H. pylori
+pain, thus it might better to use Favipiravir only than        Statement 11 Improvement of sanitary and hygiene
+LPV/r in dyspepsia patients if there is no special reason      conditions (e.g., source of drinking water) is important
+to use LPV/r regimen [41]. Further study needs to be           and need to be governed to minimize the prevalence of
+governed in order to understand best regimen option for        H. pylori in Indonesia. The knowledge regarding sanitary
+COVID-19 patient with dyspepsia in Indonesia.                  and hygiene should be propagating to every elements of
+                                                               communities as part of main health promotion programs
+Helicobacter pylori infection                                  especially by primary health care units.
+The H. pylori infection rate in Indonesia is low compared
+to other Asian countries [44, 45]. A preliminary study         Grade of recommendation: Strong.
+showed that of 267 patients have symptoms of dyspepsia           Level of evidence: High.
+from the five largest islands in Indonesia, 22.1% (59/267)       Rationale:
+of patients were positive for H. pylori infection based on       Sanitary and hygienic conditions especially the
+the criteria of a minimum of one positive test result from     drinking water sources are known risk factors for H.
+the four diagnostic test methods: culture, histological,       pylori infection and are associated with poor household
+immunohistochemistry (IHC), and rapid urease test              hygiene when contracting this infection. A study in
+(CLO test, Kimberly-Clark, USA) [46]. Furthermore, a           Indonesia, where data were adjusted for age and sex,
+prospective study including 1053 patients from 19 cities       found that people who used tap water as their drinking
+across Sumatra, Java, Borneo, Bali, Sulawesi, Timor, and       water source had significantly lower infections than those
+Papua Island confirmed this low prevalence (10.1%) in          who drew water from a well/river [46, 49, 50].
+the general populations, even though some populations
+tend to have higher prevalence compared to others [47].
+Syam et al. Gut Pathogens   (2023) 15:25                                                                        Page 9 of 19
+
+
+
+
+Statement 12 H. pylori infection is still a risk factor for   ethnicities. In addition to ethnicity, factors such as diet
+dyspepsia and other gastroduodenal diseases including in      (overconsumption of sodium, fat, and retinol), atrophic
+the low infection prevalence area.                            gastritis, family history of gastric cancer, possibly higher
+                                                              body mass index, and decreased serum HDL (high-
+  Grade of recommendation: Not applicable.                    density lipoprotein) levels are another risk factors of
+  Level of evidence: High.                                    gastric cancer that should be monitored [57, 58].
+  Rationale:
+  H. pylori infection was shown to be more common in          Statement 14 Current evidence primarily supports
+patients with dyspepsia than in asymptomatic controls or      extra-intestinal manifestations of H. pylori in immune
+patients with gastric ulcer, gastric cancer, and duodenal     thrombocytopenic purpura (ITP), iron deficiency anemia
+ulcer. Disease symptoms reflect the pattern and degree        (IDA), urticaria, Parkinson’s disease, migraine, and
+of gastritis or gastric atrophy. Even in areas with low       rosacea. However, the scientific evidence of relationship
+prevalence of H. pylori infection, the clinicians still can   between H. pylori infection with other diseases remain
+find patients with H. pylori-positive (e.g. Surabaya where    warrant further in-depth study. Studies with these topics
+the Chinese ethnicity tend to have positive results of H.     need to be conducted in Indonesia especially in area with
+pylori infection compared to Javanese) [51]. H. pylori        high prevalence of H. pylori infection.
+positive patients showed more severe disease compared
+with H. pylori-negative patients by histopathological           Grade of recommendation: Not applicable.
+examination [51]. Thus, regardless of where the patients        Level of evidence: Moderate.
+were from, if the patients have H. pylori infection,            Rationale:
+eradication therapy must be initiated. In addition,             H. pylori infection is associated with many diseases.
+other factors such as diet/nutrition pattern need to be       However, the causality of these associations has
+monitored since they have an effect on dyspepsia and          not yet been confirmed in Indonesia. These include
+other gastroduodenal diseases [1, 7, 15, 52].                 hematological,      cardiopulmonary,        cardiovascular,
+                                                              metabolic, nervous, and cutaneous systems (chronic
+Statement 13 The low gastric cancer incidence in              urticaria, rosacea), and autoimmune diseases (e.g.,
+Indonesia not only due to low H. pylori infection             Sjögren’s syndrome, hypothyroidism, and Henoch-
+prevalence.                                                   Schönlein purpura) [6, 10, 59, 60]. A study also confirmed
+                                                              that the protective hypothesis for asthma in populations
+  Grade of recommendation: Not applicable.                    with poor sanitation and low H. pylori prevalence did not
+  Level of evidence: High.                                    confirm a protective effect [61]. The status of H. pylori
+  Rationale:                                                  infection and chronic urticaria had no correlation [62].
+  The risk of gastric cancer in Indonesia is low supported    Further in-depth study needs to be governed especially
+by the low intestinal metaplasia grade in Indonesian          in area with high prevalence of H. pylori infection in
+general population [53]. Even within H. pylori infected       Indonesia.
+patients, recent study revealed that the proinflammatory
+cell infiltration and cytokine expression response in
+Indonesian population during H. pylori infection is           Screening the infection and disease‑associated H. pylori
+generally not robust, thus, reducing the risk factors         Statement 15 Serum pepsinogen (PG) and H. pylori
+of gastric cancer development [53]. Another possible          antibody testing for community screening should be used
+reasons could be that sodium consumption among the            in area with high prevalence of H. pylori infection. This
+Indonesian population was generally lower than that in        screening method should be used with caution in areas
+other countries, especially other than South-East Asian       with low prevalence of H. pylori infection.
+countries [54–56].
+  While Indonesian population generally have low gastric      Grade of recommendation: Strong.
+cancer incidence, however, patients from Timor, Papua,          Level of evidence: Strong.
+and Bugis ethnic groups remain showed higher gastric            Rationale:
+cancer risk factors compared to other ethnicities [47].         A combination of serum PG and H. pylori antibody
+Even without H. pylori infection, these ethnicities tend      test called the ABC method is a recommended to
+to have higher pro-inflammatory cytokines expression          be used for community screening in many countries
+compared to others [53]. Thus, special consideration          including Indonesia [63]. Previous study showed that this
+must be given if the patients come from these                 method is favored to be used especially in area with high
+Syam et al. Gut Pathogens   (2023) 15:25                                                                    Page 10 of 19
+
+
+
+
+prevalence of H. pylori infection in Indonesia. In areas      test-and-treat strategy should be used with caution when
+with low prevalence of H. pylori (e.g., Java and Borneo/      the clinicians choose to use an invasive method [4, 67,
+Kalimantan), the clinicians should be careful to interpret    68].
+the result since patients with false-positive results may
+fall into group D, the highest risk group for stomach         Statement 18 Diagnostic tests for H. pylori infection
+cancer [64]. In addition, special for PG, previous study in   include the following: locally validated urea breath test
+Indonesians found that this biomarker levels is useful to     (UBT), stool antigen test (SAT), immunological test
+determine chronic gastritis in dyspepsia patients [64, 65].   (urine and serum serology), rapid urease test (RUT),
+                                                              histology, IHC, and culture. The diagnostic modalities
+Statement 16 Screening for gastric cancer should be           recommended in Indonesia are UBT, RUT, and histology.
+implemented, particularly in areas with a high prevalence     To date, SAT does not show a high accuracy results in
+of H. pylori.                                                 Indonesia. Urine and serum serology should not be used
+                                                              to determine recent infections of H. pylori infection.
+  Grade of recommendation: Conditional.
+  Level of evidence: High.                                      Grade of recommendation: Strong.
+  Rationale:                                                    Level of evidence: High.
+  In Indonesia, general prevalence of H. pylori is low          Rationale:
+which is similar to the intestinal metaplasia and gastric       Diagnostic tests of H. pylori infection can be
+cancer prevalence [53]. However, ethnicities such as          performed both non-invasively/indirectly (urea
+Timor, Papuan, Batak, and Bugis were proven to have           breath test, stool antigen test, and antibody-based
+higher risk of H. pylori infection and gastric cancer,        test, including serology and urine test) and invasively/
+regardless of where they live. In the area with H. pylori     directly using endoscopy (Table 4). The urea breath
+infection and gastric cancer are higher than that in the      test is the most popular and convenient non-invasive
+general population, screening via the “test-and-treat         tests with a diagnostic accuracy > 95%. Monoclonal
+strategy” should be implemented [46, 66].                     enzyme immunoassay stool antigen tests also offer
+                                                              high sensitivity and specificity, greater than 95%,
+H. pylori infection management                                but the fecal gather is often associated with patient
+                                                              reluctance [1, 69, 70]. Campylobacter-Like Organism
+Statement 17 A test-and-treat strategy is appropriate         (CLO) Rapid Urease Test detects H. pylori infection by
+for un-investigated dyspepsia in Indonesia, especially        placing a biopsy specimen in a solution of urea and a
+in areas of with intermediate to high level of H. pylori      pH-sensitive dye. The CLO test has a sensitivity of over
+infection prevalence. However, this strategy should not       90% and a specificity of over 95%. Histology is possible
+be implemented to the patients with the alarm symptoms        using staining with hematoxylin and eosin or Giemsa.
+or older patients more than 50 years old.                     Culturing bacteria from biopsy specimens enables
+                                                              antimicrobial susceptibility testing [71–73].
+Grade of recommendation: Strong.
+  Level of evidence: High.                                    Statement 19 Several conditions have been reported
+  Rationale:                                                  to be closely associated with or affected by H. pylori
+  Patients under 50 years with symptoms of dyspepsia          infection. Individuals with the following conditions
+and no warning signs was recommended to A “test               should be considered for H. pylori testing:
+and treat” experience. This strategy prioritizes
+noninvasive testing over prescription PPI or direct
+esophagogastroduodenoscopy (EGD) to avoid cost,                • Peptic ulcer disease, either active or previous
+inconvenience, and discomfort. Although there were no          • Gastric mucosa-associated lymphoid tissue (MALT)
+group differences in symptom resolution at 12 months,            lymphoma
+the group assigned to testing and treatment will give          • Gastric cancer
+lower overall costs [4, 6].                                    • Long term aspirin and NSAID use
+  A “test-and-treat” strategy for H. pylori was shown to       • Unexplained iron deficiency anemia (IDA)
+be more effective than direct symptomatic therapy for          • Idiopathic thrombocytopenic purpura (ITP)
+dyspepsia patients without H. pylori test (relative risk       • Functional dyspepsia
+0.59; 95% CI:0.42–0.83). The prevalence of infection           • GERD patients requiring long term PPI therapy
+modifies the predictive value of diagnostic methods. In
+the low prevalence of H. pylori infection populations,
+Table 4 H. pylori diagnostic tests and the current situation in Indonesia [64, 71, 72, 92–94]
+Diagnostic test Sensitivity (%) Specificity (%) Advantage                                        Disadvantage                                     Situation in Indonesia                            Refs.
+                                                                                                                                                                                                               Syam et al. Gut Pathogens
+
+
+
+
+Non-invasive test
+  UBT               95           95              High accuracy                                   Less reliable in patients with a history of      13C-UBT and 14C-UBT remain restricted to 4 [54]
+                                                 Detects current infection                       gastric resection or PPI consumption             and 6 cities, respectively
+                                                                                                                                                  Expensive and uncovered by social
+                                                                                                                                                  insurance
+                                                                                                                                                                                                               (2023) 15:25
+
+
+
+
+                                                                                                                                                  Ongoing validation
+  SAT               66.7–94      78.9–92         Inexpensive and not age dependent               Inconsistent accuracy based on antigens    Most centers use ICA-based tests, but with              [48, 54]
+                                                 Novel monoclonal antibodies are not             Accuracy influenced by incubation time and low sensitivity
+                                                 influenced by PPIs                              stool condition                            Collecting stool samples is more difficult
+                                                 ICA-based, does not require special                                                        than collecting blood samples
+                                                 equipment or experts
+  Serology          66.7–90      80–97.2         Saves costs and reduces the endoscopic          Less accurate in children                        Validated for some kits. Should not be used       [40, 54]
+                                                 workload                                        Wide range of cutoff values                      solely to diagnose H. pylori infection
+                                                                                                 Cannot distinguish between current and
+                                                                                                 past infections
+                                                                                                 Lower accuracy than ICA-based tests
+  Urine test        83           95              Easy sampling method without the need for False negative results with low                        Lower accuracy                                    [50]
+                                                 special skills and tools                  concentrations of IgG                                  Requires more time for interpretation;
+                                                 Sampling is cheaper than serum sampling                                                          Lack of availability. Should not be used to
+                                                                                                                                                  diagnose H. pylori infection
+Invasive test
+  RUT​              90           95              Rapid result warranting the fast                False negative in patients with recent GI        Validated for some kits                           [53]
+                                                 management for H. pylori eradication            bleeding or with the use of PPIs, antibiotics,
+                                                                                                 or bismuth containing compounds
+  Histology         42–99        100             Histochemical staging is the standard for H.    In cases with low levels of H. pylori,           Widely available in Indonesia                     [51]
+                                                 pylori gastritis assessment Widely available    histological stains can provide a negative
+                                                                                                 result
+  IHC               65–98        100             IHC staining for H. pylori has a lower          IHC staining procedure is more expensive         In cases of chronic (active) gastritis in which   [51]
+                                                 inter-observer variation compared to histo-     than histochemical stains and it is not          H. pylori is not detected by histochemistry,
+                                                 chemical stains                                 available in all laboratories                    IHC of H. pylori can be used as an ancillary
+                                                                                                                                                  test
+  Culture           55–73        100             Allows an evaluation of antibiotic resistance   H. pylori is difficult to culture                Only available in some centers                    [49, 52]
+                                                 irrespective of the intrinsic mechanism
+                                                 involved
+                                                                                                                                                                                                               Page 11 of 19
+Syam et al. Gut Pathogens     (2023) 15:25                                                                             Page 12 of 19
+
+
+
+
+  Grade of recommendation: Conditional.                                  Statement 21 When the indication for endoscopy is
+  Level of evidence: Moderate.                                           found, endoscopy should be performed, and the biopsy
+  Rationale:                                                             samples should be collected according on the Updated
+  Patients with active PUD, a history of PUD, low-grade                  Sydney System guideline recommendation. Collecting
+gastric mucosa-associated lymphoid tissue (MALT)                         biopsy sample for H. pylori diagnosis must be performed
+lymphoma, or previous endoscopic resection of early                      especially in the area with high prevalence of H. pylori
+gastric cancer (EGC) should be tested for H. pylori                      infection or area with high risk of gastric cancer.
+infection. Testing might minimize the risk of ulcer
+bleeding may be considered in patients taking low-dose                     Grade of recommendation: Strong.
+aspirin for a long time. Eradication therapy should be                     Level of evidence: High.
+suggested to positive patients. ITP in adulthood and her                   Rationale:
+IDA of unknown cause should also be tested [4, 74].                        Endoscopy was indicated in several cases including
+  In patients with GERD, bacterial testing is necessary,                 for the patients with dyspepsia with concomitant
+especially if clinical symptoms that require testing for                 alarm symptoms like weight loss, persistent vomiting,
+H. pylori are found. The Asia–Pacific Consensus also                     gastrointestinal bleeding, mass or IDA [57]. Biopsy
+propose eradication of H. pylori in patients requiring                   should be taken carefully to get optimum results of
+long-term her PPI [7].                                                   histological examination. Several considerations such
+                                                                         as the observation of baseline is important because
+Statement 20 If the H. pylori test result is positive, the               when the pre-cancerous lesions at baseline found, the
+bacteria must be eradicated.                                             patients will be more likely to develop gastric cancer
+                                                                         [73].
+  Grade of recommendation: Strong.                                         The ideal biopsy sites for the rapid urease test that
+  Level of evidence: High.                                               recommended by the Updated Sydney System are the
+  Rationale:                                                             corpus and incisura regions [76] (Fig. 4). It is important
+  Eliminating infection diminishes the risk of                           to obtain biopsy samples from area with visible lesions
+developing atrophic gastritis and gastric cancer.                        such as area near the ulcers and suspicious focal
+Although the low incidence of gastric cancer in                          lesions. Image-guided endoscopy accuracy in trained
+Indonesia is due to low H. pylori infection, early                       hands further increases targeted biopsy yield [11], thus
+diagnosis and treatment of symptomatic patients is                       endoscopist should improve their skill and updating
+necessary to decrease the risk of chronic complications                  their knowledge by attending training, workshop,
+[51, 73, 75].                                                            seminar or similar clinical-academic events when it is
+                                                                         possible.
+
+                                                                         Statement 22 The endoscopic diagnosis of H. pylori
+                                                                         using conventional (white light endoscopy) and image-
+                                                                         enhanced endoscopy for targeted biopsy can accurately
+                                                                         detect the presence of H. pylori infection, after
+                                                                         appropriate training.
+
+                                                                           Grade of recommendation: Conditional.
+                                                                           Level of evidence: Low.
+                                                                           Rationale:
+                                                                           It has long been suspected that the appearance of
+                                                                         the gastric mucosa changes after H. pylori infection is
+                                                                         unique, thus, provides useful diagnostic information for
+                                                                         endoscopists. The Kyoto Classification of Endoscopic
+                                                                         Gastritis was published in Japan in 2014, enabling
+                                                                         diagnosis of H. pylori gastritis and assessment of gastric
+                                                                         cancer risk under endoscopy [77, 78].
+ Fig. 4 Locations of gastric biopsy recommended by the updated
+ Sydney System. a Lesser curvature of the antrum; b greater curvature
+                                                                           Atrophy, intestinal metaplasia, nodularity, and enlarged
+ of the antrum; c lesser curvature of the body; d greater curvature of   and tortuous folds have been described to be associated
+ the body; and e incisura angularis [2]. Avoid taking biopsy specimens   with the risk of gastric cancer [79]. Atrophic changes and
+ directly from the ulcer site                                            intestinal metaplasia can be accurately identified using
+Syam et al. Gut Pathogens   (2023) 15:25                                                                       Page 13 of 19
+
+
+
+
+conventional image-guided endoscopy. However, proper          regimens lead to longer durations of minor side effects
+assessment of the gastric mucosa to diagnose H. pylori        [82] (see Table 5 and Fig. 5 for detailed information).
+infection by endoscopy requires proper training [11].
+                                                              Statement 25 An alternative treatment regimen should
+Statement 23 PPI therapy should be stopped                    be used based on local antibiotic resistance data or a
+approximately one to two weeks before testing for             clinical H. pylori antibiotic resistance test (if available).
+H. pylori infection; antibiotics (related to H. pylori        The alternative treatment regimen that can be used is
+eradication) and bismuth should be discontinued for           concomitant non-bismuth quadruple therapy (PAMC)
+4 weeks before testing.                                       and bismuth quadruple therapy (PBMT). However,
+                                                              since bismuth is not yet available in Indonesia, PAMC is
+  Grade of recommendation: Strong.                            the rational choice. Hence, this consensus recommends
+  Level of evidence: High.                                    the Indonesian government to provide bismuth for this
+  Rationale:                                                  purpose.
+  PPIs show anti-H. pylori activity and decrease the
+load of H. pylori, leading to false-negative results on         Grade of recommendation: Conditional.
+urease test, UBT, and SAT. Two weeks is considered              Level of evidence: High.
+as a safe interval to avoid PPI use before testing for H.       Rationale:
+pylori, whereas a 1-week withdrawal has been shown to           Several guidelines recommend PAMC and PBMT as
+be sufficient [6]. In addition, antibiotics associated with   the first line treatment regimen for H. pylori eradication
+eradication of H. pylori suppress infection and reduce test   [1, 5–9, 81]. However, since metronidazole resistance was
+sensitivity and should be avoided 4 weeks prior to testing.   high in Indonesia, PPI triple therapy remains the first
+Serological testing to detect antibodies to H. pylori         choice considering that it remains effective in the general
+infection is the only method that is unaffected by the use    Indonesian population with cautious use in some regions
+of PPIs, and use of the other diagnostic tests described      of Indonesia with high clarithromycin resistance (≥ 15%)
+above can lead to false-negative results [73, 80].            (e.g., Bali) or personal history of macrolide exposure [81,
+                                                              83] (Table 5; Fig. 5).
+Statement 24 The first line eradication therapy of H.
+pylori used PPI triple therapy (PAC: PPIs, amoxicillin,       Statement 26 An antibiotic susceptibility test must be
+and clarithromycin). The duration of therapies of 14 days.    conducted in the patients that not responding (failed) to
+Nevertheless, this therapy should be implemented with         any treatment regimen. Either an E-test or agar dilution
+caution in some regions in Indonesia with Clarithromycin      method can be used. If antibiotic resistance is detected,
+resistant data higher than 10%.                               high-dose dual therapy or rifabutin-containing therapy
+                                                              (PAR) can be considered as the alternative rescue
+  Grade of recommendation: Strong.                            regimen after the failed therapy.
+  Level of evidence: High.
+  Rationale:                                                    Grade of recommendation: Strong.
+  A study in Indonesia revealed that the Indonesian             Level of evidence: High.
+population generally had a low prevalence of                    Rationale:
+clarithromycin and amoxicillin resistance [81]. Thus,           An antibiotic susceptibility test must be conducted in
+these drugs can be used as the first line of H. pylori        patients who failed to respond to any treatment regimen
+eradication therapy in almost all rea of Indonesia. The       because the antibiotic resistance might have occurred
+therapy can be administered as PPI bid, amoxicillin           during the previous treatment [73]. Clinicians should
+1000 mg bid, and clarithromycin 500 mg bid. Currently,        not easily re-administer any of the antibiotics against
+only the population in Bali showed a resistance of            which H. pylori has most likely developed resistance in
+clarithromycin > 15%. Thus, PPI triple therapy should         the event of H. pylori treatment failure [84]. The E-test
+not be used in Bali since may not be effective; therefore,    or agar dilution method should be performed before
+it is better to use another regimen. The risk of 7-day        deciding the next regiment therapy. A study (conducted
+treatment versus 14-day treatment failure in a given          using H. pylori Indonesian strains) found that despite
+individual depends on the regional prevalence of              occasional inconsistencies between these two methods,
+antibiotic resistance, as 14-day treatment can overcome       the E-test shows satisfactory agreement for levofloxacin,
+resistance to the antibiotics used. The balance between       metronidazole, tetracycline, and clarithromycin, though
+local failure rates and side effects should be determined     additional confirmation for amoxicillin may be required
+based on locally validated data, as longer treatment          [85]. Subsequently, if antibiotic resistance is confirmed,
+Syam et al. Gut Pathogens            (2023) 15:25                                                                                                       Page 14 of 19
+
+
+
+
+Table 5 Recommended lineage regimen used for H. pylori eradication
+Lineage                               Regimen                            Dosage                             Duration Caution                              References
+
+Antibiotic susceptibility test if available
+      First line                      PPI triple Therapy (PAC)           • ­PPIa bid                        14 days      Should be administered with      [7, 81]
+       Grade of                                                          • Amoxicillin 1000 mg bid                       caution in some regions
+      recommendation: Strong                                             • Clarithromycin 500 mg bid                     of Indonesia with high
+                                                                                                                         Clarithromycin resistance
+                                                                                                                         (≥ 15%)d or personal history
+                                                                                                                         of macrolide exposure
+      Alternative regimen             Concomitant non-bismuth            • ­PPIa bid                        14 days      • Can be used when bismuth       [1, 5–9, 81]
+      therapy                         quadruple therapy (PAMC)           • Amoxicillin 1000 mg bid                       is not available
+       Grade of                                                          • ­Metronidazoleb 500 mg bid                    • Can be the first lineage
+      recommendation: Strong                                             (or Nitroimidazole)                             in areas with high
+                                                                         • Clarithromycin 500 mg bid                     clarithromycin resistance
+                                                                                                                         (≥ 15%)1, if an antibiotic
+                                                                                                                         susceptibility test is not
+                                                                                                                         available
+                                                                                                                         • Can be used for patients
+                                                                                                                         with true penicillin allergy
+      Alternative regimen             Bismuth quadruple                  • ­PPIa bid                        14 days      • Can be first lineage in areas [1, 5–9]
+      therapy                         Therapy (PBMT)                     • ­Bismuthc qid                                 with high clarithromycin
+       Grade of                                                          • ­Metronidazoleb 400 mg                        resistance (≥ 15%)d, if
+      recommendation:                                                    qid or 500 mg tid–qid (or                       antibiotic susceptibility test
+      Conditional                                                        Nitroimidazole)                                 not available
+                                                                         • Tetracycline 500 mg qid                       • Can be an alternative rescue
+                                                                                                                         if the first line is failure
+                                                                                                                         • Currently, bismuth is not
+                                                                                                                         available in Indonesia
+An antibiotic susceptibility test is strongly recommended
+      Alternative rescue              High-dose dual therapy             Rabeprazole 20 mg qid              14 days      • Can only be used as an       [5, 6, 8]
+       Grade of                                                          Amoxicillin 750 mg qid                          alternative rescue when
+      recommendation: Strong                                                                                             the first lineage fails and in
+                                                                                                                         areas with high resistance to
+                                                                                                                         levofloxacin (≥ 15%)e
+                                                                                                                         • Should be used in areas with
+                                                                                                                         rapid metabolizer population
+      Alternative rescue              Rifabutin-containing therapy       PPIa bid                           10 days      • Can only be used as an        [5, 6, 8]
+       Grade of                       (PAR)                              Amoxicillin 1000 mg bid                         alternative rescue as the third
+      recommendation:                                                    Rifabutin 150 mg bid or                         or fourth line of treatment
+      Conditional                                                        300 mg qd
+a
+ The dose depends on the PPI used. The standard doses are dexlansoprazole, 30 mg; esomeprazole, 20 mg; lansoprazole, 30 mg; omeprazole, 20 mg; pantoprazole,
+40 mg; and rabeprazole, 20 mg, although a double dose is sometimes used for dexlansoprazole, esomeprazole, omeprazole, and rabeprazole to increase the success
+of eradication
+b
+    Metronidazole may be substituted by tinidazole
+c
+    The dose depends on the formulation used. Examples include bismuth subsalicylate (262 mg), two tablets, colloidal bismuth subcitrate (120 mg), one tablet
+d
+    An area with high resistance to clarithromycin (≥ 15%) is Bali
+e
+    Areas with high resistance to levofloxacin (≥ 15%) are Bali, Java, Kalimantan, Papua, Sulawesi, Sumatra, and Timor
+
+
+
+
+high-dose dual therapy or PAR can be considered as an                                      Rationale:
+alternative rescue regimen after the failure of therapy [5,                                CYP2C19 is an enzyme involved in the metabolism
+6, 8].                                                                                   of a variety of medications, including PPIs [86]. The
+                                                                                         polymorphism of CYP2C19 can alter the therapeutic
+Statement 27 Dose adjustment of H. pylori eradication                                    efficacy of medicines. Intermediate and rapid
+therapy should be considered when administering drugs                                    metabolizers were found to be the most common in
+affected by CYP2C19 in Indonesia.                                                        Indonesia. This condition may be different between
+                                                                                         ethnicities [87]. Because CYP2C19 can alter the clinical
+     Grade of recommendation: Conditional.                                               efficacy of H. pylori eradication therapy medications,
+     Level of evidence: High.
+Syam et al. Gut Pathogens      (2023) 15:25                                                                                                  Page 15 of 19
+
+
+
+
+ Fig. 5 Algorithm of H. pylori antibiotic therapy. a In case of failure, an antibiotic susceptibility test is strongly recommended. The next antibiotic
+ regimen should be chosen based on the results of the antibiotic susceptibility test. b Bali is an area with high clarithromycin resistance (≥ 15%). c
+ Areas with high resistance to levofloxacin (≥ 15%) are Bali, Java, Kalimantan, Papua, Sulawesi, Sumatra, and Timor
+
+
+
+dose adjustments should be considered in Indonesia                              to levofloxacin and metronidazole is considerably
+when using PPI-based therapy [87].                                              high in Indonesia (generally > 30%) [66, 81]. There was
+                                                                                no evidence stating that the percentage of resistance
+Statement 28 In Indonesia, the amoxicillin, tetracycline,                       to these antibiotics was related to an increased use of
+rifabutin, sitafloxacin, and furazolidone resistance rates                      these antibiotics [10, 88]. Future study to determine
+are remain low, whereas levofloxacin, rifaximin, and                            new regimen therapy or new drug discovery should
+metronidazole resistance are high.                                              performed with the collaboration of the government,
+                                                                                clinicians, academicians, and researchers.
+  Grade of recommendation: Not applicable.
+  Level of evidence: High.                                                      Statement 29 Bismuth quadruple therapy as solution in
+  Rationale:                                                                    amoxicillin allergy and would depend on the local pattern
+  The resistance of H. pylori to amoxicillin remains                            of susceptibility and the patient’s drug allergy status.
+very low; therefore, amoxicillin should be considered as
+a first-line treatment. Additionally, resistance to other                         Grade of recommendation: Strong.
+antimicrobials, sitafloxacin, rifabutin, furazolidone,                            Level of evidence: Moderate.
+and tetracycline is currently low. However, resistance                            Rationale:
+Syam et al. Gut Pathogens   (2023) 15:25                                                                                        Page 16 of 19
+
+
+
+
+  The definition of amoxicillin allergy includes the           Acknowledgements
+                                                               Not applicable.
+following criteria: (1) History of allergic reactions such
+as fever, rash, itchy skin, and anaphylactic shock after       Author contributions
+oral, intramuscular, or intravenous administration of          Conceptualization: MM, RIA, AFS, DM, MA, HM, and SAN; Data collection
+                                                               and curation: RIA, AAR, GAS, RRP, VNM, FA, AMLP, HW, IKM, MIL, and YAR;
+penicillin. (2) A positive skin test. Bismuth quadruple        Funding acquisition: MM, AFS, and YY; Investigation: RIA, MM, Ab, YM, HM,
+therapy containing of a PPI, tetracycline, metronidazole,      IDNW; Writing—original draft preparation: RIA, MM, HM, SAN, IKM, and AMLP;
+and bismuth (or another nitroimidazole) for 10–14 days         Methodology: RIA, MM, HDP, CM, DD, AF, KR, FY, BJW, MIL, and YAR; Writing—
+                                                               review and editing: RIA, MM, and AFS; Visualization: RIA and SAN; Supervision:
+is the recommended first-line treatment. Bismuth               YY, MM, and AFS; Validation: RIA, YY, AFS, MM, DM, AFB, AIY, APU, Ar, BPW, ISM,
+quadruple therapy is particularly engaging to patients         MBB, MFI, MS, NZ, PB, R, TS, and TYP; Submission and finalization: RIA and MM.
+who have been previously exposed to macrolides or              All authors have read and agreed to the published version of the manuscript.
+                                                               All authors read and approved the final manuscript.
+who are allergic to penicillin. Alternative options
+depend on local susceptibility patterns (see Table 5 for       Funding
+alternative treatment options) [7].                            This work is supported by the Directorate of Research and Community Service,
+                                                               Deputy for Strengthening Research and Development Ministry of Research
+                                                               and Technology/Research Agency and National Innovation, Indonesia.
+Statement 30 Potassium-competitive acid blocker (i.e.,
+vonoprazan and tegoprazan)-based therapy is a new              Availability of data and materials
+                                                               Not applicable.
+promising alternative PPI-based treatment.
+                                                               Declarations
+  Grade of recommendation: Not applicable.
+  Level of evidence: Moderate.                                 Competing interests
+  Rationale:                                                   The authors declare no competing interests.
+  Compared to conventional PPIs, potassium-                    Ethics approval and consent to participate
+competitive acid blockers (e.g., vonoprazan and                Not applicable.
+tegoprazan) are more efficient as antisecretory drugs
+                                                               Consent for publication
+because several reasons as follows: (1) more rapid             Not applicable.
+onset of action, (2) reduced reported antisecretory
+fluctuations, (3) higher safety and (4) better tolerability.   Competing interest
+                                                               The authors declare there is no potential competing interests.
+A 2017 meta-analysis showed multiple benefits
+of vonoprazan-based triple regimen compared to                 Author details
+                                                               1
+conventional PPI-containing regimen [89]. Further                Division of Gastroenterology, Department of Internal Medicine, Faculty
+                                                               of Medicine‑Cipto Mangunkusumo Teaching Hospital, University
+studies also suggested that vonoprazan could be used as        of Indonesia, Jakarta, Indonesia. 2 Division of Gastroentero‑Hepatology,
+a first- or second-line regimen for H. pylori eradication      Department of Internal Medicine, Faculty of Medicine‑Dr. Soetomo Teaching
+[90]. In addition, other studies showed that not only          Hospital, Universitas Airlangga, Surabaya, Indonesia. 3 Helicobacter Pylori
+                                                               and Microbiota Study Group, Institute of Tropical Disease, Universitas
+as triple therapy but vonoprazan double therapy                Airlangga, Surabaya, Indonesia. 4 Division of Gastroenterohepatology,
+(7-day vonoprazan and low-dose amoxicillin) was also           Department of Internal Medicine, Adam Malik General Hospital/Faculty
+acceptable for H. pylori eradication [91]. Further study       of Medicine, Sumatra Utara University, Medan, Indonesia. 5 Division
+                                                               of Gastroenterohepatology, Department of Internal Medicine, M. Djamil
+regarding the effectivity of vonoprazan in Indonesia is        General Hospital/Faculty of Medicine, Andalas University, Padang, Indonesia.
+recommended.                                                   6
+                                                                 Division of Gastroenterohepatology, Department of Internal Medicine,
+                                                               Udayana University/Sanglah General Hospital, Bali, Denpasar, Indonesia.
+                                                               7
+                                                                 Division of Gastroenterohepatology, Department of Internal Medicine,
+Abbreviations                                                  Kariadi General Hospital/Faculty of Medicine, Diponegoro University,
+CLO	     Campylobacter-Like organisms                         Semarang, Indonesia. 8 Department of Internal Medicine, Gatot Subroto Army
+EGC	Early gastric cancer                                      Central Hospital, Jakarta, Indonesia. 9 Division of Gastroenterohepatology,
+EGD	Esophago-gastro-duodenoscopy                              Department of Internal Medicine, Hasan Sadikin General Hospital/Faculty
+EPS	Epigastric pain syndrome                                  of Medicine, Padjadjaran University, Bandung, Indonesia. 10 Division
+FD	Functional dyspepsia                                       of Gastroenterohepatology, Department of Internal Medicine, Sardjito
+HDL	High-density lipoprotein                                  General Hospital/Faculty of Medicine, Public Health and Nursing, Gadjah
+IDA	Iron deficiency anemia                                    Mada University, Yogyakarta, Indonesia. 11 Division of Gastroenterohepatology,
+ITP	Immune thrombocytopenic purpura                           Department of Internal Medicine, Moewardi General Hospital/Faculty
+MALT	Mucosa-associated lymphoid tissue                        of Medicine, Sebelas Maret University, Surakarta, Indonesia. 12 Division
+NNT	Number needed to treat                                    of Gastroenterohepatology, Department of Internal Medicine, Saiful Anwar
+PDS	Postprandial distress syndrome                            General Hospital/Faculty of Medicine, Brawijaya University, Malang, Indonesia.
+                                                               13
+PPE	Personal protective equipment                                Division of Gastroenterohepatology, Department of Internal Medicine,
+PUD	Peptic ulcer disease                                      Moch. Hoesin General Hospital/Faculty of Medicine, Sriwijaya University,
+RUT​	Rapid urease test                                        Palembang, Indonesia. 14 Division of Gastroenterohepatology, Department
+SAT	Stool antigen test                                        of Internal Medicine, Wahidin Sudirohusodo General Hospital/Faculty
+UBT	Urea breath test                                          of Medicine, Hasanuddin University, Makassar, Indonesia. 15 Department
+                                                               of Internal Medicine, West Nusa Tenggara General Hospital, Mataram,
+Syam et al. Gut Pathogens        (2023) 15:25                                                                                                      Page 17 of 19
+
+
+
+
+Indonesia. 16 Department of Internal Medicine, Abdul Wahab Sjahranie General      13. Yamawaki H, Futagami S, Wakabayashi M, Sakasegawa N, Agawa S,
+Hospital/Faculty of Medicine, Mulawarman University, Samarinda, Indonesia.            Higuchi K, Kodaka Y, Iwakiri K. Management of functional dyspepsia:
+17
+   Department of Internal Medicine, Abdoel Moeloek General Hospital/                  state of the art and emerging therapies. Therapeut Adv Chronic Dis.
+Faculty of Medicine, Lampung University, Lampung, Indonesia. 18 Department            2018;9(1):23–32.
+of Internal Medicine, Awal Bros Pekanbaru Hospital, Pekanbaru, Indonesia.         14. Carbone F, Holvoet L, Vanuytsel T, Tack J. Rome III functional dyspepsia
+19
+   Division of Gastroenterohepatology, Department of Internal Medicine,               symptoms classification: severity vs frequency. Neurogastroenterol Motil
+Zainoel Abidin General Hospital/Faculty of Medicine, Syiah Kuala University,          Off J Eur Gastrointest Motil Soc. 2017;29(6):e13024.
+Banda Aceh, Indonesia. 20 Division of Gastroenterohepatology, Department          15. Miftahussurur M, Alfaray RI, Rezkitha YAA, Fauzia KA, Maulahela H,
+of Internal Medicine, Prof. R. D. Kandou General Hospital/Faculty of Medicine,        Muzellina VN, Rotty LSM. Macronutrient and micronutrient intake in
+Sam Ratulangi University, Manado, Indonesia. 21 Department of Internal                dietary habits contributed to dyspeptic symptoms in Indonesia. Gac Med
+Medicine, Ulin Banjarmasin General Hospital, Faculty of Medicine, Lambung             Caracas. 2021.
+Mangkurat University, Banjarmasin, Indonesia. 22 Department of Internal           16. Suzuki H. The application of the Rome IV criteria to functional
+Medicine, Soedarso General Hospital, Pontianak, Indonesia. 23 Institute               esophagogastroduodenal disorders in Asia. J Neurogastroenterol Motil.
+of Tropical Disease, Universitas Airlangga, Surabaya, Indonesia. 24 Department        2017;23(3):325–33.
+of Internal Medicine, Faculty of Medicine, Universitas Muhammadiyah               17. Miwa H, Ghoshal UC, Gonlachanvit S, Gwee KA, Ang TL, Chang FY, Fock
+Surabaya, Surabaya, Indonesia. 25 Department of Environmental and Preventive          KM, Hongo M, Hou X, Kachintorn U, et al. Asian consensus report on
+Medicine, Faculty of Medicine, Oita University, Oita, Japan. 26 The Research          functional dyspepsia. J Neurogastroenterol Motil. 2012;18(2):150–68.
+Center for GLOBAL and LOCAL Infectious Diseases (RCGLID), Oita University,        18. Makmun D. Present status of endoscopy, therapeutic endoscopy and the
+Oita, Japan. 27 Department of Medicine, Gastroenterology and Hepatology               endoscopy training system in Indonesia. Digest Endosc. 2014;26(Suppl
+Section, Baylor College of Medicine, Houston, USA.                                    2):2–9.
+                                                                                  19. Ford AC, Marwaha A, Sood R, Moayyedi P. Global prevalence of,
+Received: 10 November 2022 Accepted: 2 May 2023                                       and risk factors for, uninvestigated dyspepsia: a meta-analysis. Gut.
+                                                                                      2015;64(7):1049–57.
+                                                                                  20. NICE: Guideline: Gastro-oesophageal reflux disease and dyspepsia
+                                                                                      in adults: investigation and management. In. UK: NICE (The National
+                                                                                      Institute for Health and Care Excellence); 2014.
+References                                                                        21. Francis P, Zavala SR. Functional Dyspepsia. In: StatPearls. Treasure Island
+1. Syam AF, Simadibrata M, Makmun D, Abdullah M, Fauzi A, Renaldi K,                  (FL); 2023.
+    Maulahela H, Utari AP. National consensus on management of dyspepsia          22. Stanghellini V, Chan FK, Hasler WL, Malagelada JR, Suzuki H, Tack J, Talley
+    and Helicobacter pylori infection. Acta Med Indones. 2017;49(3):279–87.           NJ. Gastroduodenal disorders. Gastroenterology. 2016;150(6):1380–92.
+2. Yang YX, Brill J, Krishnan P, Leontiadis G. American Gastroenterological       23. Stanghellini V. Functional dyspepsia and irritable bowel syndrome:
+    Association Clinical Practice Guidelines C: American Gastroenterological          beyond rome IV. Digest Dis. 2017;35(Suppl 1):14–7.
+    Association Institute Guideline on the Role of Upper Gastrointestinal         24. Schmulson MJ, Drossman DA. What is new in Rome IV. J
+    Biopsy to Evaluate Dyspepsia in the Adult Patient in the Absence of               Neurogastroenterol Motil. 2017;23(2):151–63.
+    Visible Mucosal Lesions. Gastroenterology. 2015;149(4):1082–7.                25. Internal Clinical Guidelines T: National Institute for Health and Care
+3. Burkitt MD, Duckworth CA, Williams JM, Pritchard DM. Helicobacter pylori           Excellence: Clinical Guidelines. In: Dyspepsia and Gastro-Oesophageal
+    induced gastric pathology: insights from in vivo and ex vivo models. Dis          Reflux Disease: Investigation and Management of Dyspepsia, Symptoms
+    Model Mech. 2017;10(2):89–104.                                                    Suggestive of Gastro-Oesophageal Reflux Disease, or Both. London:
+4. Moayyedi PM, Lacy BE, Andrews CN, Enns RA, Howden CW, Vakil N.                     National Institute for Health and Care Excellence (UK) ­Copyright©
+    ACG and CAG clinical guideline: management of dyspepsia. Am J                     National Institute for Health and Care Excellence, 2014; 2014
+    Gastroenterol. 2017;112(7):988–1013.                                          26. Sadowski DC, van Zanten SV. Dyspepsia. CMAJ. 2015;187(4):276.
+5. Chey WD, Leontiadis GI, Howden CW, Moss SF. ACG Clinical                       27. Odeghe EA, Adeniyi OF, Oyeleke GK, Keshinro SO. Use of alarm features
+    Guideline: Treatment of Helicobacter pylori Infection. Off J Am Coll              in predicting significant endoscopic findings in Nigerian patients with
+    Gastroenterol|ACG 2017; 112(2).                                                   dyspepsia. Pan Afr Med J. 2019;34:66.
+6. Malfertheiner P, Megraud F, O’Morain CA, Gisbert JP, Kuipers EJ, Axon          28. Fraser AG, Schreuder V, Chua LE, Moore L. Follow up after successful
+    AT, Bazzoli F, Gasbarrini A, Atherton J, Graham DY, et al. Management of          eradication of Helicobacter pylori: symptoms and reinfection. J
+    Helicobacter pylori infection-the Maastricht V/Florence Consensus Report.         Gastroenterol Hepatol. 1998;13(6):555–9.
+    Gut. 2017;66(1):6–30.                                                         29. Lu Y, Chen M, Huang Z, Tang C. Antidepressants in the treatment of
+7. Mahachai V, Vilaichone RK, Pittayanon R, Rojborwonwitaya J,                        functional dyspepsia: a systematic review and meta-analysis. PLoS ONE.
+    Leelakusolvong S, Maneerattanaporn M, Chotivitayatarakorn P,                      2016;11(6): e0157798.
+    Treeprasertsuk S, Kositchaiwat C, Pisespongsa P, et al. Helicobacter pylori   30. Ford AC, Moayyedi P. Dyspepsia. Curr Opin Gastroenterol.
+    management in ASEAN: the Bangkok consensus report. J Gastroenterol                2013;29(6):662–8.
+    Hepatol. 2018;33(1):37–56.                                                    31. Zhang X, Tang C, Tian D, Hou X, Yang Y. Management of digestive
+8. Fallone CA, Chiba N, van Zanten SV, Fischbach L, Gisbert JP, Hunt                  disorders and procedures associated with COVID-19. Am J Gastroenterol.
+    RH, Jones NL, Render C, Leontiadis GI, Moayyedi P, et al. The Toronto             2020;115(8):1153–5.
+    consensus for the treatment of Helicobacter pylori infection in adults.       32. Elshazli RM, Kline A, Elgaml A, Aboutaleb MH, Salim MM, Omar M,
+    Gastroenterology. 2016;151(1):51-69.e14.                                          Munshi R, Mankowski N, Hussein MH, Attia AS, et al. Gastroenterology
+9. Liou J-M, Malfertheiner P, Lee Y-C, Sheu B-S, Sugano K, Cheng H-C,                 manifestations and COVID-19 outcomes: a meta-analysis of
+    Yeoh K-G, Hsu P-I, Goh K-L, Mahachai V, et al. Screening and eradication          25,252 cohorts among the first and second waves. J Med Virol.
+    of Helicobacter pylori for gastric cancer prevention: the Taipei global           2021;93(5):2740–68.
+    consensus. Gut. 2020;69(12):2093–112.                                         33. Chen R, Yu Y-l, Li W, Liu Y, Lu J-x, Chen F, Zhou Q, Xia Z-y, Gao L, Meng Q-t
+10. Liu WZ, Xie Y, Lu H, Cheng H, Zeng ZR, Zhou LY, Chen Y, Wang JB, Du               et al. Gastrointestinal symptoms associated with unfavorable prognosis
+    YQ, Lu NH, et al. Fifth Chinese National Consensus Report on the                  of COVID-19 patients: a retrospective study. Front Med. 2020; 7(815).
+    management of Helicobacter pylori infection. Helicobacter. 2018;23(2):        34. Tian S, Xiong Y, Liu H, Niu L, Guo J, Liao M, Xiao S-Y. Pathological study
+    e12475.                                                                           of the 2019 novel coronavirus disease (COVID-19) through postmortem
+11. Sugano K, Tack J, Kuipers EJ, Graham DY, El-Omar EM, Miura S, Haruma K,           core biopsies. Mod Pathol. 2020;33(6):1007–14.
+    Asaka M, Uemura N, Malfertheiner P, et al. Kyoto global consensus report      35. Azwar MK, Kirana F, Kurniawan A, Handayani S, Setiati S. Gastrointestinal
+    on Helicobacter pylori gastritis. Gut. 2015;64(9):1353–67.                        presentation in COVID-19 in Indonesia: a case report. Acta Med Indones.
+12. Miwa H, Ghoshal UC, Fock KM, Gonlachanvit S, Gwee KA, Ang TL, Chang               2020;52(1):63–7.
+    FY, Hongo M, Hou X, Kachintorn U, et al. Asian consensus report on            36. Djunaidi AM, Wirya AY. Urticarial manifestation in COVID-19 infection: a
+    functional dyspepsia. J Gastroenterol Hepatol. 2012;27(4):626–41.                 case report. Bali Dermatol Venereol J. 2020; 3(1).
+Syam et al. Gut Pathogens          (2023) 15:25                                                                                                             Page 18 of 19
+
+
+
+
+37. Yang X, Yu Y, Xu J, Shu H, Xia J, Liu H, Wu Y, Zhang L, Yu Z, Fang M,                    pylori infection appears essential for stomach carcinogenesis:
+    et al. Clinical course and outcomes of critically ill patients with SARS-                observations in Semarang, Indonesia. Cancer Sci. 2005;96(12):873–5.
+    CoV-2 pneumonia in Wuhan, China: a single-centered, retrospective,                 56.   Tokudome S, Soeripto, Triningsih FX, Ananta I, Suzuki S, Kuriki K, Akasaka
+    observational study. Lancet Respir Med. 2020;8(5):475–81.                                S, Kosaka H, Ishikawa H, Azuma T et al. Rare Helicobacter pylori infection
+38. Panayi AC, Flores-Huidobro A, Wu M, Endo Y, Hamaguchi R, Haug V, Ma                      as a factor for the very low stomach cancer incidence in Yogyakarta,
+    C, Orgill DP. Adherence to personal protective equipment guidelines                      Indonesia. Cancer Lett. 2005; 219(1):57–61.
+    during the COVID-19 pandemic: a worldwide survey study. Br J Surg.                 57.   Tan MC, Graham DY. Gastric cancer risk stratification and surveillance
+    2020;107(11):e526–8.                                                                     after Helicobacter pylori eradication: 2020. Gastrointest Endosc.
+39. Maulahela H, Syam AF, Renaldi K, Bestari MB, Sutikno R, Abdullah M,                      2019;90(3):457–60.
+    Simadibrata M, Makmun D. A clinical and procedural guideline for                   58.   Graham S, Haughey B, Marshall J, Brasure J, Zielezny M, Freudenheim J,
+    gastrointestinal endoscopy units during COVID-19 pandemic era. Acta                      West D, Nolan J, Wilkinson G. Diet in the epidemiology of gastric cancer.
+    Med Indones. 2020;52(4):431–5.                                                           Nutr Cancer. 1990;13(1–2):19–34.
+40. Pedoman Tatalaksana COVID-19 Indonesia edisi 4 (ENG: The 4th Edition of            59.   Suzuki T, Matsushima M, Masui A, Watanabe K, Takagi A, Ogawa Y, Shirai
+    Indonesian COVID-19 Management Guideline). In: 4 edn. Indonesia: The                     T, Mine T. Effect of Helicobacter pylori eradication in patients with chronic
+    Indonesia Society of Respirology, The Indonesian Internist Association,                  idiopathic thrombocytopenic purpura—a randomized controlled trial.
+    The Indonesian Heart Association, The Indonesian Pediatric Society, The                  Am J Gastroenterol. 2005;100(6):1265–70.
+    Indonesian Society Of Anesthesiology and Intensive Therapy (Satuan                 60.   Wong F, Rayner-Hartley E, Byrne MF. Extraintestinal manifestations
+    Tugas Penanganan COVID-19); 2022.                                                        of Helicobacter pylori: a concise review. World J Gastroenterol.
+41. Lowe DM, Brown LK, Chowdhury K, Davey S, Yee P, Ikeji F, Ndoutoumou                      2014;20(34):11950–61.
+    A, Shah D, Lennon A, Rai A, et al. Favipiravir, lopinavir-ritonavir, or            61.   Miftahussurur M, Nusi IA, Graham DY, Yamaoka Y. Helicobacter, hygiene,
+    combination therapy (FLARE): a randomised, double-blind, 2 x 2 factorial                 atopy, and asthma. Front Microbiol. 2017;8:1034.
+    placebo-controlled trial of early antiviral therapy in COVID-19. PLoS Med.         62.   Sianturi GN, Soebaryo RW, Zubier F, Syam AF. Helicobacter pylori
+    2022;19(10): e1004120.                                                                   infection: prevalence in chronic urticaria patients and incidence of
+42. Law MF, Ho R, Law KWT, Cheung CKM. Gastrointestinal and hepatic side                     autoimmune urticaria (study in Dr. Cipto Mangunkusumo Hospital,
+    effects of potential treatment for COVID-19 and vaccination in patients                  Jakarta). Acta Med Indonesiana. 2007;39(4):157–62.
+    with chronic liver diseases. World J Hepatol. 2021;13(12):1850–74.                 63.   Sasazuki S. The ABC method and gastric cancer: evidence from
+43. Informatorium of COVID-19 drugs in Indonesia. In: 1 edn. Indonesia: The                  prospective studies. J Epidemiol. 2016;26(12):611–2.
+    Indonesian Food and Drug Authority 2020.                                           64.   Miftahussurur M, Nusi IA, Akil F, Syam AF, Wibawa IDN, Rezkitha YAA,
+44. Alfaray RI, Saruuljavkhlan B, Ansari S, Fauzia KA, Yamaoka Y. Review:                    Maimunah U, Subsomwong P, Parewangi ML, Mariadi IK, et al. Gastric
+    epidemiology of Helicobacter pylori infection. Microbiota Health Dis.                    mucosal status in populations with a low prevalence of Helicobacter pylori
+    2022;4(3): e733.                                                                         in Indonesia. PLoS ONE. 2017;12(5): e0176203.
+45. Miftahussurur M, Waskito LA, Fauzia KA, Mahmudah I, Doohan                         65.   Doohan D, Fauzia KA, Rathnayake J, Lamawansa MD, Waskito LA, Tuan
+    D, Adnyana IK, Khomsan A, Ratnasari N, Rezkitha YAA. Overview                            VP, Dashdorj A, Kabamba ET, Phuc BH, Ansari S, et al. Pepsinogen and
+    of Helicobacter pylori infection in Indonesia: what distinguishes it                     serum IgG detection is a valuable diagnostic method for Helicobacter
+    from countries with high gastric cancer incidence? Gut and liver.                        pylori infection in a low-prevalence country: a report from Sri Lanka.
+    2021;15(5):653–65.                                                                       Diagnostics (Basel). 2021;11(8):1364.
+46. Syam AF, Miftahussurur M, Makmun D, Nusi IA, Zain LH, Zulkhairi, Akil F,           66.   Miftahussurur M, Waskito LA, Fauzia KA, Mahmudah I, Doohan D,
+    Uswan WB, Simanjuntak D, Uchida T, et al. Risk factors and prevalence of                 Adnyana IK, Khomsan A, Ratnasari N, Rezkitha YAA. Overview of
+    Helicobacter pylori in five largest islands of Indonesia: a preliminary study.           Helicobacter pylori infection in Indonesia: what distinguishes it from
+    PloS One. 2015; 10(11):e0140186.                                                         countries with high gastric cancer incidence? Gut and Liver. 2020.
+47. Miftahussurur M, Waskito LA, Syam AF, Nusi IA, Wibawa IDN, Rezkitha                67.   Bytzer P. Can noninvasive Helicobacter pylori testing save endoscopy?
+    YAA, Siregar G, Yulizal OK, Akil F, Uwan WB, et al. Analysis of risks of gastric         Endoscopy. 1997;29(7):649–51.
+    cancer by gastric mucosa among Indonesian ethnic groups. PLoS ONE.                 68.   Gisbert JP, Calvet X. Helicobacter pylori “Test-and-Treat” strategy for
+    2019;14(5): e0216670.                                                                    management of dyspepsia: a comprehensive review. Clin Transl
+48. Syam AF, Waskito LA, Rezkitha YAA, Simamora RM, Yusuf F, Danchi                          Gastroenterol. 2013;4(3):e32–e32.
+    KE, Bakry AF, Miftahussurur M, Yamaoka Y. Helicobacter pylori in the               69.   Wang YK, Kuo FC, Liu CJ, Wu MC, Shih HY, Wang SS, Wu JY, Kuo CH, Huang
+    Indonesian Malays descendant might be imported from other ethnics.                       YK, Wu DC. Diagnosis of Helicobacter pylori infection: current options and
+    2021.                                                                                    developments. World J Gastroenterol. 2015;21(40):11221–35.
+49. Aziz RK, Khalifa MM, Sharaf RR. Contaminated water as a source of                  70.   Atkinson NS, Braden B. Helicobacter pylori infection: diagnostic strategies
+    Helicobacter pylori infection: a review. J Adv Res. 2015;6(4):539–47.                    in primary diagnosis and after therapy. Dig Dis Sci. 2016;61(1):19–24.
+50. Amaral O, Fernandes I, Veiga N, Pereira C, Chaves C, Nelas P, Silva D.             71.   Nurdin WKE, Kusmardi K. Comparison of Helicobacter pylori detection
+    Living conditions and Helicobacter pylori in adults. Biomed Res Int.                     using immunohistochemistry and giemsa and its association with
+    2017;2017:9082716–9082716.                                                               morphological changes in active chronic gastritis. Indonesian J
+51. Miftahussurur M, Shiota S, Suzuki R, Matsuda M, Uchida T, Kido                           Gastroenterol Hepatol Digest Endosc. 2016;17(1):21–7.
+    Y, Kawamoto F, Maimunah U, Adi P, Rezkitha Y, et al. Identification                72.   Savarino V, Zentilin P, Pivari M, Bisso G, Raffaella Mele M, Bilardi C, Borro P,
+    of Helicobacter pylori infection in symptomatic patients in                              Dulbecco P, Tessieri L, Mansi C, et al. The impact of antibiotic resistance on
+    Surabaya, Indonesia, using five diagnostic tests. Epidemiol Infect.                      the efficacy of three 7-day regimens against Helicobacter pylori. Aliment
+    2015;143(5):986–96.                                                                      Pharmacol Ther. 2000;14(7):893–900.
+52. Graham DY. History of Helicobacter pylori, duodenal ulcer, gastric ulcer           73.   Smith SM, O’Morain C, McNamara D. Antimicrobial susceptibility testing
+    and gastric cancer. World J Gastroenterol. 2014;20(18):5191–204.                         for Helicobacter pylori in times of increasing antibiotic resistance. World J
+53. Miftahussurur M, Alfaray RI, Fauzia KA, Dewayani A, Doohan D, Waskito                    Gastroenterol. 2014;20(29):9912–21.
+    LA, Rezkitha YAA, Utomo DH, Somayana G, FahrialSyam A, et al. Low-                 74.   Xie T, Cui X, Zheng H, Chen D, He L, Jiang B. Meta-analysis: eradication
+    grade intestinal metaplasia in Indonesia: insights into the expression                   of Helicobacter pylori infection is associated with the development of
+    of proinflammatory cytokines during Helicobacter pylori infection and                    endoscopic gastroesophageal reflux disease. Eur J Gastroenterol Hepatol.
+    unique East-Asian CagA characteristics. Cytokine. 2023;163: 156122.                      2013;25(10):1195–205.
+54. M.S. A, G.L. K. Sodium consumption in Southeast Asia: an updated                   75.   Bestari MB, Palungkun IG, Hernowo BS, Abdurachman SA, Nugraha
+    review of intake levels and dietary sources in six countries. In: Preventive             ES. Low-stage gastric MALT lymphoma causing life-threatening upper
+    nutrition: nutrition and health. In: A. B, R. D: Springer, Cham.; 2015.                  gastrointestinal bleeding. Case Rep Gastroenterol. 2019;13(3):376–84.
+55. Tokudome S, SamsuriaSoeripto WD, Triningsih FX, Suzuki S, Hosono A,                76.   Genta RM, Graham DY. Comparison of biopsy sites for the histopathologic
+    Triono T, Sarjadi IW, Miranti IP, Ghadimi R, Moore MA, et al. Helicobacter               diagnosis of Helicobacter pylori: a topographic study of H. pylori density
+                                                                                             and distribution. Gastrointest Endosc. 1994;40(3):342–5.
+Syam et al. Gut Pathogens         (2023) 15:25                                                                                                     Page 19 of 19
+
+
+
+
+77. Glover B, Teare J, Ashrafian H, Patel N. The endoscopic predictors of
+    Helicobacter pylori status: a meta-analysis of diagnostic performance.
+    Therapeut Adv Gastrointest Endosc. 2020;13:2631774520950840.
+78. Kamada T, Haruma K, Inoue K, Shiotani A. Helicobacter pylori infection
+    and endoscopic gastritis—Kyoto classification of gastritis. Nihon
+    Shokakibyo Gakkai zasshi Japan J Gastro-enterol. 2015;112(6):982–93.
+79. Nishibayashi H, Kanayama S, Kiyohara T, Yamamoto K, Miyazaki Y,
+    Yasunaga Y, Shinomura Y, Takeshita T, Takeuchi T, Morimoto K, et al.
+    Helicobacter pylori-induced enlarged-fold gastritis is associated with
+    increased mutagenicity of gastric juice, increased oxidative DNA damage,
+    and an increased risk of gastric carcinoma. J Gastroenterol Hepatol.
+    2003;18(12):1384–91.
+80. Bazin T, NchareMfondi A, Julie C, Émile J-F, Raymond J, Lamarque D.
+    Contribution of genetic amplification by PCR for the diagnosis of
+    Helicobacter pylori infection in patients receiving proton pump inhibitors.
+    United Eur Gastroenterol J. 2018;6(8):1267–73.
+81. Miftahussurur M, Syam AF, Nusi IA, Makmun D, Waskito LA, Zein LH, Akil
+    F, Uwan WB, Simanjuntak D, Wibawa ID, et al. Surveillance of Helicobacter
+    pylori antibiotic susceptibility in Indonesia: different resistance
+    types among regions and with novel genetic mutations. PLoS ONE.
+    2016;11(12): e0166199.
+82. Leontiadis GI, Moayyedi P, Ford AC. Helicobacter pylori infection. BMJ Clin
+    Evid. 2009.
+83. Miftahussurur M, Waskito LA, Syam AF, Nusi IA, Siregar G, Richardo M,
+    Bakry AF, Rezkitha YAA, Wibawa IDN, Yamaoka Y. Alternative eradication
+    regimens for Helicobacter pylori infection in Indonesian regions with
+    high metronidazole and levofloxacin resistance. Infect Drug Resist.
+    2019;12:345–58.
+84. Gisbert JP. Empirical or susceptibility-guided treatment for Helicobacter
+    pylori infection? A comprehensive review. Therap Adv Gastroenterol.
+    2020;13:1756284820968736.
+85. Miftahussurur M, Fauzia KA, Nusi IA, Setiawan PB, Syam AF, Waskito
+    LA, Doohan D, Ratnasari N, Khomsan A, Adnyana IK, et al. E-test versus
+    agar dilution for antibiotic susceptibility testing of Helicobacter pylori: a
+    comparison study. BMC Res Notes. 2020;13(1):22.
+86. Hagymasi K, Mullner K, Herszenyi L, Tulassay Z. Update on the
+    pharmacogenomics of proton pump inhibitors. Pharmacogenomics.
+    2011;12(6):873–88.
+87. Miftahussurur M, Doohan D, Syam AF, Nusi IA, Subsomwong P,
+    Waskito LA, Maulahela H, Akil F, Uwan WB, Siregar G, et al. CYP2C19
+    polymorphisms in Indonesia: comparison among ethnicities and the
+    association with clinical outcomes. Biology (Basel). 2021;10(4):300.
+88. McNulty CA, Lasseter G, Shaw I, Nichols T, D’Arcy S, Lawson AJ, Glocker E.
+    Is Helicobacter pylori antibiotic resistance surveillance needed and how
+    can it be delivered? Aliment Pharmacol Ther. 2012;35(10):1221–30.
+89. Jung YS, Kim EH, Park CH. Systematic review with meta-analysis: the
+    efficacy of vonoprazan-based triple therapy on Helicobacter pylori
+    eradication. Aliment Pharmacol Ther. 2017;46(2):106–14.
+90. Kiyotoki S, Nishikawa J, Sakaida I. Efficacy of vonoprazan for Helicobacter
+    pylori eradication. Intern Med. 2020;59(2):153–61.
+91. Suzuki S, Gotoda T, Kusano C, Ikehara H, Ichijima R, Ohyauchi M, Ito H,
+    Kawamura M, Ogata Y, Ohtaka M, et al. Seven-day vonoprazan and low-
+    dose amoxicillin dual therapy as first-line Helicobacter pylori treatment: a
+    multicentre randomised trial in Japan. Gut. 2020;69(6):1019–26.
+92. Syam AF, Rani AA, Abdullah M, Manan C, Makmun D, Simadibrata M,
+    Djojoningrat D, Sato T. Accuracy of Helicobacter pylori stool antigen for
+    the detection of Helicobacter pylori infection in dyspeptic patients. World
+                                                                                    Ready to submit your research ? Choose BMC and benefit from:
+    J Gastroenterol. 2005;11(3):386–8.
+93. Uotani T, Graham DY. Diagnosis of Helicobacter pylori using the rapid
+                                                                                     • fast, convenient online submission
+    urease test. Annal Transl Med. 2015;3(1):9–9.
+94. Miftahussurur M, Yamaoka Y. Diagnostic methods of Helicobacter pylori            • thorough peer review by experienced researchers in your field
+    infection for epidemiological studies: critical importance of indirect test      • rapid publication on acceptance
+    validation. Biomed Res Int. 2016;2016:4819423.
+                                                                                     • support for research data, including large and complex data types
+                                                                                     • gold Open Access which fosters wider collaboration and increased citations
+Publisher’s Note                                                                     • maximum visibility for your research: over 100M website views per year
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+                                                                                    At BMC, research is always in progress.
+
+                                                                                    Learn more biomedcentral.com/submissions
+

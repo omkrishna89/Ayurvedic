@@ -1,0 +1,447 @@
+                                                         Journal of Ayurveda and Integrative Medicine 13 (2022) 100664
+
+
+
+                                                             Contents lists available at ScienceDirect
+
+
+                                     Journal of Ayurveda and Integrative Medicine
+                                                journal homepage: http://elsevier.com/locate/jaim
+
+
+Original Research Article
+
+A prospective, single centre, open label, single arm pilot study to
+evaluate the efﬁcacy and safety of Amlapitta Mishran Suspension in
+participants with endoscopic gastritis
+Yashashri C. Shetty a, Paresh G. Koli a, *, Manoj Lahoti b, Savita Kulkarni c, Preeti Rajput c,
+Mukesh B. Chawda d
+a
+  Department of Pharmacology and Therapeutics, Seth GS Medical College and KEM Hospital, Mumbai, Maharashtra, India
+b
+  Department of Hepatology & Gastroenterology, Suyash Hospital, India
+c
+  Consulting Ayurved Physician Suyash Hospital, India
+d
+  Medical Services, Shree Dhootapapeshwar Limited, India
+
+
+
+
+a r t i c l e i n f o                                   a b s t r a c t
+
+Article history:                                        Background: Endoscopic gastritis is associated with symptoms of gastritis, along with endoscopic ﬁnd-
+Received 31 December 2021                               ings. Amlapitta Mishran has multiple active components that act via various mechanisms in patients
+Received in revised form                                with gastritis symptoms. We planned to conduct this study to ﬁnd out the efﬁcacy and safety of
+30 June 2022
+                                                        Amlapitta Mishran in patients with endoscopic gastritis.
+Accepted 10 October 2022
+Available online xxx
+                                                        Objectives: To ﬁnd out efﬁcacy of Amlapitta Mishran in patient with endoscopic gastritis.
+                                                        Materials and methods: This study was an open-label, prospective, single-center study. Thirty partici-
+                                                        pants were recruited, and Amlapitta Mishran Suspension was given for 30 days. Blood investigations for
+Keywords:
+Amlapitta
+                                                        safety were performed at baseline (Visit 1), on Visit 3 and Visit 4. Endoscopy was performed at baseline
+Gastritis                                               and Visit 4, and stomach erosion score was recorded. Amlapitta Symptom Rating Scale score, Post-
+Gastroenterology                                        prandial Distress Syndrome (PPDS) score, and Epigastric Pain Syndrome (EPS) score were efﬁcacy
+Ayurved                                                 endpoints.
+                                                        Results: Out of the 30 participants recruited, 28 participants completed the study. The median age of
+                                                        participants in the study was 26.50 years. A statistically signiﬁcant (P<0.05) reduction was seen in
+                                                        endoscopy score at Visit 4 as compared to baseline (Visit 1) by Wilcoxon Signed Rank test. Amlapitta
+                                                        Symptom Rating Scale score, PPDS score, EPS score also exhibited signiﬁcant reduction (P < 0.05) at Visit
+                                                        3 and Visit 4 as compared to baseline by Friedman’s test with post hoc analysis. No statistically signiﬁcant
+                                                        reduction was seen in these scores from Visit 3 to Visit 4, except for the EPS score. At the end of Visit 4, 18
+                                                        (64%) participants had an endoscopy score of 1 (no erosions). At the end of Visit 4,  50% improvement
+                                                        was seen in Amlapitta Symptom Rating Scale score in 27 (96%) participants, PPDS score improved by 
+                                                        50% in 25 (89%) participants, and EPS score improved by  50% in 26 (93%) participants. All safety
+                                                        variables including laboratory investigation were within the normal range in all visits.
+                                                        Conclusion: Amlapitta Mishran Suspension effectively reduced endoscopic gastritis scores in the par-
+                                                        ticipants and reduced the symptoms of gastritis measured by the Amlapitta Symptom Rating Scale, PPDS,
+                                                        and EPS scores with no adverse events.
+                                                        © 2022 The Authors. Published by Elsevier B.V. on behalf of Institute of Transdisciplinary Health Sciences
+                                                        and Technology and World Ayurveda Foundation. This is an open access article under the CC BY license
+                                                                                                                     (http://creativecommons.org/licenses/by/4.0/).
+
+
+
+
+                                                                                          1. Introduction
+
+                                                                                              Gastritis is a common endoscopic diagnosis and can range from
+                                                                                          asymptomatic to severely symptomatic gastritis and can be acute or
+                                                                                          chronic. When the patient develops dyspeptic symptoms and there
+    * Corresponding author.
+                                                                                          is no other explanation found for the symptoms, patient undergoes
+      E-mail: prshkoli@gmail.com.
+      Peer review under responsibility of Transdisciplinary University, Bangalore.
+
+https://doi.org/10.1016/j.jaim.2022.100664
+0975-9476/© 2022 The Authors. Published by Elsevier B.V. on behalf of Institute of Transdisciplinary Health Sciences and Technology and World Ayurveda Foundation. This is
+an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+Y.C. Shetty, P.G. Koli, M. Lahoti et al.                                                       Journal of Ayurveda and Integrative Medicine 13 (2022) 100664
+
+
+an upper gastrointestinal endoscopy and the endoscopic diagnosis              Nimba (Azadirachta indica) bark extract exhibited therapeutic
+of gastritis is usually made [1].                                              potential for controlling gastric hypersecretion and gastro-
+    Gastritis symptoms are non-speciﬁc and therefore other causes              esophageal and gastroduodenal ulcers in humans [10].
+of symptoms are excluded before diagnosing gastritis. The gastric             Kiratatikta (Swertia chirata) is reported to be effective in
+mucosa is protected by a layer of thick mucosa which acts as the               experimentally induced gastric ulcers in rats [11].
+ﬁrst line of defense against gastric acid in the lumen. Alcohol and           Bhrungaraja (Eclipta alba) extract possesses potent antisecretory
+some drugs disrupt this layer, exposing gastric mucosa to acid or              and gastroprotective activity [12].
+alkali attack, which results in gastritis. The common symptoms                Patola (Trichosanthes dioica) extract signiﬁcantly increased the
+include epigastric discomfort, nausea, and early satiety. In case of           pH of gastric acid, reduced the volume of gastric juice and
+obvious etiology, the removal of cause is the priority. Conventional           pepsin activity showing its antiulcer potential [13].
+management is directed towards a reduction in acid-secretion of               Yashti (Glycyrrhiza glabra) aqueous extract is reported for its
+gastric mucosa, mucosal barrier protection, and gastric prokinetic             anti-ulcerogenic potential in an experimental model of stress-
+agents. Anti-secretory agents like H2 receptor antagonists or Proton           induced gastric ulcer in Wistar rats [14]. It is also reported for
+Pump Inhibitors [PPIs] or cytoprotective drugs (misoprostol,                   its healing effect in Helicobacter pylori infected peptic ulcers
+sucralfate, Aluminium ions, etc.) can facilitate the repair of the             [15].
+gastric mucosal barrier [1e3].                                                Haritaki (Terminalia chebula), Bibhitaka (Terminalia belerica),
+    Endoscopy helps in differentiating gastritis from Functional               Amalaki (Emblica ofﬁcinalis) in combination are termed as Tri-
+Dyspepsia, which is not associated with endoscopic abnormality                 phala, these herbs individually and in combination are docu-
+[2]. Functional Dyspepsia includes all the symptom complex of                  mented to possess anti-ulcer and cytoprotective effect [16,17].
+gastritis. Functional Dyspepsia (FD) is divided into two sub-groups           Shouktik (Muktashukti) Bhasma [Processed Seashell] has an
+according to cardinal symptoms viz.: Postprandial Distress Syn-                acid-neutralizing effect and showed signiﬁcant anti-ulcer ac-
+drome (PPDS) and Epigastric Pain Syndrome (EPS) [3].                           tivity in the aspirin-induced ulcer model in rats [18].
+    Acid suppressive drugs are mainly used for the EPS subgroup.
+Prokinetic agents are used to restoring motility abnormalities                  Each 10 ml of Amlapitta Mishran contains Vasa (A. vasica) leaf
+associated with PDS. In case of insufﬁcient symptom control, acid-          100 mg, Guduchi (T. cordifolia) stem 100 mg, Parpata (F. indica)
+suppressive drugs can be complemented with a prokinetic or vice             Whole Plant 100 mg, Nimba (A. indica) Stem Bark 100 mg, Kir-
+versa. Neuromodulators (antidepressants and anxiolytics) in low             atatikta (S. chirata) Whole Plant 100 mg, Bhrungaraja (E. alba)
+doses are also used. Phytotherapy (Peppermint oil and Caraway oil)          Whole Plant 100 mg, Patola (T. dioica) Leaf 100 mg, Yashti (G. glabra)
+or nonpharmacological treatment options (psychotherapy or                   Stem & Root 100 mg, Haritaki (T. chebula) Fruit Pericarp 33.33 mg,
+acupuncture) can be added as complementary therapy [3].                     Bibhitaka (T. belerica) Fruit Pericarp 33.33 mg, Amalaki (E. ofﬁci-
+    Although modern medicine offers many medicaments for the                nalis) Fruit Pericarp 33.33 mg, and Shouktik Bhasma (Processed
+management of Acid Peptic Disorders like gastritis, their efﬁcacy           Seashell) 500 mg. Along with the ingredients, there are multiple
+and safety may be a cause of concern [4]. Thus, there is a need for a       phytochemical components of the ingredients which could be
+new drug with a lower side effect proﬁle and good efﬁcacy. Ayurved          contributing to the effectiveness of Amlapitta Mishran Suspension
+the ancient Indian system of medicines is a rich database of herbal,        [16]. Amlapitta Mishran Suspension composition is ingredients of
+mineral, and animal origin raw materials/ingredients for the                Bhunimbadi Kwath þ Yashti (G. glabra) þ Shouktik Bhasma. Since
+management of acid peptic disorders. Amlapitta is the nearest               the base formulation Bhunimbadi Kwath is in the form of liquid and
+correlate to acid peptic disorders, mainly gastritis, and many              addition of Shouktik Bhasma, which is insoluble in water, would
+Ayurved ingredients are extensively studied and documented for              settle down in the bottle; this formulation was developed in the
+their acid-neutralizing, cytoprotective, and ulcer healing potential.       form of a suspension. Also, the dosage form in the form of liquid
+    Amlapitta Mishran Suspension is widely used by Ayurved and              may provide faster symptomatic relief.
+allopathic Practitioners across India in the management of Acid-                Also, there are no clinical trials done on Amlapitta Mishran.
+Peptic Disorders. Amlapitta Mishran Suspension is documented                With this background, we planned this study to ﬁnd out the
+for its anti-ulcer effect in an experimental model of indomethacin-         effectiveness and safety of Amlapitta Mishran Suspension in par-
+induced gastric ulcers in rats [5]. It has multiple ingredients with        ticipants with endoscopic gastritis.
+different actions that act in synergy and these ingredients possess
+anti-emetic, anti-ulcer, anti-secretory, gastroprotective, and acid-        2. Methods
+neutralizing properties [6e18].
+    There are several proprietary formulations for the management              This study was an open-label, prospective, single-center study.
+of Acid Peptic Disorders, but Amlapitta Mishran Suspension is               One-week period before the treatment allocation was for partici-
+unique in its components and has a strong pharmacopoeial base. It           pant arrival, screening, enrolment in the study, informed consent,
+offers beneﬁts because of multiple ingredients. The important at-           study procedure, and observation. After Ethics Committee approval
+tributes of ingredients of Amlapitta Mishran Suspension are:                and subsequent CTRI registration (CTRI/2020/02/023,224), this
+                                                                            study was started, recruitment was done over 4 months. The entire
+  Vasa (Adhatoda vasica) possesses anti-emetic [7,19] and anti-            duration of the study was 9 months (Feb 2020 to November 2020),
+   ulcer effect [7].                                                        including analysis. The duration of the study participation for each
+  Guduchi (Tinospora cordifolia) has a documented antiulcer ac-            participant was 30 days for test medication. The study was con-
+   tivity in the experimental model, as evidenced by a reduction in         ducted at OPD of Medical Gastroenterology.
+   ulcer index along with the decrease in gastric volume, total                Participants recruited in the study were of either gender in the
+   acidity, and an increase in pH of gastric content [8].                   age group of 18e65 years, with endoscopic gastritis diagnosed by
+  Parpata (Fumaria indica) possess antisecretory (inhibition of acid       the endoscopic erosion scores, negative Rapid Urease Test (RUT),
+   secretion), gastroprotective (potentiation of defensive factors),        normal ECG, willing to consent, and follow-up. Participants who
+   and in-vitro antacid activity [9].                                       were pregnant or lactating, previously received Amlapitta Mishran
+
+
+
+                                                                        2
+Y.C. Shetty, P.G. Koli, M. Lahoti et al.                                                         Journal of Ayurveda and Integrative Medicine 13 (2022) 100664
+
+
+Suspension, with documented H. pylori infection, contraindications           3. Results
+to undergo endoscopy, medical/surgical conditions (Zollinger Elli-
+son Syndrome, Gastrectomy etc.) which can interfere with study                   Out of the 30 participants recruited for the study, 28 participants
+results, abnormal blood investigation, had taken study drug or any           completed the study. Two participants were considered as drop-out
+oral herbal medication in the past 4 weeks, and participants                 at Visit 4 by the Physician for non-compliance to study medications,
+administered with H2-receptor antagonists, muscarinic receptor               therefore the ﬁnal data comprises the data of 28 participants. For
+antagonists, gastrin receptor antagonists, proton pump inhibitors,           logistics reasons, the workup of Visit 1 and Visit 2 was performed
+prostaglandin analogs or mucosal protective agents before study in           on the same day. For the analysis, visit 1 is counted as the baseline
+1 week time were excluded from the study. Dietary and lifestyle              (Fig. 1).
+changes (avoiding spicy and oily food, alcohol, smoking etc.) were               Out of 30 participants, 20 were female and 10 were male. The
+recommended to all the participants.                                         mean age was 27.43 ± 7.50. Mean HbA1c was 5.08 ± 0.35. There was
+    Visit 1 and 2 (Day 1) were planned on the same day for the               no statistically signiﬁcant difference in laboratory values from
+convenience of the participants. Visit 3 was on Day 15 ± 3 days and          baselines (Visit 1) except systolic blood pressure, serum indirect
+Visit 4 was on Day 30 ± 3 days.                                              bilirubin, Blood Urea Nitrogen (BUN), and serum creatinine
+    Participants attending the OPD with a history of gastritis,              (see Table 1).
+satisfying the selection criteria were selected. Baseline Amlapitta              The mean endoscopy score at Visit 1 was 3.57 ± 0.50 which
+Symptoms Rating Scale score, Post Prandial Distress Syndrome                 signiﬁcantly reduced to 1.36 ± 0.49 (P < 0.05) at Visit 4. At Visit 1, 16
+(PPDS) score, and Epigastric Pain Syndrome (EPS) score were                  (57%) and 12 (43%) participants had endoscopy score 4 (6 or more
+assessed. Stomach erosions were assessed with the help of the                erosions - Severe) and score 3 (3e5 erosions - Moderate) respec-
+Gastrointestinal endoscopy at baseline. Blood investigations like            tively. At Visit 4, 18 (64%) participants had endoscopy score 1 (no
+CBC (Complete Blood Count), LFT (Liver Function Tests), RFT (Renal           erosions - Normal) and 10 (36%) participants had endoscopy score 2
+Function tests), HbA1c) were done at baseline and visit 4 to assess          (1e2 erosions - Mild) (see Table 2).
+safety. Recruitment, assessment, and follow-up was done by the                   The mean Amlapitta Symptom Rating Scale score at Visit 1
+investigators working at the hospital.                                       (Baseline) was 9.25 ± 3.11 which signiﬁcantly (P < 0.05) reduced to
+    Study Medication was Amlapitta Mishran Suspension (marketed              4.07 ± 1.72 and 2.50 ± 1.17 at Visit 3 and Visit 4, respectively. The
+by Shree Dhootapapeshwar Limited) taken in a dose of 15 ml before            reduction in the score at Visit 4 was not statistically signiﬁcant as
+meals twice daily for 30 days. On the baseline visit (Visit 1 & 2) and       compared to the Visit 3 score. 24 (85.71%) participants and 27
+follow-up visit (Visit 3), the participants were given Amlapitta             (96.43%) participants exhibited more than or equal to 50% reduc-
+Mishran Suspension (3 bottles of 200 ml each).                               tion in Amlapitta Symptom Rating Scale score at Visit 3 and Visit 4
+    Participants who withdrew consent had <80% compliance for                respectively as compared to Visit 1 (Baseline).
+study medication. Patients who worsened/no improvement of                        The mean Postprandial Distress Syndrome score at Visit 1
+symptoms after 7 days of treatment was seen were discontinued                (Baseline) was 5.29 ± 1.30 which signiﬁcantly (P < 0.05) reduced to
+from the study.                                                              2.79 ± 0.88 and 2.14 ± 0.71 at Visit 3 and Visit 4, respectively. The
+    Gastroenterologist performing and scoring the endoscopy was              reduction in the score at Visit 4 was not statistically signiﬁcant as
+blinded about the treatment to the participant. Stomach Erosions             compared to the Visit 3 score. 15 (53.57%) participants and 25
+Scores were measured with the help of the Gastrointestinal                   (89.29%) participants exhibited more than or equal to 50% reduc-
+endoscopy. Scores were No Erosion (Normal, score 1), 1e2 erosions            tion in Postprandial Distress Syndrome score at Visit 3 and Visit 4
+(Mild, score 2), 3e5 erosions (moderate, score 3), and 6 or more             respectively as compared to Visit 1 (Baseline).
+erosions (severe, score 4).                                                      Both the variables of Postprandial Distress Syndrome Viz.
+    Amlapitta Symptom Ratings Scale (Total score Range 0e21) had             Bothersome Postprandial Fullness and Bothersome Early Satiation
+components (each has sub-score of 3) like Avipaak (Indigestion),             exhibited statistically signiﬁcant (P < 0.05) reduction in respective
+Klama (Tiredness), Utklesha (Nausea), Tikta amla Udgaar (Sour and            scores at Visit 3 and Visit 4 as compared to the baseline (Visit 1)
+bitter belching), Guruta (Feeling of heaviness in the body), Hrit-           score.
+Kantha Daha (Burning sensation), and Aruchi (Anorexia).                          The mean Epigastric Pain Syndrome score at Visit 1 (Baseline)
+    Postprandial Distress Syndrome (PPDS) score (Bothersome                  was 6.61 ± 1.31 which signiﬁcantly (P < 0.05) reduced to 3.57 ± 0.92
+postprandial fullness severe enough to affect usual activities and           and 2.54 ± 0.58 at Visit 3 and Visit 4, respectively. The reduction in
+Bothersome early satiation severe enough to prevent ﬁnishing a               the score at Visit 4 was also statistically signiﬁcant (P < 0.05) as
+regular-size meal) and Epigastric Pain Syndrome (EPS) score                  compared to the score at Visit 3.
+(Bothersome epigastric pain severe enough to affect usual activities             16 (57.14%) participants and 26 (92.86%) participants exhibited
+and Bothersome epigastric burning, severe enough to affect usual             more than or equal to 50% reduction in Epigastric Pain Syndrome
+activities) were measured on Likert scale (scores 1e5).                      score at Visit 3 and Visit 4 respectively as compared to Visit 1
+    Outcome measures were to show improvement of endoscopic                  (Baseline).
+gastritis score, Amlapitta symptom rating score, PPDS score, and                 Both the variables in Epigastric Pain Syndrome Viz. Bothersome
+EPS score.                                                                   Epigastric Pain and Bothersome Epigastric Burning exhibited a
+    In this study, a sample size of 30 study participants was taken.         statistically signiﬁcant (P < 0.05) reduction in respective scores at
+As it was a pilot and ﬁrst study in humans, therefore no formal              Visit 3 and Visit 4 as compared to Baseline (Visit 1) score.
+sample size calculation. Data were analyzed using Microsoft Excel
+and SPSS trial version 25 software. Descriptive statistics were used.        4. Discussion
+Data expressed in percentages and mean ± SD and Median. The
+normality of data was assessed using the ShapiroeWilk test.                     In our study, we found that Amlapitta Mishran suspension
+Within-group associations for over 2-time points were checked                improved the endoscopy scores, and reduced symptoms measured
+with Friedman's test, followed by a post hoc test for intergroup             by Amlapitta Symptom Rating Scale score, PPDS Score, and EPS
+comparisons. Within-group comparisons for 2-time points were                 Score.
+analyzed by Wilcoxon Signed rank test. The level of signiﬁcance in              An endoscopic diagnosis of gastritis is very common. The patients
+the study was 0.05.                                                          having signiﬁcant symptoms associated with endoscopic ﬁndings
+                                                                         3
+Y.C. Shetty, P.G. Koli, M. Lahoti et al.                                                          Journal of Ayurveda and Integrative Medicine 13 (2022) 100664
+
+
+
+
+                                                         Fig. 1. Patient enrollment ﬂowchart.
+
+
+
+and no other explanation/cause for their symptoms are usually/                defensive factors (mucin secretion, cellular mucus, bicarbonate
+commonly recommended Proton Pump Inhibitors [PPIs] [1].                       secretion, mucosal blood ﬂow, and cell turnover) [21]. The logical
+   The pharmacological treatment of patients with gastritis using             treatment strategy in patients with symptomatic gastritis is the
+acid suppressants usually achieves only partial symptomatic relief            combination of acid suppression and mucosal protection [1].
+in most of the cases and of late the role of the cytoprotective agents           In our study, the endoscopy score was reduced from
+in strengthening the mucosal defensive factors is gaining impor-              3.57 ± 0.50 at baseline to 1.36 ± 0.49 at Visit 4, which is a signiﬁcant
+tance [21]. It is assumed that these drugs ultimately balance the             reduction in the endoscopy score showing the effectiveness of
+aggressive factors (acid, pepsin, H. pylori, and bile salts) and              Amlapitta Mishran Suspension in reducing endoscopic gastritis.
+
+
+
+                                                                          4
+Y.C. Shetty, P.G. Koli, M. Lahoti et al.                                                                          Journal of Ayurveda and Integrative Medicine 13 (2022) 100664
+
+Table 1
+Comparison of laboratory values.
+
+  Laboratory Values                        Visit 1                    Visit 3                 Visit 4                 P (V1 vs V3)         P (V1 vs V4)         P (V3 vs V4)
+
+  Temperature                              35.98 ± 0.24               35.99 ± 0.34            35.94 ± 0.29            >0.05                >0.05                >0.05
+  Pulse Rate/min                           81.93 ± 5.95               83.57 ± 8.23            83.79 ± 6.78            >0.05                >0.05                >0.05
+  Respiratory Rate/min                     19.86 ± 1.21               20.36 ± 1.81            20.21 ± 1.75            >0.05                >0.05                >0.05
+  Systolic Blood Pressure                  111.43 ± 10.44             105.71 ± 9.2            107.14 ± 8.1            <0.05*               >0.05                >0.05
+  Diastolic Blood Pressure                 71.43 ± 8.03               68.93 ± 6.85            69.29 ± 6.04            >0.05                >0.05                >0.05
+  Hemoglobin                               12.78 ± 0.89               12.95 ± 0.87            13.43 ± 0.91            >0.05                >0.05                >0.05
+  RBC's                                    4.7 ± 0.5                  4.57 ± 0.48             4.52 ± 0.52             >0.05                >0.05                >0.05
+  WBC's                                    8144.82 ± 2213.67          7691.86 ± 2212.85       7179.44 ± 2232.84       >0.05                >0.05                >0.05
+  Polymorphs                               64.21 ± 5.75               61.64 ± 7.68            60.39 ± 7.86            >0.05                >0.05                >0.05
+  Lymphocytes                              26.93 ± 6                  29.64 ± 7.02            29.57 ± 8.12            >0.05                >0.05                >0.05
+  Monocytes                                6.93 ± 2.21                7.14 ± 2.09             7.64 ± 1.59             >0.05                >0.05                >0.05
+  Eosinophils                              1.76 ± 0.54                1.76 ± 0.54             2.19 ± 0.98             >0.05                >0.05                >0.05
+  Basophils                                0±0                        0.04 ± 0.19             0±0                     >0.05                >0.05                >0.05
+  Platelets                                2.73 ± 0.72                2.68 ± 0.85             2.58 ± 0.94             >0.05                >0.05                >0.05
+  AST                                      17.82 ± 5.66               17.64 ± 6.72            15.18 ± 2.84            >0.05                >0.05                >0.05
+  ALT                                      22.39 ± 5.53               23.18 ± 6.71            20.18 ± 4.98            >0.05                >0.05                >0.05
+  Serum Bilirubin Direct                   0.15 ± 0.06                0.2 ± 0.14              0.14 ± 0.07             >0.05                >0.05                >0.05
+  Serum Bilirubin Indirect                 0.19 ± 0.09                0.28 ± 0.11             0.21 ± 0.1              <0.05*               <0.05*               >0.05
+  BUN                                      8.58 ± 2.68                12.68 ± 4.2             12.11 ± 3.75            <0.001*              >0.05                >0.05
+  Serum Creatinine                         1.11 ± 1.75                1.5 ± 2.65              0.85 ± 0.13             <0.05*               >0.05                >0.05
+
+V1 is Visit 1, V3 is Visit 3, and V4 is Visit 4.
+*Statistically signiﬁcant (P < 0.05) on Friedman's test with the post hoc test for within-group comparisons.
+
+
+
+Table 2
+Endoscopy and Symptoms scales comparison.
+
+                                                               Mean             SD        25th          50th          75th            P (v/s Visit 1)          P (v/s Visit 3)
+
+  Amlapitta Scale Score Visit 1                                9.25             3.11      6.25          9.00          12.75
+  Amlapitta Scale Score Visit 3                                4.07             1.72      3.00          4.00          5.75            <0.001#
+  Amlapitta Scale Score Visit 4                                2.50             1.17      2.00          2.00          3.00            <0.001#                  >0.05
+  Endoscopy Score Visit 1                                      3.57             0.50      3.00          4.00          4.00
+  Endoscopy Score Visit 4                                      1.36             0.49      1.00          1.00          2.00            <0.001*
+  Bothersome Post-Prandial Fullness Visit 1                    2.82             0.72      2.00          3.00          3.00
+  Bothersome Post-Prandial Fullness Visit 3                    1.54             0.58      1.00          2.00          2.00            <0.001#
+  Bothersome Post-Prandial Fullness Visit 4                    1.11             0.50      1.00          1.00          1.00            <0.001#                  >0.05
+  Bothersome Early Satiation Visit 1                           2.46             0.69      2.00          2.00          3.00
+  Bothersome Early Satiation Visit 3                           1.25             0.52      1.00          1.00          1.00            <0.001#
+  Bothersome Early Satiation Visit 4                           1.04             0.58      1.00          1.00          1.00            <0.001#                  >0.05
+  PPDS Score Visit 1                                           5.29             1.30      4.00          5.00          6.00
+                                                                                                                                             #
+  PPDS Score Visit 3                                           2.79             0.88      2.00          3.00          3.00            <0.001
+  PPDS Score Visit 4                                           2.14             0.71      2.00          2.00          3.00            <0.001#                  >0.05
+  Bothersome Epigastric Pain Visit 1                           3.21             0.74      3.00          3.00          4.00
+  Bothersome Epigastric Pain Visit 3                           1.86             0.52      2.00          2.00          2.00            <0.001#
+  Bothersome Epigastric Pain Visit 4                           1.32             0.48      1.00          1.00          2.00            <0.001#                  >0.05
+  Bothersome Epigastric Burning Visit 1                        3.39             0.74      3.00          4.00          4.00
+                                                                                                                                             #
+  Bothersome Epigastric Burning Visit 3                        1.71             0.60      1.00          2.00          2.00            <0.001
+  Bothersome Epigastric Burning Visit 4                        1.21             0.42      1.00          1.00          1.00            <0.001#                  >0.05
+  EPS Score Visit 1                                            6.61             1.31      6.00          6.00          8.00
+  EPS Score Visit 3                                            3.57             0.92      3.00          4.00          4.00            <0.001#
+  EPS Score Visit 4                                            2.54             0.58      2.00          2.50          3.00            <0.001#                  <0.05#
+
+50th percentile is median. 25th and 75th percentile are interquartile range.
+*Statistically signiﬁcant (P < 0.05) on Wilcoxon Signed Rank test for Endoscopy Score, and.
+# Statistically signiﬁcant (P < 0.05) on Friedman's test with the post hoc test for within-group comparisons.
+
+
+
+After 30 days of treatment 18 (64%) participants had endoscopy                                scores, and Ranitidine also reduced these scores. The reduction in
+score 1 (no erosions - Normal) and 10 (36%) participants had                                  gastric mucosal erosion with Troxipide and Ranitidine was 98.31%
+endoscopy score 2 (1e2 erosions - Mild).                                                      and 78.18% respectively after 4 weeks of therapy. The percentage of
+    Gastritis occurs because of an imbalance in offensive factors                             participants showing complete symptom resolution (abdominal
+(gastric acid) and defensive factors (mucosal protection). Amlapitta                          pain, bloating, belching, nausea, and heartburn) in participants
+Mishran Suspension acts by reducing the offensive factors like                                with endoscopic gastritis was more in the Troxipide group as
+reducing acid secretion, neutralizing the acid, and reduced pepsin                            compared to the Ranitidine group.
+activity. Also, it acts on defensive factors by accelerating the healing                         In our study, we also observed a reduction in the symptom
+of erosions/ulcers because of its cytoprotective effect. These effects                        scores on parameters like the Amlapitta Symptoms Rating Scale
+are because of the synergistic action of multiple components of                               score, PPDS score, and EPS score. Out of 28 participants, who
+Amlapitta Mishran Suspension.                                                                 completed the study, 27 (96.43%) participants exhibited more
+    In a 2010 study by Dewan et al. [21], Troxipide was compared                              than or equal to 50% reduction in Amlapitta Symptom Rating Scale
+with Ranitidine for endoscopic gastritis. Troxipide lead to a                                 score after 30 days of treatment. 25 (89.29%) participants and 26
+reduction in gastric mucosal erosion, oozing, redness, and edema                              (92.86%) participants exhibited more than or equal to 50%
+
+                                                                                          5
+Y.C. Shetty, P.G. Koli, M. Lahoti et al.                                                              Journal of Ayurveda and Integrative Medicine 13 (2022) 100664
+
+
+reduction in Postprandial Distress Syndrome score Epigastric Pain               Ayurvedic pathophysiology and ayurvedic concepts were partially
+Syndrome score respectively after 30 days of treatment with                     used for developing the methods. Investigators prescribed ayur-
+Amlapitta Mishran Suspension. Gastritis can resolve spontane-                   vedic preparation without making ayurvedic diagnosis for research
+ously if the offending agent is removed or based on the improved                purpose. Gastritis can resolve on its on in some patients if the
+diet and exercise in the patients. This could be the reason for the             offending agent is removed.
+improvement in our study apart from the medication.
+    Gastritis is a commonly treated condition by general practi-                5. Conclusion
+tioners, and in most cases, they do not rely on endoscopy for
+diagnosis and treatment of gastritis. They treat gastritis based on                 Amlapitta Mishran Suspension effectively reduced endoscopic
+signs and symptoms. The reduction in Amlapitta Symptoms Rating                  scores in the participants with Endoscopic gastritis and reduced the
+Scale score, PPDS score, and EPS score exhibited by Amlapitta                   clinical symptoms of gastritis measured by the Amlapitta Symptom
+Mishran Suspension reconﬁrms its potential to offer a symptomatic               Rating Scale, Postprandial Distress Syndrome (PPDS) and Epigastric
+improvement in acute and chronic gastritis. It can also be used for             Pain Syndrome (EPS) scores, while being a safe medication with no
+the relief in symptom complex associated with Functional                        adverse events.
+Dyspepsia.
+    We used the Amlapitta Symptom Rating Scale as it is commonly                Source(s) of support
+used in the studies on Amlapitta [22,23]. EPS and PPDS scores are
+widely used scores for functional dyspepsia and are validated                      Shri Dhootapapeshwar Limited.
+[24,25]. They include all the symptom complex of gastritis and
+therefore these scores were used to assess symptomatic improve-
+                                                                                Presentation at a meeting
+ment. Endoscopic gastritis includes endoscopic abnormalities in
+the gastric mucosa and symptoms which are measured by EPS and
+                                                                                   Nil.
+PPDS which are part of functional dyspepsia symptoms.
+    In a 2021 study, Urdhwaga Amlapitta was treated with 96% cure
+                                                                                CRediT author statement
+rate with Kamdudha ras, Giloy satva, Shankh bhasm, Avipattikar
+churn, and Chitrakadi vati [3].
+                                                                                    Yashashri C. Shetty, Paresh G. Koli, Manoj Lahoti and Mukesh B.
+    This study was of 30 days duration because any drug which works
+                                                                                Chawda e Conceptualization, Methodology / Study design, Soft-
+against gastritis heals the lesions in 30 days, so the duration was
+                                                                                ware, Validation, Formal analysis, Investigation, Resources, Data
+selected. Amlapitta Mishran Suspension exhibited clinical efﬁcacy at
+                                                                                curation, Writing e original draft, Writing e review and editing,
+Visit 3 (Day 15) which shows its early onset of the action with
+                                                                                Visualization, Supervision, Project administration, Funding acqui-
+multiple ingredients working in unison with different mechanisms.
+                                                                                sition. Savita Kulkarni and Preeti Rajput - Methodology / Study
+    The only study done on Amlapitta Mishran Suspension is an
+                                                                                design, Investigation, Resources, Visualization, Supervision, Project
+animal study to evaluate the anti-ulcer effect. Amlapitta Mishran
+                                                                                administration.
+Suspension treated rats showed a signiﬁcant (P < 0.0001) decrease
+in the total number of ulcers and ulcer index and a signiﬁcant in-
+crease in % inhibition of ulcers as compared with Ranitidine, which             Conﬂict of interest
+was a positive control group [5].
+    This was the ﬁrst human study on Amlapitta Mishran Suspen-                     Nil.
+sion. It is marketed in India in the management of Amlapitta (Acid
+Peptic Disorders like gastritis) for over 18 years of age. It is the most       Acknowledgments
+prescribed and preferred Ayurved medication for the management
+of Amlapitta amongst the Ayurved fraternity in India. Till date, no                We thank Shree Dhootapapeshwar limited for providing fund-
+adverse events have been reported/complaint has been received for               ing and support for this project.
+this product.
+    Participants in our study were evaluated for the exclusion                  References
+criteria by investigations (rapid urease test, endoscopy, blood in-
+vestigations like CBC, LFT, RFT), and history of other diseases/                [1] Kashiwagi H. Ulcer and gastritis. Endoscopy 2007;39:101e5. https://doi.org/
+                                                                                    10.1055/s-2006-945108.
+medication uptake was found out by looking at the patient's hos-                [2] Chauhan G, Mahapatra AK, Babar Kapoor A, Kumar A. Study on clinical efﬁcacy
+pital history ﬁles and by directly asking the appropriate questions                 of avipattikar choorna and sutasekhar rasa in the management of Urdhwaga
+to the patient. As this was a ﬁrst in human study of this kind,                     Amlapitta. J Pharmaceut Sci Innovat 2015;4:11e5. https://doi.org/10.7897/
+                                                                                    2277-4572.0414.
+exclusion criteria were kept strict to minimize the bias.                       [3] Meenakshi K, Vinteshwari N, Minaxi J, Vartika S. Effectiveness of Ayurveda
+    Also, Amlapitta Mishran Suspension was safe in all the partici-                 treatment in Urdhwaga Amlapitta: a clinical evaluation. J Ayurveda Integr
+pants as there were no adverse events (AEs) and serious adverse                     Med 2021;12:87e92. https://doi.org/10.1016/J.JAIM.2020.12.004.
+                                                                                [4] Madisch A, Andresen V, Enck P, Labenz J, Frieling T, Schemann M. The diag-
+events (SAEs) reported. There were no safety issues with laboratory                 nosis and treatment of functional dyspepsia. Deutsches Arzteblatt Interna-
+investigations as well. The statistically signiﬁcant changes in the                 tional 2018;115:222e32. https://doi.org/10.3238/arztebl.2018.0222.
+laboratory variables were not clinically signiﬁcant, as they were in            [5] Masuy I, Van Oudenhove L, Tack J. Review article: treatment options for
+                                                                                    functional dyspepsia. Aliment Pharmacol Ther 2019;49:1134e72. https://
+the reference range.                                                                doi.org/10.1111/apt.15191.
+    The limitations of our study were that it was a single-arm study,           [6] Vahalia M, Vemula S, Chawada M, Thakur K. Antiulcer activity of Amlapitta
+we could not compare it with the available treatment options.                       Mishran suspension in rats: a pilot study. Ancient Sci Life 2012;32:112.
+                                                                                    https://doi.org/10.4103/0257-7941.118551.
+Because of the open-label design, there could be a bias from both
+                                                                                [7] Sri Bhavamisra, Chunekar KC, Pandey GS. Bhavaprakash nighantu. Varanasi:
+participants' and physicians’ side in the description of symptoms or                Choukhambha Bharati Academy; 2013.
+evaluation. As it was a single-center study conducted by a single               [8] Shrivastava N, Srivastava A, Banerjee A, Nivsarkar M. Anti-ulcer activity of
+gastroenterologist, there could be a bias in recruitment, follow-up,                Adhatoda vasica nees. J Herb Pharmacother 2006;6:43e9. https://doi.org/
+                                                                                    10.1300/J157v06n02_04.
+and assessment. As the study molecule is ayurvedic but the partial              [9] Kaur M, Singh A, Kumar B. Comparative antidiarrheal and antiulcer effect of
+methodology and the variables are according to allopathy.                           the aqueous and ethanolic stem bark extracts of Tinospora cordifolia in rats. J
+
+                                                                            6
+Y.C. Shetty, P.G. Koli, M. Lahoti et al.                                                                           Journal of Ayurveda and Integrative Medicine 13 (2022) 100664
+
+     Adv Pharm Technol Research (JAPTR) 2014;5:122e8. https://doi.org/10.4103/              [17] Shariﬁ-Rad M, Fokou P, Sharopov F, Martorell M, Ademiluyi A, Rajkovic J, et al.
+     2231-4040.137417.                                                                           Antiulcer agents: from plant extracts to phytochemicals in healing promotion.
+[10] Chandra P, Kishore K, Ghosh AK. Evaluation of antisecretory, gastroprotective               Molecules 2018;23:1751. https://doi.org/10.3390/molecules23071751.
+     and in-vitro antacid capacity of Fumaria indica in rats. J Environ Biol 2015;36:       [18] Deb A. Phyllanthus emblica: the superfood with anti-ulcer potential. Inter-
+     1137e42.                                                                                    national Journal of Food Science and Nutrition WwwFoodsciencejournalCom
+[11] Bandyopadhyay U, Biswas K, Sengupta A, Moitra P, Dutta P, Sarkar D, et al.                  2018;3:84e7.
+     Clinical studies on the effect of Neem (Azadirachta indica) bark extract on            [19] Sreejith R. Bhopal F 5th WAC 2012, Pradesh M, 2012 India 7-10 D. PA01.62.
+     gastric secretion and gastroduodenal ulcer. Life Sci 2004;75:2867e78. https://              Mukta-sukti bhasma; nectar for acid peptic disorders, w.s.r to its anti-ulcer
+     doi.org/10.1016/j.lfs.2004.04.050.                                                          activity - an experimental study. Ancient Sci Life 2012;32:S112.
+[12] Rafatulah S, Tariq M, Mossa JS, Al-Yahya MA, Al-Said MS, Ageel AM. Protective          [21] Dewan B, Balasubramanian A. Troxipide in the management of gastritis: a
+     effect of Swertia chirata against indomethacin and other ulcerogenic agent-                 randomized comparative trial in general practice. Gastroenterology Research
+     induced gastric ulcers. Drugs Exp Clin Res 1993;19:69e73.                                   and Practice 2010;2010. https://doi.org/10.1155/2010/758397.
+[13] Samaiya P, Bhattamisra S, Rao Vc, Vijaykumar M, Ojha S, Eswaran Mb.                    [22] Ghosh K, Baghel M. A clinical study to evaluate the role of Doshik predomi-
+     OA01.03. Antisecretory and antiulcer activities of eclipta alba linn. In rats.              nance in the management of Amlapitta. AYU (An International Quarterly
+     Ancient Sci Life 2012;32:3. https://doi.org/10.4103/0257-7941.111960.                       Journal of Research in Ayurveda) 2017;38:15. https://doi.org/10.4103/
+[14] Hamdulay N, Attaurrahaman Z, Shende V, Lawar M. Evaluation of gastric                       ayu.ayu_75_14.
+     antiulcer activity of Trichosanthes dioica Roxb. Leaves. Int J Pharmaceut Sci          [23] Carbone F, Vandenberghe A, Holvoet L, Vanuytsel T, Van Oudenhove L,
+     Res 2012;3:4332e7. https://doi.org/10.13040/IJPSR.0975-8232.3(11).                          Jones M, et al. Validation of the Leuven Postprandial Distress Scale, a ques-
+[15] Mathur S, Philipose CS, Ganaraja B. Effect of aqueous extract of liquorice (G.              tionnaire for symptom assessment in the functional dyspepsia/postprandial
+     Glabra L) in treatment of stress induced gastric ulcer in Wistar rats. Phcog J              distress syndrome. Aliment Pharmacol Ther 2016;44:989e1001. https://
+     2019;11:1526e31. https://doi.org/10.5530/PJ.2019.11.233.                                    doi.org/10.1111/apt.13753.
+[16] Rahnama M, Mehrabani D, Japoni S, Edjtehadi M, Saberi-Firoozi M. The                   [24] Nishizawa T, Masaoka T, Suzuki H. Functional dyspepsia: pathogenesis,
+     healing effect of licorice (Glycyrrhiza glabra) on Helicobacter pylori infected             diagnosis, and treatment. Journal of General and Family Medicine 2016;17:
+     peptic ulcers. J Res Med Sci 2013;18:532e3.                                                 204e10. https://doi.org/10.14442/jgfm.17.3_204.
+
+
+
+
+                                                                                        7
+

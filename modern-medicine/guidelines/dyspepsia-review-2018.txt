@@ -1,0 +1,952 @@
+805597
+review-article20182018
+                         TAG0010.1177/1756284818805597Therapeutic Advances in GastroenterologyC.J. Black, L.A. Houghton et al.
+
+
+
+
+                                                           Therapeutic Advances in Gastroenterology                                                                                                                                                                                      Review
+
+
+
+
+                                   Insights into the evaluation and management
+                                                                                                                                                                                                                                                                  Ther Adv Gastroenterol
+
+                                                                                                                                                                                                                                                                  2018, Vol. 11: 1–17
+
+
+                                   of dyspepsia: recent developments and                                                                                                                                                                                          DOI: 10.1177/
+                                                                                                                                                                                                                                                                  https://doi.org/10.1177/1756284818805597
+                                                                                                                                                                                                                                                                  https://doi.org/10.1177/1756284818805597
+                                                                                                                                                                                                                                                                  1756284818805597
+
+
+                                   new guidelines
+                                                                                                                                                                                                                                                                  © The Author(s), 2018.
+                                                                                                                                                                                                                                                                  Article reuse guidelines:
+                                                                                                                                                                                                                                                                  sagepub.com/journals-
+                                                                                                                                                                                                                                                                  permissions
+
+                                   Christopher J. Black, Lesley A. Houghton and Alexander C. Ford
+
+
+                                   Abstract: Dyspepsia is a very common gastrointestinal (GI) condition worldwide. We critically
+                                   examine the recommendations of recently published guidelines for the management of
+                                   dyspepsia, including those produced jointly by the American College of Gastroenterology
+                                   and the Canadian Association of Gastroenterology, and those published by the UK National
+                                   Institute for Health and Care Excellence. Dyspepsia is a symptom complex, characterized                                                                                                                                        Correspondence to:
+                                   by a range of upper GI symptoms including epigastric pain or burning, early satiety, and                                                                                                                                       Christopher J. Black
+                                                                                                                                                                                                                                                                  Leeds Gastroenterology
+                                   post-prandial fullness. Although alarm features are used to help prioritize access to upper                                                                                                                                    Institute, Room 125,
+                                                                                                                                                                                                                                                                  4th Floor, Bexley Wing,
+                                   GI endoscopy, they are of limited utility in predicting endoscopic findings, and the majority                                                                                                                                  St. James’s University
+                                   of patients with dyspepsia will have no organic pathology identified at upper GI endoscopy.                                                                                                                                    Hospital, Beckett Street,
+                                                                                                                                                                                                                                                                  Leeds, UK
+                                   These patients are labelled as having functional dyspepsia (FD). The Rome IV criteria, which                                                                                                                                   christopher.black3@
+                                   are used to define FD, further subclassify patients with FD as having either epigastric pain                                                                                                                                   nhs.net
+                                                                                                                                                                                                                                                                  Lesley A. Houghton
+                                   syndrome or post-prandial distress syndrome, depending on their predominant symptoms.                                                                                                                                          Alexander C. Ford
+                                   Unfortunately, the Rome criteria perform poorly at identifying FD without the need for upper                                                                                                                                   Leeds Gastroenterology
+                                                                                                                                                                                                                                                                  Institute, St. James’s
+                                   GI endoscopy. This has led to the investigation of alternative diagnostic approaches, including                                                                                                                                University Hospital,
+                                                                                                                                                                                                                                                                  Leeds, UK
+                                   whether a capsaicin pill or combined serum biomarkers can accurately identify patients                                                                                                                                         Leeds Institute of
+                                   with FD. However, there is insufficient evidence to support either of these approaches at                                                                                                                                      Biomedical and Clinical
+                                                                                                                                                                                                                                                                  Sciences, University of
+                                   the present time. Patients with FD should be tested for H. pylori infection and be prescribed                                                                                                                                  Leeds, Leeds, UK
+                                   eradication therapy if they test positive. If they continue to have symptoms following this, then
+                                   a trial of treatment with a proton pump inhibitor (PPI) should be given for up to 8 weeks. In
+                                   cases where symptoms fail to adequately respond to PPI treatment, a tricyclic antidepressant
+                                   may be of benefit, and should be continued for 6 to 12 months in patients who respond.
+                                   Prokinetics demonstrate limited efficacy for treating FD, but could be considered if other
+                                   strategies have failed. However, there are practical difficulties due to their limited availability
+                                   in some countries and the risk of serious side effects. Patients with FD who fail to respond to
+                                   drug treatments should be offered psychological therapy, where available. Overall, with the
+                                   exception of recommendations relating to H. pylori testing and the prescription of PPIs, which
+                                   are made on the basis of high-quality evidence, the evidence underpinning other elements of
+                                   dyspepsia management is largely of low-quality. Consequently, there are still many aspects of
+                                   the evaluation and management of dyspepsia that require further research.
+
+                                   Keywords Dyspepsia; Functional disease; Rome criteria; Guidelines
+                                   Received: 5 July 2018; revised manuscript accepted: 17 September 2018
+
+
+
+
+                                   Introduction                                                                                                                                        care physician. Consultation behaviour is influ-
+                                   Dyspepsia is a very common gastrointestinal (GI)                                                                                                    enced, in part, by the frequency and severity of
+                                   complaint, with up to one in five individuals                                                                                                       symptoms, and increasing age of the patient.2
+                                   affected worldwide.1 Of those with dyspepsia,                                                                                                       Almost 15% of patients with dyspepsia are referred
+                                   around 40% will seek the advice of their primary                                                                                                    to secondary care for further investigation and
+
+                                   journals.sagepub.com/home/tag                                                                                                                                                                                                                                        1
+
+                                                                                                                                 Creative Commons Non Commercial CC BY-NC: This article is distributed under the terms of the Creative Commons Attribution-NonCommercial 4.0 License
+                                                                                                                                 (http://www.creativecommons.org/licenses/by-nc/4.0/) which permits non-commercial use, reproduction and distribution of the work without further permission
+                                                                                                                                 provided the original work is attributed as specified on the SAGE and Open Access pages (https://us.sagepub.com/en-us/nam/open-access-at-sage).
+Therapeutic Advances in Gastroenterology 11
+
+                  management.3 The overall costs to the health ser-         presenting with these symptoms can be broadly
+                  vice associated with managing dyspepsia are con-          thought of as belonging to one of three groups:
+                  siderable, estimated to be over $18 billion per           those with uninvestigated dyspepsia, in whom
+                  annum in the United States of America (USA).4             investigation has yet to be performed in order to
+                  Moreover, when one considers that dyspepsia               reveal the underlying diagnosis, those in whom
+                  impacts on physical, mental, and social aspects of        investigation has revealed a specific organic or
+                  health-related quality of life,5 the true overall costs   structural cause for their symptoms, and those
+                  to society are likely to be far higher, and also          where no organic cause is found and who are
+                  encompass loss of economic productivity due to            deemed to have functional dyspepsia (FD;
+                  sickness-related absence from work.6                      Figure 1). Organic or structural causes of dyspep-
+                                                                            tic symptoms include chronic Helicobacter pylori
+                  Consequently, the scale of the clinical and eco-          (H. pylori) infection and peptic ulcer disease, upper
+                  nomic problem guarantees firstly, that there is           GI cancer, biliary and gallstone disease, and pan-
+                  ongoing interest in the evaluation of novel               creatic disease, including pancreatic cancer. In
+                  approaches to the investigation and management            such cases, patient management is disease-spe-
+                  of dyspepsia, and, secondly, that there is a need         cific. The difficulty lies in identifying which
+                  for comprehensive clinical guidelines to assist the       patients with uninvestigated dyspepsia need to
+                  physician in providing the best care to patients          undergo further tests, as well as the management
+                  with dyspepsia; care that is both evidence-based          of those patients where investigation fails to reveal
+                  and cost-effective.                                       an underlying organic diagnosis, and who are
+                                                                            therefore labelled as having FD.
+                  This review aims to highlight the most important
+                  recent developments in both the investigation and         The Rome criteria. If symptoms were a good dis-
+                  management of dyspepsia, and to explore recom-            criminator for the likelihood of a patient with dys-
+                  mendations from the latest clinical guidelines.           pepsia having an underlying organic pathology,
+                  The most recent of these were published jointly by        this would aid the physician greatly in their clini-
+                  the American College of Gastroenterology (ACG)            cal assessment; however, unfortunately, this is not
+                  and the Canadian Association of Gastroenterology          the case. A previous systematic review of diagnos-
+                  (CAG) in 2017.7 These guidelines include the              tic test studies demonstrated, convincingly, that a
+                  results of a number of updated meta-analyses that         physician’s opinion, based on symptoms reported
+                  evaluate the efficacy of a range of treatments for        by the patient, had limited diagnostic ability to
+                  dyspepsia. United Kingdom (UK) guidelines                 discriminate between organic causes of dyspepsia
+                  from the National Institute for Health and                and FD.12
+                  Care Excellence (NICE), which are also those
+                  recommended by United European Gastro-                    Historically, FD was referred to as nonulcer dys-
+                  enterology, in lieu of producing their own guide-         pepsia, creating the impression that the diagnosis
+                  lines,8 were last updated in 2015.9,10 To provide a       was based on the absence of specific underlying
+                  broader, global, perspective we also consider the         organic pathology, and therefore encouraging the
+                  Asian Consensus Report on Functional Dyspepsia            use of investigations in all patients. Although
+                  (ACFD) from 2012, produced jointly by the                 more recently the terminology has changed, FD
+                  Asian Neurogastroenterology and Motility                  still remains a diagnosis of exclusion. The Rome
+                  Association and the Asian Pacific Association of          Foundation, the expert group responsible for the
+                  Gastroenterology.11 Finally, we summarize the             classification of all functional GI disorders,
+                  findings of a number of relevant updates to               defines FD using the Rome IV criteria as bother-
+                  Cochrane Collaboration systematic reviews that            some postprandial fullness, early satiety, epigas-
+                  have been published over the last 2 years.                tric pain, or epigastric burning, in the absence of
+                                                                            structural disease, including at upper GI endos-
+                                                                            copy, which would explain the symptoms.13
+                  Evaluation                                                According to these criteria the condition is sub-
+                                                                            grouped into two separate syndromes: the epi-
+                  Diagnosing dyspepsia                                      gastric pain syndrome (EPS), and the postprandial
+                  Dyspepsia refers to a range of upper GI symp-             distress syndrome (PDS). EPS consists of inter-
+                  toms, including epigastric pain or burning,               mittent pain or burning in the epigastrium,
+                  early satiety, and postprandial fullness. Patients        occurring at least once per week. The pain may
+
+
+2                                                                                                        journals.sagepub.com/home/tag
+                                                                                                     CJ Black, LA Houghton et al.
+
+
+
+
+Figure 1. Pictorial representation of the classification of dyspepsia.
+EPS, epigastric pain syndrome; FD, functional dyspepsia; PDS, postprandial distress syndrome.
+
+
+
+
+be either induced or relieved by eating but may               In the case of both EPS and PDS, although heart-
+also occur while fasting; however, it should not              burn is not a dyspeptic symptom it may often
+fulfil biliary pain criteria. Postprandial epigastric         coexist, but symptoms that are relieved by the
+bloating, belching, and nausea can also be pre-               passage of gas or faeces should generally not be
+sent, but are not specific to dyspepsia. PDS is               considered to be part of dyspepsia.13 Persistent
+defined as bothersome postprandial fullness after             vomiting should prompt consideration of an alter-
+normal-sized meals, or else early satiety that pre-           native diagnosis.13 Patients may have both EPS
+vents someone finishing a regular-sized meal,                 and PDS, and studies in secondary care have
+with such episodes occurring at least several                 demonstrated overlap between the two disorders
+times per week. Postprandial epigastric pain or               in up to one-third of patients with FD.16
+burning, epigastric bloating, belching, or nausea
+may also be present. But are not specific to dys-             Patients may struggle to interpret what is meant
+pepsia.. These definitions were determined based              by verbal descriptions of dyspepsia symptoms.
+on a study of dyspeptic symptom groupings,14                  There is some evidence that representing symp-
+and also on the fact that up to 80% of patients               toms using pictograms (Figure 2), can improve
+with dyspepsia report that their symptoms are                 the concordance of symptom evaluation between
+made worse by eating.15                                       patients and physicians, and may therefore be a
+
+
+journals.sagepub.com/home/tag                                                                                                   3
+Therapeutic Advances in Gastroenterology 11
+
+
+
+
+                  Figure 2. Pictograms showing the cardinal symptoms of functional dyspepsia (adapted from Tack and
+                  colleagues17).
+
+
+                  useful tool in the assessment of the dyspeptic        in terms of their ability to identify patients with
+                  patient.17                                            FD prior to performing an upper GI endoscopy,
+                                                                        and therefore avoid investigation. Sensitivity was
+                  In a large validation study of the previous itera-    60.7%, specificity was 68.7%, and positive and
+                  tion, the Rome III criteria,18 in secondary care      negative likelihood ratios (LRs) were 1.94 [95%
+                  1452 consecutive adult patients with undifferenti-    confidence interval (CI) 1.69–2.22], and 0.57
+                  ated GI symptoms underwent a complete upper           (95% CI 0.52–0.63) respectively. Another study
+                  GI endoscopy.19 The reference standard used to        conducted in China found similar results; of 1655
+                  define the presence of true FD was epigastric pain,   patients with dyspepsia, 771 (47%) met the Rome
+                  early satiety, or postprandial fullness, and no       III criteria for FD, but of these 280 (36%) had an
+                  organic disease at endoscopy. Overall, 50% of         organic cause identified at upper GI endoscopy.16
+                  patients met the Rome III criteria for FD, of
+                  whom 24% were found to have organic pathology         The recent ACG/CAG guideline proposes a more
+                  detected at endoscopy. The Rome criteria there-       pragmatic clinical definition of dyspepsia; pre-
+                  fore demonstrated a disappointing performance,        dominant epigastric pain lasting at least 1 month,
+
+
+4                                                                                                   journals.sagepub.com/home/tag
+                                                                                                    CJ Black, LA Houghton et al.
+
+
+
+
+Figure 3. Pooled prevalence of underlying pathology identified at upper GI endoscopy in patients with
+dyspepsia (adapted from Ford and colleagues20).
+GI, gastrointestinal.
+
+
+
+Table 1. Alarm features in patients with dyspepsia (adapted from Talley and Ford23).
+
+ •• Age > 55 years with new onset dyspepsia*
+ •• Evidence of overt gastrointestinal bleeding including melaena or haematemesis
+ •• Dysphagia, particularly if progressive, and odynophagia
+ •• Persistent vomiting
+ •• Unintentional weight loss
+ •• Palpable abdominal or epigastric mass or abnormal adenopathy
+ •• Family history of upper gastrointestinal cancer
+ •• Evidence of iron deficiency anaemia after blood testing
+
+ *Note that the ACG/CAG guidelines now recommend an age threshold of 60 years or older.
+
+
+
+which may be associated with other upper GI                 and <1% having upper GI cancer20 (Figure 3).
+symptoms such as epigastric fullness, nausea,               These low rates of organic pathology do not jus-
+vomiting, or heartburn, provided that epigastric            tify undertaking an upper GI endoscopy in all
+pain is the patient’s primary concern.7 However,            patients with dyspepsia, even though symptom-
+this definition has not been validated in a clinical        based diagnostic criteria alone are insufficient to
+study, and it places the emphasis on the presence           exclude organic disease.12 This is supported by
+of epigastric pain, despite the extremely common            the findings of a primary care-based study, which
+reporting of postprandial symptoms by patients              demonstrated that the cost of detecting each
+with dyspepsia.15                                           case of upper GI malignancy among patients
+                                                            with dyspepsia was >$80,000.21 Instead, recent
+The role of upper GI endoscopy. Any uncertainty             guidelines recommend the targeted use of endo-
+over whether a patient’s dyspeptic symptoms                 scopic investigation in patients with dyspepsia
+have an organic or functional cause can, for the            who also report alarm features, including
+most part, be addressed by undertaking upper                increasing age, unintentional weight loss, vomit-
+GI endoscopy, although in the case of suspected             ing, or dysphagia (Table 1). However, these also
+biliary or pancreatic disease, an abdominal ultra-          perform poorly for predicting endoscopic find-
+sound scan might also be necessary. However, a              ings, with limited predictive value for upper GI
+previous systematic review and meta-analysis                malignancy,22 and therefore using alarm features
+has shown that more than 70% of people will be              alone to risk-stratify patients and determine who
+labelled as having FD following upper GI endos-             should be referred for urgent endoscopic investi-
+copy, with <10% having peptic ulcer disease,                gation is problematic.
+
+
+journals.sagepub.com/home/tag                                                                                                  5
+Therapeutic Advances in Gastroenterology 11
+
+                  The risk of malignancy predominantly relates to           those experienced by a patient with FD and nor-
+                  increasing age, and so guidelines have previously         mal motility, or indeed from those of someone
+                  recommended upper GI endoscopy to routinely               with confirmed gastroparesis.27 Fundal accom-
+                  investigate dyspepsia only when patients are aged         modation can be quantified using a gastric baro-
+                  55 years and older. The ACG/CAG guideline has             stat28 or single photo-emission computed
+                  now raised this age threshold to 60 years.7 This          tomography (CT),29 and delayed gastric empty-
+                  recommendation is made on the basis of a cost-            ing can be investigated using scintigraphy,30
+                  effectiveness analysis showing that, at all ages,         breath tests,30 or wireless motility capsule.31 How-
+                  upper GI endoscopy for investigating dyspepsia            ever, these tests are not widely available, and some
+                  was dominated by alternative management strate-           of them can be unpleasant for patients. The sati-
+                  gies and that, using a threshold of 55 years, the         ety drinking test has been proposed as a simple
+                  evidence that upper GI endoscopy was cost-effec-          and noninvasive means of evaluating gastric
+                  tive was borderline.24 Currently, the age thresh-         accommodation and early satiety,32 although
+                  old used in NICE guidance remains at 55 years             there is some evidence to suggest that it cannot
+                  old or over,9,10 but it is important to acknowledge       replace the other modalities already discussed.33
+                  that cost-effectiveness decisions may vary between        Also, since a definitive relationship between FD
+                  countries due to differences between patient pop-         symptoms and delayed gastric emptying has not
+                  ulations and healthcare systems.                          been demonstrated in studies, the ACG/CAG
+                                                                            guidelines recommend that motility studies
+                  In the ACG/CAG guideline, even investigation of           should not be performed routinely for patients
+                  patients aged <60 years presenting with alarm fea-        with FD.7 However, patients who have predomi-
+                  tures is not recommended because, as already dis-         nant symptoms of severe nausea and frequent
+                  cussed, they are a poor predictor of malignancy.7         vomiting may have gastroparesis, and should be
+                  In addition, as the authors acknowledge, the              investigated using a 4-hour solid phase gastric
+                  baseline risk of someone <60 years old having             emptying scan, as per current guidelines for the
+                  malignancy is so low that the effect of any poten-        management of gastroparesis,34 if they fail to
+                  tial increase in risk from reporting an alarm fea-        respond to empirical therapy.7
+                  ture is likely to be negligible, and so this still does
+                  not justify endoscopic investigation.
+                                                                            Alternative investigations
+                  The recommendations concerning the role of                As has been discussed above, symptoms cannot
+                  upper GI endoscopy are qualified by highlighting          distinguish reliably between organic and func-
+                  that the quality of evidence is only moderate, and        tional causes of dyspepsia but also, for patients
+                  that current data have not adequately evaluated           presenting with undifferentiated dyspeptic symp-
+                  the importance of either the severity of, or combi-       toms, the yield of upper GI endoscopy in reveal-
+                  nations of, alarm symptoms. Therefore, some               ing underlying organic pathology is low.
+                  patients aged <60 years with alarm symptoms               Therefore, a means of screening patients with
+                  would warrant endoscopic investigation; for               dyspepsia to identify those most likely to have
+                  example, patients with significant weight loss, or        organic disease, and therefore prioritize access to
+                  rapidly progressive dysphagia. Similarly, patients        endoscopic investigation, would undoubtedly be
+                  with a family history of upper GI malignancy, or          very helpful.
+                  people from countries with a higher incidence of
+                  gastric cancer, such as Japan or China, may               Capsaicin. Capsaicin is the compound found in
+                  require upper GI endoscopy below this age                 chillies and peppers that is responsible for causing
+                  threshold. There is also evidence to suggest that         sensations of heat and spice when they are eaten.35
+                  Latin Americans may have a higher incidence of            These sensations are mediated by the transient
+                  gastric cancer.25 Clinical judgement must there-          receptor potential vanilloid-1 receptor (TRPV1),
+                  fore still be exercised judiciously.                      which is part of a family of ion channel receptors
+                                                                            responsible for sensing heat, and other noxious
+                  Motility studies. Abnormalities of gastric motility       stimuli, including alcohol.36 In FD, it has been
+                  and fundal accommodation have been observed               demonstrated that patients can have visceral che-
+                  in patients with FD.26 However, clinically, the           mohypersensitivity involving the TRPV1 path-
+                  symptoms reported by a patient with FD and                way.37 However, those who are homozygous for
+                  abnormal motility may be indistinguishable from           the TRPV1 315CC genotype, and who therefore
+
+
+6                                                                                                        journals.sagepub.com/home/tag
+                                                                                                     CJ Black, LA Houghton et al.
+
+have higher expression of the TRPV1 receptor,              pepsinogen I and II (PGI and PGII), and H. pylori
+have been shown to be less susceptible to FD.38            antibodies.45 The design of the test is based on the
+The role TRPV1 might play in the pathophysiol-             Correa model for the development of gastric can-
+ogy of FD therefore requires further clarification.        cer. This hypothesizes that gastric adenocarci-
+In addition, in a Japanese study of patients with          noma is the end result of a pathway that starts
+FD, upper GI symptoms were commoner in those               with an environmental trigger in early life, now
+with higher consumption of spicy foods, irrespec-          known to be H. pylori infection,46 and progresses
+tive of TRPV1 genotype.39 Nonetheless, ingestion           sequentially from superficial gastritis, to chronic
+of a capsaicin pill appears to result in an increase       nonatrophic gastritis, and then to chronic atro-
+in dyspeptic symptoms.40,41                                phic gastritis and achlorhydria.47 Patients with
+                                                           atrophic gastritis are then at increased risk of
+Consequently, in a recent study, interest has              developing intestinal metaplasia, which may prog-
+focussed on a potential role for capsaicin as a            ress to dysplasia, and then subsequently to adeno-
+diagnostic test for FD. In this single-centre study,       carcinoma of the stomach.47
+224 patients who were referred for evaluation of
+GI symptoms swallowed a capsule containing                 G17 is secreted only by the G cells of the gastric
+0.75 mg of capsaicin.42 They were asked to com-            antral mucosa, PGI is only secreted by the oxyntic
+plete a questionnaire about symptom severity,              glands of the corpus mucosa, but PGII is produced
+both before and after taking the capsule. A diag-          in the duodenum as well as the gastric antrum.48
+nosis of FD was made if the patient’s symptoms             Atrophy of the gastric mucosa leads to a reduction
+met the Rome III criteria and if upper GI endos-           in glandular tissue. When this occurs in the antrum,
+copy was normal. Following investigation and               levels of G17 may be reduced and, in combination
+assessment, only 72 patients were deemed to have           with positive H. pylori serology, could therefore be
+FD, although these patients included some with             indicative of the presence of atrophic gastritis.49
+FD and coexisting irritable bowel syndrome                 Alternatively, atrophy affecting the gastric body
+(IBS). The author reported a sensitivity of 51%, a         could reduce secretion of PGI, or reduce the PGI/
+specificity of 87%, and positive and negative LRs          PGII ratio, either of which might also be suggestive
+of 4.08 and 0.56 respectively for this oral capsai-        of the presence of atrophic gastritis.49 Hence these
+cin test in diagnosing FD.                                 biomarkers have been chosen for their potential
+                                                           ability to detect atrophic gastritis, without the need
+It is therefore unlikely that the test will facilitate a   for obtaining a biopsy at upper GI endoscopy.
+diagnosis of FD without the need for upper GI
+endoscopy as, generally speaking, a positive LR of         Theoretically, therefore, the GastroPanel could
+>10 and a negative LR of <0.1 are the minimum              be used as a noninvasive test to screen patients
+required for a test to be useful for ruling in or rul-     presenting with dyspepsia, in order to identify
+ing out a disease respectively.43 Moreover, the test       those who are at increased risk of gastric cancer,
+was conducted in a mixed patient group compris-            which in turn could be used to prioritize access to
+ing those with upper GI symptoms, as well as               upper GI endoscopy. Those patients who test
+patients with known lower GI disorders, who may            positive would undergo upper GI endoscopy to
+therefore have been less likely to have a positive         rule out gastric cancer, or else hopefully detect it
+test; these included 36 participants with IBS, and         at an early more treatable, or preferably even a
+26 with inflammatory bowel disease, potentially            premalignant, stage. Conversely, patients who
+exaggerating the performance of the test.44 It             tested negative would be presumed to have FD
+would have been better for the study to have been          and be managed accordingly.
+conducted in an unselected group of patients
+undergoing upper GI endoscopy for dyspeptic                Whether such an approach is viable depends both
+symptoms. Therefore, although the results of this          on the performance of the test, and whether it is
+study show promise, further studies in larger              cost-effective. A recent systematic review and
+patient cohorts are needed before an oral capsaicin        meta-analysis of 20 studies using biomarker pan-
+test can be recommended for the diagnosis of FD.           els for detecting H. pylori and atrophic gastritis,
+                                                           19 of which used the GastroPanel, deemed the
+Combined serum biomarkers. The GastroPanel is              test to be reliable for the diagnosis of atrophic
+a commercially available tool for measuring four           gastritis.50 The authors reported a pooled sensi-
+blood biomarkers, namely basal gastrin-17 (G17),           tivity of 74.7% (95% CI 62.0%–84.3%), and a
+
+
+journals.sagepub.com/home/tag                                                                                                   7
+Therapeutic Advances in Gastroenterology 11
+
+                  pooled specificity of 95.6% (95% CI 92.6%–               those patients who had not recently taken antibi-
+                  97.4%). The median prevalence of atrophic gas-           otics or PPIs, and who had not had a gastrectomy,
+                  tritis across these studies was 27%, and the             urea breath tests had higher diagnostic accuracy
+                  negative predictive value was 91%. In other              than either stool antigen or serological testing.
+                  words, 91 of 100 participants with a negative test       These guidelines do not discuss the role of rou-
+                  would not have atrophic gastritis. However, if a         tine retesting to confirm successful eradication in
+                  patient is taking a proton pump inhibitor (PPI)          H. pylori-positive patients with either uninvesti-
+                  caution is advised, as PPI use increases the prob-       gated dyspepsia or FD,7,9 although the Maastricht
+                  ability of a false negative test. As the authors         V consensus recommends retesting such patients
+                  acknowledged, the meta-analysis was based on             using a urea breath test or a stool antigen test, at
+                  studies of low methodological quality, with the          least 4 weeks after treatment, and having discon-
+                  potential for various sources of bias, and there         tinued PPI therapy for at least 2 weeks, to con-
+                  remains a need for well-designed studies, with           firm successful eradication.56
+                  large sample sizes, to adequately evaluate the per-
+                  formance of the GastroPanel.                             The ACG/CAG guideline updated a previous
+                                                                           Cochrane Collaboration systematic review and
+                  It is also unclear whether use of the GastroPanel is     meta-analysis 57 comparing H. pylori test and treat
+                  cost-effective in the management of dyspepsia.           with prompt upper GI endoscopy for the manage-
+                  Although cost-effectiveness analyses of serum bio-       ment of dyspepsia. This pooled data from six ran-
+                  markers have been conducted, the majority of these       domised controlled trials (RCTs), involving 2399
+                  were in very specific populations at high risk of gas-   patients with uninvestigated dyspepsia.7 There
+                  tric cancer, identified for screening based on their     was no difference in global dyspepsia symptoms
+                  age, rather than upper GI symptoms,51–54 which           between groups [relative risk (RR) of remaining
+                  does not help in determining whether this test has a     dyspeptic 0.94 (95% CI 0.84–1.04)], but only
+                  role in the management of undiagnosed dyspepsia.         25% of patients in the test and treat arms of the
+                  Moreover, all of these studies only considered pep-      trials underwent an upper GI endoscopy over a
+                  sinogen testing alone, rather than as part of a com-     12-month period, in contrast with nearly all of the
+                  bined panel of biomarkers. In summary, therefore,        patients in the prompt upper GI endoscopy arms.
+                  there is currently insufficient evidence to recom-       The test and treat strategy was therefore associ-
+                  mend the use of combined serum biomarkers, such          ated with significant cost savings over endoscopic
+                  as GastroPanel, in the investigation of dyspepsia.       investigation. In terms of other management strat-
+                                                                           egies for uninvestigated dyspepsia, analysis of data
+                                                                           from four RCTs investigating test and treat versus
+                  Management                                               empirical PPI therapy found no statistically sig-
+                  An algorithm for the management of dyspepsia is          nificant difference between these two approaches
+                  summarized in Figure 4, with the evidence under-         (RR 0.89, 95% CI 0.77–1.04). Nonetheless, on
+                  pinning this described in more detail below.             the basis of a trend towards test and treat for both
+                                                                           cost and clinical benefit from a previous individual
+                                                                           patient data meta-analysis,58 this was the preferred
+                  H. pylori testing and treatment                          first-line approach, with empirical PPI recom-
+                  Both the ACG/CAG and NICE guidelines and                 mended for H. pylori-negative individuals, or those
+                  the ACFD statement recommend that patients               in whom eradication therapy was not of sympto-
+                  with either uninvestigated dyspepsia or FD should        matic benefit.
+                  have a noninvasive test for H. pylori and receive
+                  eradication therapy if they test positive.7,9 NICE       In FD, a previous systematic review suggested that
+                  specifically recommend the use of either a breath        H. pylori eradication therapy had a small, but sta-
+                  test or a stool antigen test, rather than serology,      tistically significant, effect on dyspepsia symptoms,
+                  after allowing a 2-week washout period for those         and was probably cost-effective, but that more
+                  taking PPIs.10 A recent indirect test comparison         research was needed.59 Accordingly, the ACG/
+                  of data from 99 studies concluded that there was         CAG guidelines have updated this systematic
+                  a statistically significance difference in diagnostic    review and meta-analysis, evaluating a total of
+                  accuracy between urea breath test-13C, urea              4896 H. pylori-positive patients with FD from 22
+                  breath test-14C, serology, and stool antigen test-       RCTs comparing eradication therapy with pla-
+                  ing (p = 0.024).55 It was recommended that, in           cebo.7 The beneficial effect of H. pylori eradication
+
+
+8                                                                                                       journals.sagepub.com/home/tag
+                                                                                                        CJ Black, LA Houghton et al.
+
+
+
+
+Figure 4. Suggested management algorithm for patients with dyspepsia.
++Consider family history and ethnicity e.g. Japanese, Chinese, or Latin American.
+∞Allow 2-week wash-out period if already taking a PPI.
+§Can be used in both EPS and PDS, due to conflicting evidence for their efficacy in one subtype over another,
+
+and the relatively large degree of overlap between the two (see references 19 and 61).
+*Longer treatment may reduce the likelihood of relapse (see reference 65), but be aware of side effects of
+
+constipation, particularly in those with co-existent IBS.
+†Not for first-line use due to limited evidence for efficacy, limited availability in some countries, and risk of
+
+side effects. Discourage long-term use.
+
+
+
+
+journals.sagepub.com/home/tag                                                                                                      9
+Therapeutic Advances in Gastroenterology 11
+
+                  on the risk of remaining dyspeptic was statistically    duration of treatment,62 a finding confirmed in the
+                  significant, with a RR of 0.91 (95% CI 0.88–0.94)       ACG/CAG meta-analysis, with a NNT of 10.7
+                  and a number needed to treat (NNT) of 12.5. In          The Cochrane analysis suggested that PPIs may
+                  FD, H. pylori-positive patients will, by definition,    be equivalent to H2RAs in FD, but the ACG/
+                  have no evidence of peptic ulcer disease or malig-      CAG felt that there was insufficient evidence to be
+                  nancy at upper GI endoscopy and the effects of          certain that H2RAs were not genuinely inferior to
+                  H. pylori eradication therapy are modest.               PPIs in FD. The ACG/CAG meta-analysis of six
+                  However, as the ACG/CAG guidelines highlight,           RCTs comparing PPIs with placebo or antacid
+                  the potential to reduce the risk of gastric cancer      therapy in 2709 patients with uninvestigated dys-
+                  and peptic ulcer disease in the future, with little     pepsia found a RR of remaining symptomatic of
+                  risk to the patient from treatment, justifies this      0.75 (95% CI 0.64–0.88), with an NNT of six.7
+                  approach.7 It is also worth noting that, in contrast
+                  to the ACG/CAG guidelines, both the Kyoto and           In FD, it has been suggested previously that
+                  the Maastricht V consensus reports state that H.        PPIs are more effective for treating EPS symp-
+                  pylori infection must be excluded, or else success-     toms rather than PDS symptoms. However, the
+                  fully eradicated, in anyone complaining of dyspep-      recent Cochrane review suggested there was a
+                  tic symptoms before a diagnosis of FD can be            trend towards a benefit of PPIs for those with
+                  made.56,60 This recommendation is based on the          PDS, but no benefit in EPS.62 Indeed, in healthy
+                  observation that H. pylori infection is associated      volunteers, it has been shown that acid suppres-
+                  with chronic active gastritis to a varying extent in    sion with PPIs can reduce postprandial fullness
+                  all infected individuals,61 and should therefore be     which might partly explain any benefit in PDS.63
+                  considered as an organic disease. However, it must      Therefore, PPIs probably do have a role in treat-
+                  be emphasized that, at the present time, it is not      ing patients with PDS, and in addition, the fact
+                  universally agreed that dyspepsia can only be clas-     that PDS and EPS symptoms frequently overlap
+                  sified as being ‘functional’ when H. pylori infection   in FD19 means PPIs are a justifiable treatment
+                  is absent.                                              for many FD patients. The ACFD statement
+                                                                          advises that PPIs should be used in the treat-
+                                                                          ment of FD, but that evidence in Asian popula-
+                  Acid suppression                                        tions is lacking.11
+                  NICE guidelines recommend that all patients
+                  with uninvestigated dyspepsia should be offered         NICE advises against long-term use of PPIs, and
+                  treatment with a PPI for 4 weeks, and subsequent        suggests empowering patients to manage their
+                  treatment with a H2-receptor antagonist (H2RA)          own symptoms by taking them on an ‘as-needed’
+                  if there is an inadequate response.9 For patients       basis.9 ACG/CAG guidance advises stopping
+                  with FD, they recommend either PPI or H2RA              PPIs if there is no benefit after 8 weeks of ther-
+                  treatment when symptoms persist following H.            apy. They also point out that the majority of PPI
+                  pylori eradication treatment, or for patients           trials employed once-daily dosing and that, in
+                  remaining symptomatic following a negative test         FD, the data do not support any benefit of dou-
+                  for H. pylori infection. The ACG/CAG guidance           bling the dose of PPI therapy.7
+                  differs in that, for both uninvestigated dyspepsia
+                  and FD, it recommends PPI therapy only for
+                  patients who remain symptomatic following H.            Neuromodulators
+                  pylori eradication therapy, or who are H. pylori-       The concept of the brain–gut axis in functional
+                  negative.7 They do not recommend H2RAs in               GI disorders,64 as well as their associations with
+                  uninvestigated dyspepsia, as their analysis showed      mood disorders and somatisation,65 has prompted
+                  a significant benefit of PPI over H2RA for this         interest in the use of neuromodulators, such as
+                  indication (RR of remaining symptomatic = 0.81;         some antidepressants, as a potential treatment for
+                  95% CI 0.72–0.91).7 Although NICE guidelines            FD.66 One study demonstrated that anxiety, but
+                  advocate the use of H2RA in dyspepsia, there is         not depression, was associated with an almost
+                  no evidence to support this.                            eight-fold increased risk of developing FD over
+                                                                          the following 10 years.67 It has also been demon-
+                  A recent Cochrane review of PPIs for the treat-         strated that antidepressants might improve fundic
+                  ment of FD found them to be effective compared          relaxation in FD68 and can have analgesic
+                  with placebo, independent of either the dose or         effects.69 However, there have been relatively few
+
+
+10                                                                                                    journals.sagepub.com/home/tag
+                                                                                                 CJ Black, LA Houghton et al.
+
+RCTs investigating the efficacy of neuromodula-        certainly many report symptoms of post-prandial
+tors, and the best evidence is provided by a previ-    fullness, providing a rationale for the use of proki-
+ous systematic review and meta-analysis of the         netic agents in the management of dyspepsia.
+available data.70 This considered all psychotropic     However, in the case of uninvestigated dyspepsia,
+drugs in FD and reported an NNT of six (95%            the ACG found no trials comparing prokinetics
+CI 4–16). However, benefit was confined to tricy-      with placebo. Instead, there were a handful of tri-
+clic antidepressants (TCAs), such as amitripty-        als comparing prokinetics with PPIs, with the
+line and imipramine, and to antipsychotic drugs,       meta-analysis performed to inform the guideline
+such as sulpiride and levosulpiride.                   demonstrating a trend in favour of PPIs, although
+                                                       this did not reach statistical significance.7
+Looking at TCAs specifically, data were available
+from three eligible RCTs involving 339 patients        Conversely, in the treatment of FD, a previous
+with FD. The RR of dyspeptic symptoms not              meta-analysis of RCTs showed prokinetics to be
+improving with TCAs, compared with placebo,            more effective than placebo,74 an effect which was
+was 0.74 (95% CI 0.61–0.91). They may be more          confirmed in an updated meta-analysis for the
+effective in treating EPS rather than PDS, as sug-     ACG/CAG guidelines.7 This showed a statisti-
+gested by the results of one of the trials.71          cally significant, albeit modest, effect of proki-
+Conversely, selective serotonin reuptake inhibi-       netic therapy in reducing global FD symptoms
+tors, which have been shown to be of benefit in        with a RR of remaining dyspeptic of 0.92 (95%
+other functional GI disorders such as IBS,72 were      CI 0.88–0.97). However, individually, the most
+not found to be effective in FD (RR 1.01; 95% CI       effective drug was cisapride (pooled RR 0.74;
+0.89–1.15) in two robust RCTs in almost 400            95% CI 0.62–0.89), which has been withdrawn
+patients.                                              because of an increased risk of cardiac events.75
+                                                       Other drugs, including tandospirone and ito-
+On the basis of this evidence, the ACG/CAG             pride, were found to be no more effective than
+guidelines advocate the use of TCAs for treating       placebo, with pooled RRs for remaining sympto-
+FD in those patients who fail to respond to PPI        matic of 0.94 (95% CI 0.84–1.05) and 0.90 (95%
+and H. pylori eradication therapy. Interestingly,      CI 0.78–1.03), respectively.
+they also recommend their use in patients with
+uninvestigated dyspepsia, despite the fact there       Acotiamide is a novel prokinetic agent, which is an
+are no RCTs of TCAs in this group of patients,         acetyl-cholinesterase inhibitor. The drug improves
+because the majority are likely to have FD. NICE       gastric accommodation and gastric emptying. It
+guidelines do not recommend the use of TCAs,           has been licensed for the treatment of PDS in
+but identified a need for further research in this     Japan, on the basis of an RCT from 2012, which
+area, comparing TCAs with PPIs, and with out-          showed promising results in 897 patients.76
+comes focussed on quality of life measures.9 The       Symptom improvement occurred in 52% of those
+ACFD statement advocates the use of anti-              on active treatment, compared with 35% in the
+depressant and anxiolytic agents for treating FD,      placebo arm (p < 0.001) However, combining
+but felt that the level of evidence in Asian popula-   these results with earlier data from 2010,77 the
+tions was weak overall.11                              ACG/CAG meta-analysis confirmed only a very
+                                                       modest overall effect with a pooled RR of remain-
+It is well recognized that there is overlap between    ing symptomatic of 0.95 (95% CI 0.91–0.99).7 A
+different functional GI conditions and some            52-week, phase III, open-label trial of acotiamide
+patients with FD may have coexistent IBS.73            for the PDS subgroup of FD appeared to confirm
+Given that TCAs have been shown to be an effec-        the long-term safety of the drug,78 and also sug-
+tive treatment for IBS, these patients may derive      gested a clinically important effect on PDS symp-
+dual benefit from TCA treatment;72 however,            toms. However, there was no control arm in this
+TCAs can cause constipation, and patients should       study, and the placebo response rate for drugs in
+be warned about this.                                  functional GI disorders is usually high.
+
+                                                       Regardless of these findings, none of the proki-
+Prokinetics                                            netic drugs discussed so far is available in the UK,
+Patients with dyspepsia may have abnormalities of      Europe, or the USA. Metoclopramide, although
+gastric emptying and gastric accommodation, and        widely available, is not recommended as there are
+
+
+journals.sagepub.com/home/tag                                                                                              11
+Therapeutic Advances in Gastroenterology 11
+
+                  no clinical trial data in FD, and it has potentially     two studies considered other forms of psychother-
+                  serious side effects, including irreversible tardive     apy, including group therapy.
+                  dyskinesia.23 Domperidone does have clinical
+                  trial data for its use in FD, and is readily available   On this basis, patients with FD who are still symp-
+                  in the UK, Europe, and Canada, but not in the            tomatic despite drug treatments should be offered
+                  USA. The ACG/CAG guidelines included a                   psychological therapy, although access to such ser-
+                  meta-analysis of domperidone, which showed a             vices can be difficult. In addition, provision of psy-
+                  statistically significant effect on symptoms with a      chological therapies requires a skilled practitioner,
+                  pooled RR of 0.71 (95% CI 0.53–0.97), although           and the patient needs to be motivated to engage. A
+                  all the trials were at unclear or high risk of bias,     web-based form of CBT may help to make psy-
+                  and indeed all the prokinetic data exhibited sig-        chological treatment more readily available, and
+                  nificant unexplained heterogeneity.7 Concerns            an RCT comparing therapist-delivered CBT to
+                  have also been raised about the safety of domperi-       web-based CBT in IBS is currently underway.82
+                  done, as it may increase cardiac risk through QT         Hypnotherapy has previously been suggested as an
+                  prolongation.79 Levosulpiride, although usually          effective long-term management strategy for FD
+                  considered to be an antipsychotic medication,            with the ability to reduce medication use and con-
+                  also has prokinetic properties and has been shown        sultation rates,83 but overall trial data remains lim-
+                  to be of benefit in FD.80,81                             ited, and more studies are needed to confirm these
+                                                                           findings. More trials of psychological therapies in
+                  Overall, the ACG/CAG guidelines recommend                dyspepsia are needed, as current evidence is of
+                  prokinetics in FD only if TCAs fail to work, on          poor quality overall, with an inherently high risk of
+                  the basis that TCAs have stronger evidence for           bias due to the difficulties in blinding patients to
+                  efficacy, whereas in uninvestigated dyspepsia they       treatment allocation in such studies.
+                  advise that they are tried if H. pylori eradication
+                  and PPI therapy are unsuccessful, but before
+                  TCAs are tried. However, the evidence for proki-         Complementary and alternative therapies
+                  netics is poor, and their restricted availability and    A variety of complementary and alternative thera-
+                  potentially serious side effects makes it difficult to   pies have been suggested for the treatment of dys-
+                  prescribe them for patients with dyspepsia. In           pepsia. One herbal remedy of interest, which has
+                  addition, when one considers that the majority of        been evaluated in a single large RCT, is iberogast,
+                  patients with uninvestigated dyspepsia probably          also known as STW5. It is a mixture of nine dif-
+                  have FD, it may be better to use TCAs first, given       ferent herbs, including milk thistle, chamomile,
+                  the putative role of the brain–gut axis in this con-     peppermint, and liquorice. In healthy volunteers,
+                  dition. NICE guidance has removed the recom-             STW5 stimulated gastric relaxation and increased
+                  mendation to try prokinetics in dyspepsia, as this       antral motility, which may account for any poten-
+                  was made originally on the basis of cisapride data,      tial therapeutic effects in FD.84 Indeed, in the
+                  and the drug has been withdrawn.9 The ACFD               trial comparing STW5 with placebo in 315
+                  statements supports the use of prokinetics in FD,        patients with FD, there was a statistically signifi-
+                  highlighting the results of the trial of acotiamide      cant improvement in GI symptom scores in the
+                  in Japanese patients.11                                  STW5 arm, compared with placebo.85 However,
+                                                                           the ACG/CAG guidelines advise caution, as the
+                                                                           effect was marginal and therefore, although it was
+                  Psychological therapies                                  statistically significant, the clinical significance
+                  The role of psychological therapies in dyspepsia         may be debatable.7 Rikkunshito, a Japanese
+                  remains an understudied area and, despite a num-         herbal medicine with possible prokinetic proper-
+                  ber of new studies in recent years, only four trials     ties, has been evaluated in 247 patients with FD
+                  have provided dichotomous outcome data suitable          in a multicentre double-blind RCT.86 After
+                  for meta-analysis. Such a meta-analysis was under-       8 weeks of treatment, although there was a higher
+                  taken for the ACG/CAG guideline and, overall,            symptom response rate in the treatment arm,
+                  this suggested a significant benefit of psychological    compared with placebo (33.6% versus 23.8%),
+                  therapies in reducing dyspepsia symptoms (RR             this did not reach statistical significance.
+                  0.53; 95% CI 0.44–0.65) with an NNT of 3.7
+                  Overall, two of the studies looked at cognitive          Acupuncture has also been investigated for the treat-
+                  behavioural therapy (CBT), while the remaining           ment of FD. However, good quality trials are lacking
+
+
+12                                                                                                       journals.sagepub.com/home/tag
+                                                                                                        CJ Black, LA Houghton et al.
+
+and a Cochrane review concluded that there was              mechanisms believed to be responsible for caus-
+insufficient evidence to be able to draw firm conclu-       ing dyspepsia, patients are always selected for tri-
+sions on its efficacy.87 Chinese herbal remedies may        als on the basis of their symptoms, rather than
+be effective for treating FD, based on a meta-analy-        pathophysiological abnormalities. Therefore,
+sis of RCT data, but most studies are small, with a         patient cohorts may theoretically exhibit signifi-
+high risk of bias, and high clinical heterogeneity,         cant heterogeneity regarding underlying patho-
+meaning further rigorous studies are needed.88              physiologies, which might limit the ability of trials
+Similarly, there is little evidence for the use of either   to demonstrate treatment effects. Consideration
+probiotics or homeopathy in dyspepsia.                      should be given to conducting trials focussing on
+                                                            specific pathophysiological mechanisms.
+Overall, complementary and alternative therapies
+are not recommended by the ACG/CAG dyspep-                  More work is needed to explore the relationship
+sia guidelines, although it is accepted that patients       between disordered gastric motility and symptoms
+may wish to try them, particularly if conventional          in FD, in order to better understand the place of
+treatments have proven ineffective. Nevertheless,           gastric physiology tests in dyspepsia manage-
+it is important to emphasize that there is currently        ment. When disordered motility is suspected or
+no clear evidence to support their use. NICE                proven, current options for prokinetic therapy
+guidelines make no statement regarding their use            are limited, and this should be a focus for future
+in dyspepsia.                                               drug development. TCAs seem to be beneficial
+                                                            for the management of FD, but larger trials are
+                                                            needed, which make comparisons with other
+Conclusion                                                  available effective treatments, rather than pla-
+With the exception of recommendations related to            cebo. Finally, psychological therapies may be
+H. pylori testing and the prescription of PPIs,             valuable in the management of FD, but this
+which are made on the basis of high-quality evi-            remains an understudied area, and more trials
+dence, all of the other recommendations made in             are needed.
+current guidelines for the management of dyspep-
+sia draw on evidence which is moderate at best,             Acknowledgements
+the majority being underpinned by low or very               CJB, LAH, and ACF drafted and approved the
+low-quality evidence. Consequently, there are still         article.
+many elements of the evaluation and management
+of dyspepsia that require further research.                 Funding
+                                                            This research received no specific grant from any
+Future studies should focus on refining symptom-            funding agency in the public, commercial, or not-
+based definitions of FD to make them more spe-              for-profit sectors.
+cific and exploring whether certain clusters or
+patterns of red-flag symptoms are better able to            Conflict of interest statement
+predict the presence of organic disease, in order           The authors declare that there is no conflict of
+to prioritize access to endoscopic investigation.           interest.
+Oral capsaicin represents a potentially interesting
+strategy for diagnosing FD without upper GI                 ORCID iD
+endoscopy, but the current data are flawed, and             Alexander C. Ford             https://orcid.org/0000-
+further studies in larger populations of patients           0001-6371-4359
+with undifferentiated upper GI symptoms are
+needed to validate this approach. Similarly,
+although combined serum biomarker testing can               References
+predict the presence of atrophic gastritis, and              1. Ford AC, Marwaha A, Sood R, et al. Global
+therefore potentially stratify gastric cancer risk,             prevalence of, and risk factors for, uninvestigated
+there are no data to show that adopting this test as            dyspepsia: a meta-analysis. Gut 2015; 64:
+part of a pathway for managing dyspepsia is either              1049–1057.
+helpful or cost-effective.                                   2. Ford AC, Forman D, Bailey AG, et al. Who
+                                                                consults with dyspepsia? Results from a
+It is also important to consider that, although                 longitudinal 10-yr follow-up study. Am J
+treatments aim to target pathophysiological                     Gastroenterol 2007; 102: 957–965.
+
+
+journals.sagepub.com/home/tag                                                                                                     13
+Therapeutic Advances in Gastroenterology 11
+
+                   3. McBride D, Hardoon S, Walters K, et al.                  dyspepsia according to the Rome III criteria. Gut
+                      Explaining variation in referral from primary to         2015; 64: 1517–1528.
+                      secondary care: cohort study. BMJ 2010; 341:
+                                                                           17. Tack J, Carbone F, Holvoet L, et al. The use
+                      c6267.
+                                                                               of pictograms improves symptom evaluation
+                   4. Lacy BE, Weiser KT, Kennedy AT, et al.                   by patients with functional dyspepsia. Aliment
+                      Functional dyspepsia: the economic impact                Pharmacol Ther 2014; 40: 523–530.
+                      to patients. Aliment Pharmacol Ther 2013; 38:
+                                                                           18. Tack J, Talley NJ, Camilleri M, et al. Functional
+                      170–177.
+                                                                               gastroduodenal disorders. Gastroenterology 2006;
+                   5. Aro P, Talley NJ, Agreus L, et al. Functional            130: 1466–1479.
+                      dyspepsia impairs quality of life in the adult
+                                                                           19. Ford AC, Bercik P, Morgan DG, et al. The
+                      population. Aliment Pharmacol Ther 2011; 33:
+                                                                               Rome III criteria for the diagnosis of functional
+                      1215–1224.
+                                                                               dyspepsia in secondary care are not superior to
+                   6. Moayyedi P and Mason J. Clinical and economic            previous definitions. Gastroenterology 2014; 146:
+                      consequences of dyspepsia in the community. Gut          932–940.e931.
+                      2002; 50(Suppl. 4): iv10– iv12.
+                                                                           20. Ford AC, Marwaha A, Lim A, et al. What is the
+                   7. Moayyedi PM, Lacy BE, Andrews CN, et al.                 prevalence of clinically significant endoscopic
+                      ACG and CAG Clinical Guideline: management               findings in subjects with dyspepsia? Systematic
+                      of dyspepsia. Am J Gastroenterol 2017; 112:              review and meta-analysis. Clin Gastroenterol
+                      988–1013.                                                Hepatol 2010; 8: 830–837, 837.e831–e832.
+                   8. United European Gastroenterology. Standards          21. Vakil N, Talley N, van Zanten SV, et al. Cost of
+                      and guidelines repository: dyspepsia, https://www.       detecting malignant lesions by endoscopy in 2741
+                      ueg.eu/guidelines/#stq=dyspepsia&stp=1&sts=              primary care dyspeptic patients without alarm
+                      Member%20Society&stc=All&stms=All&sty=All                symptoms. Clin Gastroenterol Hepatol 2009; 7:
+                      (2018, accessed 11 June 2018).                           756–761.
+                   9. NICE. Gastro-oesophageal reflux disease and          22. Vakil N, Moayyedi P, Fennerty MB, et al.
+                      dyspepsia in adults: investigation and management.       Limited value of alarm features in the diagnosis
+                      Clinical Guideline CG184. London: NICE,                  of upper gastrointestinal malignancy: systematic
+                      2014.                                                    review and meta-analysis. Gastroenterology 2006;
+                                                                               131: 390–401; quiz 659–360.
+                  10. NICE. Dyspepsia and gastro-oesophageal reflux
+                      disease in adults. Quality standard QS96. London:    23. Talley NJ and Ford AC. Functional dyspepsia. N
+                      NICE, 2015.                                              Engl J Med 2015; 373: 1853–1863.
+                  11. Miwa H, Ghoshal UC, Gonlachanvit S, et al.           24. Barton PM, Moayyedi P, Talley NJ, et al. A
+                      Asian consensus report on functional dyspepsia. J        second-order simulation model of the cost-
+                      Neurogastroenterol Motil 2012; 18: 150–168.              effectiveness of managing dyspepsia in the United
+                                                                               States. Med Decis Making 2008; 28: 44–55.
+                  12. Moayyedi P, Talley NJ, Fennerty MB, et al. Can
+                      the clinical history distinguish between organic     25. Ruiz-Garcia E, Guadarrama-Orozco J, Vidal-
+                      and functional dyspepsia? JAMA 2006; 295:                Millan S, et al. Gastric cancer in Latin America.
+                      1566–1576.                                               Scand J Gastroenterol 2018; 53: 124–129.
+                  13. Stanghellini V, Chan FK, Hasler WL, et al.           26. Tack J and Janssen P. Gastroduodenal motility.
+                      Gastroduodenal disorders. Gastroenterology 2016;         Curr Opin Gastroenterol 2010; 26: 647–655.
+                      150: 1380–1392.
+                                                                           27. Lacy BE. Functional dyspepsia and gastroparesis:
+                  14. Camilleri M, Dubois D, Coulie B, et al.                  one disease or two? Am J Gastroenterol 2012; 107:
+                      Prevalence and socioeconomic impact of upper             1615–1620.
+                      gastrointestinal disorders in the United States:
+                                                                           28. Tutuian R, Vos R, Karamanolis G, et al. An audit
+                      results of the US Upper Gastrointestinal Study.
+                                                                               of technical pitfalls of gastric barostat testing
+                      Clin Gastroenterol Hepatol 2005; 3: 543–552.
+                                                                               in dyspepsia. Neurogastroenterol Motil 2008; 20:
+                  15. Bisschops R, Karamanolis G, Arts J, et al.               113–118.
+                      Relationship between symptoms and ingestion
+                                                                           29. Bouras EP, Delgado-Aros S, Camilleri M, et al.
+                      of a meal in functional dyspepsia. Gut 2008; 57:
+                                                                               SPECT imaging of the stomach: comparison with
+                      1495–1503.
+                                                                               barostat, and effects of sex, age, body mass index,
+                  16. Fang YJ, Liou JM, Chen CC, et al. Distinct               and fundoplication. Single photon emission
+                      aetiopathogenesis in subgroups of functional             computed tomography. Gut 2002; 51: 781–786.
+
+
+14                                                                                                       journals.sagepub.com/home/tag
+                                                                                                      CJ Black, LA Houghton et al.
+
+30. Dickman R, Zilper T, Steinmetz A, et al.             43. Deeks JJ and Altman DG. Diagnostic tests 4:
+    Comparison of continuous breath test and                 likelihood ratios. BMJ 2004; 329: 168–169.
+    gastric scintigraphy for the measurement of
+                                                         44. Ford AC. Utility of the oral capsaicin test
+    gastric emptying rate in healthy and dyspeptic
+                                                             in diagnosing functional dyspepsia. Am J
+    individuals. Eur J Gastroenterol Hepatol 2013; 25:
+                                                             Gastroenterol 2018; 113: 1257–1258.
+    291–295.
+                                                         45. Ovj B. GastroPanel, https://www.gastropanel.
+31. Hasler WL. The use of SmartPill for gastric
+                                                             com/healthcare-professionals-and-laboratories/
+    monitoring. Expert Rev Gastroenterol Hepatol
+                                                             product-information (2018, accessed 22 June
+    2014; 8: 587–600.
+                                                             2018).
+32. Tack J, Caenepeel P, Piessevaux H,
+                                                         46. Uemura N, Okamoto S, Yamamoto S,
+    et al. Assessment of meal induced gastric
+                                                             et al. Helicobacter pylori infection and the
+    accommodation by a satiety drinking test in
+                                                             development of gastric cancer. N Engl J Med
+    health and in severe functional dyspepsia. Gut
+                                                             2001; 345: 784–789.
+    2003; 52: 1271–1277.
+                                                         47. Correa P. Human gastric carcinogenesis: a
+33. Gonenne J, Castillo EJ, Camilleri M, et al.
+                                                             multistep and multifactorial process–First
+    Does the nutrient drink test accurately predict
+                                                             American Cancer Society Award Lecture on
+    postprandial gastric volume in health and
+                                                             Cancer Epidemiology and Prevention. Cancer Res
+    community dyspepsia? Neurogastroenterol Motil
+                                                             1992; 52: 6735–6740.
+    2005; 17: 44–50.
+                                                         48. Venerito M, Varbanova M, Rohl FW, et al.
+34. Camilleri M, Parkman HP, Shafi MA, et al.
+                                                             Oxyntic gastric atrophy in Helicobacter pylori
+    Clinical guideline: management of gastroparesis.
+                                                             gastritis is distinct from autoimmune gastritis. J
+    Am J Gastroenterol 2013; 108: 18–37; quiz 38.
+                                                             Clin Pathol 2016; 69: 677–685.
+35. Sharma SK, Vij AS and Sharma M. Mechanisms
+                                                         49. Agreus L, Kuipers EJ, Kupcinskas L, et al.
+    and clinical uses of capsaicin. Eur J Pharmacol
+                                                             Rationale in diagnosis and screening of atrophic
+    2013; 720: 55–62.
+                                                             gastritis with stomach-specific plasma biomarkers.
+36. Bevan S, Quallo T and Andersson DA. TRPV1.               Scand J Gastroenterol 2012; 47: 136–147.
+    Handb Exp Pharmacol 2014; 222: 207–245.              50. Zagari RM, Rabitti S, Greenwood DC, et al.
+37. Li X, Cao Y, Wong RK, et al. Visceral and                Systematic review with meta-analysis: diagnostic
+    somatic sensory function in functional dyspepsia.        performance of the combination of pepsinogen,
+    Neurogastroenterol Motil 2013; 25: 246–253, e165.        gastrin-17 and anti-Helicobacter pylori antibodies
+                                                             serum assays for the diagnosis of atrophic
+38. Tahara T, Shibata T, Nakamura M, et al.                  gastritis. Aliment Pharmacol Ther 2017; 46:
+    Homozygous TRPV1 315C influences the                     657–667.
+    susceptibility to functional dyspepsia. J Clin
+    Gastroenterol 2010; 44: e1–e7.                       51. Ohata H, Oka M, Yanaoka K, et al. Gastric
+                                                             cancer screening of a high-risk population in
+39. Lee SY, Masaoka T, Han HS, et al. A prospective          Japan using serum pepsinogen and barium digital
+    study on symptom generation according to spicy           radiography. Cancer Sci 2005; 96: 713–720.
+    food intake and TRPV1 genotypes in functional
+    dyspepsia patients. Neurogastroenterol Motil 2016;   52. Lee YC, Lin JT, Wu HM, et al. Cost-effectiveness
+    28: 1401–1408.                                           analysis between primary and secondary
+                                                             preventive strategies for gastric cancer. Cancer
+40. Hammer J, Fuhrer M, Pipal L, et al.                      Epidemiol Biomarkers Prev 2007; 16:
+    Hypersensitivity for capsaicin in patients with          875–885.
+    functional dyspepsia. Neurogastroenterol Motil
+    2008; 20: 125–133.                                   53. Saito S, Azumi M, Muneoka Y, et al. Cost-
+                                                             effectiveness of combined serum anti-
+41. Fuhrer M, Vogelsang H and Hammer J. A                    Helicobacter pylori IgG antibody and serum
+    placebo-controlled trial of an oral capsaicin            pepsinogen concentrations for screening for
+    load in patients with functional dyspepsia.              gastric cancer risk in Japan. Eur J Health Econ
+    Neurogastroenterol Motil 2011; 23: 918–e397.             2018; 19: 545–555.
+42. Hammer J. Identification of individuals with         54. Yeh JM, Hur C, Ward Z, et al. Gastric
+    functional dyspepsia with a simple, minimally            adenocarcinoma screening and prevention
+    invasive test: a single center cohort study of the       in the era of new biomarker and endoscopic
+    oral capsaicin test. Am J Gastroenterol 2018; 113:       technologies: a cost-effectiveness analysis. Gut
+    584–592.                                                 2016; 65: 563–574.
+
+
+journals.sagepub.com/home/tag                                                                                                   15
+Therapeutic Advances in Gastroenterology 11
+
+                  55. Best LM, Takwoingi Y, Siddique S, et al. Non-          68. Tack J, Janssen P, Masaoka T, et al. Efficacy of
+                      invasive diagnostic tests for Helicobacter pylori          buspirone, a fundus-relaxing drug, in patients
+                      infection. Cochrane Database Syst Rev 2018; 3:             with functional dyspepsia. Clin Gastroenterol
+                      Cd012080.                                                  Hepatol 2012; 10: 1239–1245.
+                  56. Malfertheiner P, Megraud F, O’Morain CA, et al.        69. Lynch ME. Antidepressants as analgesics:
+                      Management of Helicobacter pylori infection-the            a review of randomized controlled trials. J
+                      Maastricht V/Florence Consensus Report. Gut                Psychiatry Neurosci 2001; 26: 30–36.
+                      2017; 66: 6–30.
+                                                                             70. Ford AC, Luthra P, Tack J, et al. Efficacy of
+                  57. Delaney B, Ford AC, Forman D, et al. Initial               psychotropic drugs in functional dyspepsia:
+                      management strategies for dyspepsia. Cochrane              systematic review and meta-analysis. Gut 2017;
+                      Database Syst Rev 2005: Cd001961.                          66: 411–420.
+
+                  58. Ford AC, Moayyedi P, Jarbol DE, et al. Meta-           71. Talley NJ, Locke GR, Saito YA, et al. Effect of
+                      analysis: Helicobacter pylori’test and treat’              amitriptyline and escitalopram on functional
+                      compared with empirical acid suppression for               dyspepsia: a multicenter, randomized controlled
+                      managing dyspepsia. Aliment Pharmacol Ther                 study. Gastroenterology 2015; 149: 340–349.e342.
+                      2008; 28: 534–544.                                     72. Ford AC, Quigley EM, Lacy BE, et al. Effect
+                  59. Moayyedi P, Soo S, Deeks J, et al. Eradication             of antidepressants and psychological therapies,
+                      of Helicobacter pylori for non-ulcer dyspepsia.            including hypnotherapy, in irritable bowel
+                      Cochrane Database Syst Rev 2006: Cd002096.                 syndrome: systematic review and meta-analysis.
+                                                                                 Am J Gastroenterol 2014; 109: 1350–1365; quiz
+                  60. Sugano K, Tack J, Kuipers EJ, et al. Kyoto global          1366.
+                      consensus report on Helicobacter pylori gastritis.
+                      Gut 2015; 64: 1353–1367.                               73. Rasmussen S, Jensen TH, Henriksen SL, et al.
+                                                                                 Overlap of symptoms of gastroesophageal reflux
+                  61. Sonnenberg A, Lash RH and Genta RM. A                      disease, dyspepsia and irritable bowel syndrome
+                      national study of Helicobactor pylori infection in         in the general population. Scand J Gastroenterol
+                      gastric biopsy specimens. Gastroenterology 2010;           2015; 50: 162–169.
+                      139: 1894–1901.e1892; quiz e1812.
+                                                                             74. Moayyedi P, Soo S, Deeks J, et al.
+                  62. Pinto-Sanchez MI, Yuan Y, Bercik P, et al.                 Pharmacological interventions for non-ulcer
+                      Proton pump inhibitors for functional dyspepsia.           dyspepsia. Cochrane Database Syst Rev 2006:
+                      Cochrane Database Syst Rev 2017; 3: Cd011194.              Cd001960.
+                  63. Grudell AB, Camilleri M, Burton DD, et al.             75. Quigley EM. Cisapride: what can we learn from
+                      Effect of a proton pump inhibitor on postprandial          the rise and fall of a prokinetic? J Dig Dis 2011;
+                      gastric volume, emptying and symptoms in                   12: 147–156.
+                      healthy human subjects: a pilot study. Aliment
+                      Pharmacol Ther 2006; 24: 1037–1043.                    76. Matsueda K, Hongo M, Tack J, et al. A placebo-
+                                                                                 controlled trial of acotiamide for meal-related
+                  64. Koloski NA, Jones M, Kalantar J, et al. The brain–         symptoms of functional dyspepsia. Gut 2012; 61:
+                      gut pathway in functional gastrointestinal disorders       821–828.
+                      is bidirectional: a 12-year prospective population-
+                      based study. Gut 2012; 61: 1284–1290.                  77. Matsueda K, Hongo M, Tack J, et al. Clinical
+                                                                                 trial: dose-dependent therapeutic efficacy of
+                  65. Ford AC, Bercik P, Morgan DG, et al.                       acotiamide hydrochloride (Z-338) in patients
+                      Characteristics of functional bowel disorder               with functional dyspepsia - 100 mg t.i.d. is an
+                      patients: a cross-sectional survey using the Rome          optimal dosage. Neurogastroenterol Motil 2010; 22:
+                      III criteria. Aliment Pharmacol Ther 2014; 39:             e618–e173.
+                      312–321.
+                                                                             78. Tack J, Pokrotnieks J, Urbonas G, et al.
+                  66. Drossman DA, Tack J, Ford AC, et al.                       Long-term safety and efficacy of acotiamide
+                      Neuromodulators for functional gastrointestinal            in functional dyspepsia (postprandial distress
+                      disorders (Disorders of Gut-Brain Interaction):            syndrome)-results from the European phase 3
+                      a Rome Foundation Working Team Report.                     open-label safety trial. Neurogastroenterol Motil
+                      Gastroenterology 2018; 154: 1140–1171.e1.                  2018; 30: e13284.
+                  67. Aro P, Talley NJ, Johansson SE, et al. Anxiety         79. Doggrell SA and Hancox JC. Cardiac safety
+                      is linked to new-onset dyspepsia in the                    concerns for domperidone, an antiemetic and
+                      Swedish population: a 10-year follow-up study.             prokinetic, and galactogogue medicine. Expert
+                      Gastroenterology 2015; 148: 928–937.                       Opin Drug Saf 2014; 13: 131–138.
+
+
+
+16                                                                                                           journals.sagepub.com/home/tag
+                                                                                                        CJ Black, LA Houghton et al.
+
+80. Singh H, Bala R and Kaur K. Efficacy and                     antropyloroduodenal motility and gastric
+    tolerability of levosulipride, domperidone and               emptying in healthy men. Am J Gastroenterol
+    metoclopramide in patients with non-ulcer                    2007; 102: 1276–1283.
+    functional dyspepsia: a comparative analysis. J
+                                                             85. von Arnim U, Peitz U, Vinson B, et al. STW 5,
+    Clin Diagn Res 2015; 9: Fc09–Fc12.
+                                                                 a phytopharmacon for patients with functional
+81. Distrutti E, Fiorucci S, Hauer SK, et al. Effect of          dyspepsia: results of a multicenter, placebo-
+    acute and chronic levosulpiride administration on            controlled double-blind study. Am J Gastroenterol
+    gastric tone and perception in functional dyspepsia.         2007; 102: 1268–1275.
+    Aliment Pharmacol Ther 2002; 16: 613–622.
+                                                             86. Suzuki H, Matsuzaki J, Fukushima Y, et al.
+82. Everitt H, Landau S, Little P, et al. Assessing              Randomized clinical trial: rikkunshito in the
+    Cognitive behavioural Therapy in Irritable Bowel             treatment of functional dyspepsia–a multicenter,
+    (ACTIB): protocol for a randomised controlled                double-blind, randomized, placebo-controlled
+    trial of clinical-effectiveness and cost-effectiveness       study. Neurogastroenterol Motil 2014; 26: 950–
+    of therapist delivered cognitive behavioural therapy         961.
+    and web-based self-management in irritable bowel
+                                                             87. Lan L, Zeng F, Liu GJ, et al. Acupuncture for
+    syndrome in adults. BMJ Open 2015; 5: e008622.
+                                                                 functional dyspepsia. Cochrane Database Syst Rev
+83. Calvert EL, Houghton LA, Cooper P, et al.                    2014; 10: Cd008487.
+    Long-term improvement in functional dyspepsia
+                                                             88. Hu Y, Bai Y, Hua Z, et al. Effect of Chinese
+    using hypnotherapy. Gastroenterology 2002; 123:
+                                                                 patent medicine Si-Mo-Tang oral liquid for          Visit SAGE journals online
+    1778–1785.
+                                                                 functional dyspepsia: a systematic review and       journals.sagepub.com/
+                                                                 meta-analysis of randomized controlled trials.      home/tag
+84. Pilichiewicz AN, Horowitz M, Russo A, et al.
+    Effects of Iberogast on proximal gastric volume,             PLoS One 2017; 12: e0171878.                          SAGE journals
+
+
+
+
+journals.sagepub.com/home/tag                                                                                                               17
+
