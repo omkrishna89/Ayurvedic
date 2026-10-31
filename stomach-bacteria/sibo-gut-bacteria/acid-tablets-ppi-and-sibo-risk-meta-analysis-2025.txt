@@ -1,0 +1,682 @@
+Systematic Review
+
+The Duration of Proton Pump Inhibitor Therapy and the Risk of
+Small Intestinal Bacterial Overgrowth: A Systematic Review
+and Meta-Analysis
+Alsu R. Khurmatullina 1, * , Dmitrii N. Andreev 1, * , Yury A. Kucheryavyy 2 , Filipp S. Sokolov 3 ,
+Petr A. Beliy 1 , Andrey V. Zaborovskiy 3 and Igor V. Maev 1
+
+                                           1   Department of Internal Disease Propaedeutics and Gastroenterology, Russian University of Medicine,
+                                               127473 Moscow, Russia
+                                           2   Ilyinskaya Hospital, 143421 Krasnogorsk, Russia
+                                           3   Department of Pharmacology, Russian University of Medicine, 127473 Moscow, Russia
+                                           *   Correspondence: alsu0308@rambler.ru (A.R.K.); dna-mit8@mail.ru (D.N.A.)
+
+
+                                           Abstract
+                                           Background/Objectives: Small intestinal bacterial overgrowth (SIBO) is frequently ob-
+                                           served in patients treated with proton pump inhibitors (PPIs), yet the role of treatment
+                                           duration in modulating SIBO risk remains unclear. This meta-analysis aims to evaluate the
+                                           temporal association between PPI use duration and SIBO risk. Methods: Following the
+                                           PRISMA 2020 guidelines, a systematic search was conducted across MEDLINE/PubMed,
+                                           EMBASE, the Cochrane Library, the Russian Science Citation Index, and Google Scholar
+                                           from 1985 to June 2025 and was previously registered in PROSPERO under the registration
+                                           number CRD420251031719. Eligible studies included observational designs or clinical trials
+                                           assessing SIBO in adult PPI users. Results: Twenty-nine studies (n = 3682 PPI patients;
+                                           n = 2907 controls) were included. The pooled SIBO prevalence among PPI-treated patients
+                                           was 36.839% (95% CI: 29.703–44.277), significantly higher than that among controls (19.887%;
+Academic Editor: Peter Laszlo              95% CI: 12.027–29.399). PPI use was associated with increased SIBO risk (OR = 2.143;
+Lakatos                                    95% CI: 1.446–3.175), with high heterogeneity (I2 = 77.61%). A duration-dependent trend
+Received: 17 June 2025                     was observed: our meta-regression analysis demonstrated a significant positive association
+Revised: 26 June 2025                      between PPI treatment duration and SIBO prevalence with the regression coefficient 4.265%
+Accepted: 27 June 2025                     (95% CI: 1.827–6.384; p = 0.0024), indicating that each additional month of PPI therapy was
+Published: 3 July 2025
+                                           associated with a 4.265 percentage increase in SIBO risk. Conclusions: PPI use significantly
+Citation: Khurmatullina, A.R.;             increases the risk of SIBO, with longer treatment durations associated with higher odds.
+Andreev, D.N.; Kucheryavyy, Y.A.;
+Sokolov, F.S.; Beliy, P.A.; Zaborovskiy,
+                                           Keywords: small intestinal bacterial overgrowth; proton pump inhibitors; PPI duration;
+A.V.; Maev, I.V. The Duration of Proton
+                                           meta-analysis; systematic review
+Pump Inhibitor Therapy and the Risk
+of Small Intestinal Bacterial
+Overgrowth: A Systematic Review
+and Meta-Analysis. J. Clin. Med. 2025,
+14, 4702. https://doi.org/10.3390/         1. Introduction
+jcm14134702
+                                                Small intestinal bacterial overgrowth (SIBO) is a condition characterized by a sig-
+Copyright: © 2025 by the authors.          nificant increase in the number of bacteria in the small intestine, manifesting with gas-
+Licensee MDPI, Basel, Switzerland.         trointestinal symptoms such as abdominal bloating, flatulence, nausea, abdominal pain,
+This article is an open access article
+                                           and diarrhea [1,2]. The global prevalence of SIBO varies widely, reported between 2.5%
+distributed under the terms and
+                                           and 22%, with higher rates observed in older adults and individuals with comorbid con-
+conditions of the Creative Commons
+Attribution (CC BY) license
+                                           ditions [3]. In individuals with gastrointestinal symptoms, the prevalence of SIBO can
+(https://creativecommons.org/              reach approximately 34% [4]. The clinical significance of SIBO lies in its ability to mimic
+licenses/by/4.0/).
+
+
+
+
+J. Clin. Med. 2025, 14, 4702                                                                                      https://doi.org/10.3390/jcm14134702
+J. Clin. Med. 2025, 14, 4702                                                                                             2 of 13
+
+
+
+                               the symptoms of several other GI diseases, complicating differential diagnosis in routine
+                               practice and often contributing to treatment resistance in associated conditions [5].
+                                    The long-term use of proton pump inhibitors (PPIs) is one of the most well-known risk
+                               factors for SIBO [2,6]. Changes in gastric pH affect the survival patterns of specific bacterial
+                               genera and species and promote their active migration throughout the GI tract [7]. This
+                               alteration in the microbial environment may reduce colonization resistance and facilitate
+                               overgrowth in the small intestine, particularly by oral-origin or facultative anaerobic
+                               bacteria [7]. The early meta-analysis (2018), which summarized 19 studies (n = 7055),
+                               demonstrated an increased risk of developing SIBO in patients taking PPIs (OR 1.71; 95% CI:
+                               1.20–2.43) [8]. A large multicenter study (n = 1851) showed that symptoms characteristic of
+                               SIBO (diarrhea, bloating, abdominal pain, and discomfort) first appeared after a course of
+                               PPI therapy in 44.1% of cases [9]. Despite the well-documented association between PPI
+                               use and the development of SIBO, the relationship between the duration of PPI therapy and
+                               the risk of SIBO persistence remains insufficiently explored. While existing meta-analyses
+                               have established PPI use as a significant risk factor for SIBO [6,8], the impact of short-term
+                               versus long-term PPI exposure on bacterial overgrowth dynamics is less clear.
+                                    This meta-analysis aims to systematically evaluate the temporal relationship between
+                               PPI intake duration and SIBO risk, focusing on whether longer PPI exposure correlates
+                               with a higher incidence of SIBO.
+
+                               2. Materials and Methods
+                               2.1. Study Sources and Search
+                                     This systematic review adhered to the PRISMA 2020 guidelines [10] and was pre-
+                               registered in the PROSPERO registry (CRD420251031719) to ensure methodological trans-
+                               parency and minimize bias. A completed PRISMA-P checklist can be accessed from the
+                               Supplementary Materials, Table S1. The search was conducted across several electronic
+                               databases, including MEDLINE/PubMed, EMBASE, the Cochrane Library, the Russian
+                               Science Citation Index, and Google Scholar. Publications from 1 January 1985 to 1 June
+                               2025 were considered. A comprehensive search strategy was developed using combina-
+                               tions of keywords and Boolean operators tailored to each database. The search strategy
+                               in MEDLINE/PubMed included the following terms: (“proton pump inhibitor”[tiab]
+                               OR “proton pump inhibitors”[tiab] OR PPI [tiab] OR omeprazole[tiab] OR pantopra-
+                               zole[tiab] OR esomeprazole[tiab] OR lansoprazole[tiab]) AND (“small intestinal bacterial
+                               overgrowth”[tiab] OR “small bowel bacterial overgrowth”[tiab] OR SIBO[tiab] OR “bacte-
+                               rial overgrowth”[tiab]).
+
+                               2.2. Study Selection
+                                    The study screening was carried out using Rayyan software. Two reviewers (A.R.K.
+                               and D.N.A.) independently evaluated titles and abstracts. Full-text screening followed for
+                               studies that appeared potentially relevant. Studies were deemed eligible if they met the
+                               following inclusion criteria: observational studies (cohort, case–control, cross-sectional)
+                               and clinical trials that evaluate the association between PPI use and SIBO risk in adults
+                               (≥18 years) with SIBO confirmed by hydrogen/methane breath testing or duodenal/jejunal
+                               culture. Studies had to provide sufficient data for effect size calculation. We excluded
+                               case reports, animal studies, pediatric populations, and studies involving patients with
+                               confounding conditions (e.g., prior GI surgery, Crohn’s disease, immunosuppression,
+                               tumor, systemic sclerosis). Duplicate datasets were thoroughly analyzed and only one
+                               study was chosen for the final analysis.
+                                    The risk of bias was assessed using the Newcastle–Ottawa scale for observational
+                               studies. Inter-observer agreement was quantified using Cohen’s kappa statistic, with
+J. Clin. Med. 2025, 14, 4702                                                                                          3 of 13
+
+
+
+                               the widely accepted interpretation scale: poor (κ ≤ 0.20), fair (κ = 0.21–0.40), moderate
+                               (κ = 0.41–0.60), good (κ = 0.61–0.80), and excellent agreement (κ > 0.80). The analysis
+                               encompassed both global inter-rater consistency and item-level agreement using these
+                               established thresholds.
+
+                               2.3. Data Extraction
+                                     Two investigators (A.R.K. and D.N.A.) independently extracted data using standard-
+                               ized forms, documenting study characteristics such as publication year and geographic
+                               origin and detailed methodological information about SIBO diagnostic approaches. For
+                               each study, we recorded demographic parameters: the mean age of participants and co-
+                               hort composition—including the number of patients receiving PPI therapy, corresponding
+                               control group sizes, and SIBO prevalence rates in both populations. More importantly, we
+                               extracted treatment duration data. The screening process was conducted by two medical
+                               experts (F.S.S. and P.A.B.) who independently assessed all identified studies through the AI-
+                               assisted Rayyan platform (https://www.rayyan.ai, accessed on 3 May 2025)), employing
+                               a three-stage evaluation procedure: initial title/abstract review against inclusion criteria
+                               and comprehensive full-text analysis of potentially relevant studies, followed by inde-
+                               pendent data extraction performed by two additional researchers (Y.A.K. and I.V.M.). To
+                               maintain rigorous data quality standards, we established verification protocols involving
+                               direct correspondence with study authors to clarify methodological details and formal so-
+                               licitations for supplementary sensitivity testing data when original publications contained
+                               incomplete information.
+
+                               2.4. Statistical Analysis
+                                     The primary focus was on calculating odds ratios (ORs). Also we analyzed pooled
+                               SIBO ratings in PPI-treated patients with 95% confidence intervals and assessed study
+                               heterogeneity using Cochran’s Q test and I2 statistics. Significant heterogeneity was defined
+                               as I2 > 50% and p < 0.05. Statistical analyses were performed in MedCalc 23.1.5 (Ostend,
+                               Belgium) on Microsoft Windows 11 (Microsoft Corporation, Redmond, WA, USA). To
+                               identify potential sources of heterogeneity, we conducted subanalyses comparing study
+                               quality (assessed by NOS scores) and diagnostic methods. Of particular importance was
+                               the temporal patterns, which were further analyzed using meta-regression implemented in
+                               Python 3.9.21 (Amsterdam, The Netherlands).
+                                     To evaluate potential publication bias, we employed both the visual inspection of
+                               funnel plot asymmetry and formal statistical tests (Begg–Mazumdar and Egger’s tests).
+
+                               3. Results
+                               3.1. Search Results
+                                    Our comprehensive literature search across electronic databases yielded an initial
+                               pool of 1014 potentially eligible scientific publications. After the duplicate search process
+                               617 studies were removed. During the title/abstract screening process, we systematically
+                               excluded 338 records for the following reasons: 282 articles were irrelevant to our research
+                               focus, 44 represented case reports, and there were 10 reviews and 2 meta-analyses without
+                               original data.
+                                    The remaining 59 studies underwent meticulous full-text evaluation based on our
+                               inclusion criteria. This thorough assessment resulted in the exclusion of 30 additional
+                               articles that did not meet our methodological requirements, including 15 studies with
+                               abstracts only, 6 studies that included pediatric patients, 5 that did not accurately define
+                               SIBO cases, 3 studies that recruited a study population overlapping with that of another
+J. Clin. Med. 2025, 14, 4702                                                                                             4 of 13
+
+
+
+                               study and 1 study included cancer patients. The systematic review process and the number
+                               of papers identified in each stage are shown in Figure 1.
+
+
+
+
+                               Figure 1. Flow chart detailing the study selection strategy.
+
+                               3.2. Characteristics of Included Studies
+                                     Final analysis included 29 studies [11–39]: 7 studies were conducted in the USA
+                               [17,19,22,23,26,28,35], 3 in the UK [12,15,16], 3 in Italy [18,20,36], 2 in Russia [24,39], 2 in
+                               Switzerland [11,14], 1 in Brazil [21], 1 in Argentina [25], 1 in Japan [27], 1 in Austria [29],
+                               1 in Greece [30], 1 in India [31], 1 in Poland [32], 1 in China [33], 1 in Malaysia [34],
+                               1 in Mexico [37], 1 in South Korea [38], and one in South Africa [13]. The total num-
+                               ber of included PPI patients was 3682 and the total number of control patients was
+                               2907. The gold-standard method for diagnostic aspirate culture was used in eight studies
+                               [11,13,14,16,19,23,26,30], the lactulose hydrogen breath test (LHBT) was used in eight stud-
+                               ies [12,17,21,25,27,31,33,36,39], the glucose hydrogen breath test (GHBT) was used in seven
+                               studies [15,18,20,22,29,32,34,37,38], one study did not specify the substrate [24], the xylose
+                               breath test (XBT) was used in one study [28], and one study used 16S rRNA sequencing
+                               test [35]. This data is presented in Table 1.
+J. Clin. Med. 2025, 14, 4702                                                                                                      5 of 13
+
+
+
+                                        Table 1. Characteristics of selected studies.
+
+                                                                  SIBO                            PPI-     Period of
+    Study, Year            Country          Study Design        Diagnostic       Mean Age       Treated       PPI      Control    NOS
+                                                                 Method                         Patients   Treatment   Patients
+
+    Fried et al.,                                                Aspirate
+                         Switzerland         Case–control                               50.6      25           2         15        6
+     1994 [11]                                                   culture
+   Gough et al.,
+                                UK              Cohort            LHBT                  55        10           1         n/d       7
+    1995 [12]
+    Lewis et al.,                                                Aspirate
+                        South Africa            Cohort                                  43.1      20           1         n/d       6
+     1996 [13]                                                   culture
+   Thorens et al.,                                               Aspirate
+                         Switzerland         Case–control                               42        19           1         18        6
+     1996 [14]                                                   culture
+    Hutchinson                  UK           Case–control         GHBT                  78.6      22           1         22        7
+  et al., 1997 [15]
+   Pereira et al.,                                               Aspirate
+                                UK           Case–control                               76         8           2          6        7
+    1998 [16]                                                    culture
+     Law et al.,                USA                               LHBT                  43.7      106                    449       8
+     2009 [17]                               Case–control                                                    n/d
+
+ Lombardo et al.,                                                 GHBT                  37.7      200          3         50        6
+   2010 [18]                    Italy        Case–control
+
+   Choung et al.,                                                Aspirate
+                                USA          Case–control                               53        249        n/d         421       6
+     2011 [19]                                                   culture
+  Compare et al.,
+                                Italy           Cohort            GHBT                  36        42           3         n/d       7
+    2011 [20]
+    Costa et al.,              Brazil        Case–control         LHBT           38.8 ± 12.62     12         n/d         11        8
+     2012 [21]
+  Ratuapli et al.,
+                                USA          Case–control         GHBT                  60.9      566        n/d         625       7
+    2012 [22]
+    Jacobs et al.,                                               Aspirate
+                                USA          Case–control                               43        65         n/d         85        8
+      2013 [23]                                                  culture
+   Loginov et al.,
+                               Russia           Cohort             HBT             58 ± 2.1       60           3         n/d       7
+     2014 [24]
+   Senderovky
+                          Argentina             Cohort            LHBT                  57.5      225        n/d         n/d       7
+  et al., 2014 [25]
+   Franco et al.,                                                Aspirate
+                                USA             Cohort                                  52        384          3         n/d       8
+     2015 [26]                                                   culture
+  Fujiwara et al.,
+                               Japan            Cohort            LHBT                  n/d       50         n/d         n/d       6
+    2015 [27]
+    Schatz et al.,              USA             Cohort             XBT                  57.4      394        n/d         n/d       6
+     2015 [28]
+    Enko et al.,           Austria           Case–control         GHBT                  44        71           3         38        7
+     2016 [29]
+   Giamarellos                                                   Aspirate
+                               Greece        Case–control                               64.4      184          2         713       8
+  et al., 2016 [30]                                              culture
+   Revaiah et al.,             India         Case–control         LHBT          41.71 ± 13.17     91           2         56        6
+     2018 [31]
+   Sieczkowska                 Poland        Case–control         GHBT                  n/d       60           3         62        6
+  et al., 2018 [32]
+    Zhang et al.,
+                               China         Case–control         LHBT                  n/d       140        n/d         60        7
+     2020 [33]
+    Chuah et al.,         Malaysia           Case–control         GHBT          48 ± 16 years     42           2         58        9
+     2022 [34]
+  Weitsman et al.,              USA                              16S rRNA        61.5 ± 13.6      59                     118       7
+    2022 [35]                                Case–control       Sequencing                                   n/d
+
+   Bastiani et al.,             Italy        Case–control         LHBT                  n/d       125          3         100       8
+     2023 [36]
+   Duran-Rosas             Mexico                                 GHBT           25.18 ± 6.5      38           1                   7
+  et al., 2024 [37]                             Cohort                                                                   n/d
+
+     Lim et al.,         South Korea            Cohort            GHBT           71.83 ± 8.80     79           2         n/d       8
+     2024 [38]
+    Maev et al.,               Russia           Cohort            LHBT            38.7 ± 8.9      336          2         n/d       8
+     2025 [39]
+J. Clin. Med. 2025, 14, 4702                                                                                                 6 of 13
+
+
+
+                               3.3. Study Quality Evaluation and Reliability Analysis
+                                    Nine studies were of high methodological rigor (NOS 8–9), while twenty exhibited
+                               moderate limitations (NOS 6–7). Several key limitations affected study quality in our
+                               analysis. Most notably, 24.14% of included studies (7 out of 29) demonstrated restricted
+                               population representativeness due to small sample sizes (fewer than 30 PPI-treated pa-
+                               tients). To ensure methodological rigor, we implemented robust quality control measures,
+                               quantifying inter-rater reliability through Cohen’s kappa coefficient. The results confirmed
+                               a strong consensus among reviewers, with κ = 0.65 (indicating substantial agreement)
+                               for study inclusion decisions and κ = 0.96 (reflecting near-perfect agreement) for data
+                               extraction processes.
+
+                               3.4. Prevalence of SIBO in PPI Patients
+                                     The pooled prevalence of SIBO in PPI-treated patients and controls was 36.839%
+                               (95% CI: 29.703–44.277; Figure 2) and 19.887% (95% CI: 12.027–29.399; Figure 3), respectively,
+                                                                                  2                        2
+                               and heterogeneity was observed in both cases (IPPI      patients = 94.93%; Icontrols = 96.66%;
+                               p < 0.0001). We assessed publication bias using funnel plot visualization and statistical
+                               tests. The funnel plot shows symmetrical study distribution, suggesting no significant bias
+                               (Figure 4). Both the Begg–Mazumdar test (p > 0.05) and Egger’s test (p > 0.05) confirmed
+                               this finding, demonstrating no evidence of substantial publication bias in our analysis.
+                               When analyzing studies that implied the gold-standard method (aspirate culture method),
+                               this tendency was also observed (35.877% (95% CI: 19.503–54.158) in PPI-treated patients
+                               and 10.783% (95% CI: 6.311–16.273) in controls).
+
+
+
+
+                               Figure 2. Forest plot showing the generalized prevalence of SIBO in PPI-treated patients [11–39].
+
+                                    The random-effects model revealed a significantly higher risk of SIBO among PPI-
+                               treated patients compared to controls (OR = 2.143; 95% CI: 1.446–3.175), with high hetero-
+                               geneity (I2 = 77.61%; 95% CI: 65.03–85.67%; p < 0.0001).
+
+                               3.5. Subanalyses
+                                    To evaluate the potential influence of PPI treatment duration on SIBO risk, we
+                               stratified the analysis into three distinct temporal categories: short-term use (less than
+                               one month—1), intermediate-term use (two to six months—2), and long-term use (more
+                               than six months—3). The analysis revealed a clear duration-dependent relationship, with
+                               progressively increasing odds ratios observed across the treatment periods. Patients re-
+                               ceiving PPI therapy for less than one month demonstrated an odds ratio of 1.698 (95% CI:
+J. Clin. Med. 2025, 14, 4702                                                                                                    7 of 13
+
+
+
+                               0.185–15.626). The risk estimate rose to 4.002 (95% CI: 1.286–12.448) for those treated for
+                               one to six months. Most notably, long-term PPI use exceeding six months was associated
+                               with the highest risk elevation, yielding an odds ratio of 4.225 (95% CI: 1.432–12.464).
+                               These findings suggest a potentially significant temporal component in the development
+                               of PPI-associated SIBO, with longer treatment durations corresponding to progressively
+                               greater risk magnitudes.
+
+
+
+
+                               Figure 3. Comparison of SIBO prevalence between PPI and control groups.
+
+
+
+
+                               Figure 4. Funnel plot analysis of publication bias in SIBO prevalence among PPI-treated patients. Each
+                               point on the funnel plot represents an individual study, plotting its effect size against its precision.
+
+                                     To eradicate potential methodological influences on our findings, we performed ad-
+                               ditional stratified analyses according to diagnostic technique (Table 2). Among studies
+                               utilizing the gold-standard aspirate culture method, the prevalence of SIBO in PPI-treated
+J. Clin. Med. 2025, 14, 4702                                                                                                   8 of 13
+
+
+
+                                      patients was 35.877% (95% CI: 19.503–54.158). For investigations employing LHBT, the de-
+                                      tected prevalence was slightly higher at 39.634% (95% CI: 27.027–52.984). Conversely, stud-
+                                      ies using GHBT demonstrated a more moderate prevalence estimate of 33.541% (95% CI:
+                                      21.561–46.711). This diagnostic-method-specific analysis reveals remarkable consistency
+                                      across different assessment approaches, with all three principal diagnostic modalities yield-
+                                      ing prevalence estimates within a relatively narrow range of approximately 33.5% to 39.6%
+                                      (p < 0.0003 when comparing three methodologies between each other).
+
+                                      Table 2. Subgroup analysis of SIBO risk and prevalence among PPI users stratified by diagnostic
+                                      method and study quality.
+
+       Subgroup                                                               Pooled Prevalence
+                               Pooled OR (95% CI)     Heterogeneity I2 (%)                           Heterogeneity I2 (%)      p
+       Analysis                                                                   (95% CI)
+                                                          SIBO diagnostic method
+                                                                                    35.877%
+   Aspirate culture            1.727 (1.304–2.287)            46.87                                         95.72           0.0025
+                                                                                (19.503–54.158)
+                                                                                    33.541%
+         GHBT                  2.508 (0.995–6.323)            87.42                                         93.78           0.0451
+                                                                                (21.561–46.711).
+                                                                                    39.634%
+         LHBT                  1.939 (0.811–4.634)            81.51                                         94.88           0.0055
+                                                                                (27.027–52.984)
+                                                                                    36.839%
+        Overall                2.143 (1.446–3.175)            77.61                                         94.93           <0.0001
+                                                                                (29.703–44.277)
+                                                         Study quality (NOS scores)
+                                                                                    38.417%
+           6–7                 2.962 (1.717–5.112)            79.12                                         95.56           <0.0001
+                                                                                (28.714–48.609)
+                                                                                    33.403%
+           8–9                 1.211 (0.736–1.992)            64.11                                         93.58           <0.0001
+                                                                                (23.192–44.470)
+
+
+                                      3.6. Meta-Regression
+                                           Our meta-regression analysis (Figure 5) demonstrated a significant positive association
+                                      between PPI treatment duration and SIBO prevalence with the regression coefficient 4.265%
+                                      (95% CI: 1.827–6.384; p = 0.0024), indicating that each additional month of PPI therapy was
+                                      associated with a 4.265 percentage increase in SIBO risk.
+
+
+
+
+                                      Figure 5. Meta-regression of SIBO prevalence by PPI treatment duration.
+J. Clin. Med. 2025, 14, 4702                                                                                            9 of 13
+
+
+
+                               3.7. Assessment of Publication Bias
+                                    To investigate the substantial heterogeneity observed in our primary analysis, we
+                               performed two subgroup analyses based on study quality as assessed by the NOS. The first
+                               subgroup included studies with moderate quality scores (NOS 6–7), which demonstrated
+                               a SIBO prevalence of 38.417% (95% CI: 28.714–48.609) among PPI users. The second
+                               subgroup comprised higher-quality studies (NOS 8–9), showing a slightly lower prevalence
+                               of 33.403% (95% CI: 23.192–44.470).
+                                    Notably, the difference between these two subgroups was relatively modest, with
+                               only a 5.014 percentage point (p = 0.0512) variation in SIBO prevalence estimates. More
+                               importantly, both subgroup estimates closely aligned with the overall pooled prevalence
+                               obtained in our overall analysis, reinforcing the robustness and consistency of our main
+                               findings. This concordance across different methodological quality tiers suggests that study
+                               quality, while contributing to some degree of heterogeneity, did not substantially alter the
+                               fundamental association between PPI use and SIBO risk.
+
+                               4. Discussion
+                                     Our meta-analysis, encompassing 29 studies with a total of 3682 proton pump inhibitor
+                               (PPI) users and 2907 controls, reveals a significantly higher prevalence of small intestinal
+                               bacterial overgrowth (SIBO) among PPI-treated patients (36.8%; 95% CI: 29.7–44.3%) com-
+                               pared to controls (19.9%; 95% CI: 12.0–29.4%). Notably, a duration-dependent relationship
+                               was observed: patients undergoing PPI therapy for over six months exhibited the highest
+                               risk (OR = 4.225; 95% CI: 1.432–12.464). These findings underscore a robust association
+                               between prolonged PPI use and increased SIBO risk.
+                                     Several meta-analyses have investigated the association between PPI use and SIBO.
+                               Notably, our updated meta-analysis builds upon and significantly extends the findings of
+                               earlier studies conducted in 2012 [6] and 2016 [8]. While the previous analyses provided
+                               evidence of an increased risk of SIBO among PPI users, they were limited in scope and
+                               data range. Our study, incorporating data up to March 2025, offers a more comprehensive
+                               perspective on the relationship.
+                                     The 2012 meta-analysis included 11 studies and a total of 3134 patients. It reported an
+                               overall OR of 2.282 (95% CI: 1.238–4.205), suggesting a significant association between PPI
+                               use and SIBO. The 2016 analysis was more expansive, including 19 studies and 7055 patients.
+                               It found a slightly lower pooled OR of 1.71 (95% CI: 1.20–2.43). Nevertheless, neither prior
+                               study assessed the impact of PPI therapy duration.
+                                     In contrast, our 2025 meta-analysis includes 29 studies published between 1985 and
+                               2025, totaling 9496 subjects. We utilized a broader set of databases—MEDLINE, EMBASE,
+                               Cochrane, Google Scholar, and the Russian Science Citation Index. All included studies
+                               were assessed using the Newcastle–Ottawa Scale, with inter-rater agreement measured
+                               using the κ-statistic. Our findings indicate a pooled OR of 2.143 (95% CI: 1.446–3.175),
+                               reinforcing the association between PPI use and an increased risk of SIBO. Unlike the
+                               previous meta-analyses, our subgroup analysis did not reveal significant variation in
+                               effect size across diagnostic methods, suggesting a more consistent risk regardless of
+                               how SIBO is identified. Additionally, we conducted meta-regression analyses, which
+                               revealed that the duration of PPI therapy is a significant predictor of SIBO risk—longer
+                               treatment periods were associated with higher odds of developing SIBO, a novel finding
+                               not previously reported.
+                                     The clinical implications are significant, given that SIBO is associated with various
+                               conditions, including irritable bowel syndrome, inflammatory bowel disease, chronic pan-
+                               creatitis, liver cirrhosis, and metabolic disorders like diabetes and non-alcoholic fatty liver
+                               disease [40–44]. The widespread prescription of PPIs for acid-related disorders—such
+J. Clin. Med. 2025, 14, 4702                                                                                                 10 of 13
+
+
+
+                               as gastroesophageal reflux disease (GERD) and peptic ulcers—further amplifies the rel-
+                               evance of our findings [45]. PPIs are often recommended as the first-line treatment for
+                               these conditions, with therapy durations ranging from 4 to 8 weeks [46,47]. However, in
+                               cases of chronic or recurrent GERD, maintenance therapy may extend up to six months or
+                               longer [46], and for Barrett’s esophagus, lifelong PPI therapy is commonly advised [48]. All
+                               of these patients have a high risk of SIBO as a consequence of intestinal symptoms, which
+                               was shown in recent works [7,49].
+                                     International real-world data indicates that prolonged PPI use beyond two months is
+                               common. Use varies regionally—for example, in Australia 25% of initial PPI users are on
+                               maintenance regimens [50], while among older adults in Portugal nearly 79% exceed the
+                               guideline-recommended 8 weeks [51]. Over-the-counter availability further complicates
+                               exposure assessment, contributing between 1 and 10% of national PPI consumption in
+                               some countries [52]. These patterns underscore that a substantial proportion of patients fall
+                               into our intermediate- and long-term exposure subgroups.
+                                     Given the potential for long-term PPI use to increase SIBO risk, it is imperative
+                               to implement deprescribing protocols where appropriate. While such protocols have
+                               been developed, their integration into clinical practice remains limited in many healthcare
+                               systems [53–55]. Enhancing awareness and application of these strategies could mitigate the
+                               risk of SIBO and its associated complications in patients requiring prolonged PPI therapy.
+                                     Our meta-analysis has several limitations. First, the lack of standardized diagnostic
+                               criteria for SIBO likely contributes to heterogeneity, as studies employed varying thresh-
+                               olds for breath tests and differing techniques for aspirate cultures. Second, the inclusion
+                               of studies from 15 countries introduces potential geographical variations in microbiome
+                               composition, dietary habits, and PPI prescribing practices. Third, a notable proportion
+                               (24.14%) of the included studies had small sample sizes (<30 PPI-treated patients), which
+                               may limit the precision of subgroup analyses. Fourth, while nine studies were of high
+                               methodological quality (NOS 8–9), the majority (n = 20) had moderate limitations, particu-
+                               larly in patient selection and comparability. Finally, dietary influences may have impacted
+                               the observed associations.
+                                     Despite these limitations, our study represents the most extensive and methodolog-
+                               ically rigorous meta-analysis to date on PPI-associated SIBO. These findings underscore
+                               the importance of clinical attention to long-term PPI users and suggest potential strategies
+                               for risk management. Future research should prioritize prospective cohort studies with
+                               standardized diagnostic protocols and severe adjustment for potential variables to further
+                               clarify this relationship and explore therapeutic interventions.
+
+                               5. Conclusions
+                                    Our meta-analysis demonstrates that SIBO is a frequent complication in PPI-treated
+                               patients, affecting approximately 36.8% of them. Given the significant gastrointestinal and
+                               systemic consequences associated with SIBO, clinicians should maintain strong suspicion
+                               of this condition in patients receiving prolonged PPI treatment.
+
+                               Supplementary Materials: The following supporting information can be downloaded at
+                               https://www.mdpi.com/article/10.3390/jcm14134702/s1. Table S1. PRISMA NMA Checklist of
+                               Items to Include When Reporting a Systematic Review Involving a Network Meta-analysis.
+
+                               Author Contributions: Conceptualization, D.N.A. and F.S.S.; methodology, I.V.M. and A.V.Z.; vali-
+                               dation, Y.A.K. and D.N.A.; formal analysis, P.A.B. and Y.A.K.; investigation, A.R.K. and F.S.S.; data
+                               curation, I.V.M. and P.A.B.; writing—original draft preparation, D.N.A. and A.R.K.; writing—review
+                               and editing, I.V.M. and F.S.S.; supervision, A.V.Z. and P.A.B. All authors have read and agreed to the
+                               published version of the manuscript.
+J. Clin. Med. 2025, 14, 4702                                                                                                                11 of 13
+
+
+
+                                     Funding: This research received no external funding.
+
+                                     Data Availability Statement: No new data were created or analyzed in this study. Data sharing is
+                                     not applicable to this article.
+
+                                    Acknowledgments: During the preparation of the manuscript, the authors used ChatGPT (powered
+                                    by OpenAI’s language model, GPT-4.o mini; https://openai.com/, accessed on 6 June 2025) as
+                                    a supplementary tool to enhance language clarity and optimize structure. All AI-assisted content
+                                    was subsequently reviewed, manually edited, and rigorously validated by the authors, who assume
+                                    full responsibility for the accuracy of the data and the integrity of the interpretations presented.
+
+                                     Conflicts of Interest: The authors declare no conflicts of interest.
+
+References
+1.    Pimentel, M.; Saad, R.J.; Long, M.D.; Rao, S.S.C. ACG Clinical Guideline: Small Intestinal Bacterial Overgrowth. Am. J.
+      Gastroenterol. 2020, 115, 165–178. [CrossRef] [PubMed]
+2.    Silva, B.C.D.; Ramos, G.P.; Barros, L.L.; Ramos, A.F.P.; Domingues, G.; Chinzon, D.; Passos, M.D.C.F. Diagnosis and treatment
+      of small intestinal bacterial overgrowth: An official position paper from the Brazilian federation of gastroenterology. Arq.
+      Gastroenterol. 2025, 62, e24107. [CrossRef] [PubMed]
+3.    Skrzydło-Radomańska, B.; Cukrowska, B. How to Recognize and Treat Small Intestinal Bacterial Overgrowth? J. Clin. Med. 2022,
+      11, 6017. [CrossRef] [PubMed]
+4.    Liu Chen Kiow, J.; Bellila, R.; Therrien, A.; Sidani, S.; Bouin, M. Predictors of Small Intestinal Bacterial Overgrowth in Symptomatic
+      Patients Referred for Breath Testing. J. Clin. Med. Res. 2020, 12, 655–661. [CrossRef]
+5.    Losurdo, G.; Salvatore D’Abramo, F.; Indellicati, G.; Lillo, C.; Ierardi, E.; Di Leo, A. The Influence of Small Intestinal Bacterial
+      Overgrowth in Digestive and Extra-Intestinal Disorders. Int. J. Mol. Sci. 2020, 21, 3531. [CrossRef] [PubMed]
+6.    Lo, W.K.; Chan, W.W. Proton pump inhibitor use and the risk of small intestinal bacterial overgrowth: A meta-analysis. Clin.
+      Gastroenterol. Hepatol. 2013, 11, 483–490. [CrossRef]
+7.    Bruno, G.; Zaccari, P.; Rocco, G.; Scalese, G.; Panetta, C.; Porowska, B.; Pontone, S.; Severi, C. Proton pump inhibitors and
+      dysbiosis: Current knowledge and aspects to be clarified. World J. Gastroenterol. 2019, 25, 2706–2719. [CrossRef]
+8.    Su, T.; Lai, S.; Lee, A.; He, X.; Chen, S. Meta-analysis: Proton pump inhibitors moderately increase the risk of small intestinal
+      bacterial overgrowth. J. Gastroenterol. 2018, 53, 27–36. [CrossRef]
+9.    Schmulson, M.J.; Frati-Munari, A.C. Bowel symptoms in patients that receive proton pump inhibitors. Results of a multicenter
+      survey in Mexico. Rev. Gastroenterol. Mex. 2019, 84, 44–51. [CrossRef]
+10.   Page, M.J.; McKenzie, J.E.; Bossuyt, P.M.; Boutron, I.; Hoffmann, T.C.; Mulrow, C.D.; Shamseer, L.; Tetzlaff, J.M.; Akl, E.A.;
+      Brennan, S.E.; et al. The PRISMA 2020 statement: An updated guideline for reporting systematic reviews. BMJ 2021, 372, 71.
+      [CrossRef]
+11.   Fried, M.; Siegrist, H.; Frei, R.; Froehlich, F.; Duroux, P.; Thorens, J.; Blum, A.; Bille, J.; Gonvers, J.J.; Gyr, K. Duodenal bacterial
+      overgrowth during treatment in outpatients with omeprazole. Gut 1994, 35, 23–26. [CrossRef] [PubMed] [PubMed Central]
+12.   Gough, A.; Andrews, D.; Bacon, P.A.; Emery, P. Evidence of omeprazole-induced small bowel bacterial overgrowth in patients
+      with scleroderma. Br. J. Rheumatol. 1995, 34, 976–977. [CrossRef] [PubMed]
+13.   Lewis, S.J.; Franco, S.; Young, G.; O’Keefe, S.J. Altered bowel function and duodenal bacterial overgrowth in patients treated with
+      omeprazole. Aliment. Pharmacol. Ther. 1996, 10, 557–561. [CrossRef] [PubMed]
+14.   Thorens, J.; Froehlich, F.; Schwizer, W.; Saraga, E.; Bille, J.; Gyr, K.; Duroux, P.; Nicolet, M.; Pignatelli, B.; Blum, A.L.; et al. Bacterial
+      overgrowth during treatment with omeprazole compared with cimetidine: A prospective randomised double blind study. Gut
+      1996, 39, 54–59. [CrossRef] [PubMed] [PubMed Central]
+15.   Hutchinson, S.; Logan, R. The effect of long-term omeprazole on the glucose-hydrogen breath test in elderly patients. Age Ageing
+      1997, 26, 87–89. [CrossRef] [PubMed]
+16.   Pereira, S.P.; Gainsborough, N.; Dowling, R.H. Drug-induced hypochlorhydria causes high duodenal bacterial counts in the
+      elderly. Aliment. Pharmacol. Ther. 1998, 12, 99–104. [CrossRef] [PubMed]
+17.   Law, D.; Pimentel, M. Proton pump inhibitor therapy does not affect hydrogen production on lactulose breath test in subjects
+      with IBS. Dig. Dis. Sci. 2010, 55, 2302–2308. [CrossRef] [PubMed]
+18.   Lombardo, L.; Foti, M.; Ruggia, O.; Chiecchio, A. Increased incidence of small intestinal bacterial overgrowth during proton
+      pump inhibitor therapy. Clin. Gastroenterol. Hepatol. 2010, 8, 504–508. [CrossRef] [PubMed]
+19.   Choung, R.S.; Ruff, K.C.; Malhotra, A.; Herrick, L.; Locke, G.R., 3rd; Harmsen, W.S.; Zinsmeister, A.R.; Talley, N.J.; Saito, Y.A.
+      Clinical predictors of small intestinal bacterial overgrowth by duodenal aspirate culture. Aliment. Pharmacol. Ther. 2011, 33,
+      1059–1067. [CrossRef] [PubMed]
+J. Clin. Med. 2025, 14, 4702                                                                                                         12 of 13
+
+
+
+20.   Compare, D.; Pica, L.; Rocco, A.; De Giorgi, F.; Cuomo, R.; Sarnelli, G.; Romano, M.; Nardone, G. Effects of long-term PPI
+      treatment on producing bowel symptoms and SIBO. Eur. J. Clin. Investig. 2011, 41, 380–386. [CrossRef] [PubMed]
+21.   Costa, M.B.; Azeredo ILJr Marciano, R.D.; Caldeira, L.M.; Bafutto, M. Evaluation of small intestine bacterial overgrowth in
+      patients with functional dyspepsia through H2 breath test. Arq. Gastroenterol. 2012, 49, 279–283. [CrossRef] [PubMed]
+22.   Ratuapli, S.K.; Ellington, T.G.; O’Neill, M.T.; Umar, S.B.; Harris, L.A.; Foxx-Orenstein, A.E.; Burdick, G.E.; Dibaise, J.K.; Lacy,
+      B.E.; Crowell, M.D. Proton pump inhibitor therapy use does not predispose to small intestinal bacterial overgrowth. Am. J.
+      Gastroenterol. 2012, 107, 730–735. [CrossRef] [PubMed]
+23.   Jacobs, C.; Coss Adame, E.; Attaluri, A.; Valestin, J.; Rao, S.S. Dysmotility and proton pump inhibitor use are independent
+      risk factors for small intestinal bacterial and/or fungal overgrowth. Aliment. Pharmacol. Ther. 2013, 37, 1103–1111. [CrossRef]
+      [PubMed] [PubMed Central]
+24.   Loginov, V.A.; Minushkin, O.N. Small Intestinal Bacterial Overgrowth in Patients with Gastroesophageal Reflux Disease Long-
+      Term Using Proton Pump Inhibitors. Kremlin Med. Clin. Bull. 2014, 30–33.
+25.   Senderovky, M.; Lasa, J.; Dima, G.; Peralta, D.; Argüello, M.; Soifer, L. Influence of proton pump inhibitors on intestinal
+      fermentative profile: A case-control study. Acta Gastroenterol. Latinoam. 2014, 44, 205–209. (In Spanish) [PubMed]
+26.   Franco, D.L.; Disbrow, M.B.; Kahn, A.; Koepke, L.M.; Harris, L.A.; Harrison, M.E.; Crowell, M.D.; Ramirez, F.C. Duodenal
+      Aspirates for Small Intestine Bacterial Overgrowth: Yield, PPIs, and Outcomes after Treatment at a Tertiary Academic Medical
+      Center. Gastroenterol. Res. Pract. 2015, 2015, 971582. [CrossRef] [PubMed] [PubMed Central]
+27.   Fujiwara, Y.; Watanabe, T.; Muraki, M.; Yamagami, H.; Tanigawa, T.; Shiba, M.; Tominaga, K.; Arakawa, T. Association between
+      chronic use of proton pump inhibitors and small- intestinal bacterial overgrowth assessed using lactulose hydrogen breath tests.
+      Hepatogastroenterology 2015, 62, 268–272. [PubMed]
+28.   Schatz, R.A.; Zhang, Q.; Lodhia, N.; Shuster, J.; Toskes, P.P.; Moshiree, B. Predisposing factors for positive D-Xylose breath test
+      for evaluation of small intestinal bacterial overgrowth: A retrospective study of 932 patients. World J. Gastroenterol. 2015, 21,
+      4574–4582. [CrossRef] [PubMed] [PubMed Central]
+29.   Enko, D.; Kriegshäuser, G. Functional 13 C-urea and glucose hydrogen/methane breath tests reveal significant association of small
+      intestinal bacterial overgrowth in individuals with active Helicobacter pylori infection. Clin. Biochem. 2017, 50, 46–49. [CrossRef]
+      [PubMed]
+30.   Giamarellos-Bourboulis, E.J.; Pyleris, E.; Barbatzas, C.; Pistiki, A.; Pimentel, M. Small intestinal bacterial overgrowth is associated
+      with irritable bowel syndrome and is independent of proton pump inhibitor usage. BMC Gastroenterol. 2016, 16, 67. [CrossRef]
+      [PubMed] [PubMed Central]
+31.   Revaiah, P.C.; Kochhar, R.; Rana, S.V.; Berry, N.; Ashat, M.; Dhaka, N.; Rami Reddy, Y.; Sinha, S.K. Risk of small intestinal bacterial
+      overgrowth in patients receiving proton pump inhibitors versus proton pump inhibitors plus prokinetics. JGH Open 2018, 2,
+      47–53. [CrossRef] [PubMed] [PubMed Central]
+32.   Sieczkowska, A.; Landowski, P.; Gibas, A.; Kamińska, B.; Lifschitz, C. Long-term proton pump inhibitor therapy leads to small
+      bowel bacterial overgrowth as determined by breath hydrogen and methane excretion. J. Breath Res. 2018, 12, 036006. [CrossRef]
+      [PubMed]
+33.   Zhang, R.; Li, Y.; Ma, J.X.; Tang, S.; Li, C.M.; Wan, J. The effects of continuous proton pump inhibitor therapy on small intestinal
+      bacterial overgrowth in elderly. Zhonghua Nei Ke Za Zhi 2020, 59, 706–710. (In Chinese) [CrossRef] [PubMed]
+34.   Chuah, K.H.; Wong, M.S.; Tan, P.O.; Lim, S.Z.; Beh, K.H.; Chong, S.C.S.; Zulkifli, K.K.; Thalha, A.M.; Mahadeva, S.; Lee, Y.Y. Small
+      Intestinal Bacterial Overgrowth In Various Functional Gastrointestinal Disorders: A Case-Control Study. Dig. Dis. Sci. 2022, 67,
+      3881–3889. [CrossRef] [PubMed]
+35.   Weitsman, S.; Celly, S.; Leite, G.; Mathur, R.; Sedighi, R.; Barlow, G.M.; Morales, W.; Sanchez, M.; Parodi, G.; Villanueva-Millan,
+      M.J.; et al. Effects of Proton Pump Inhibitors on the Small Bowel and Stool Microbiomes. Dig. Dis. Sci. 2022, 67, 224–232.
+      [CrossRef] [PubMed]
+36.   DEBastiani, R.; Lopetuso, L.R.; DEBastiani, M.; Bacchin, P.; Benedetto, E.; Boscariolo, L.; Caneve, R.; Chesani, F.; Chiumeo, F.;
+      Civic, Z.; et al. Assessment of small intestinal bacterial overgrowth and methane production in patients on chronic proton-pump
+      inhibitor treatment: Prevalence and role of rifaximin in its management in primary care. Minerva Gastroenterol. 2023, 69, 523–528.
+      [CrossRef] [PubMed]
+37.   Durán-Rosas, C.; Priego-Parra, B.A.; Morel-Cerda, E.; Mercado-Jauregui, L.A.; Aquino-Ruiz, C.A.; Triana-Romero, A.; Amieva-
+      Balmori, M.; Velasco, J.A.V.; Remes-Troche, J.M. Incidence of Small Intestinal Bacterial Overgrowth and Symptoms After 7 Days
+      of Proton Pump Inhibitor Use: A Study on Healthy Volunteers. Dig. Dis. Sci. 2024, 69, 209–215. [CrossRef] [PubMed]
+38.   Lim, N.R.; Lim, S.; Chung, W.C. A Study on the Glucose Breath Test Positivity Rate and Occurrence of Small Intestine Bacterial
+      Overgrowth-Related Symptoms Caused by Long-Term Use of Proton Pump Inhibitor (PPI) Versus Potassium-Competitive Acid
+      Blocker (P-CAB) in Elderly Patients: SIBO Between PPI and P-CAB. Adv. Pharmacol. Pharm. Sci. 2024, 2024, 6069151. [CrossRef]
+      [PubMed] [PubMed Central]
+J. Clin. Med. 2025, 14, 4702                                                                                                         13 of 13
+
+
+
+39.   Maev, I.V.; Andreev, D.N.; Shaburov, R.I.; Zaborovskiy, A.V.; Fomenko, A.K.; Sokolov, F.S.; Tsaregorodtsev, S.V.; Devkota, M.K.;
+      Dicheva, D.T.; Cheremushkin, S.V.; et al. Study of the efficacy of combined therapy with rifaximin and Saccharomyces boulardii
+      CNCM I-745 in patients with small intestinal bacterial overgrowth during long-term proton pump inhibitor use. Ter. Arkhiv 2025,
+      97, 4–11. (In Russian)
+40.   Capurso, G.; Signoretti, M.; Archibugi, L.; Stigliano, S.; Delle Fave, G. Systematic review and meta-analysis: Small intestinal
+      bacterial overgrowth in chronic pancreatitis. United Eur. Gastroenterol. J. 2016, 4, 697–705. [CrossRef]
+41.   Ford, A.C.; Spiegel, B.M.; Talley, N.J.; Moayyedi, P. Small intestinal bacterial overgrowth in irritable bowel syndrome: Systematic
+      review and meta-analysis. Clin. Gastroenterol. Hepatol. 2009, 7, 1279–1286. [CrossRef] [PubMed]
+42.   Shah, A.; Morrison, M.; Burger, D.; Martin, N.; Rich, J.; Jones, M.; Koloski, N.; Walker, M.M.; Talley, N.J.; Holtmann, G.J. Systematic
+      review with meta-analysis: The prevalence of small intestinal bacterial overgrowth in inflammatory bowel disease. Aliment.
+      Pharmacol. Ther. 2019, 49, 624–635. [CrossRef] [PubMed]
+43.   Maslennikov, R.; Pavlov, C.; Ivashkin, V. Small intestinal bacterial overgrowth in cirrhosis: Systematic review and meta-analysis.
+      Hepatol. Int. 2018, 12, 567–576. [CrossRef] [PubMed]
+44.   Feng, X.; Li, X.Q. The prevalence of small intestinal bacterial overgrowth in diabetes mellitus: A systematic review and meta-
+      analysis. Aging 2022, 14, 975–988. [CrossRef] [PubMed] [PubMed Central]
+45.   Wang, Z.T.; Tan, W.T.; Huang, J.L.; Zhang, P.F.; Li, Q.; Wang, M.M.; Meng, M.M.; Su, H.; Guo, C.M.; Liu, H. Correlation Between
+      Gastroesophageal Reflux Disease and Small Intestinal Bacterial Overgrowth: Analysis of Intestinal Microbiome and Metabolic
+      Characteristics. J. Inflamm. Res. 2025, 18, 33–51. [CrossRef] [PubMed] [PubMed Central]
+46.   Katz, P.O.; Dunbar, K.B.; Schnoll-Sussman, F.H.; Greer, K.B.; Yadlapati, R.; Spechler, S.J. ACG Clinical Guideline for the Diagnosis
+      and Management of Gastroesophageal Reflux Disease. Am. J. Gastroenterol. 2022, 117, 27–56. [CrossRef] [PubMed] [PubMed
+      Central]
+47.   Kamada, T.; Satoh, K.; Itoh, T.; Ito, M.; Iwamoto, J.; Okimoto, T.; Kanno, T.; Sugimoto, M.; Chiba, T.; Nomura, S.; et al. Evidence-
+      based clinical practice guidelines for peptic ulcer disease 2020. J. Gastroenterol. 2021, 56, 303–322. [CrossRef] [PubMed] [PubMed
+      Central]
+48.   Shaheen, N.J.; Falk, G.W.; Iyer, P.G.; Souza, R.F.; Yadlapati, R.H.; Sauer, B.G.; Wani, S. Diagnosis and Management of Barrett’s
+      Esophagus: An Updated ACG Guideline. Am. J. Gastroenterol. 2022, 117, 559–587. [CrossRef] [PubMed] [PubMed Central]
+49.   Ghoshal, U.C.; Shukla, R.; Ghoshal, U. Small Intestinal Bacterial Overgrowth and Irritable Bowel Syndrome: A Bridge between
+      Functional Organic Dichotomy. Gut Liver 2017, 11, 196–208. [CrossRef] [PubMed] [PubMed Central]
+50.   Daniels, B.; Pearson, S.A.; Buckley, N.A.; Bruno, C.; Zoega, H. Long-term use of proton-pump inhibitors: Whole-of-population
+      patterns in Australia 2013–2016. Ther. Adv. Gastroenterol. 2020, 13, 1756284820913743. [CrossRef] [PubMed] [PubMed Central]
+51.   Romano, S.; Rodrigues, A.T.; Torre, C.; Perelman, J. Patterns of outpatient proton-pump inhibitors use among older adults in
+      a duplicative health system: Comparing public and private prescribing. BMC Health Serv. Res. 2025, 25, 30. [CrossRef] [PubMed]
+      [PubMed Central]
+52.   Hálfdánarson, Ó.Ö.; Pottegård, A.; Björnsson, E.S.; Lund, S.H.; Ogmundsdottir, M.H.; Steingrímsson, E.; Ogmundsdottir,
+      H.M.; Zoega, H. Proton-pump inhibitors among adults: A nationwide drug-utilization study. Ther. Adv. Gastroenterol. 2018,
+      11, 1756284818777943. [CrossRef] [PubMed] [PubMed Central]
+53.   Rossi, A.; Perrella, L.; Scotti, S.; Olmastroni, E.; Galimberti, F.; Ardoino, I.; Orlando, V.; Menditto, E.; Franchi, C.; Casula, M.
+      Approaches to Deprescribing Proton Pump Inhibitors in Clinical Practice: A Systematic Review. J. Clin. Med. 2024, 13, 6283.
+      [CrossRef] [PubMed] [PubMed Central]
+54.   Farrell, B.; Pottie, K.; Thompson, W.; Boghossian, T.; Pizzola, L.; Rashid, F.J.; Rojas-Fernandez, C.; Walsh, K.; Welch, V.; Moayyedi,
+      P. Deprescribing proton pump inhibitors: Evidence-based clinical practice guideline. Can. Fam. Physician 2017, 63, 354–364.
+      [PubMed] [PubMed Central]
+55.   Targownik, L.E.; Fisher, D.A.; Saini, S.D. AGA Clinical Practice Update on De-Prescribing of Proton Pump Inhibitors: Expert
+      Review. Gastroenterology 2022, 162, 1334–1342. [CrossRef] [PubMed]
+
+
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.
+

@@ -1,0 +1,747 @@
+                                                                                                                  ORIGINAL CONTRIBUTIONS                            775
+
+
+
+
+see related editorial on page x
+
+
+Hydrogen and Methane-Based Breath Testing in
+
+
+
+
+                                                                                                                                                                    FUNCTIONAL GI DISORDERS
+Gastrointestinal Disorders: The North American
+Consensus
+Ali Rezaie, MD, MSc, FRCP(C)1, Michelle Buresi, MD2, Anthony Lembo, MD3, Henry Lin, MD4, Richard McCallum, MD5,
+Satish Rao, MD6, Max Schmulson, MD7, Miguel Valdovinos, MD8, Salam Zakko, MD9, Mark Pimentel, MD, FRCP(C)1 and on behalf of
+The North American Consensus group on hydrogen and methane-based breath testing
+
+
+OBJECTIVES:              Breath tests (BTs) are important for the diagnosis of carbohydrate maldigestion syndromes and small
+                         intestinal bacterial overgrowth (SIBO). However, standardization is lacking regarding indications for
+                         testing, test methodology and interpretation of results. A consensus meeting of experts was convened
+                         to develop guidelines for clinicians and research.
+
+METHODS:                 Pre-meeting survey questions encompassing ﬁve domains; indications, preparation, performance,
+                         interpretation of results, and knowledge gaps, were sent to 17 clinician-scientists, and 10 attended
+                         a live meeting. Using an evidence-based approach, 28 statements were ﬁnalized and voted on
+                         anonymously by a working group of specialists.
+
+RESULTS:                 Consensus was reached on 26 statements encompassing all ﬁve domains. Consensus doses for
+                         lactulose, glucose, fructose and lactose BT were 10, 75, 25 and 25 g, respectively. Glucose and
+                         lactulose BTs remain the least invasive alternatives to diagnose SIBO. BT is useful in the diagnosis of
+                         carbohydrate maldigestion, methane-associated constipation, and evaluation of bloating/gas but not
+                         in the assessment of oro-cecal transit. A rise in hydrogen of ≥20 p.p.m. by 90 min during glucose or
+                         lactulose BT for SIBO was considered positive. Methane levels ≥10 p.p.m. was considered methane-
+                         positive. SIBO should be excluded prior to BT for carbohydrate malabsorption to avoid false positives.
+                         A rise in hydrogen of ≥20 p.p.m. from baseline during BT was considered positive for maldigestion.
+
+CONCLUSIONS: BT is a useful, inexpensive, simple and safe diagnostic test in the evaluation of common
+                         gastroenterology problems. These consensus statements should help to standardize the indications,
+                         preparation, performance and interpretation of BT in clinical practice and research.
+SUPPLEMENTARY MATERIAL is linked to the online version of the paper at http://www.nature.com/ajg
+
+Am J Gastroenterol 2017; 112:775–784; doi:10.1038/ajg.2017.46; published online 21 March 2017
+
+
+
+
+INTRODUCTION                                                                         (IBS)-like symptoms, carbohydrate maldigestion and dysfunction
+Breath test (BT) is performed to aid in the diagnosis of many                        or alterations in oro-cecal transit. Presently in clinical practice, BT
+common gastroenterological conditions including small intes-                         is being performed with various substrates (e.g., glucose, lactulose,
+tinal bacterial overgrowth (SIBO) and irritable bowel syndrome                       fructose, sorbitol, sucrose and inulin) using variable doses for a range
+
+1
+ GI Motility Program, Division of Gastroenterology, Department of Medicine, Cedars-Sinai, Los Angeles, California, USA; 2Division of Gastroenterology, Department
+of Medicine, University of Calgary, Calgary, Alberta, Canada; 3Beth Israel Deaconess Medical Center, Department of Medicine, Boston, Massachusetts, USA;
+4
+ New Mexico VA Health Care System, Division of Gastroenterology and Hepatology, Department of Medicine, University of New Mexico School of Medicine,
+Albuquerque, New Mexico, USA; 5Department of Internal Medicine, Texas Tech University Health Sciences Center El Paso, El Paso, Texas, USA; 6Division of
+Gastroenterology and Hepatology, Department of Medicine, Augusta University, Augusta, Georgia, USA; 7Laboratorio de Hígado, Páncreas y Motilidad (HIPAM)-
+Unit of Research in Experimental Medicine, Faculty of Medicine-Universidad Nacional Autónoma de México (UNAM), Department of Medicine, Mexico City,
+Mexico; 8GI Motility and Neurogastroenteroly Unit, Department of Gastroenterology, Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran, Mexico
+City, Mexico; 9Connecticut Gastroenterology Institute, Department of Medicine, Bristol Hospital, Bristol, Connecticut, USA. Correspondence: Ali Rezaie, MD, MSc,
+FRCP(C), Assistant Professor, Assistant Director, GI Motility Program, Cedars-Sinai Medical Center, 8730 Alden Drive, Suite 2E, Los Angeles, California 90048,
+USA. E-mail: ali.rezaie@cshs.org
+Received 19 August 2016; accepted 22 January 2017
+
+
+
+Ofﬁcial journal of the American College of Gastroenterology                                                    The American Journal of GASTROENTEROLOGY
+       776                Rezaie et al.
+
+
+
+
+                          of established and unestablished indications (e.g., SIBO, orocecal-
+                                                                                                                 Initiation process and identifying the
+                          transit time assessment and carbohydrate maldigestion) (1).                                      steering committee
+                          The number of BTs being ordered by health care professionals
+                          is rising (including the use of mail order breath tests), but the
+FUNCTIONAL GI DISORDERS
+
+
+
+
+                          lack of standardization regarding the indications, preparation
+                          and performance and interpretation of BT has led to consider-
+                          able heterogeneity between different centers and practitioners. In                   Determining consensus group members’
+                                                                                                                 pattern of breath test interpretation
+                          addition, research gaps are widening due to inter-study variability
+                          in methodology. A systematic review (2) found 13 case-control
+                          studies (3–15) that used breath testing to diagnose SIBO. Detailed
+                          examination of these studies reveals that they used 13 different
+                          methodologies to conduct the breath test or interpret the results.                   Review of literature and open discussion
+                             BT relies on measurement of gases produced in the intestine
+                          which diffuse into the systemic circulation and are expired through
+                          the lungs. There are 4 main sources for intestinal gases: swallowed
+                          air and air mixed with food, chemical reactions in the gut, diffu-
+                          sion of gases from the blood stream, and microbial metabolism                    Anonymous voting online on position statements
+                          (16). Healthy subjects have an average of about 100 ml of intestinal
+                          gas (ranging from 30 to 200 ml), principally composed of hydro-
+                          gen (H2), carbon dioxide (CO2) and methane (CH4), with lesser
+                          amounts of oxygen (O2), nitrogen (N2), hydrogen sulfide (H2S),
+                          indole, skatole and ammonia (NH3) (17). Of these, H2 and CH4 are                        Drafting the report to be sent to the
+                          exclusively produced via microbial fermentation in the gut, which                               steering committee
+                          is the principle behind clinical breath testing (17). Gut microbes
+                          readily digest carbohydrates, resulting in production of these         Figure 1. Consensus development process.
+                          gases, which then diffuse into the abdominal venous circulation
+                          and are transported to the lungs, where they can be detected in the
+                          exhaled breath (17).
+                             To conduct a BT, fasted subject ingests a carbohydrate substrate    on the basis of literature reviews. Pre-meeting survey questions
+                          and breath samples are procured for the measurement of H2 and          (Supplementary Information S1 online) were designed to fur-
+                          CH4 levels at set intervals over the next several hours. Currently,    ther delineate the current knowledge gaps in breath testing and
+                          there are two consensus documents available regarding breath           were sent to the consensus group members. The survey results
+                          testing published by the Italian H2-breath Testing Consensus           were collated and summarized prior to the consensus meeting.
+                          Conference Working Group (1) and the German Society of Neu-              Selection of the physician-scientists for this meeting were
+                          rogastromotility (18) in 2009 and 2005, respectively. Since then       based on a number of criteria. First, was to be sure that attendees
+                          the body of evidence, especially in the field of the microbiome,       represented those with active and recent research in the area of
+                          has evolved exponentially. For instance, these statements do not       breath testing research. This involved a literature search to under-
+                          provide guidance on measurement and interpretation of methane          stand those in North America with active publications in the area.
+                          gas levels, false-positivity of carbohydrate malabsorption testing     Many of these included physicians from major academic motility
+                          in the setting of SIBO, and the effects of anti-acids on BT. There     programs. The second was to also have representation from clini-
+                          is no North American consensus document, despite more data             cian scientists from high volume breath testing referral centers to
+                          emerging on the utility of BT in the North American population.        ensure those with a vast experience in the use and interpretation
+                          Therefore, a consensus meeting was convened with the goals of          of breath tests. The third was to ensure representation from vari-
+                          providing easy-to-follow guidelines for physicians performing BT       ous regions in the US as well as Mexico and Canada. An email
+                          and to lay the foundation for future consensus guidelines, as well     was sent to those meeting these criteria. A total of 17 clinician
+                          as identifying gaps of knowledge in breath testing and to direct       scientists from North America were invited to participate in the
+                          future research initiatives.                                           survey and attend the consensus meeting, of whom 10 were able
+                                                                                                 to attend the meeting in person. The half day meeting was held on
+                                                                                                 16 May 2015 in Washington, DC. At the consensus group meet-
+                          METHODS                                                                ing, results of the survey and comprehensive literature review
+                          Consensus development process                                          were presented for discussion among the group members.
+                          The process for the development of the consensus statements              Distinct topics of discussion included indications, preparation,
+                          is outlined in Figure 1. Specific topics for discussion including      performance, interpretations of results, and future directions in
+                          indications for breath testing, the preparation and performance        breath testing. Based on the results of these discussions, a series of
+                          of the test, and the interpretation of the results were identified     draft consensus statements was compiled and sent to committee
+
+
+                          The American Journal of GASTROENTEROLOGY                                                                VOLUME 112 | MAY 2017 www.nature.com/ajg
+                                                                                                                    North American Breath Testing Consensus         777
+
+
+
+
+ Table 1. Preparation before breath testing                                          Table 2. Indications for breath testing
+
+ Consensus statement                      Percentage of       Quality of evidence    Consensus statement                   Percentage of      Quality of evidence
+                                           agreement               (GRADE)                                                  agreement              (GRADE)
+
+
+
+
+                                                                                                                                                                    FUNCTIONAL GI DISORDERS
+ 1. We recommend that anti-           Agree (88.9% agree,                        1. Current small bowel             Agree (88.9% agree,       WW
+ biotics should be avoided for           0% uncertain,                               culture techniques are not            0% uncertain,
+ 4 weeks prior to the breath            11.1% disagree)                              satisfactory for the assess-         11.1% disagree)
+ test.                                                                               ment of SIBO.
+ 2. A ﬁrm position statement           Uncertain (44.4%           WWW               2. If culture is considered        Agree (77.8% agree,       WW
+ cannot be reached due to                agree, 44.4%                                for diagnosis of SIBO, based        11.1% uncertain,
+ lack of conclusive data on            uncertain, 11.1%                              on the current evidence,             11.1% disagree)
+ stopping or continuing pro/               disagree)                                 we suggest the threshold
+ prebiotics prior to breath                                                          of >103 c.f.u./ml for the
+ testing.                                                                            deﬁnition of SIBO
+ 3. We suggest that, if tolerat-      Agree (77.8% agree,         WWW               3. We suggest breath testing       Agree (100% agree,        W
+ ed by the patient, promotility        11.1% uncertain,                              in the diagnosis of small in-        0% uncertain,
+ drugs and laxatives should             11.1% disagree)                              testinal bacterial overgrowth.        0% disagree)
+ be stopped at least 1 week
+ prior to breath testing.                                                            4. Until a true gold standard      Agree (77.8% agree,       W
+                                                                                     is established, we suggest          11.1% uncertain,
+ 4. We suggest that ferment-          Agree (100% agree,          W               breath testing in assessing          11.1% disagree)
+ able foods such as complex             0% uncertain,                                the presence of antibiotic-
+ carbohydrates should be                 0% disagree)                                responsive microbial coloni-
+ avoided on the day prior to                                                         zation of the gastrointestinal
+ breath testing.                                                                     tract.
+ 5. We suggest that the fast-         Agree (77.8% agree,         WW               5. We suggest to evaluate for      Agree (88.9% agree,       W
+ ing period for breath testing           0% uncertain,                               excessive methane excretion           0% uncertain,
+ as part of preparation should          22.2% disagree)                              on breath test in association        11.1% disagree)
+ be 8–12 h.                                                                          with clinical constipation and
+                                                                                     slowing of gastrointestinal
+ 6. We recommend that                 Agree (100% agree,                         transit.
+ smoking should be avoided              0% uncertain,
+ on the day of breath testing.           0% disagree)                                6. We suggest that breath          Agree (77.8% agree,       W
+                                                                                     testing should not be used          11.1% uncertain,
+ 7. We recommend that                 Agree (100% agree,                         for assessment of orocecal           11.1% disagree)
+ physical activity should be            0% uncertain,                                transit time.
+ limited during breath testing.          0% disagree)
+                                                                                     7. We suggest breath               Agree (88.9% agree,       W
+ 8. We suggest that it is not         Agree (77.8% agree,         WW               testing for the diagnosis of        11.1% uncertain,
+ necessary to stop proton              11.1% uncertain,                              carbohydrate maldigestion             0% disagree)
+ pump inhibitors prior to               11.1% disagree)                              syndromes.
+ breath testing.
+                                                                                     8. We suggest breath testing       Agree (88.9% agree,       WW
+                                                                                     in the assessment of condi-         11.1% uncertain,
+                                                                                     tions with bloating.                  0% disagree)
+
+
+members for online voting using SurveyMonkey (SurveyMonkey,
+Palo Alto, CA) with revision as necessary. Using a modified                         RESULTS
+Delphi process (19,20), group members anonymously voted on                          The consensus statements (Tables 1–4) achieved for each of the
+their level of agreement with each statement on a scale of 1–3 (dis-                five broad domains are summarized below:
+agree, uncertain and agree, respectively). A statement was accepted
+if >70% of participants voted 3 (agree), and it was rejected if >50%                Preparation of patients for breath testing
+of participants voted 1 (disagree). If neither of these criteria were
+reached, it was stated that “a firm position statement could not be                 1. We recommend that antibiotics should be avoided for 4 weeks
+reached due to lack of conclusive data”. The strength of recommen-                     prior to the breath test.
+dation for each statement was assigned by the consensus group                       2. A firm position statement could not be reached due to lack
+as either strong (“we recommend...”) or weak (“we suggest...”).                        of conclusive data on stopping or continuing probiotics or
+The strength of each statement was based on resource and cost                          prebiotics prior to breath testing.
+benefit, patients’ values, risk/benefit balance and quality of evi-                 3. We suggest that, if tolerated by the patient, promotility drugs
+dence. The quality of evidence for each consensus statement was                        and laxatives should be stopped at least one week prior to
+classified as high (), moderate (WW), low (WW),                                breath testing.
+or very low (WWW) based on Grading of Recommendations,                             4. We suggest that fermentable foods such as complex carbo-
+Assessment, Development and Evaluations (GRADE) system (21).                           hydrates should be avoided on the day prior to breath testing.
+The manuscript was circulated to all group members for review,                      5. We suggest that the fasting period prior to breath testing
+revisions and approval.                                                                should be 8–12 h.
+
+
+Ofﬁcial journal of the American College of Gastroenterology                                                         The American Journal of GASTROENTEROLOGY
+       778                Rezaie et al.
+
+
+
+
+                           Table 3. Performance of breath tests                                            Table 4. Interpretation of breath testing
+
+                           Consensus statement                   Percentage of      Quality of evidence    Consensus statement                  Percentage of          Quality of
+                                                                  agreement              (GRADE)                                                 agreement         evidence (GRADE)
+FUNCTIONAL GI DISORDERS
+
+
+
+
+                           1. We suggest that the correct     Agree (100% agree,        W               1. We suggest that a rise of      Agree (100% agree,        WW
+                           dose of lactulose for breath         0% uncertain,                              ≥20 p.p.m. from baseline            0% uncertain,
+                           testing is 10 g with or followed      0% disagree)                              in hydrogen during the test          0% disagree)
+                           by one cup of water.                                                            should be considered posi-
+                                                                                                           tive for fructose and lactose
+                           2. We suggest that the correct     Agree (88.9% agree,       WW               breath testing.
+                           dose of glucose for breath          11.1% uncertain,
+                           testing is 75 g mixed with or         0% disagree)                              2. We suggest that until          Agree (77.8% agree,       WW
+                           followed by one cup of water.                                                   better data are available,         11.1% uncertain,
+                                                                                                           for clinical and research pur-      11.1% disagree)
+                           3. We suggest that the correct     Agree (88.9% agree,       WW               poses, a rise of ≥20 p.p.m.
+                           dose of lactose for breath            0% uncertain,                             from baseline in hydrogen by
+                           testing is 25 g mixed with or        11.1% disagree)                            90 min should be considered
+                           followed by one cup of water.                                                   a positive test to suggest the
+                           4. We suggest that the correct     Agree (88.9% agree,       W               presence of SIBO.
+                           dose of fructose for breathe          0% uncertain,                             3. We suggest that two            Agree (88.9% agree,       WW
+                           testing is 25 g mixed with or        11.1% disagree)                            peaks on breath test are not         0% uncertain,
+                           followed by one cup of water.                                                   required for the diagnosis          11.1% disagree)
+                           5. We suggest that fructose        Agree (100% agree,        W               of SIBO.
+                           and lactose breath test              0% uncertain,                              4. Until further data is avail-   Agree (88.9% agree,       WW
+                           should be performed for at            0% disagree)                              able, we suggest that a level        0% uncertain,
+                           least 3 hours.                                                                  of ≥10 p.p.m. be considered         11.1% disagree)
+                           6. We suggest that the pres-       Agree (100% agree,        W               positive for methane on a
+                           ence of bacterial overgrowth         0% uncertain,                              breath test.
+                           should be ruled out before            0% disagree)                              5. A ﬁrm position statement        Uncertain (44.4%         WW
+                           performing lactose or fructose                                                  cannot be reached due to            agree, 44.4%
+                           breath testing.                                                                 lack of conclusive data on         uncertain, 11.1%
+                           7. We recommend that               Agree (77.8% agree,                      the deﬁnition of abnormal             disagree)
+                           hydrogen, methane and               22.2% uncertain,                            methane on to be ≥3 p.p.m.
+                           carbon dioxide should all be          0% disagree)
+                           measured simultaneously
+                           during breath testing.
+                                                                                                             Prokinetic drugs such as tegaserod and other laxatives such as
+                                                                                                          magnesium compounds can also affect the composition of the
+                                                                                                          breath gases (28). Faster transit time caused by promotility drugs
+                          6. We recommend that smoking should be avoided on the day                       will lead to an earlier delivery of the substrate to colon and will
+                             of breath testing.                                                           increase the chance of a false positive result. Again, no clear data
+                          7. We recommend that physical activity should be limited dur-                   exist, but a 4-week gap between cessation of prokinetics and breath
+                             ing breath testing.                                                          testing has previously been recommended (1). However, a 4-week
+                          8. We suggest that it is not necessary to stop proton pump                      gap may not be practical in patients with constipation or gastro-
+                             inhibitors prior to breath testing.                                          paresis; hence, we propose discontinuing laxatives and promotility
+                                                                                                          agents for a week and only if tolerated by patients.
+                             With regards to preparation for breath testing, the use of anti-                A low fasting level of breath H2 is essential for interpreting the
+                          biotics has been clearly shown to alter the H2 and CH4 compo-                   breath test results, as these are directly affected by consumption
+                          sition of the exhaled breath (22,23) and although no clear data                 of fermentable complex carbohydrates (29,30). As a result, avoid-
+                          exist, a 4-week gap between the cessation of antibiotic therapy                 ance of complex carbohydrates and dairy products the evening or
+                          and performance of the test is generally recommended (1).                       day before a breath test (meat and rice do not appear to affect the
+                          While the effect of antibiotics on hydrogen and methane pro-                    breath test (31)) and overnight fasting is also recommended (1),
+                          duction is well known (24,25), the extent of this effect based on               although the precise duration requires to be determined in future
+                          bioavailability and pharmacodynamics of antibiotics is not well                 studies.
+                          understood. This timeline between breath testing and antibiotic                    Smoking affects breath test results by increasing exhaled H2 and
+                          use may depend on the purpose for which the test is being per-                  CO2 content of the exhaled breath (32,33) and should be avoided
+                          formed; for example, breath tests may be performed shortly after                on the day of the test. Smoking also increases gastric transit time
+                          cessation of antibiotic therapy to confirm eradication.                         (34). As hyperventilation inversely affects H2 levels (35), exces-
+                             Although probiotics have been shown to affect H2 levels on                   sive physical activity should be avoided during the breath test.
+                          breath test (26,27), a firm position statement could not be reached             Conflicting results exist in the literature in regards to the effect of
+                          due to lack of conclusive data on stopping or continuing probiotics             proton pump inhibitors (PPIs) on breath test results (36,37). Stop-
+                          or prebiotics prior to breath testing.                                          ping PPIs may not lead to more accurate measurements of exhaled
+
+
+                          The American Journal of GASTROENTEROLOGY                                                                             VOLUME 112 | MAY 2017 www.nature.com/ajg
+                                                                                                North American Breath Testing Consensus          779
+
+
+
+
+breath gas levels and recurrence of reflux symptoms may not be         of glucose and lactulose breath testing in diagnosing SIBO is
+tolerable to all patients. Currently, stopping anti-acid medications   difficult to achieve, due to the variability between studies in inter-
+prior to breath testing is not necessary.                              pretation of small bowel bacterial concentration as the gold stand-
+
+
+
+
+                                                                                                                                                 FUNCTIONAL GI DISORDERS
+                                                                       ard test and lack of uniformity in defining a positive breath test (2).
+Indications for breath testing                                         In fact, such variability was one of the main motivations for the
+                                                                       current consensus document. In a systematic review, Khoshini
+1. Current small bowel culture techniques are not satisfactory         et al. (2) found 11 studies that have attempted to validate the accu-
+   for the assessment of SIBO.                                         racy of breath testing in diagnosis of SIBO. The sensitivity of glu-
+2. If culture is considered for diagnosis of SIBO, based on the        cose breath testing varied from 20 to 93% and specificity from 30
+   current evidence, we suggest the threshold of >103 c.f.u./ml        to 86%. The sensitivity of lactulose breath testing ranged from 31
+   for the definition of SIBO.                                         to 68% and specificity ranged from 44 to 100%. There were strik-
+3. We suggest breath testing in the diagnosis of small intestinal      ing differences in methodology in the included studies (2). In a
+   bacterial overgrowth.                                               recent comparative study, duodenal culture was positive in 62/139
+4. Until a true gold standard is established, we suggest breath        (45%) patients with unexplained gas, bloating and diarrhea and
+   testing in assessing the presence of antibiotic-responsive          negative endoscopy, whereas GBT was positive in 38/139 (27%)
+   microbial colonization of the gastrointestinal tract.               patients. The sensitivity and specificity of GBT were 42% and 84%,
+5. We suggest to evaluate for excessive methane excretion on           respectively (41).
+   breath test in association with clinical constipation and slow-        A recent retrospective study of subjects undergoing concurrent
+   ing of gastrointestinal transit.                                    glucose breath testing with scintigraphy concluded that glucose
+6. We suggest that breath testing should not be used for assess-       breath testing has a high false positive rate due to arrival of the
+   ment of orocecal transit time.                                      scintigraphy in the cecum prior to a rise in hydrogen or methane
+7. We suggest breath testing for the diagnosis of carbohydrate         on testing (46). This is similar to conclusions previously published
+   maldigestion syndromes.                                             pertaining to lactulose breath testing (47). However, both of these
+8. We suggest breath testing in the assessment of conditions           studies rely on the arrival of technetium to the cecum as a deter-
+   associated with bloating.                                           minant of oro-cecal transit—either 5% arrival of technetium in the
+                                                                       cecum (47), or the “head of the labeled bolus” (46). If 5% of the
+   SIBO is a condition in which the small bowel is colonized by        lactulose or “the head of the bolus” is in the cecum, the rest of the
+excessive numbers of aerobic and anaerobic microbes that are           medium is still in the small intestine; hence, the rise of breath gases
+normally found in the large intestine (38). Aspiration of small        is not necessarily due fermentation in the cecum (48). Moreover,
+bowel fluid, followed by culture and bacterial count is consid-        the lag time between colonic flora exposure to sugar and peak of
+ered to be the current gold standard for diagnosis of SIBO (39).       bacterial fermentation was not taken into account in these studies
+Unlike breath testing, small bowel aspiration is invasive, time-       (48), and as such, they do not yet provide a clear answer on the
+consuming and costly. In addition, small bowel aspiration has          validity of these breath tests.
+multiple shortcomings. Mid and distal segments of small bowel             Methane gas has been shown to inhibit intestinal transit in dogs
+are beyond the reach of regular endoscopes; therefore, proximal        by 59% (ref. 49) and in human subjects CH4 positivity on breath
+small bowel aspirates may be falsely negative (40). Although           test has been associated with constipation (50–53). Patients with
+aseptic techniques for small bowel aspirates have been described       CH4-predominant bacterial overgrowth usually present with
+(41), contamination with oral and esophageal flora may lead to         bloating and abdominal distention. However, they are 5 times
+a significant number of false positive results (42). Quantitative      more likely to have constipation as opposed to H2-predominant
+PCR studies have been used to diagnose SIBO with promising             overgrowth (53). Moreover, the severity of constipation directly
+results (43,44); however, such techniques are not readily available    correlated with the methane level (50) and the choice of antibiotics
+for clinical practice.                                                 for the treatment of SIBO differs between these two groups as the
+   Historically, a bacterial concentration ≥105 colony forming units   predominant methanogen in the human gut, Methanobrevibacter
+(c.f.u.)/ml has been used for identification of any infection in the   smithii, is resistant to many antibiotics (22,38,54).
+small bowel including SIBO. However, this cut-off is not well-val-        Lactulose and inulin breath testing have been used to assess
+idated and has been a point of controversy. A systematic review of     oro-cecal transit time (i.e., gastric emptying time plus small bowel
+literature on the diagnosis of SIBO observed that healthy controls     transit time). Variable criteria have been used to estimate the tran-
+have a bacterial concentration of ≤103 c.f.u./ml while concentra-      sit time including time to the second peak of hydrogen or rise of
+tions ≥105 c.f.u. are mostly seen in patients with blind loop syn-     5–10 p.p.m., and different substrates, including a liquid meal con-
+drome such as patients with Billroth II procedure (2). Currently       taining lactulose, or a solid meal containing fermentable food such
+a bacterial concentration of >103 c.f.u./ml is generally considered    as baked beans±lactulose (55,56). However, lactulose has been
+significant (41,42,44,45).                                             shown to shorten oro-cecal transit time (57), and the test has been
+   Glucose is a monosaccharide which is absorbed in the proximal       shown to have poor reproducibility with wide variation among
+small bowel, whereas lactulose is a non-digestible disaccharide that   healthy subjects (1). Inulin is less osmotically active and has been
+reaches the colon. Determination of the exact test characteristics     proposed as an alternative substrate to lactulose (58). Until further
+
+
+Ofﬁcial journal of the American College of Gastroenterology                                     The American Journal of GASTROENTEROLOGY
+       780                Rezaie et al.
+
+
+
+
+                          data is available, use of breath testing to assess oro-cecal transit    Performance of breath tests
+                          time is not recommended.
+                             Breath tests are also used in the diagnosis of a variety of carbo-   1. We suggest that the correct dose of lactulose for breath test-
+                          hydrate maldigestion syndromes. The lactose breath test is per-            ing is 10 g with or followed by one cup of water.
+FUNCTIONAL GI DISORDERS
+
+
+
+
+                          formed to diagnose lactose maldigestion/intolerance, which may          2. We suggest that the correct dose of glucose for breath testing
+                          result from lactase deficiency. Lactose, which is exclusively found        is 75 g mixed with or followed by one cup of water.
+                          in dairy products, is a disaccharide composed of galactose and          3. We suggest that the correct dose of lactose for breath testing
+                          glucose, and the brush border enzyme lactase phlorizin hydrolase           is 25 g mixed with or followed by one cup of water.
+                          is required for its digestion. Lactase deficiency can be primary        4. We suggest that the correct dose of fructose for breath testing
+                          or secondary (i.e., acquired lactase deficiency due to damage to,          is 25 g mixed with or followed by one cup of water.
+                          or absence, of the brush border). There is no gold standard test        5. We suggest that fructose and lactose breath testing should be
+                          to diagnose lactose maldigestion and large scale data are lack-            performed for at least 3 h.
+                          ing to compare the degree of agreement of the currently avail-          6. We suggest that the presence of bacterial overgrowth should
+                          able tests (59). Jejunal biopsies followed by a lactase activity           be ruled out before performing lactose or fructose breath
+                          assay is invasive and unreliable due to patchy lactase distribution        testing.
+                          in the brush border (60). Genetic testing only detects primary          7. We recommend that hydrogen, methane and carbon dioxide
+                          lactase deficiency (61), and tests of blood glucose levels follow-         should all be measured simultaneously during breath
+                          ing lactose ingestion depend on glucose metabolism and are not             testing.
+                          reliable (61,62). One other limitation of the lactose breath test
+                          is false negative results in individuals with fixed hydrogen and           When performing lactulose breath tests for the determina-
+                          non-methane production; however, these only constitute 3.4% of          tion of SIBO, the majority of studies have used a dose of 10 g
+                          breath tests (63). As mentioned above, false positive results can       (11,12,72). Higher doses incur the risk of speeding intestinal tran-
+                          also occur (64,65).                                                     sit time, which could affect test data (57).
+                             The fructose breath test is performed to diagnose fructose mal-         With regards to the glucose breath testing, variable doses of 50 g
+                          digestion/intolerance. In fructose intolerant subjects, unabsorbed      (10,73,74) and 75–100 g (11,15,41,75) have been used. Compara-
+                          fructose is fermented by the colonic bacteria causing IBS-like          tive studies using 50 g, 75 g or 100 g have not been performed. A
+                          symptoms (66). A well-conducted study has shown that ingest-            75 g dose is used for oral glucose testing in diabetics, as recom-
+                          ing 25 g of fructose is the appropriate dose for fructose breath        mended by the World Health Organization (76); hence, from the
+                          testing and symptom correlation (67). Again, limitations of the         practical standpoint stocking 75 g doses is less-expensive, easier
+                          test include false negatives, which can occur in individuals who        to obtain for breath test centers and could provide an adequate
+                          are fixed hydrogen non-methane producers; and false positives,          amount of carbohydrate substrate.
+                          which can occur in individuals with SIBO. Nucera et al. (64)               In subjects with lactose and fructose intolerance, unabsorbed
+                          showed that the number of positive fructose breath tests in IBS         substrate is fermented by the colonic bacteria (62) leading to
+                          patients with positive lactulose tests dropped from 62 to 3% after      symptoms such as gas, bloating and abdominal pain. Symptoms of
+                          1 week of antibiotic treatment (64). Further studies are need to        lactose malabsorption generally occur after ingestion of 6–12 g lac-
+                          clarify the role of breath testing in sorbitol (68) and fructan (66)    tose (120–240 ml of milk) (77–79). Although high doses of lactose
+                          intolerance.                                                            (≥50 g) have been used for lactose breath test (80), 25 g (equivalent
+                             IBS-like symptoms are commonly seen in patients with SIBO            of 500 ml of milk) is within the normal range of consumption and
+                          and carbohydrate maldigestion (38,69). However, symptom pro-            is the recommended dose.
+                          files of these patients are non-specific and clinical history alone        While absorption of lactose is dependent on the lactase enzyme,
+                          cannot differentiate the underlying cause. In assessment of 144         fructose is absorbed via facilitative diffusion mediated by the
+                          subjects with IBS-like symptoms, Jacobs et al. (42) found no dif-       glucose/fructose transporter member 5 (GLUT-5) transporter
+                          ference in the intensity, frequency and duration of abdominal           (81,82). However, this passive absorptive system can be easily
+                          pain, bloating, fullness, belching, indigestion, nausea, vomiting,      overwhelmed by excess amount of fructose. Rao et al. (67) have
+                          diarrhea and gas among patients with or without SIBO proven             shown that healthy individuals have the capacity to absorb up to
+                          by aerobic/anaerobic/fungal small bowel cultures. Meta-analyses         25 g of fructose while 80% of these subjects had evidence of fruc-
+                          (70,71) have documented a wide variety of types of breath tests         tose malabsorption without symptoms when tested using 50 g of
+                          (i.e., different substrates) as well as considerable variability in     fructose. Therefore, the recommended dose for fructose breath
+                          the performance and interpretation of these breath tests in IBS         testing is 25 g.
+                          patients vs. controls, but found that overall, IBS patients were 3         Significant variation exists in the literature in terms of
+                          times more likely (odds ratio=3.3; 95% confidence interval 2.4–         the required length of study for assessment of carbohydrate
+                          4.6) to have an abnormal breath test than controls. Breath test-        malabsorption, ranging from 2 to 5 h (83). As the principle
+                          ing remains a useful diagnostic tool for patients with unexplained      behind breath testing in carbohydrate malabsorption is fermen-
+                          IBS-like symptoms including gas and bloating, as well as diarrhea       tation of unabsorbed substrate by the colonic bacterial flora,
+                          or constipation (70).                                                   it is crucial to allow enough time for the substrate to reach
+
+
+                          The American Journal of GASTROENTEROLOGY                                                                VOLUME 112 | MAY 2017 www.nature.com/ajg
+                                                                                                 North American Breath Testing Consensus         781
+
+
+
+
+the colon and be metabolized. Rao et al. (67) reported that             test (1). The test should be performed for at least 3 h to ensure the
+the average time for reaching the gas peak concentration was            presence of colonic fermentation. We suggest the same criteria for
+77 min (range=30–180 min) for an abnormal fructose breath               interpretation of fructose breath testing based on the results of the
+
+
+
+
+                                                                                                                                                 FUNCTIONAL GI DISORDERS
+test, thus suggesting that 180 min is sufficient to detect colonic      study by Rao et al. (67) which showed that rise of hydrogen always
+fermentation. Length of glucose and lactulose breath testing            occurs within 3 h of testing. The value of development of symp-
+for assessment of SIBO can be limited to two hours, therefore           toms during fructose breath testing is unclear and needs further
+the committee considered a rise of ≥20 p.p.m. of hydrogen by            evaluation (67,90).
+90 min as the ideal criterion for a positive test to suggest the           Erdogan et al. (91) assessed the optimal cut-off of glucose breath
+presence of SIBO.                                                       testing (75 g glucose) for detection of SIBO and correlated this with
+   It should be noted that in the presence of SIBO, fructose and lac-   duodenal aspirates and culture (both at ≥103 and ≥105 c.f.u./ml)
+tose are prematurely exposed to excessive small intestinal bacterial    in 150 patients. Sensitivity of breath test was lower at 20 p.p.m. vs.
+composition that will lead to early fermentation and elevation of       12 p.p.m. rise of H2, at both ≥103 (32 vs. 42%) and ≥105 c.f.u./ml
+exhaled gases (36,64,84,85). Therefore, performance of a lactulose      (48 vs. 64%) culture growth levels. Specificity was higher at
+or glucose breath test to rule-out SIBO should be considered prior      both ≥103 (90 vs. 81%) and ≥105 c.f.u./ml (86% vs. 78%) culture
+to carbohydrate malabsorption breath testing to minimize false          growth. George et al. (92) compared the utility of hydrogen rise
+positive results.                                                       of 20 p.p.m. above baseline by 90 min after ingestion of lactulose
+   All breath testing should incorporate measurement of CO2             vs. dual hydrogen peaks (first peak of 10 p.p.m. above baseline
+(or O2) to adjust the breath sample for non-alveolar dilution           before second peak of 20 p.p.m.) in 740 patients with gastropa-
+of exhaled air (86). Concomitant measurement of CH4 is also             resis. Only the hydrogen rise of 20 p.p.m. above baseline was cor-
+required. The majority of the methanogenic archaea in the               related with severity of bloating, postprandial fullness and early
+human gut (including M. smithii) utilize H2 in the generation of        satiety. Recently, assessment of over 15,000 lactulose breath tests
+CH4, potentially impacting H2 measurements (87). Hydrogeno-             shows that median and mean gas production levels do not elicit
+trophic methanogens in the gut (including M. smithii) utilize 4         a double peak (93). We suggest using a rise of ≥20 p.p.m. from
+mol of H2 and 1 mol of CO2 to produce each mol of CH4 (refs             baseline in hydrogen to diagnose SIBO. On the basis of current
+88,89). It has been suggested that by scavenging H2 produced            evidence, a double peak should not be used to diagnose SIBO and
+by neighboring microbes in this manner (the “sink effect”)              has no validity.
+(88), M. smithii and other hydrogen-utilizing methanogens                  The interpretation of breath tests with elevated baseline H2
+allow increased polysaccharide fermentation by neighboring              >20 p.p.m. is not clear. Further studies are needed to clarify
+microbes. Detection rate of an early rise in H2 production sig-         whether this is the result of lack of adherence to diet and fast-
+nificantly deceases in excess methane producers (87). Overall,          ing or in fact representative of a SIBO variant. The interpreta-
+given the importance of methane in association with GI symp-            tion of breath tests with no CH4 and low fixed H2 production
+toms and the interaction of methane with hydrogen production,           remains unclear. Such breath tests have been suggested to be
+measurement of methane should be integrated in all breath tests.        due to abundance of H2S-producing bacteria, which cannot be
+It should be noted that measurement of CH4 could increase the           detected using currently available gas chromatography devices
+cost of breath testing, as portable gas chromatographs do not           (94). Further studies are needed to clarify the significance of
+measure CH4.                                                            such a pattern.
+                                                                           The optimal criterion to define excessive methane produc-
+Interpretation of breath testing results                                tion is not clear. The production pattern of methane and hydro-
+                                                                        gen are different on breath testing. Unlike hydrogen, subjects
+1. We suggest that a rise of ≥20 p.p.m. from baseline in hydro-         with excessive methane production elicit an elevated methane
+   gen during the test should be considered positive for fructose       level at baseline and the rise of methane during breath testing
+   and lactose breath testing.                                          is not as sharp as hydrogen gas (63,93). Hence, using the same
+2. We suggest that until better data are available, for clinical        cutoff as hydrogen for methane is not advised. Recently it has
+   and research purposes, a rise of ≥20 p.p.m. from baseline in         been shown a fasting level of ≥5 and ≥10 p.p.m. can respec-
+   hydrogen by 90 min should be considered a positive test for          tively predict excessive methane production with specificity of
+   SIBO.                                                                99.7 and 100% while sensitivity was of 96.1% and 86.4% (63).
+3. We suggest that two peaks on breath test are not required for        The sensitivity threshold of many commercially available gas
+   the diagnosis of SIBO.                                               chromatography instruments is 3 p.p.m., and as such this is
+4. Until further data is available, we suggest that a level of          the lowest value that could be considered positive (95). Using
+   ≥10 p.p.m. be considered positive for methane on a breath            a combination of rise in hydrogen >20 p.p.m. and >5 p.p.m. of
+   test.                                                                methane, the sensitivity of breath test was lower at ≥103 (42%)
+                                                                        compared to ≥105 c.f.u./ml (56%) whereas specificity was higher
+  Similar to the European consensus statements (1,18) and               at ≥103 (85%) compared to ≥105 c.f.u./ml (78%) (91). Until fur-
+based on the current evidence, we suggest using a cutoff value of       ther data is available we suggest using a cut of ≥10 p.p.m. for
+≥20 p.p.m. rise above baseline as positive for the lactose breath       methane positivity.
+
+
+Ofﬁcial journal of the American College of Gastroenterology                                     The American Journal of GASTROENTEROLOGY
+       782                Rezaie et al.
+
+
+
+
+                          Gaps in knowledge                                                        interpretation of the results based on both hydrogen and
+                          In addition to the aforementioned consensus statements, the              methane gases.
+                          committee also identified the following gaps in knowledge and               While unanswered questions remain and there are challenges
+                          technology in breath testing:                                            that need further clarification, it is hoped that these consensus
+FUNCTIONAL GI DISORDERS
+
+
+
+
+                                                                                                   statements create uniformity in the use of BT and thus improve
+                          -   The lack of a validated gold standard test for diagnosing            and optimize patient care.
+                              SIBO.
+                          -   The lack of techniques capable of acquiring sterile and              ACKNOWLEDGMENTS
+                              anaerobic aspirates from the various segments of small bowel.        We sincerely thank Dr Gillian Barlow and Ms Kathleen S. Chua for
+                          -   Integration of deep sequencing techniques for further assess-        their important contributions.
+                              ment of bacterial diversity in SIBO patients.
+                          -   The optimal doses of lactose for breath testing, as well as the      CONFLICT OF INTEREST
+                              optimal test duration.                                               Guarantor of the article: Ali Rezaie, MD, FRCPC.
+                          -   Determination of various substrate doses in the pediatric            Specific author contributions: Conceived and planned the consensus
+                              population.                                                          group and designed the pre-meeting survey questions: A.R. and M.P.;
+                          -   Assessment of breath testing results in relation to race,            responded to the pre-meeting survey questions, and all authors partici-
+                              ethnicity, age and gender.                                           pated in the consensus group meeting: M.B., A.L., H.L., R.M., S.R., M.S.,
+                          -   Determination of the effect of pre/probiotics on hydrogen            M.V., and S.Z.; voted on the consensus statements: M.B., A.L., H.L., R.M.,
+                              and methane production.                                              S.R., M.S., M.V., M.P. and S.Z.; drafted the manuscript: A.R. and M.P.;
+                          -   Determination of the extent of effect of absorbable and              and reviewed and edited the manuscript: M.B., A.L, H.L., R.M., S.R.,
+                              non-absorbable antibiotics on breath testing results.                M.S., M.V., and S.Z.; all the authors approved the final draft submitted.
+                          -   Determining the role of breath testing in assessment of SIBO         Financial support: The consensus group meeting was supported in
+                              after therapy.                                                       part by Commonwealth Laboratories (Commonwealth Laboratories,
+                          -   Determination of the cause of non-methane fixed-hydrogen             Boston, MA). Commonwealth Laboratories had no role in the elec-
+                              pattern (i.e., flatline).                                            tion of committee members, determination of the topics of presenta-
+                          -   Determination of the significance of elevated baseline hydro-        tions/discussion, drafting or approving these consensus statements.
+                              gen levels despite fasting and adherence to pre-test diet.           Potential competing interests: Ali Rezaie reports support from
+                          -   Determination of the optimal time interval for breath test           the following sources for teaching, research, and consultation,
+                              sampling during breath testing.                                      outside the submitted work: Commonwealth Laboratories, Actavis,
+                          -   Studies to determine whether different diets in different parts      and Salix Pharmaceuticals. Henry Lin reports related intellectual
+                              of the world can affect the results of the different breath tests,   property rights. Michelle Buresi, Richard McCallum, Salam Zakko
+                              and as such if a universal standardized pre-breath test diet         and Miguel Valdovinos report no conflicts of interest. Anthony
+                              would need to be established.                                        Lembo reports receiving fees for serving on advisory boards from
+                          -   Development of gas chromatographers capable of detecting             Allergen, Furiex Pharmaceuticals, Prometheus Laboratories, Salix
+                              H2S in exhaled air as another potentially important gas              Pharmaceuticals, Valeant Pharmaceuticals, Forest Laboratories,
+                              produced by gut microbiome.                                          Alkermes, AstraZeneca, and Ironwood Pharmaceuticals. Satish Rao
+                          -   The importance of maldigestion of other substrates and their         reports support from the following sources for teaching, research,
+                              use in breath testing such as inulin and sucrose.                    and consultation, outside the submitted work: Forest Laboratories,
+                          -   Future assessment of exhaled breath volatile organic com-            Hollister, Ironwood Pharmaceuticals, Sucampo Pharmaceuticals,
+                              pounds (VOCs) in association with gut microbiome and                 In Control Medical, Vibrant, American Medical Systems, Sun
+                              H2/CH4 levels.                                                       Sweet Corporation, Synergy Pharmaceuticals, Salix Pharmaceuti-
+                                                                                                   cals, and Ventrus Laboratories. Max Schmulson has received grant
+                                                                                                   supports from Alfa Wasserman and Nestle. He has served on the
+                          DISCUSSION                                                               Advisory Board of Alfa Wasserman, is currently a consultant for
+                          Breath testing remains a useful, inexpensive, simple, and                Commonwealth Laboratories Inc and Commonwealth Diagnostics
+                          safe diagnostic tool in gastroenterology. Using an evidence-             International Inc and in the past has been a consultant for Almirall,
+                          based approach, consensus was reached on 26 statements                   Janssen, Nestle, Novartis, Procter and Gamble, Senosiain and Takeda
+                          providing practical guidance regarding the indications, prepa-           Mexico. Has been a speaker for Alfa Wasserman, Commonwealth
+                          ration, performance and interpretation of BT in clinical prac-           Diagnostics International Inc, Janssen, Mayoly-Spindler and Takeda
+                          tice and research. Furthermore, current gaps of knowledge                Mexico. Mark Pimentel is a consultant for Valeant Pharmaceuticals,
+                          are identified for future research directives. As compared to            Commonwealth Laboratories, Synthetic Biologics, Micropharma,
+                          previous guidelines, these consensus statements are updated              and Naia Pharmaceuticals, and is on the advisory boards for Valeant
+                          based on the most recent literature and provide detailed                 Pharmaceuticals and Commonwealth Laboratories. Cedars-Sinai has
+                          recommendations and clarity on drug regimens prior to BT,                a licensing agreement with Valeant Pharmaceuticals International
+                          dose of substrates, established indications, limitations and             Inc., Commonwealth Laboratories, and Synthetic Biologics.
+
+
+                          The American Journal of GASTROENTEROLOGY                                                                   VOLUME 112 | MAY 2017 www.nature.com/ajg
+                                                                                                                 North American Breath Testing Consensus                 783
+
+
+
+
+                                                                                    17. Levitt MD. Volume and composition of human intestinal gas determined
+Study Highlights                                                                        by means of an intestinal washout technic. N Engl J Med 1971;284:
+                                                                                        1394–8.
+  WHAT IS CURRENT KNOWLEDGE                                                         18. Keller J, Franke A, Storr M et al. Clinically relevant breath tests in gastro-
+  ✓ Breath testing represents an important, simple and safe
+
+
+
+
+                                                                                                                                                                         FUNCTIONAL GI DISORDERS
+                                                                                        enterological diagnostics--recommendations of the German Society for
+                                                                                        Neurogastroenterology and Motility as well as the German Society for
+       test to diagnose carbohydrate maldigestion syndromes and                         Digestive and Metabolic Diseases. Z Gastroenterol 2005;43:1071–90.
+       small intestinal bacterial overgrowth (SBIO).                                19. Cook DJ, Greengold NL, Ellrodt AG et al. The relation between systematic
+  ✓ There is signiﬁcant heterogeneity in test performance/                              reviews and practice guidelines. Ann Intern Med 1997;127:210–6.
+                                                                                    20. Bressler B, Marshall JK, Bernstein CN et al. Clinical practice guidelines for
+       preparation, the indications for breath testing and the
+       interpretation of results.                                                       the medical management of nonhospitalized ulcerative colitis: the Toronto
+                                                                                        consensus. Gastroenterology 2015;148:1035–1058 e3.
+  WHAT IS NEW HERE                                                                  21. Guyatt G, Oxman AD, Akl EA et al. GRADE guidelines: 1. Introduction-
+  ✓ Consensus doses for lactulose, glucose, fructose and                                GRADE evidence profiles and summary of findings tables. J Clin Epidemiol
+                                                                                        2011;64:383–94.
+    lactose breath tests are 10, 75, 25 and 25 g, respectively.
+  ✓ Breath testing is useful in the diagnosis of carbohydrate                       22. Pimentel M, Chang C, Chua KS et al. Antibiotic treatment of constipation-
+                                                                                        predominant irritable bowel syndrome. Dig Dis Sci 2014;59:1278–85.
+       maldigestion, methane-associated constipation but not in                     23. Gilat T, Ben Hur H, Gelman-Malachi E et al. Alterations of the colonic flora
+       the assessment of oro-cecal transit.                                             and their effect on the hydrogen breath test. Gut 1978;19:602–5.
+  ✓ For glucose or lactulose breath tests for SIBO, a ≥20 p.p.m.                    24. Lauritano EC, Gabrielli M, Scarpellini E et al. Antibiotic therapy in small
+                                                                                        intestinal bacterial overgrowth: rifaximin versus metronidazole. Eur Rev
+    rise in hydrogen by 90 min is considered positive.
+  ✓ Methane levels ≥10 p.p.m. are considered methane-positive.
+                                                                                        Med Pharmacol Sci 2009;13:111–6.
+                                                                                    25. Di Stefano M, Malservisi S, Veneto G et al. Rifaximin versus chlortetracy-
+  ✓ For assessment of carbohydrate maldigestion, a rise in                              cline in the short-term treatment of small intestinal bacterial overgrowth.
+                                                                                        Aliment Pharmacol Ther 2000;14:551–6.
+       hydrogen of ≥20 p.p.m. above baseline during breath                          26. Sen S, Mullan MM, Parker TJ et al. Effect of Lactobacillus plantarum
+       testing is considered positive.                                                  299v on colonic fermentation and symptoms of irritable bowel syndrome.
+                                                                                        Dig Dis Sci 2002;47:2615–20.
+                                                                                    27. Barrett JS, Canale KE, Gearry RB et al. Probiotic effects on intestinal
+                                                                                        fermentation patterns in patients with irritable bowel syndrome. World J
+REFERENCES                                                                              Gastroenterol 2008;14:5020–4.
+1. Gasbarrini A, Corazza GR, Gasbarrini G et al. Methodology and indica-            28. Pimentel M, Morales W, Lezcano S et al. Low-dose nocturnal tegaserod or
+    tions of H2-breath testing in gastrointestinal diseases: the Rome Consensus         erythromycin delays symptom recurrence after treatment of irritable bowel
+    Conference. Aliment Pharmacol Ther 2009;29 (Suppl 1):1–49.                          syndrome based on presumed bacterial overgrowth. Gastroenterol Hepatol
+2. Khoshini R, Dai SC, Lezcano S et al. A systematic review of diagnostic tests         (N Y) 2009;5:435–42.
+    for small intestinal bacterial overgrowth. Dig Dis Sci 2008;53:1443–54.         29. Brummer RJ, Armbrecht U, Bosaeus I et al. The hydrogen (H2) breath
+3. de Boissieu D, Chaussain M, Badoual J et al. Small-bowel bacterial over-             test. Sampling methods and the influence of dietary fibre on fasting level.
+    growth in children with chronic diarrhea, abdominal pain, or both.                  Scand J Gastroenterol 1985;20:1007–13.
+    J Pediatr 1996;128:203–7.                                                       30. Levitt MD, Hirsh P, Fetzer CA et al. H2 excretion after ingestion of complex
+4. Lupascu A, Gabrielli M, Lauritano EC et al. Hydrogen glucose breath test to          carbohydrates. Gastroenterology 1987;92:383–9.
+    detect small intestinal bacterial overgrowth: a prevalence case-control study   31. Di Stefano M, Miceli E, Missanelli A et al. Fermentation of endogenous
+    in irritable bowel syndrome. Aliment Pharmacol Ther 2005;22:1157–60.                substrates is responsible for increased fasting breath hydrogen levels in
+5. Pignata C, Budillon G, Monaco G et al. Jejunal bacterial overgrowth and              celiac disease. J Lab Clin Med 2004;143:163–8.
+    intestinal permeability in children with immunodeficiency syndromes. Gut        32. Tadesse K, Eastwood M. Breath-hydrogen test and smoking. Lancet
+    1990;31:879–82.                                                                     1977;2:91.
+6. Trespi E, Ferrieri A. Intestinal bacterial overgrowth during chronic             33. Rosenthal A, Solomons NW. Time-course of cigarette smoke contamina-
+    pancreatitis. Curr Med Res Opin 1999;15:47–52.                                      tion of clinical hydrogen breath-analysis tests. Clin Chem 1983;29:1980–1.
+7. Yang CY, Chang CS, Chen GH. Small-intestinal bacterial overgrowth in             34. Miller G, Palmer KR, Smith B et al. Smoking delays gastric emptying of
+    patients with liver cirrhosis, diagnosed with glucose H2 or CH4 breath              solids. Gut 1989;30:50–3.
+    tests. Scand J Gastroenterol 1998;33:867–71.                                    35. Perman JA, Modler S, Engel RR et al. Effect of ventilation on breath hydro-
+8. Lewindon PJ, Robb TA, Moore DJ et al. Bowel dysfunction in cystic fibro-             gen measurements. J Lab Clin Med 1985;105:436–9.
+    sis: importance of breath testing. J Paediatr Child Health 1998;34:79–82.       36. Law D, Pimentel M. Proton pump inhibitor therapy does not affect hydro-
+9. Pimentel M, Chow EJ, Lin HC. Normalization of lactulose breath testing corre-        gen production on lactulose breath test in subjects with IBS. Dig Dis Sci
+    lates with symptom improvement in irritable bowel syndrome. a double-blind,         2010;55:2302–8.
+    randomized, placebo-controlled study. Am J Gastroenterol 2003;98:412–9.         37. Lombardo L, Foti M, Ruggia O et al. Increased incidence of small intestinal
+10. Donald IP, Kitchingmam G, Donald F et al. The diagnosis of small bowel              bacterial overgrowth during proton pump inhibitor therapy. Clin Gastro-
+    bacterial overgrowth in elderly patients. J Am Geriatr Soc 1992;40:692–6.           enterol Hepatol 2010;8:504–8.
+11. King CE, Toskes PP. Comparison of the 1-gram [14C]xylose, 10-gram               38. Rezaie A, Pimentel M, Rao SS. How to test and treat small intestinal bacte-
+    lactulose-H2, and 80-gram glucose-H2 breath tests in patients with small            rial overgrowth: an evidence-based approach. Curr Gastroenterol Rep
+    intestine bacterial overgrowth. Gastroenterology 1986;91:1447–51.                   2016;18:8.
+12. Rhodes JM, Middleton P, Jewell DP. The lactulose hydrogen breath test as a      39. Simren M, Stotzer PO. Use and abuse of hydrogen breath tests. Gut
+    diagnostic test for small-bowel bacterial overgrowth. Scand J Gastroenterol         2006;55:297–303
+    1979;14:333–6.                                                                  40. Yamini D, Pimentel M. Irritable bowel syndrome and small intestinal
+13. Stotzer PO, Kilander AF. Comparison of the 1-gram (14)C-D-xylose breath             bacterial overgrowth. J Clin Gastroenterol 2010;44:672–5.
+    test and the 50-gram hydrogen glucose breath test for diagnosis of small        41. Erdogan A, Rao SS, Gulley D et al. Small intestinal bacterial overgrowth:
+    intestinal bacterial overgrowth. Digestion 2000;61:165–71.                          duodenal aspiration vs glucose breath test. Neurogastroenterol Motil
+14. Teo M, Chung S, Chitti L et al. Small bowel bacterial overgrowth is a com-          2015;27:481–9.
+    mon cause of chronic diarrhea. J Gastroenterol Hepatol 2004;19:904–9.           42. Jacobs C, Coss Adame E, Attaluri A et al. Dysmotility and proton pump
+15. Ghoshal UC, Ghoshal U, Das K et al. Utility of hydrogen breath tests in             inhibitor use are independent risk factors for small intestinal bacterial
+    diagnosis of small intestinal bacterial overgrowth in malabsorption                 and/or fungal overgrowth. Aliment Pharmacol Ther 2013;37:1103–11.
+    syndrome and its relationship with oro-cecal transit time. Indian J Gastro-     43. Olof H, Sundin AHML, Zeng M et al. The human jejunal microbiome has
+    enterol 2006;25:6–10.                                                               a distinctive bacterial flora, with streptococcus tigurinus as its signature
+16. Levitt MD, Bond JH Jr. Volume, composition, and source of intestinal gas.           species, and an increased fraction of gram-negative phyla in patients with
+    Gastroenterology 1970;59:921–9.                                                     small intestinal bacterial overgrowth. Gastroenterology 2016;150:S689.
+
+Ofﬁcial journal of the American College of Gastroenterology                                                      The American Journal of GASTROENTEROLOGY
+       784                Rezaie et al.
+
+
+
+                          44. Pyleris E, Giamarellos-Bourboulis EJ, Tzivras D et al. The prevalence of            72. Riordan SM, McIver CJ, Walker BM et al. The lactulose breath hydrogen test and
+                              overgrowth by aerobic bacteria in the small intestine by small bowel culture:           small intestinal bacterial overgrowth. Am J Gastroenterol 1996;91:1795–803.
+                              relationship with irritable bowel syndrome. Dig Dis Sci 2012;57:1321–9.             73. Kerlin P, Wong L. Breath hydrogen testing in bacterial overgrowth of the
+                          45. Giamarellos-Bourboulis E, Tang J, Pyleris E et al. Molecular assessment of              small intestine. Gastroenterology 1988;95:982–8.
+                              differences in the duodenal microbiome in subjects with irritable bowel             74. Metz G, Gassull MA, Drasar BS et al. Breath-hydrogen test for small-intes-
+FUNCTIONAL GI DISORDERS
+
+
+
+
+                              syndrome. Scand J Gastroenterol 2015;50:1076–87.                                        tinal bacterial colonisation. Lancet 1976;1:668–9.
+                          46. Lin EC, Massey BT. Scintigraphy demonstrates high rate of false-positive            75. Bauer TM, Schwacha H, Steinbruckner B et al. Diagnosis of small intestinal
+                              results from glucose breath tests for small bowel bacterial overgrowth. Clin            bacterial overgrowth in patients with cirrhosis of the liver: poor perfor-
+                              Gastroenterol Hepatol 2016;14:203–8.                                                    mance of the glucose breath hydrogen test. J Hepatol 2000;33:382–6.
+                          47. Yu D, Cheeseman F, Vanner S. Combined oro-caecal scintigraphy and                   76. Alberti KG, Zimmet PZ. Definition, diagnosis and classification of diabetes mel-
+                              lactulose hydrogen breath testing demonstrate that breath testing detects               litus and its complications. Part 1: diagnosis and classification of diabetes mel-
+                              oro-caecal transit, not small intestinal bacterial overgrowth in patients with          litus provisional report of a WHO consultation. Diabet Med 1998;15:539–53.
+                              IBS. Gut 2011;60:334–40.                                                            77. Johnson AO, Semenya JG, Buchowski MS et al. Adaptation of lactose
+                          48. Pimentel M. Reply. Gastroenterology 2016;150:278–9.                                     maldigesters to continued milk intakes. Am J Clin Nutr 1993;58:879–81.
+                          49. Pimentel M, Lin HC, Enayati P et al. Methane, a gas produced by enteric             78. Hertzler SR, Huynh BC, Savaiano DA. How much lactose is low lactose?
+                              bacteria, slows intestinal transit and augments small intestinal contractile            J Am Diet Assoc 1996;96:243–6.
+                              activity. Am J Physiol Gastrointest Liver Physiol 2006;290:G1089–G1095.             79. Hertzler SR, Savaiano DA. Colonic adaptation to daily lactose feeding in lactose
+                          50. Chatterjee S, Park S, Low K et al. The degree of breath methane production in IBS       maldigesters reduces lactose intolerance. Am J Clin Nutr 1996;64:232–6.
+                              correlates with the severity of constipation. Am J Gastroenterol 2007;102:837–41.   80. Arvanitakis C, Chen GH, Folscroft J et al. Lactase deficiency--a compara-
+                          51. Attaluri A, Jackson M, Valestin J et al. Methanogenic flora is associated with          tive study of diagnostic methods. Am J Clin Nutr 1977;30:1597–602.
+                              altered colonic transit but not stool characteristics in constipation without       81. Riby JE, Fujisawa T, Kretchmer N. Fructose absorption. Am J Clin Nutr
+                              IBS. Am J Gastroenterol 2010;105:1407–11.                                               1993;58:748 S–53 S.
+                          52. Hwang L, Low K, Khoshini R et al. Evaluating breath methane as a diagnostic         82. Rumessen JJ, Gudmand-Hoyer E. Absorption capacity of fructose in
+                              test for constipation-predominant IBS. Dig Dis Sci 2010;55:398–403.                     healthy adults. Comparison with sucrose and its constituent monosaccha-
+                          53. Kunkel D, Basseri RJ, Makhani MD et al. Methane on breath testing is                    rides. Gut 1986;27:1161–8.
+                              associated with constipation: a systematic review and meta-analysis.                83. Law D, Conklin J, Pimentel M. Lactose intolerance and the role of the
+                              Dig Dis Sci 2011;56:1612–8.                                                             lactose breath test. Am J Gastroenterol 2010;105:1726–8.
+                          54. Low K, Hwang L, Hua J et al. A combination of rifaximin and neomycin is             84. Hermans MM, Brummer RJ, Ruijgers AM et al. The relationship between
+                              most effective in treating irritable bowel syndrome patients with methane               lactose tolerance test results and symptoms of lactose intolerance. Am J
+                              on lactulose breath test. J Clin Gastroenterol 2010;44:547–50.                          Gastroenterol 1997;92:981–4.
+                          55. Read NW, Miles CA, Fisher D et al. Transit of a meal through the stomach,           85. Sung HY, Kim YS. Fructose malabsorption in patients with irritable bowel
+                              small intestine, and colon in normal subjects and its role in the pathogenesis          syndrome-like symptoms: what is the role in the pathogenesis and clinical
+                              of diarrhea. Gastroenterology 1980;79:1276–82.                                          implication? J Neurogastroenterol Motil 2014;20:135–7.
+                          56. Camboni G, Basilisco G, Bozzani A et al. Repeatability of lactulose hydro-          86. Goldoni M, Corradi M, Mozzoni P et al. Concentration of exhaled breath
+                              gen breath test in subjects with normal or prolonged orocecal transit.                  condensate biomarkers after fractionated collection based on exhaled CO2
+                              Dig Dis Sci 1988;33:1525–7.                                                             signal. J Breath Res 2013;7:017101.
+                          57. Miller MA, Parkman HP, Urbain JL et al. Comparison of scintigraphy and              87. Chang BW, Chua KS, Lin E et al. Understanding the significant interaction
+                              lactulose breath hydrogen test for assessment of orocecal transit: lactulose            between hydrogen and methane in the performance and interpretation of
+                              accelerates small bowel transit. Dig Dis Sci 1997;42:10–18.                             breath testing. Gastroenterology 2015;148:S-729.
+                          58. Geboes KP, Luypaerts A, Rutgeerts P et al. Inulin is an ideal substrate for         88. Bauchop T, Mountfort DO. Cellulose fermentation by a rumen anaerobic
+                              a hydrogen breath test to measure the orocaecal transit time. Aliment                   fungus in both the absence and the presence of rumen methanogens.
+                              Pharmacol Ther 2003;18:721–9.                                                           Appl Environ Microbiol 1981;42:1103–10.
+                          59. Suchy FJ, Brannon PM, Carpenter TO et al. NIH consensus development                 89. Krajmalnik-Brown R, Ilhan ZE, Kang DW et al. Effects of gut microbes on
+                              conference statement: Lactose intolerance and health. NIH Consens State                 nutrient absorption and energy regulation. Nutr Clin Pract 2012;27:201–14.
+                              Sci Statements 2010;27:1–27.                                                        90. Truswell AS, Seach JM, Thorburn AW. Incomplete absorption of pure
+                          60. Maiuri L, Raia V, Potter J et al. Mosaic pattern of lactase expression by villous       fructose in healthy subjects and the facilitating effect of glucose. Am J Clin
+                              enterocytes in human adult-type hypolactasia. Gastroenterology 1991;100:359–69.         Nutr 1988;48:1424–30.
+                          61. Sibley E. Genetic variation and lactose intolerance: detection methods and          91. Erdogan A, Lee YY, Badger C et al. What is the optimal threshold for an
+                              clinical implications. Am J Pharmacogenomics 2004;4:239–45.                             increase in hydrogen and methane levels with glucose breath test (GBT) for
+                          62. Hovde O, Farup PG. A comparison of diagnostic tests for lactose malab-                  detection of small intestinal bacterial overgrowth (SIBO)? Gastroenterology
+                              sorption--which one is the best? BMC Gastroenterol 2009;9:82.                           2014;146:S-532.
+                          63. Rezaie A, Chang B, Chua KS et al. Accurate identification of excessive              92. George NS, Sankineni A, Parkman HP. Small intestinal bacterial over-
+                              methane gas producers by a single fasting measurement of exhaled methane:               growth in gastroparesis. Dig Dis Sci 2014;59:645–52.
+                              a large-scale database analysis. Am J Gastroenterol 2015;110:S684.                  93. Chang BW, Pimentel M, Chang C et al. Prevalence of excessive intestinal
+                          64. Nucera G, Gabrielli M, Lupascu A et al. Abnormal breath tests to lactose,               methane production and its variability with age and gender: a large-scale
+                              fructose and sorbitol in irritable bowel syndrome may be explained by small             database analysis. Gastroenterology 2015;148:S-729–S-730.
+                              intestinal bacterial overgrowth. Aliment Pharmacol Ther 2005;21:1391–5.             94. Strocchi A, Furne JK, Ellis CJ et al. Competition for hydrogen by human
+                          65. Pimentel M, Kong Y, Park S. Breath testing to evaluate lactose intolerance              faecal bacteria: evidence for the predominance of methane producing
+                              in irritable bowel syndrome correlates with lactulose testing and may not               bacteria. Gut 1991;32:1498–501.
+                              reflect true lactose malabsorption. Am J Gastroenterol 2003;98:2700–4.              95. QT02444 Catalog Rev B QuinTron Instrument Company, Inc: 2009.
+                          66. Fedewa A, Rao SS. Dietary fructose intolerance, fructan intolerance and
+                              FODMAPs. Curr Gastroenterol Rep 2014;16:370.
+                          67. Rao SS, Attaluri A, Anderson L et al. Ability of the normal human small                             This work is licensed under a Creative Commons Attri-
+                              intestine to absorb fructose: evaluation by breath testing. Clin Gastroenterol                      bution-NonCommercial-NoDerivs 4.0 International
+                              Hepatol 2007;5:959–63.                                                              License. The images or other third party material in this article are
+                          68. Corazza GR, Strocchi A, Rossi R et al. Sorbitol malabsorption in normal
+                                                                                                                  included in the article’s Creative Commons license, unless indicated
+                              volunteers and in patients with coeliac disease. Gut 1988;29:44–8.
+                          69. Peuhkuri K, Vapaatalo H, Korpela R et al. Lactose intolerance-a confusing           otherwise in the credit line; if the material is not included under the
+                              clinical diagnosis. Am J Clin Nutr 2000;71:600–2.                                   Creative Commons license, users will need to obtain permission from
+                          70. Shah ED, Basseri RJ, Chong K et al. Abnormal breath testing in IBS: a meta-         the license holder to reproduce the material. To view a copy of this
+                              analysis. Dig Dis Sci 2010;55:2441–9.                                               license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/
+                          71. Pourmorady J, Shah E, Rezaie A et al. Breath testing for small intestinal
+                              bacterial overgrowth in irritable bowel syndrome: A meta-analysis. Am J
+                              Gastroenterol 2015;110:S762.                                                        © The Author(s) 2017
+
+
+                          The American Journal of GASTROENTEROLOGY                                                                                        VOLUME 112 | MAY 2017 www.nature.com/ajg
+

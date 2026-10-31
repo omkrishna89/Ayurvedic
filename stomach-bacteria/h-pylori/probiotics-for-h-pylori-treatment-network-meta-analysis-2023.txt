@@ -1,0 +1,786 @@
+                                                                                                                       TYPE Review
+                                                                                                                       PUBLISHED 15 May 2023
+                                                                                                                       DOI 10.3389/fcimb.2023.1120789
+
+
+
+
+                                                   Comparative effectiveness
+OPEN ACCESS                                        of different probiotics
+EDITED BY
+Shukui Wang,
+Nanjing Medical University, China
+                                                   supplements for triple
+REVIEWED BY
+Amin Talebi Bezmin Abadi,
+                                                   helicobacter pylori eradication:
+Tarbiat Modares University, Iran
+Hou-Qun Ying,
+Second Afﬁliated Hospital of Nanchang
+                                                   a network meta-analysis
+University, China
+
+*CORRESPONDENCE                                    Yue Wang 1†, Xue Wang 1†, Xue-Yan Cao 1, Han-Long Zhu 2
+Lin Miao
+    linmiao@njmu.edu.cn                            and Lin Miao 1*
+†                                                  1
+                                                     Medical Centre for Digestive Diseases, the Second Afﬁliated Hospital of Nanjing Medical University,
+  These authors have contributed
+equally to this work and share                     Nanjing, Jiangsu, China, 2 Department of Gastroenterology and Hepatology, Jinling Hospital, Afﬁliated
+ﬁrst authorship                                    Hospital of Medical School, Nanjing University, Nanjing, Jiangsu, China
+
+RECEIVED 10 December 2022
+ACCEPTED 24 April 2023
+PUBLISHED 15 May 2023
+                                                   Background: Probiotics has been reported as an effective supplement for
+CITATION
+Wang Y, Wang X, Cao X-Y, Zhu H-L and               Helicobacter pylori eradication. However, knowledge of their comparative
+Miao L (2023) Comparative effectiveness            efﬁcacy is still lacking.
+of different probiotics supplements for
+triple helicobacter pylori eradication:
+a network meta-analysis.                           Aim: In this study, we used network meta-analysis of current probiotics
+Front. Cell. Infect. Microbiol. 13:1120789.        supplement used in standard triple therapy to assess and rank their
+doi: 10.3389/fcimb.2023.1120789
+                                                   comparative effectiveness.
+COPYRIGHT
+© 2023 Wang, Wang, Cao, Zhu and Miao.
+This is an open-access article distributed
+                                                   Methods: All randomized controlled trials from three main databases (PubMed,
+under the terms of the Creative Commons            Embase and Cochrane Library) up to April 2022 were collected and ﬁltered to
+Attribution License (CC BY). The use,              meet our criterion. We used Bayesian network meta-analysis to evaluate the
+distribution or reproduction in other
+forums is permitted, provided the original         eligible randomized controlled trials and gave a rank for the efﬁciency and
+author(s) and the copyright owner(s) are           incidence of side effects of each probiotics supplement. The ranking
+credited and that the original publication in
+this journal is cited, in accordance with
+                                                   probability for each therapy was assessed by means of surfaces under
+accepted academic practice. No use,                cumulative ranking values. Subgroup analysis was conducted to evaluate other
+distribution or reproduction is permitted          possible inﬂuencing factors.
+which does not comply with these terms.
+
+                                                   Results: 34 eligible randomized controlled trials entered the following meta-
+                                                   analysis, including 9,004 patients randomized to 10 kinds of therapies. Result
+                                                   showed that most probiotics added therapies had better outcomes than triple
+                                                   therapy, among which Biﬁdobacterium-Lactobacillus and Biﬁdobacterium-
+                                                   Lactobacillus-Saccharomyces adjuvant therapy could obtain comprehensive
+                                                   beneﬁt with high eradication rate (78.3% and 88.2% respectively), and cause
+                                                   few side effects. Combination of different probiotics, adding probiotics before or
+                                                   after triple therapy and longer duration of probiotics can improve therapeutic
+                                                   effect in H.pylori infected individuals.
+
+
+
+
+Frontiers in Cellular and Infection Microbiology                         01                                                               frontiersin.org
+Wang et al.                                                                                                              10.3389/fcimb.2023.1120789
+
+
+
+
+                                                   Conclusion: For triple therapy of H.pylori infection, adding probiotics can
+                                                   increase eradication rate and bring protective effect. Considering the overall
+                                                   inﬂuence, Biﬁdobacterium-Lactobacillus or Biﬁdobacterium-Lactobacillus-
+                                                   Saccharomyces therapy can be a better choice in improving H.pylori
+                                                   eradication process.
+
+                                                   KEYWORDS
+
+                                                   helicobacter pylori, treatment, probiotics, efﬁcacy and safety, network meta-analysis
+
+
+
+
+1 Introduction                                                               H.pylori, as compared to placebo(Lu et al., 2016). Network meta-
+                                                                             analysis (NWM) is evidence evaluating tool for comparison of
+     Helicobacter pylori (H.pylori) has been proven to be a human            randomized controlled trials (RCT) with multiple interventions
+carcinogen, causing chronic gastric inﬂammation, which may lead              directly and indirectly. This study conducted network meta-
+to precancerous lesions of atrophic gastritis and intestinal                 analysis to evaluate the comparative effectiveness and their
+metaplasia (Crowe, 2019). This deterioration has a close                     adverse effect of current probiotics supplements added to
+relationship with the increasing risk of gastric cancer and its              triple therapy.
+severity and extent (Yao and Smolka, 2019). The huge burden of
+H.pylori infection poses a great problem to most regions in the
+world, with approximately 4.4 billion patients infected with H.pylori        2 Methods
+worldwide in 2015 (Hooi et al., 2017). As recommended by
+International consensus, H.pylori should be eradicated as long as            2.1 Search strategy and data extraction
+it is diagnosed (Malfertheiner et al., 2017). Eradication of H.pylori
+has been reported to reduce gastric cancer risk among individuals in             We searched PubMed, Embase, Cochrane Central Register of
+high-risk areas (Lee et al., 2016). Currently, triple therapy is             Controlled Trials for all the RCTs written in English until April
+recommended as ﬁrst-line treatment by the guideline, which                   2022. The search words and/or Medical Subject Heading (MeSH)
+contains proton-pump inhibitors (PPI), 2 kinds of antibiotics                terms used for search are listed in Table S1. This meta-analysis was
+(usually clarithromycin and amoxicillin/metronidazole), given for            performed using the Preferred Reporting Items for Systematic
+7-14 days (Malfertheiner et al., 2017). However, antibiotics                 Reviews and Meta-Analysis (PRISMA) statement. The Grading of
+resistance prevalence has been a challenging problem due to the              Recommendations Assessment, Development and Evaluation
+frequent use of these drugs. Furthermore, the side effects of                (GRADE) was used to evaluate the quality of evidence from
+antibiotics, such as diarrhea, nausea, and vomiting, reduce the              pairwise and NWM (Page et al., 2021) (Table S2).
+compliance of patients to some extent, thus leading to a reduction
+in H.pylori eradication rates (Liu et al., 2018).
+     Probiotics is an emerging supplementation in H.pylori                   2.2 Study selection and quality assessment
+treatment (Chey et al., 2017; Mu et al., 2018; Chen et al., 2021),
+which refers to beneﬁcial microorganisms living in human                         Studies meeting the following conditions were eligible in our
+intestinal tract, which can regulate the balance of intestinal ﬂora          network meta-analysis: (a) Randomized controlled trials; (b)
+and exert the functions of body regulation, collective defense,              Participants received eradication outcomes evaluation after at
+disease prevention and treatment (Dore et al., 2019). Common                 least 4 weeks of the therapy; (c) Participants received outcomes
+probiotics used in clinical treatment includes Lactobacillus,                evaluation at least 4 weeks after the end of eradication; (d) At least 2
+Biﬁdobacteria, Streptococcus, Saccharomyces and other mixed                  groups, including control (triple therapy with none or placebo) and
+preparation. Several studies have shown that probiotics can                  experimental (triple therapy with at least one kind of probiotics
+effectively relieve the clinical symptoms of patients with H.pylori          supplement or a mixture) group, are compared in the studies; (e)
+infection, improving the curative effect of H.pylori, and reduce the         Data in the study could be extracted; (f) Article written in English.
+incidence of adverse drug reactions (Chey et al., 2017; Song et al.,         In our NWM, the primary efﬁcacy end point was H.pylori
+2018; Ji and Yang, 2020). However, the effect of probiotics on               eradication rate, and secondary outcome was adverse effect.
+eradication of H.pylori is still under investigation. Previous meta-         Exclusion criteria were as follows: (a) Final eradication rate was
+analysis compared the effects of combining probiotics, placebo, and          unknown; (b) Inappropriate randomization trail method; (c) No
+standard therapy, and the result showed that a 14-day course                 description of withdrawals and dropout; (d) Case reports, clinical
+of triple therapy plus probiotics neutralized the adverse effects of         guidance, comments, letters or reviews. In case of duplicate studies,
+diarrhea and nausea, but did not improve the eradication of                  or outcomes from the same study individuals, the latest or more
+
+
+
+Frontiers in Cellular and Infection Microbiology                        02                                                             frontiersin.org
+Wang et al.                                                                                                                  10.3389/fcimb.2023.1120789
+
+
+
+
+complete one was selected into further analysis. Risk of bias and the
+strength evaluation of evidence were assessed based on the guideline
+of the Cochrane Collaboration (Higgins et al., 2011). The quality of
+evidence of each study was divided into three levels: low risk, high
+risk, and unclear risk. Two independent reviewers appraised the risk
+of bias and quality assessment of all studies, and any discrepancies
+were solved via discussion to reach the consensus.
+
+
+
+2.3 Statistical analysis
+
+     Data was processed by using Review Manager (Version 5.4),
+Stata (Version 13.0), Addis (Version 1.16.5) and R (Version 4.2.1).
+The sample size was analyzed with intention-to-treat (ITT). To get a
+more conservative estimate of the 95% conﬁdence intervals (CI),                    FIGURE 1
+
+this study used a random-effects model (REM) to analyze the data                   Flowchart of the study selection.
+
+for these results. P < 0.05 reﬂected the presence of signiﬁcance, and
+an I2 statistic >50% indicted the heterogeneity (DerSimonian, 1996).
+What’s more, inconsistency was appraised, which is essential for                     10. Triple therapy with Biﬁdobacterium-Lactobacillus-
+conducting an NWM. Comparison-adjusted funnel diagrams were                              Saccharomyces
+used to evaluate the inﬂuence of the small-scale trial results via
+checking the symmetry (Higgins et al., 2003). The surfaces under                     1 study (Jin and Kim, 2019) was a ﬁve-arm trail, 3 studies
+cumulative ranking (SUCRA) values were calculated to assess the                 (Cremonini et al., 2002; Scaccianoce et al., 2008; Dajani et al., 2013)
+cumulative ranking probability of each intervention method                      were four-arm trials, 6 studies (Ziemniak, 2006; Song et al., 2010;
+compared with an ideal method. SUCRA = 1 or 100% represents                     Ozdil et al., 2011; Du et al., 2012; D’Angelo et al., 2014; Chang et al.,
+the best efﬁcacy. For both H.pylori eradication rates and side effect,          2020) were three-arm trials and the remaining 24 studies were two-
+subgroup analyses were conducted based on the following factors:                arm trials (Canducci et al., 2000; Armuzzi et al., 2001; Sheu et al.,
+region, publication year, antibiotics type and duration, PPI type,              2002; Nista et al., 2004; Duman et al., 2005; Myllyluoma et al., 2005;
+follow-up time, the adding time and duration of probiotics.                     Shimbo et al., 2005; Sung et al., 2007; Lee et al., 2011; Medeiros et al.,
+                                                                                2011; Yoon et al., 2011; Deguchi et al., 2012; Ojetti et al., 2012;
+                                                                                Francavilla, 2013; Zojaji et al., 2013; Emara and Abdel-Aziz, 2014;
+3 Results                                                                       Goran Hauser et al., 2014; Paoluzi et al., 2015; Tongtawee et al.,
+                                                                                2015; Grgov et al., 2016; Haghdoost et al., 2017; Mihai, 2019;
+3.1 Study characteristics and                                                   Muresan et al., 2019; Yang et al., 2021). The sample size of the
+quality evaluation                                                              trials ranged from 35 to 1500, containing totally 9004 participants,
+                                                                                which were grouped into 40 paired comparisons/intervention arms.
+    A total of 1,645 records were generated by the literature                   The baseline characteristics of the involved researches are listed in
+searches. Among these records, 1,142 articles were duplicate                    Table S3. The full articles of 7 RCTs were not available and the
+articles, or not RCT. 414 irrelevant articles were excluded after               information was captured from their abstracts (Sung et al., 2007;
+reading their titles or abstracts, and 55 articles were also be excluded        Lee et al., 2011; Ozdil et al., 2011; Du et al., 2012; Goran Hauser
+because they did not meet our criteria. Finally, 34 potential eligible          et al., 2014; D’Angelo et al., 2014; Jin and Kim, 2019).
+articles were further retrieved based on the selection criteria. The                 In terms of quality evaluation, the Cochrane Collaborations tool
+process was shown in Figure 1.                                                  was used to assess the risk of bias. Figures S1, S2 shows that 13 trials
+    The 34 RCTs covered 10 kinds of interventions:                              (Armuzzi et al., 2001; Duman et al., 2005; Sung et al., 2007; Lee
+                                                                                et al., 2011; Ozdil et al., 2011; Ojetti et al., 2012; Dajani et al., 2013;
+       1. Triple therapy                                                        D’Angelo et al., 2014; Tongtawee et al., 2015; Grgov et al., 2016;
+       2. Triple therapy with Bacillus                                          Haghdoost et al., 2017; Muresan et al., 2019; Chang et al., 2020)
+       3. Triple therapy with Lactobacillus                                     were judged as at high risk of bias, 14 trials (Nista et al., 2004;
+       4. Triple therapy with Saccharomyces                                     Myllyluoma et al., 2005; Shimbo et al., 2005; Ziemniak, 2006;
+       5. Triple therapy with Biﬁdobacterium-Lactobacillus                      Scaccianoce et al., 2008; Medeiros et al., 2011; Yoon et al., 2011;
+       6. Triple therapy with Bacillus-Streptococcus                            Deguchi et al., 2012; Du et al., 2012; Zojaji et al., 2013; Emara and
+       7. Triple therapy with Lactobacillus-Streptococcus                       Abdel-Aziz, 2014; Paoluzi et al., 2015; Mihai, 2019) as moderate,
+       8. Triple therapy with Lactobacillus-Propionibacterium                   and the remaining 7 trials (Canducci et al., 2000; Cremonini et al.,
+       9. Triple therapy with Biﬁdobacterium-Lactobacillus-                     2002; Sheu et al., 2002; Song et al., 2010; Goran Hauser et al.,
+          Streptococcus                                                         2014; Jin and Kim, 2019; Yang et al., 2021) as low of bias. The bias
+
+
+
+
+Frontiers in Cellular and Infection Microbiology                           03                                                               frontiersin.org
+Wang et al.                                                                                                                    10.3389/fcimb.2023.1120789
+
+
+
+
+almost came from the lack of allocation concealment or blinding to               publication bias was observed in the relevant funnel plot, which
+the treatment arms.                                                              appears symmetrical (Figures S5, S6).
+                                                                                     The network forest plot (Figure 3) shows RRs (95% credible
+                                                                                 intervals, CI) of all direct and indirect comparisons in this NWM.
+3.2 Network map                                                                  Of these comparators, triple therapy with Bacillus, Lactobacillus
+                                                                                 and Biﬁdobacterium-Lactobacillus had signiﬁcantly better effect
+    The NWMs comparing eradication rate (Figure 2) and side                      than triple therapy, while other kinds of therapies failed to
+effects (Figure S3) of regimens show all the possible comparisons,               reach signiﬁcance.
+direct evidence existed in eradication rate comparison for 10 pairs
+(Figure 2A) and 8 pairs in side effect comparison (Figure S3A),                  3.3.2 League matrix, rank of grams, and surfaces
+while indirect comparisons had 40 pairs (Figure 2B) and 28 pairs                 under cumulative ranking values
+(Figure S3B) in eradication and side effect respectively. Node size                  Mean cure rates (95% CI) achieved by these regimens are shown
+represents the sample size of each treatment, while the width of                 in Table 1, and the comparative efﬁcacy ranking league matrix,
+edges is weighted according to the inverse of the variance in                    showing the comparative effect of the 10 regimens included in
+logarithm of the relative risk.                                                  this NWM, is shown in Figure 4A. The respective rank possibility
+                                                                                 chart and the surface under the cumulative ranking curve (SUCRA)
+                                                                                 values are shown in Figure 4B. According to the ranking
+3.3 Network meta-analysis                                                        league matrix, rank possibility chart and SUCRA, the global results
+                                                                                 set manifested that triple therapy with Lactobacillus-
+3.3.1 Direct and indirect pair comparisons,                                      Propionibacterium (SUCRA value 40.3%) had the best
+publication bias                                                                 performance, with the eradication rate of 91.3% (95% CI, 78.8-
+    The overall results estimating H.pylori eradication and weight of            103.8). Other two kinds of methods also performed well, triple
+each RCT are shown in Figure S4. The overall RR value was 1.14                   therapy with Biﬁdobacterium-Lactobacillus-Saccharomyces reached
+(95% CI, 1.07, 1.21). The forest plot of Figure S7 shows the RRs                 an eradication rate of 88.2% (95% CI, 83.1-93.4; SUCRA value
+(95% CIs) of all direct pair comparisons grouped in 10 regimens                  34.5%), and triple therapy with Biﬁdobacterium-Lactobacillus has
+pairwise eradication rate meta-analysis.                                         the eradication rate of 78.3% (95% CI, 75.3-81.37; SUCRA value
+    Among the comparisons related to eradication rate, triple                    8.90%). Relatively, triple therapy was less effective than most of the
+therapy with Lactobacillus vs triple therapy (RR, 0.92; 95% CI,                  probiotics-added therapies (eradication rate 72.8%, 95% CI, 71.4-
+0.87-0.97), triple therapy with Bacillus-Streptococcus vs triple                 74.2; SUCRA value 17.2%).
+therapy (RR, 0.86; 95% CI, 0.77-0.97) and triple therapy with
+Biﬁdobacterium-Lactobacillus-Saccharomyces vs triple therapy
+(RR, 0.88; 95% CI, 0.78-0.99) yielded signiﬁcant results. In                     3.3.3 Side effects
+contrast, other pairs yielded insigniﬁcant results.                                  The direct pair comparisons (RR; 95% CI) of regimens in side
+    Tests of inconsistency suggested that insigniﬁcant overall results           effect have been shown in Figure S8, and all the comparisons are in
+(P= 0.46) between direct and indirect measures, and the variance                 Figure S9. Since the detail information of triple therapy with
+parameter was similar between random effects standard deviation                  Bacillus-Streptococcus could not be found, only 9 therapies were
+(Median, 0.35; 95% CI, 0.11-0.62) and inconsistency standard                     taken into analysis. In result, Bacillus, Lactobacillus and
+deviation (Median, 0.36; 95% CI, 0.01-1.13). No signiﬁcant                       Biﬁdobacterium-Lactobacillus supplement could decrease adverse
+
+
+
+
+                                 A                                                B
+
+
+
+
+   FIGURE 2
+   (A) Network map of the 10 direct comparisons included in all the RCTs. (B) Network map of all 50 comparisons in this NWM, including 10 direct
+   (solid lines) and 40 indirect (interrupted lines). BAC, Bacillus; BIF, Biﬁdobacterium; LAC, Lactobacillus; PRO, Propionibacterium; SAC, Saccharomyces;
+   STR, Streptococcus; TRI, triple therapy.
+
+
+
+
+Frontiers in Cellular and Infection Microbiology                            04                                                                frontiersin.org
+Wang et al.                                                                                                                                    10.3389/fcimb.2023.1120789
+
+
+
+
+    FIGURE 3
+    Forest plot (RR; 95% CI) illustrating all direct/indirect pair comparisons of regimens included in all the RCTs. RR, risk ratio; Regimen labels: A: triple
+    therapy; B: triple therapy with Bacillus; C: triple therapy with Lactobacillus; D: triple therapy with Saccharomyces; E: triple therapy with
+    Biﬁdobacterium+Lactobacillus; F: triple therapy with Bacillus+Streptococcus; G: triple therapy with Lactobacillus+Propionibacterium; H: triple
+    therapy with Lactobacillus+Streptococcus; I: triple therapy with Biﬁdobacterium+Lactobacillus+Streptococcus; J: triple therapy with
+    Biﬁdobacterium+Lactobacillus+Saccharomyces.
+
+
+
+
+effects in triple therapy signiﬁcantly, whereas other kinds of                                probability to rank fourth in incidence rate) are also likely to have
+therapies failed to reach signiﬁcance.                                                        lower incidence rate, which may bring more protective effect to
+    Figures S10, S11 show the comparative ranking league matrix                               the eradication.
+and rank possibility chart, which were consistent with mean
+incidence of side effect in Table 2. Triple therapy with                                      3.4 Subgroup analyses
+Lactobacillus-Propionibacterium (SUCRA value 46.6%, incidence
+of side effect 69.6%; 95% CI, 49.2-89.9) ranked ﬁrst, representing                            3.4.1 H.pylori eradication
+highest side effects incidence. Triple therapy also had more chances                              Table 3 shows the result of subgroup analysis for H.pylori
+to give rise to adverse effects, whose incidence rate was 40.3% (95%                          eradication rate. In this study, we performed subgroup analysis to
+CI, 38.4-42.2). Triple therapy with Bacillus tends to have the least                          explore the effect of PPI type, antibiotic type, publication year, triple
+adverse effects among all the therapies (58.1% to rank the last,                              therapy duration, follow-up time, location, regimen duration and its
+incidence rate 15.8%; 95% CI, 11.4-20.3). Biﬁdobacterium-                                     adding time. In this way, we aimed to examine whether these factors
+Lactobacillus (30.3% probability ranking second to last in                                    are reﬂected in the outcomes of involved treatments. As displayed in
+incidence rate), and Biﬁdobacterium-Lactobacillus-Saccharomyces                               Figures S12–S19, all the factors above did not inﬂuence on the
+supplement(incidence rate 16.9%; 95% CI, 8.3-25.4, with 25.5%                                 global results, whereas analysis on antibiotic type (Figure S15)
+
+TABLE 1 Mean cure rates (95% CI) achieved by these regimens.
+
+
+ Variable                               Total sample size (Responder/sample size)                                      Cure rates, % (95% CI)                   P value
+ Regimen                                                                                                                                                        vs TRI
+
+    TRI                                 2760/3792                                                                      72.8 [71.4-74.2]                         –
+
+    BAC                                 308/365                                                                        84.4 [80.6-88.1]                         P <0.05
+
+    LAC                                 734/920                                                                        79.8 [77.2-82.4]                         P <0.05
+
+    SAC                                 639/877                                                                        72.9 [69.9-75.8]                         P = 0.963
+
+    BIF+LAC                             574/733                                                                        78.3 [75.3-81.3]                         P <0.05
+
+    BAC+STR                             147/176                                                                        83.5 [78.0-89.1]                         P <0.05
+
+    LAC+PRO                             21/23                                                                          91.3 [78.8-103.8]                        P <0.05
+
+    LAC+STR                             91/100                                                                         91.0 [85.3-96.7]                         P <0.05
+
+    BIF+LAC+STR                         290/383                                                                        75.7 [71.4-80.0]                         P = 0.218
+
+    BIF+LAC+SAC                         135/153                                                                        88.2 [83.1-93.4]                         P <0.05
+
+LAC, Lactobacillus; SAC, Saccharomyces; BAC, Bacillus; BIF, Biﬁdobacterium; STR, Streptococcus; PRO, Propionibacterium; TRI, triple therapy.
+
+
+
+
+Frontiers in Cellular and Infection Microbiology                                         05                                                                 frontiersin.org
+Wang et al.                                                                                                                                    10.3389/fcimb.2023.1120789
+
+
+
+
+                                 A
+
+
+
+
+                                 B
+
+
+
+
+    FIGURE 4
+    (A) SUCRA-based efﬁcacy ranking league matrix showing the comparative efﬁcacies of the regimens included in this network meta-analysis. Values
+    below the regimens should be read from row to column, and above the treatments should be read from column to row. (B) Rankograms derived from
+    relevant SUCRA values for the regimens evaluated in the included RCTs showing the cumulative rank order for each intervention. Darker color
+    represents higher rank. Regimen labels: A: triple therapy; B: triple therapy with Bacillus; C: triple therapy with Lactobacillus; D: triple therapy with
+    Saccharomyces; E: triple therapy with Biﬁdobacterium+Lactobacillus; F: triple therapy with Bacillus+Streptococcus; G: triple therapy with Lactobacillus
+    +Propionibacterium; H: triple therapy with Lactobacillus+Streptococcus; I: triple therapy with Biﬁdobacterium+Lactobacillus+Streptococcus; J: triple
+    therapy with Biﬁdobacterium+Lactobacillus+Saccharomyces.
+
+
+
+
+indicated that Tinidazole-Clarithromycin (RR = -0.01, 95% CI:                                 duration of antibiotic usage was longer than 14 days (RR = 0.10,
+-0.14‐0.12, P=0.87) and Levoﬂoxacin-Doxycycline subgroups                                     95% CI: 0.06‐0.14, P <.01), and there was signiﬁcant difference
+(RR = -0.03, 95% CI: -0.17‐0.12, P=0.70) had opposite result with                             between different subgroups (P < 0.05, I2 = 71.1%). Stratiﬁcation
+the general effect (RR = 0.08, 95% CI: 0.05‐0.11, P <.01).                                    analysis based on timing of probiotics addition (Figure S13),
+    Stratiﬁcation analysis based on probiotics duration (Figure                               probiotics usage before triple therapy (RR = 1.12, 95% CI: 1.12‐
+S12), eradication rates can be signiﬁcantly improved if the                                   1.30, P <.01) and probiotics usage after triple therapy (RR = 1.12,
+
+
+TABLE 2 Mean side effect incident rates (95% CI) achieved by these regimens.
+
+
+ Variable                            Total sample size(Responder/sample size)                                 Side effect incidence, %(95% CI)                  P value
+ Regimen                                                                                                                                                        vs TRI
+
+    TRI                              1070/2654                                                                40.3 [38.4-42.2]                                  –
+
+    BAC                              42/265                                                                   15.8 [11.4-20.3]                                  P <0.05
+
+    LAC                              126/610                                                                  20.7 [17.4-23.9]                                  P <0.05
+
+    SAC                              145/785                                                                  18.5 [15.8-21.2]                                  P <0.05
+
+    BIF+LAC                          246/587                                                                  41.9 [37.9-45.9]                                  P = 0.477
+
+    BAC+STR                          NA                                                                       NA                                                NA
+
+    LAC+PRO                          16/23                                                                    69.6[49.2-89.9]                                   P <0.05
+
+    LAC+STR                          61/100                                                                   61.0 [51.3-70.7]                                  P <0.05
+
+    BIF+LAC+STR                      55/168                                                                   32.7 [25.6-39.9]                                  P <0.05
+
+    BIF+LAC+SAC                      13/77                                                                    16.9 [8.3-25.4]                                   P <0.05
+
+LAC, Lactobacillus; SAC, Saccharomyces; BAC, Bacillus; BIF, Biﬁdobacterium; STR, Streptococcus; PRO, Propionibacterium; TRI, triple therapy.
+
+
+
+
+Frontiers in Cellular and Infection Microbiology                                         06                                                                 frontiersin.org
+Wang et al.                                                                                                        10.3389/fcimb.2023.1120789
+
+
+
+
+TABLE 3 Results of subgroup analyses for Helicobacter pylori eradication rates.
+
+
+ Subgroup                            No. of arms        Sample size           RR (95% CI)           Peffect   I2(3%)       Pheterogeneity
+ PPI type
+
+   Lansoprazole                      10                 1487                  0.08 [0.03, 0.14]     <0.01     36           0.12
+
+   Esomeprazole                      7                  920                   0.04 [-0.04, 0.13]    0.34      54           0.04
+
+   Rabeprazole                       7                  369                   0.00 [-0.08, 0.09]    0.91      0            0.99
+
+   Omeprazole                        6                  1664                  0.09 [0.01, 0.18]     0.03      70           <0.01
+
+   Pantoprazole                      3                  358                   0.10 [0.02, 0.18]     0.01      0            0.47
+
+   Unclear                           7                  2557                  0.11 [0.06, 0.16]     <0.01     59           0.02
+
+ Antibiotic type
+
+   Amoxicillin+Clarithromycin        29                 4900                  0.09 [0.06, 0.12]     <0.01     45           <0.01
+
+   Tinidazole+Clarithromycin         4                  159                   -0.01 [-0.14, 0.12]   0.87      0            0.89
+
+   Levoﬂoxacin+Doxycycline           2                  103                   -0.03 [-0.17, 0.12]   0.7       0            0.44
+
+   Amoxicillin+Moxiﬂoxacin           1                  337                   0.02 [-0.08, 0.12]    0.67      NA           NA
+
+   Unclear                           4                  1856                  0.08 [0.01, 0.16]     0.03      70           0.02
+
+ Publication year
+
+   2000-2011                         21                 3488                  1.10 [1.06, 1.14]     <0.01     0            0.52
+
+   2012-2022                         19                 3867                  1.12 [1.06, 1.18]     <0.01     59           <0.01
+
+ Triple therapy duration
+
+   7d                                24                 3247                  1.09 [1.06, 1.13]     <0.01     0            0.78
+
+   10d                               4                  653                   1.14 [0.95, 1.37]     0.15      72           0.01
+
+   14d                               10                 1927                  1.10 [1.02, 1.19]     0.02      44           0.07
+
+   Unclear                           2                  1098                  1.16 [1.04, 1.28]     <0.01     73           0.06
+
+ Follow-up time
+
+   0-4w                              9                  2209                  1.13 [1.07, 1.20]     <0.01     21           0.25
+
+   4-8w                              26                 4305                  1.10 [1.05, 1.15]     <0.01     47           <0.01
+
+   >8w                               2                  147                   1.02 [0.78, 1.33]     0.89      56           0.13
+
+   Unclear                           3                  694                   1.11 [1.04, 1.17]     <0.01     0            0.59
+
+ Location
+
+   Europe and America                21                 2881                  1.13 [1.09, 1.18]     <0.01     18           0.23
+
+   Eastern Europe                    7                  1395                  1.10 [1.04, 1.18]     <0.01     67           <0.01
+
+   Asia                              12                 3079                  1.10 [1.05, 1.14]     <0.01     34           0.11
+
+ Regimen duration
+
+   <7d                               12                 1418                  0.03 [-0.01, 0.07]    0.17      0            0.64
+
+   7-14d                             12                 1984                  0.07 [0.00, 0.14]     0.05      69           <0.01
+
+   >14d                              10                 2038                  0.10 [0.06, 0.14]     <0.01     0            0.85
+
+ Unclear                             6                  1915                  0.12 [0.07, 0.17]     <0.01     34           0.18
+
+ Regimen adding time
+
+   Before triple therapy             5                  710                   1.21 [1.12, 1.30]     <0.01     48           <0.01
+
+   After triple therapy              18                 2609                  1.08 [1.04, 1.12]     <0.01     7            0.38
+
+                                                                                                                                      (Continued)
+
+
+
+
+Frontiers in Cellular and Infection Microbiology                         07                                                        frontiersin.org
+Wang et al.                                                                                                                                         10.3389/fcimb.2023.1120789
+
+
+
+
+TABLE 3 Continued
+
+
+ Subgroup                                    No. of arms                Sample size         RR (95% CI)                  Peffect             I2(3%)             Pheterogeneity
+    With triple therapy                      2                          198                 1.21 [1.01, 1.44]            0.04                65                 0.09
+
+    Longer than triple therapy               13                         2592                1.09 [1.04, 1.14]            <0.01               47                 0.03
+
+    Unclear                                  3                          1308                1.16 [1.09, 1.23]            <0.01               48                 0.14
+
+CI, conﬁdence interval; HP, Helicobacter pylori; RR, relative risk; NA, not apply.
+
+
+
+
+95% CI: 1.01‐1.44, P <.05) can be more effective. The difference                           urgently need other effective methods with low side effects for
+between each subgroup was statistically signiﬁcant (P value of                             H.pylori eradication therapy. As an emerging therapeutic enhancer,
+heterogeneity <0.05, I^2 = 61.4%). In the analysis of different                            probiotics antagonize H. pylori by several ways, including reducing
+types of antibiotics (Figure S15), Amoxicillin-Clarithromycin                              the H.pylori colonization density, enhancing mucosal barrier,
+subgroup led to better consequence (RR = 0.09, 95% CI: 0.06‐                               regulating the immune response of host organisms and the
+0.12, P <.01). Other subgroup analysis (PPI type, publication year,                        secretion of anti-inﬂammatory cytokines and secreting
+triple therapy duration, follow-up time and location) didn’t show                          compounds with broad-spectrum antimicrobial activity or
+apparent difference between subgroups (Figures S14, S16–S19).                              metabolites(Chen et al., 2018; Goderska et al., 2018; Chen et al.,
+                                                                                           2021). It also plays an important role in reducing the ﬂuctuation of
+3.4.2 Side effects                                                                         intestinal microecology after eradication treatment, so as to
+    The result of subgroup analyses for side effect has been shown in                      improve the diversity of intestinal ﬂora and reduce the
+Table S4. Among all the RCTs, 7 studies (Armuzzi et al., 2001;                             gastrointestinal reaction caused by treatment(J. Dadashzadeh
+Ziemniak, 2006; Sung et al., 2007; Ozdil et al., 2011; Du et al., 2012;                    et al., 2014; Lu et al., 2016; Kafshdooz et al., 2017; Zhu and Liu,
+D’Angelo et al., 2014; Jin and Kim, 2019) did not contain the                              2017; Urrutia-Baca et al., 2018; Chen et al., 2022). In previous
+information of side effect.                                                                studies, probiotics added to triple or quadruple therapy can
+    Subgroup analysis stratiﬁed by PPI type (Figure S20) showed                            effectively alleviate the clinical symptoms of patients with H.pylori
+that among all kinds of PPI, rabeprazole is most effective in                              infection, improve the curative effect of H.pylori, and reduce the
+reducing side effects but not statistically signiﬁcant (RR = -0.26,                        incidence of adverse drug reactions. On the contrary, other studies
+95%CI: -0.55, 0.03, P =0.08), followed by unclear type (RR = -0.23,                        claimed that probiotics cannot act as an aid to improve outcomes
+95%CI: -0.28, -0.18, P <.01) and lansoprazole (RR = -0.19, 95% CI:                         (Lü et al., 2016; McNicholl et al., 2018). These conﬂicting results
+-0.33, -0.04, P <0.05). In the analysis of effect of follow-up time                        mainly come from discrepancies in experimental design, strain
+(Figure S21), all subgroups were effective in reducing side effect,                        types, and eradication treatment methods in different clinical
+while >8w and unclear subgroup did not reach statistic signiﬁcance.                        trials (Dang et al., 2014; Lü et al., 2016). Since the uncertainty
+Signiﬁcant difference could also be seen in analysis of region (Figure                     about its reliability, international guidelines and consensus do not
+S22), as the incidence of side effect may be the lowest in Eastern                         strongly recommend probiotics as a routine treatment method in
+Europe, whose Ratio rate was 0.38 (95% CI: 0.30, 0.49, P <.01). The                        H.pylori therapy (Sugano et al., 2015; Chey et al., 2017; Liu et al.,
+incidence rate did not have special meaning in other subgroup                              2018). Additionally, Zhu (Zhu and Liu, 2017) found that not all
+analysis (triple therapy duration, regimen duration, regimen adding                        probiotic or probiotics mixtures are effective during the
+time, publication year and antibiotic type). The subgroup analysis                         eradication process.
+was shown in Figures S24–S27.                                                                   This network-meta-analysis included 34 RCTs with 40 arms
+                                                                                           and 9 types of probiotic-adjuvant treatment methods identiﬁed
+                                                                                           between 2000 and 2022. The adjuvant role of different probiotics
+4 Discussion                                                                               supplementation against H.pylori were evaluated and compared in
+                                                                                           this study. The addition of probiotics to triple therapies improved
+    As a recognized carcinogen, H.pylori can lead to various                               eradication rate of H.pylori infection (RR 1.14, 95% CI: 1.07‐1.21, P
+digestive and other system diseases, and its clearance has been                            <.01), while reducing the side effects rate (RR 0.61, 95% CI: 0.53‐
+shown to bring better prognosis. It should be noted that after                             0.71, P <.01). The comparative efﬁcacy of these regimens showed
+eradication, H.pylori positive patients can beneﬁt from the                                that Biﬁdobacterium-Lactobacillus and Biﬁdobacterium-
+elimination of acute gastric inﬂammation, reduction of chronic                             Lactobacillus-Saccharomyces had the best comprehensive
+inﬂammation, improvement of peptic ulcers, thus preventing ulcer                           performance, which had beneﬁcial outcome both in eradication
+recurrence and complications, and reducing the risk of developing                          a n d s i d e e ff e c t i n c i d e n c e . R e l a t i v e l y , L a c t o b a c i l l u s -
+gastric cancer (Yang et al., 2021). Currently, the biggest hurdle of                       Propionibacterium was an effective supplement in eradication,
+H.pylori treatment is antibiotic resistance (Graham and Shiotani,                          while it also brings most side effects, which failed to reach
+2008; Graham and Dore, 2016), which cannot be solely solved by                             signiﬁcant comparative efﬁcacy. Standard triple therapy was less
+addition of antibiotics, leading to further increase in bacterial                          effective than most of the probiotics added therapies when it comes
+resistance to antibiotics (Graham and Dore, 2016). Therefore, we                           to eradication rate, with the possibility of 17.2% to had the worst
+
+
+
+Frontiers in Cellular and Infection Microbiology                                      08                                                                               frontiersin.org
+Wang et al.                                                                                                              10.3389/fcimb.2023.1120789
+
+
+
+
+performance. Besides, probiotic-adjuvant regimen can increase the              bias, and attrition bias) existed in a subset of studies. Second,
+eradication rate and avoid adverse effects, especially given in                heterogeneity cannot be neglected when combining and analyzing
+compound preparation. As shown in the rank possibility chart,                  data from different studies. For example, the dosage of antibiotics
+Biﬁdobacterium-Lactobacillus and Biﬁdobacterium-Lactobacillus-                 and probiotics, the dosage form of probiotics, antibiotics resistance
+Saccharomyces group achieved satisfactory results both in                      status of H.pylori, and patient compliance might lead to the
+eradication and side effect evaluation. This is possibly caused by             existence of heterogeneity. However, we were not able to divide
+the fact that compound probiotics can work at full capacity of                 these data into different subgroups for further analysis due to the
+different strains and is not easy to cause antibiotic resistance               lack of relevant information from the primary studies, or not
+(Chapman et al., 2011). However, previous meta-analysis from                   enough sample number for each subgroup. Besides, some
+Zhang (Zheng et al., 2013) indicating that not all combinations                probiotics regimen in this analysis were given in a mixture,
+can bring beneﬁts, and this may be due to the fact that the mixed              containing other component like yogurt or antioxidant, which
+strains do not show superiority in triple therapy because of the low           may also have impact on the results of eradication and side
+dose of their effective strains.                                               effects. Fourth, not all the studies included the information of side
+     In our subgroup analysis, eradication rate was closely related to         effect rates, and the severity of the adverse events was not evaluated
+follow-up time (0-4w, 4-8w), the type of antibiotics (amoxicillin              in the present study. Last but not least, this study conducted a
++clarithromycin) and the adding time of probiotics (before or after            network comparison including both direct and indirect pairs, and is
+triple therapy). Lv, et al (Lv et al., 2015) also found that the use of        free of direct clinical data to support the promising efﬁcacy of
+probiotics before or after eradication therapy could signiﬁcantly              probiotics supplement in anti-H.pylori treatment, so its validity and
+increase the eradication rate compared with using probiotics at the            clinical value should be further explored by future clinical trials.
+same time. The reason may be that the use of antibiotics can easily
+affect the activity of living probiotics. It is recommended that the
+interval between probiotics and antibiotics usage had better to be             5 Conclusion
+more than 2 hours, whereas the existing studies have not pointed
+out the most suitable time for probiotics addition. Chances are that               Compared to traditional triple therapy, the addition of
+the self-protection of H.pylori may be activated by adding probiotics          probiotics can improve eradication rates and reduce side effects.
+before the start of eradication therapy,while adding probiotics after          The comparative effectiveness ranking results showed that
+the end of eradication process may cause longer medication time (Ji            Biﬁdobacterium-Lactobacillus therapy and Biﬁdobacterium-
+and Yang, 2020). The duration of probiotics is also inconclusive.              Lactobacillus-Saccharomyces therapy had relatively better
+>14d group had obviously better performance in our analysis. Some              performance when considering the comprehensive outcome in
+scholars believe that the course of probiotics should be 2 weeks               eradication rate and side effect incidence. Probiotics adding before
+(Szajewska et al., 2010; Jiang et al., 2022).                                  or after triple therapy, and duration of probiotics longer than 14
+     What’s more, although the short-term beneﬁt of probiotics                 days can also improve therapeutic effect, but the reliability of this
+supplement had been revealed in the NWM, the safety of long-                   view needs to be further conﬁrmed. Combined usage of different
+term application still needs to be veriﬁed by more clinical trials. At         probiotics, although more effective compared to single usage of
+present, there are few studies on adverse reactions of probiotics              probiotics, was tested in few studies and more research from various
+(Whelan and Myers, 2010). Some studies pointed out that                        parts of the world are needed.
+probiotics can induce signiﬁcant adverse reactions, especially
+Lactobacillus and Saccharomyces, among which Saccharomyces
+can increase the risk of adverse events in patients with                       Author contributions
+immunosuppression or life-threatening diseases, and long term
+use of probiotics may lead to potential risk of antibiotic resistance              YW and LM designed the meta-analysis. YW and XW
+(Szajewska et al., 2010).                                                      performed the literature search and drafted the manuscript. X-YC
+     Studies have conﬁrmed that probiotics is effective in the process         and H-LZ screened the literature and assessed the quality. X-YC,
+of H.pylori treatment (Tongtawee et al., 2015; Chen et al., 2018;              YW, and XW extracted data. YW and XW analyzed and interpreted
+Plomer et al., 2020; Chen et al., 2021), while few of them evaluated           the data. and LM and H-LZ proofread the paper. All authors
+the comparative effect of different kinds of probiotics. In this study,        contributed to the article and approved the submitted version.
+we comprehensively compared several common probiotic-adjuvant
+therapies and ranked their efﬁcacy and side effects. The possible bias
+of RCTs in this analysis was carefully checked and excluded. What’s            Conﬂict of interest
+more, we further explored the possible inﬂuence of other factors,
+including region, probiotics adding time, duration of triple therapy               The authors declare that the research was conducted in the
+and probiotics, follow-up time, the dosage form of antibiotics and             absence of any commercial or ﬁnancial relationships that could be
+PPI, and publication year. However, some limitations in this study             construed as a potential conﬂict of interest.
+should be noted. First, some therapies only included 1 or 2 studies                The remaining authors declare that the research was conducted
+for analysis. Some small sample studies were taken into account,               in the absence of any commercial or ﬁnancial relationships that
+and risk bias (including selection bias, performance bias, detection           could be constructed as a potential conﬂict of interest.
+
+
+Frontiers in Cellular and Infection Microbiology                          09                                                           frontiersin.org
+Wang et al.                                                                                                                                                    10.3389/fcimb.2023.1120789
+
+
+
+
+    The handling editor SW declared a shared parent afﬁliation                                         that may be evaluated in this article, or claim that may be made by its
+with the authors YW, XW, XC, LM at the time of review.                                                 manufacturer, is not guaranteed or endorsed by the publisher.
+
+
+
+Publisher’s note                                                                                       Supplementary material
+    All claims expressed in this article are solely those of the authors                                    The Supplementary Material for this article can be found online at:
+and do not necessarily represent those of their afﬁliated organizations,                               https://www.frontiersin.org/articles/10.3389/fcimb.2023.1120789/
+or those of the publisher, the editors and the reviewers. Any product                                  full#supplementary-material
+
+
+
+
+References
+   Armuzzi, A. C. F., Bartolozzi, F., Canducci, F., Candelli, M., Ojetti, V., Cammarota,                  Dore, M. P., Bibbo, S., Pes, G. M., Francavilla, R., and Graham, D. Y. (2019). Role of
+G., et al. (2001). The effect of oral administration of lactobacillus GG on antibiotic-                probiotics in helicobacter pylori eradication: lessons from a study of lactobacillus
+associated gastrointestinal side-effects during helicobacter pylori eradication therapy.               reuteri strains DSM 17938 and ATCC PTA 6475 (Gastrus(R)) and a proton-pump
+Aliment Pharmacol. Ther. 15 (2), 163–169. doi: 10.1046/j.1365-2036.2001.00923.x                        inhibitor. Can. J. Infect. Dis. Med. Microbiol. 2019, 3409820. doi: 10.1155/2019/3409820
+   Canducci, F., Armuzzi, A., Cremonini, F., Cammarota, G., Bartolozzi, F., Pola, P.,                     Du, Y. Q., Su, T., Gong, T. F., and Li, Z. S. (2012). Different time point of probiotic
+et al. (2000). A lyophilized and inactivated culture of lactobacillus acidophilus increases            interferes improve the eradication rate of triple therapy on helicobacter pylori: a
+helicobacter pylori eradication rates. Aliment Pharmacol. Ther. 14 (12), 1625–1629.                    multicenter randomized controlled tudy in shanghai. Digestion. 85 (2), 154.
+doi: 10.1046/j.1365-2036.2000.00885.x                                                                  doi: 10.1159/000334689
+   Chang, Y. W., Park, Y. M., Oh, C. H., Oh, S. J., Cho, J. H., Kim, J. W., et al. (2020).                Duman, D. G. B. S., Ozütemiz, O., Sahin, T., Oğ uz, D., Iştan, F., Vural, T., et al.
+Effects of probiotics or broccoli supplementation on helicobacter pylori eradication                   (2005). Efﬁcacy and safety of saccharomyces boulardii in prevention of antibiotic-
+with standard clarithromycin-based triple therapy. Korean J. Intern. Med. 35 (3), 574–                 associated diarrhoea due to helicobacterpylori eradication. Eur. J. Gastroenterol.
+581. doi: 10.3904/kjim.2019.139                                                                        Hepatol. 17 (12), 1357–1361. doi: 10.1097/00042737-200512000-00015
+  Chapman, C. M., Gibson, G. R., and Rowland, I. (2011). Health beneﬁts of                                Emara, M. H. M. S., and Abdel-Aziz, H. R. (2014). Lactobacillus reuteri in
+probiotics: are mixtures more effective than single strains? Eur. J. Nutr. 50 (1), 1–17.               management of helicobacter pylori infection in dyspeptic patients: a double-blind
+doi: 10.1007/s00394-010-0166-z                                                                         placebo-controlled randomized clinical trial. Therap Adv. Gastroenterol. 7 (1), 4–13.
+   Chen, M. J., Chen, C. C., Huang, Y. C., Tseng, C. C., Hsu, J. T., Lin, Y. F., et al. (2021).        doi: 10.1177/1756283X13503514
+The efﬁcacy of lactobacillus acidophilus and rhamnosus in the reduction of bacterial                      Francavilla, R. (2013). Control of helicobacter pylori infection by dietary
+load of helicobacter pylori and modiﬁcation of gut microbiota-a double-blind, placebo-                 supplementation with lactobacillus reuteri strain combination. Gastroenterology 144
+controlled, randomized trial. Helicobacter. 26 (6), e12857. doi: 10.1111/hel.12857                     (5 SUPPL. 1), S54. doi: 10.1016/S0016-5085(13)60193-6
+   Chen, J., Li, P., Huang, Y., Guo, Y., Ding, Z., and Lu, H. (2022). Primary antibiotic                 Goderska, K., Agudo Pena, S., and Alarcon, T. (2018). Helicobacter pylori treatment:
+resistance of helicobacter pylori in different regions of China: a systematic review and               antibiotics or probiotics. Appl. Microbiol. Biotechnol. 102 (1), 1–7. doi: 10.1007/s00253-
+meta-analysis. Pathogens 11 (7), 786. doi: 10.3390/pathogens11070786                                   017-8535-7
+  Chen, L., Xu, W., Lee, A., He, J., Huang, B., Zheng, W., et al. (2018). The impact of                   Goran Hauser, N. N. S., Vukelic, K., Kuzmic, V., and Stimac, D. (2014). The efﬁcacy
+helicobacter pylori infection, eradication therapy and probiotic supplementation on gut                of probiotics as adjuvant treatment in eradicating h. pylori by standard triple therapy: a
+microenvironment homeostasis: an open-label, randomized clinical trial.                                prospective, randomized, double blind and placebo controlled trial. Gastroenterology
+EBioMedicine. 35, 87–96. doi: 10.1016/j.ebiom.2018.08.028                                              146 (5 SUPPL. 1), S–391. doi: 10.1016/S0016-5085%2814%2961405-0
+  Chey, W. D., Leontiadis, G. I., Howden, C. W., and Moss, S. F. (2017). ACG clinical                    Graham, D. Y., and Dore, M. P. (2016). Helicobacter pylori therapy: a paradigm
+guideline: treatment of helicobacter pylori infection. Am. J. Gastroenterol. 112 (2), 212–             shift. Expert Rev. Anti Infect. Ther. 14 (6), 577–585. doi: 10.1080/
+239. doi: 10.1038/ajg.2016.563                                                                         14787210.2016.1178065
+   Cremonini, F. D. C. S., Covino, M., Armuzzi, A., Gabrielli, M., Santarelli, L., Nista, E.              Graham, D. Y., and Shiotani, A. (2008). New concepts of resistance in the treatment
+C., et al. (2002). Effect of different probiotic preparations on anti-helicobacter pylori              of helicobacter pylori infections. Nat. Clin. Pract. Gastroenterol. Hepatol. 5 (6), 321–
+therapy-related side effects: a parallel group, triple blind, placebo-controlled study. Am.            331. doi: 10.1038/ncpgasthep1138
+J. Gastroenterol. 97 (11), 2744–2749. doi: 10.1111/j.1572-0241.2002.07063.x                               Grgov, S., Tasic, T., Radovanovic-Dinic, B., and Benedeto-Stojanov, D. (2016). Can
+  Crowe, S. E. (2019). Helicobacter pylori infection. N Engl. J. Med. 380 (12), 1158–                  probiotics improve efﬁciency and safety proﬁle of triple helicobacter pylori eradication
+1165. doi: 10.1056/NEJMcp1710945                                                                       therapy? A prospective randomized study. Vojnosanit Pregl. 73 (11), 1044–1049.
+  D'Angelo, G., Del Zompo, F., Di Rienzo, T. A., Mangiola, F., Campanale, M.,                          doi: 10.2298/VSP150415127G
+Ojetti, V., et al. (2014). A standard 7 day clarithromycin based ﬁrst line therapy                        Haghdoost, M., Taghizadeh, S., Montazer, M., Poorshahverdi, P., Ramouz, A., and
+enriched with a mix of bacillus coagulans lactoferrin and fructooligosaccharides is                    Fakour, S. (2017). Double strain probiotic effect on helicobacter pylori infection
+equivalent to sequential therapy in terms of H. Pylori eradication. Helicobacter 19                    treatment: a double-blinded randomized controlled trial. Caspian J. Intern. Med. 8
+(SUPPL. 1), 155. doi: 10.1111/hel.12166                                                                (3), 165–171. doi: 10.22088/cjim.8.3.165
+   Dadashzadeh, K. M. M., Rahmati, M., and Akbarzadeh, A. (2014). Real-time PCR                           Higgins, J. P., Altman, D. G., Gotzsche, P. C., Juni, P., Moher, D., Oxman, A. D., et al.
+detection of 16S rRNA novel mutations associated with helicobacter pylori tetracycline                 (2011). The cochrane collaboration’s tool for assessing risk of bias in randomised trials.
+resistance in Iran. Asian Pac J. Cancer Prev. 15 (20), 8883–8886. doi: 10.7314/                        BMJ 343, d5928. doi: 10.1136/bmj.d5928
+apjcp.2014.15.20.8883
+                                                                                                         Higgins, J. P. T. S., Deeks, J. J., and Altman, D. G. (2003). Measuring inconsistency in
+  Dajani, A. I., Abu Hammour, A. M., Yang, D. H., Chung, P. C., Nounou, M. A.,                         meta-analyses. BMJ 327 (7414), 557–560. doi: 10.1136/bmj.327.7414.557
+Yuan, K. Y., et al. (2013). Do probiotics improve eradication response to helicobacter
+pylori on standard triple or sequential therapy? Saudi J. Gastroenterol. 19 (3), 113–120.                 Hooi, J. K. Y., Lai, W. Y., Ng, W. K., Suen, M. M. Y., Underwood, F. E., Tanyingoh,
+doi: 10.4103/1319-3767.111953                                                                          D., et al. (2017). Global prevalence of helicobacter pylori infection: systematic review
+                                                                                                       and meta-analysis. Gastroenterology. 153 (2), 420–429. doi: 10.1053/
+   Dang, Y., Reinhardt, J. D., Zhou, X., and Zhang, G. (2014). The effect of probiotics                j.gastro.2017.04.022
+supplementation on helicobacter pylori eradication rates and side effects during
+eradication therapy: a meta-analysis. PloS One 9 (11), e111030. doi: 10.1371/                            Ji, J., and Yang, H. (2020). Using probiotics as supplementation for helicobacter
+journal.pone.0111030                                                                                   pylori antibiotic therapy. Int. J. Mol. Sci. 21 (3), 1136. doi: 10.3390/ijms21031136
+  Deguchi, R., Nakaminami, H., Rimbara, E., Noguchi, N., Sasatsu, M., Suzuki, T., et al.                  Jiang, F., Guo, C. G., Cheung, K. S., Li, B., Law, S. Y. K., and Leung, W. K. (2022). Age
+(2012). Effect of pretreatment with lactobacillus gasseri OLL2716 on ﬁrst-line                         of eradication and failure rates of clarithromycin-containing triple therapy for
+helicobacter pylori eradication therapy. J. Gastroenterol. Hepatol. 27 (5), 888–892.                   helicobacter pylori: a 15-year population-based study. Helicobacter. 27 (3), e12893.
+doi: 10.1111/j.1440-1746.2011.06985.x                                                                  doi: 10.1111/hel.12893
+   DerSimonian, R. (1996). Meta-analysis in the design and monitoring of clinical                         Jin, I. L., and Kim, D. Y. C. (2019). Eradication rate of triple with probiotics,
+trials. Stat. Med. 15 (12), 1237–1248. doi: 10.1002/(SICI)1097-0258(19960630)                          sequential, concomitant, and tailered therapy for helicobacter pylori. Gastroenterology
+15:12<1237::AID-SIM301>3.0.CO;2-N                                                                      156 (6), S–529. doi: 10.1016/S0016-5085(19)38207-1
+
+
+
+
+Frontiers in Cellular and Infection Microbiology                                                  10                                                                             frontiersin.org
+Wang et al.                                                                                                                                                    10.3389/fcimb.2023.1120789
+
+
+
+
+   Kafshdooz, T. A. A., Majdi Seghinsara, A., Pourhassan, M., Nasrabadi, H. T., and                 therapy: a randomized, double-blind, controlled trial. Infect. Dis. Ther. 9 (4), 867–878.
+Milani, M. (2017). Role of probiotics in managing of helicobacter pylori infection: a               doi: 10.1007/s40121-020-00333-2
+review. Drug Res. (Stuttg). 67 (2), 88–93. doi: 10.1055/s-0042-116441                                  Scaccianoce, G. Z. A., Hassan, C., Gentili, F., Cristofari, F., Cardinale, V., Gigliotti, F.,
+   Lee, Y. C., Chiang, T. H., Chou, C. K., Tu, Y. K., Liao, W. C., Wu, M. S., et al. (2016).        et al. (2008). Triple therapies plus different probiotics for helicobacter pylori
+Association between helicobacter pylori eradication and gastric cancer incidence: a                 eradication. Eur. Rev. Med. Pharmacol. Sci. 12 (2), 251–256.
+systematic review and meta-analysis. Gastroenterology. 150 (5), 1113–1124.e1115.                       Sheu, B. S., Wu, J. J., Lo, C. Y., Wu, H. W., Chen, J. H., Lin, Y. S., et al. (2002). Impact
+doi: 10.1053/j.gastro.2016.01.028                                                                   of supplement with lactobacillus- and biﬁdobacterium-containing yogurt on triple
+   Lee, J. Y. S. C., Park, J. H., Shin, J. W., and Joo, Y. H. (2011). The effect of                 therapy for helicobacter pylori eradication. Aliment Pharmacol. Ther. 16 (9), 1669–
+saccharomyces boulardii as an adjuvant to the 14-day triple therapy for eradication of              1675. doi: 10.1046/j.1365-2036.2002.01335.x
+helicobacter pylori. J. Gastroenterol. Hepatology. 26, 257. doi: 10.1111/j.1440-                       Shimbo, I., Yamaguchi, T., Odaka, T., Nakajima, K., Koide, A., Koyama, H., et al.
+1746.2011.06898.x                                                                                   (2005). Effect of clostridium butyricum on fecal ﬂora in helicobacter pylori eradication
+  Liu, W. Z., Xie, Y., Lu, H., Cheng, H., Zeng, Z. R., Zhou, L. Y., et al. (2018). Fifth            therapy. World J. Gastroenterol. 21 (11(47), 7520–7524. doi: 10.3748/wjg.v11.i47.7520
+Chinese national consensus report on the management of helicobacter pylori infection.                  Song, M. J., Park, D. I., Park, J. H., Kim, H. J., Cho, Y. K., Sohn, C. I., et al. (2010). The
+Helicobacter. 23 (2), e12475. doi: 10.1111/hel.12475                                                effect of probiotics and mucoprotective agents on PPI-based triple therapy for
+  Lu, C., Sang, J., He, H., Wan, X., Lin, Y., Li, L., et al. (2016). Probiotic                      eradication of helicobacter pylori. Helicobacter. 15 (3), 206–213. doi: 10.1111/j.1523-
+supplementation does not improve eradication rate of helicobacter pylori infection                  5378.2010.00751.x
+compared to placebo based on standard therapy: a meta-analysis. Sci. Rep. 6, 23522.                   Song, H. Y., Zhou, L., Liu, D. Y., Yao, X. J., and Li, Y. (2018). What roles do
+doi: 10.1038/srep23522                                                                              probiotics play in the eradication of helicobacter pylori? current knowledge and
+   Lü, M., Yu, S., Deng, J., Yan, Q., Yang, C., Xia, G., et al. (2016). Efﬁcacy of probiotic        ongoing research. Gastroenterol. Res. Pract. 2018, 9379480. doi: 10.1155/2018/9379480
+supplementation therapy for helicobacter pylori eradication: a meta-analysis of                        Sugano, K., Tack, J., Kuipers, E. J., Graham, D. Y., El-Omar, E. M., Miura, S., et al.
+randomized controlled trials. PloS One 11 (10), e0163743. doi: 10.1371/                             (2015). Kyoto Global consensus report on helicobacter pylori gastritis. Gut. 64 (9),
+journal.pone.0163743                                                                                1353–1367. doi: 10.1136/gutjnl-2015-309252
+   Lv, Z., Wang, B., Zhou, X., Wang, F., Xie, Y., Zheng, H., et al. (2015). Efﬁcacy and                Sung, K. P., Dong, I. P., Joong, S. C., Mun, S. K., Jung, H. P., Hong, J. K., et al. (2007).
+safety of probiotics as adjuvant agents for helicobacter pylori infection: a meta-analysis.         The effect of probiotics on helicobacter pylori eradication. Hepato-Gastroenterology. 54
+Exp. Ther. Med. 9 (3), 707–716. doi: 10.3892/etm.2015.2174                                          (79), 2032–2036.
+   Malfertheiner, P., Megraud, F., O’Morain, C. A., Gisbert, J. P., Kuipers, E. J., Axon, A.           Szajewska, H., Horvath, A., and Piwowarczyk, A. (2010). Meta-analysis: the effects of
+T., et al. (2017). Management of helicobacter pylori infection-the maastricht V/                    saccharomyces boulardii supplementation on helicobacter pylori eradication rates and
+Florence consensus report. Gut. 66 (1), 6–30. doi: 10.1136/gutjnl-2016-312288                       side effects during treatment. Aliment Pharmacol. Ther. 32 (9), 1069–1079.
+   McNicholl, A. G., Molina-Infante, J., Lucendo, A. J., Calleja, J. L., Pé rez-Aisa, Á ,         doi: 10.1111/j.1365-2036.2010.04457.x
+Modolell, I., et al. (2018). Probiotic supplementation with lactobacillus plantarum and                Tongtawee, T., Dechsukhum, C., Leeanansaksiri, W., Kaewpitoon, S., Kaewpitoon,
+pediococcus acidilactici for helicobacter pylori therapy: a randomized, double-blind,               N., Loyd, R. A., et al. (2015). Effect of pretreatment with lactobacillus delbrueckii and
+placebo-controlled trial. Helicobacter. 23 (5), e12529. doi: 10.1111/hel.12529                      streptococcus thermophillus on tailored triple therapy for helicobacter pylori
+   Medeiros, J. A., Goncalves, T. M., Boyanova, L., Pereira, M. I., de Carvalho, J. N.,             eradication: a prospective randomized controlled clinical trial. Asian Pac J. Cancer
+Pereira, A. M., et al. (2011). Evaluation of helicobacter pylori eradication by triple              Prev. 16 (12), 4885–4890. doi: 10.7314/apjcp.2015.16.12.4885
+therapy plus lactobacillus acidophilus compared to triple therapy alone. Eur. J. Clin.                 Urrutia-Baca, V. H., Escamilla-Garcı́a, E., de la Garza-Ramos, M. A., Tamez-Guerra,
+Microbiol. Infect. Dis. 30 (4), 555–559. doi: 10.1007/s10096-010-1119-4                             P., Gomez-Flores, R., and Urbina-Rı́os, C. S. (2018). In vitro antimicrobial activity and
+  Mihai, C. (2019). Lactobacillus reuteri – an alternative in the ﬁrst-line of helicobacter         downregulation of virulence gene expression on helicobacter pylori by reuterin.
+pylori eradication. Farmacia. 67 (5), 871–876. doi: 10.31925/farmacia.2019.5.17                     Probiotics Antimicrob. Proteins. 10 (2), 168–175. doi: 10.1007/s12602-017-9342-2
+  Mu, Q., Tavella, V. J., and Luo, X. M. (2018). Role of lactobacillus reuteri in human                Whelan, K., and Myers, C. E. (2010). Safety of probiotics in patients receiving
+health and diseases. Front. Microbiol. 9. doi: 10.3389/fmicb.2018.00757                             nutritional support: a systematic review of case reports, randomized controlled trials,
+   Muresan, I. A. P., Pop, L. L., and Dumitrascu, D. L. (2019). Lactobacillus reuteri               and nonrandomized trials. Am. J. Clin. Nutr. 91 (3), 687–703. doi: 10.3945/
+versus triple therapy for the eradication of helicobacter pylori in functional dyspepsia.           ajcn.2009.28759
+Med. Pharm. Rep. 92 (4), 352–355. doi: 10.15386/mpr-1375                                               Yang, C., Liang, L., Lv, P., Liu, L., Wang, S., Wang, Z., et al. (2021). Effects of non-
+   Myllyluoma, E., Veijola, L., Ahlroos, T., Tynkkynen, S., Kankuri, E., Vapaatalo, H.,             viable lactobacillus reuteri combining with 14-day standard triple therapy on
+et al. (2005). Probiotic supplementation improves tolerance to helicobacter pylori                  helicobacter pylori eradication: a randomized double-blind placebo-controlled trial.
+eradication therapy–a placebo-controlled, double-blind randomized pilot study.                      Helicobacter. 26 (6), e12856. doi: 10.1111/hel.12856
+Aliment Pharmacol. Ther. 21 (10), 1263–1272. doi: 10.1111/j.1365-2036.2005.02448.x                    Yang, H., Wei, B., and Hu, B. (2021). Chronic inﬂammation and long-lasting
+   Nista, E. C., Candelli, M., Cremonini, F., Cazzato, I. A., Zocco, M. A., Franceschi, F.,         changes in the gastric mucosa after helicobacter pylori infection involved in gastric
+et al. (2004). Bacillus clausii therapy to reduce side-effects of anti-helicobacter pylori          cancer. Inﬂammation Res. 70 (10-12), 1015–1026. doi: 10.1007/s00011-021-01501-x
+treatment: randomized, double-blind, placebo controlled trial. Aliment Pharmacol.                      Yao, X., and Smolka, A. J. (2019). Gastric parietal cell physiology and helicobacter
+Ther. 20 (10), 1181–1188. doi: 10.1111/j.1365-2036.2004.02274.x                                     pylori-induced disease. Gastroenterology. 156 (8), 2158–2173. doi: 10.1053/
+   Ojetti, V., Bruno, G., Ainora, M. E., Gigante, G., Rizzo, G., Roccarina, D., et al.              j.gastro.2019.02.036
+(2012). Impact of lactobacillus reuteri supplementation on anti-helicobacter pylori                    Yoon, H., Kim, N., Kim, J. Y., Park, S. Y., Park, J. H., Jung, H. C., et al. (2011). Effects
+levoﬂoxacin-based second-line therapy. Gastroenterol. Res. Pract. 2012, 740381.                     of multistrain probiotic-containing yogurt on second-line triple therapy for
+doi: 10.1155/2012/740381                                                                            helicobacter pylori infection. J. Gastroenterol. Hepatol. 26 (1), 44–48. doi: 10.1111/
+   Ozdil, K., Sahin, A., Senates, E., Kahraman, R., Yüzbasioglu, B., Demirdag, H., et al.           j.1440-1746.2010.06477.x
+(2011). Levoﬂoxacin based sequential and triple therapy compared with standard plus                   Zheng, X., Lyu, L., and Mei, Z. (2013). Lactobacillus-containing probiotic
+probiotic combination for helicobacter pylori eradication. Hepatogastroenterology. 58               supplementation increases helicobacter pylori eradication rate: evidence from a
+(109), 1148–1152. doi: 10.5754/hge11075                                                             meta-analysis. Rev. Esp Enferm Dig. 105 (8), 445–453. doi: 10.4321/s1130-
+   Page, M. J., McKenzie, J. E., Bossuyt, P. M., Boutron, I., Hoffmann, T. C., Mulrow, C.           01082013000800002
+D., et al. (2021). The PRISMA 2020 statement: an updated guideline for reporting                      Zhu, X. Y., and Liu, F. (2017). Probiotics as an adjuvant treatment in helicobacter
+systematic reviews. BMJ 372, n71. doi: 10.1136/bmj.n71                                              pylori eradication therapy. J. Dig Dis. 18 (4), 195–202. doi: 10.1111/1751-2980.12466
+   Paoluzi, O. A., Del Vecchio Blanco, G., Visconti, E., Coppola, M., Fontana, C.,                     Ziemniak, W. (2006). Efﬁcacy of helicobacter pylori eradication taking into account
+Favaro, M., et al. (2015). Low efﬁcacy of levoﬂoxacin-doxycycline-based third-line                  its resistance to antibiotics. J. Physiol. Pharmacol. 57 (Suppl 3), 123–141.
+triple therapy for helicobacter pylori eradication in Italy. World J. Gastroenterol. 21                Zojaji, H., Ghobakhlou, M., Rajabalinia, H., Ataei, E., Jahani, S. S., Moghimi-
+(21), 6698–6705. doi: 10.3748/wjg.v21.i21.6698                                                      Dehkordi, B., et al. (2013). The efﬁcacy and safety of adding the probiotic
+  Plomer, M., Iii Perez, M., and Greifenberg, D. M. (2020). Effect of bacillus clausii              saccharomyces boulardiito standard triple therapy for eradication of h.pylori: a
+capsules in reducing adverse effects associated with helicobacter pylori eradication                randomized controlled trial. Gastroenterol. Hepatol. Bed Bench 6 (Suppl 1), S99–S104.
+
+
+
+
+Frontiers in Cellular and Infection Microbiology                                               11                                                                                 frontiersin.org
+

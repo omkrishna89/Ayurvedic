@@ -1,0 +1,279 @@
+Hindawi
+Case Reports in Gastrointestinal Medicine
+Volume 2021, Article ID 5543838, 5 pages
+https://doi.org/10.1155/2021/5543838
+
+
+
+
+Case Report
+Recurrent Aphthous Stomatitis Improved after Eradication
+Therapy for Helicobacter pylori
+
+           Yinglin Gao ,1 Nikhil Gupta,2 and Maisa Abdalla2
+           1
+               Internal Medicine, Loma Linda University Medical Center, Loma Linda, CA, USA
+           2
+               Gastroenterology Department, Loma Linda University Medical Center, Loma Linda, CA, USA
+
+           Correspondence should be addressed to Yinglin Gao; ygao@llu.edu
+
+           Received 21 February 2021; Revised 9 March 2021; Accepted 15 March 2021; Published 30 March 2021
+
+           Academic Editor: Ken Haruma
+
+           Copyright © 2021 Yinglin Gao et al. This is an open access article distributed under the Creative Commons Attribution License,
+           which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+           Helicobacter pylori (H. pylori) is a Gram-negative bacterium that colonizes gastric mucosa and is often transmitted through direct
+           contact with saliva, contaminated food or water, and vomit. The majority of the infected individuals remain asymptomatic for a
+           long period. Infection with H. Pylori often presents with dyspepsia, nausea, frequent belching, bloating, abdominal discomfort,
+           burning abdominal pain, and peptic ulcer. A potential association between H. Pylori and recurrent aphthous stomatitis was
+           previously reported; however, the presence of causative relationship between the two remained controversial. We are presenting a
+           case of recurrent aphthous stomatitis of twenty-four-year history resolved after H. pylori treatment.
+
+
+
+
+1. Introduction                                                          2. Case Presentation
+Recurrent aphthous stomatitis (RAS) is a recurrent painful               Our patient is a 49-year-old Hispanic immigrant female with
+ulcerative disorder that commonly aﬀects the oral mucosa.                a 24-year history of painful RAS in the oral cavity (Figure 1).
+The diagnosis of RAS is clinical, and the etiology remains               Her symptoms were associated with nausea and odyno-
+unclear. Some predisposing factors include trauma, hor-                  phagia. She reports that the sores last approximately one
+monal changes, diet, nutritional deﬁciency, celiac disease,              week at a time and can present with as many as thirteen at a
+and immunological disorders. Nutritional deﬁciency that                  single time. There was never a period of time when she had
+could potentially lead to RAS includes decreased level of                not had an oral ulcer present for the past 20 years and often
+iron, vitamins B3 and B12, vitamin C, and folic acid [1].                she would have an average of 5–6 oral ulcers at any given
+    Helicobacter pylori (H. pylori) is a Gram-negative bac-              time. Within the past 20 years, she has seen many doctors
+terium that colonizes gastric mucosa and is often trans-                 before immigrating to the US, but it is unclear what kind of
+mitted through direct contact with saliva, contaminated                  treatment she tried in the past and she never got a formal
+food or water, and vomit. The majority of infected indi-                 diagnosis of her problem as well. She has only been con-
+viduals remain asymptomatic for a long period. Conse-                    trolled with pain medication for symptom relief. She also
+quently, it can lead to various gastrointestinal disorders such          reports a longstanding history of intermittent postprandial
+as gastritis, peptic ulcers, and even malignancy. In fact, H             bloating and a history of constipation. She denies diarrhea,
+pylori leads to roughly 89% of all gastric cancers [2];                  hematochezia, and personal or family history of colon cancer
+therefore, early recognition and eradication is of great im-             or gastric cancer. Other past medical history includes
+portance. Although H. pylori infection has been suggested to             anxiety, history of stroke, and hypertension. Her anxiety is
+be involved in the pathogenesis of RAS, this association is              very well controlled. She denies drinking or smoking. Dif-
+debatable. We present a case in which RAS resolved with                  ferentials such as lupus, Crohn’s, ulcerative colitis, Behcet
+H. pylori eradication therapy suggesting possible association            syndrome, HIV, deep mycosis, tuberculosis, syphilis, celiac
+between RAS and H. pylori.                                               disease, vasculitis, drug-induced injury (NSAIDs or
+2                                                                                       Case Reports in Gastrointestinal Medicine
+
+
+
+
+           Figure 1: Aphthous stomatitis noted over the left anterolateral tongue (pictures were provided by the patient).
+
+
+alendronate), and genital ulcers were all considered. The           H. Pylori and recurrent aphthous stomatitis was previously
+patient had an extensive lab workup for her aphthous ulcers         reported; however, the presence of causative relationship
+by her PCP (Table 1) including antinuclear antibody, tissue         between the two remained controversial. It was previously
+transglutaminase IgA, HIV 1&2 Ab, and HSV-1 IgM, which              hypothesized H. pylori could modify the immune response
+were all negative. HSV-1 IgG was positive, but the patient          directly and release proinﬂammatory mediators, leading to
+had received multiple courses of acyclovir without resolu-          the irritation of surface epithelial cells. [6] In addition,
+tion of her symptoms. The nutrition panel revealed vitamin          H. pylori could potentially multiply in macrophages, den-
+B and zinc deﬁciencies for which a three-month supple-              dritic cells, and epithelial cells and then indirectly lead to
+mentation was given without improvement in her symp-                vitamin B deﬁciency, which would then cause changes in the
+toms. Repeat vitamin levels were ordered, but the patient did       epithelium of the tongue and buccal mucosa that would lead
+not follow up. She was seen by a dermatologist who rec-             to mucosal bleeding and glossitis, given its important role in
+ommended triamcinolone paste to aﬀected areas in her                DNA synthesis [6].
+mouth without help. She was then referred to gastroen-                  As mentioned previously, the association between
+terology for further workup.                                        H. pylori and RAS is unclear. Multiple studies in the past
+     For her physical exam, oral cavity revealed normal lips,       have shown conﬂicting results regarding the association
+normal dentition, and occlusion; two aphthous ulcers on the         between RAS and H. pylori. In our case, the inability to
+right buccal mucosa, approximately 0.5 cm in size were seen.        identify other causes for the patient’s 20+ year history of
+No drainage or purulent discharge was noted so the ulcer            recurrent aphthous ulcers, the lack of response to other
+was not swabbed for examination. Other reviews of systems           commonly used therapies (acyclovir, topical corticosteroids,
+including skin, eye, lymphatics, cardiovascular, abdomen,           and vitamin supplementations), and the rapid and sustained
+thyroid, neurologic, and respiratory systems were all normal.       resolution of all oral ulcers after completing H. pylori
+Esophagogastroduodenoscopy was done and revealed ery-               treatment support the degree of clinical correlation between
+thematous gastric mucosa (Figure 2). The biopsy of this area        recurrent aphthous stomatitis and H. pylori. In a prospective
+was positive for H. Pylori infection and mild active chronic        study by Karaca et al., a total of 23 patients with RAS were
+gastritis. She was then prescribed quadruple therapy con-           assessed for the association with H. pylori and the eﬀect of
+sisting of a proton pump inhibitor, tetracycline, metroni-          eradication therapy on the recurrence. All patients under-
+dazole, and bismuth subsalicylate. After completion of the          went endoscopy and had gastric biopsies evaluated for
+therapy, she reported simultaneous resolution of RAS.               H. pylori. The ones with conﬁrmed H. pylori were followed
+H. pylori stool antigen was performed after completion of           up for up to a year after treatment. The result revealed a
+quadruple therapy and conﬁrmed eradication. She was seen            statistically signiﬁcant decrease in recurrence rate of RAS
+in follow-up ﬁve months later and denies the presence of            with eradication therapy [7]. Similarly, Tas et al. also eval-
+RAS which has not happened for the last 20 years.                   uated 46 patients with aphthous lesions, and they also
+                                                                    underwent endoscopic biopsy to evaluate H pylori. It was
+3. Discussion                                                       found H. pylori positive in 30 patients and negative in 16
+                                                                    patients. The 30 patients with positive results received
+It was estimated that the prevalence of H. Pylori infection is      treatment and were followed up. The result revealed that
+approximately 20 percent for people less than 30 years and          vitamin B12 levels were signiﬁcantly increased in the
+50 percent for those greater than 60 years in the United            H. pylori-eradicated group (P � 0.001); however, no sig-
+States [3]. The exact etiologies for RAS is unclear and could       niﬁcant change was found in the control group (P � 0.638).
+be multifactorial; risk factors could be categorized into local,    In addition, the average number of aphthous lesions (per 6
+systemic, immunologic, positive family history with genetic         months) of H. pylori-eradicated group was signiﬁcantly
+predisposition, allergic, nutritional problems such as B12          decreased after eradication (P � 0.0001) as compared to the
+deﬁciency, microbial factors, and anxiety or immunosup-             control group (P � 0.677) [8]. Furthermore, in a meta-
+pressive drugs [4, 5]. A potential association between              analysis study in 2014, Li et al. assessed seven case-control
+Case Reports in Gastrointestinal Medicine                                                                                                            3
+
+                        Table 1: Lab work in diagnosis of the etiology of the recurrent aphthous stomatitis.
+                                                   WBC                                9.5 th/μL                                     3.8–10.8 th/μL
+                                                   Hgb                                13.5 g/dL                                    11.7–15.5 g/dL
+                                                    Hct                                 42.1%                                          35–45.0%
+CBC
+                                                   MCV                                  86.1 fL                                        80–100 fL
+                                                  Platelet                            301 th/uL                                     7.5–12.5 th/uL
+                                          Absolute lymphocyte                       3891 cells/uL                                 200–950 cells/uL
+                                                    Na                              143 MEQ/L                                     135–146 MEQ/L
+                                                     K                               5.0 MEQ/L                                     3.5–5.3 MEQ/L
+                                                     Cl                             106 MEQ/L                                      98–110 MEQ/L
+                                                   CO2                               32 MEQ/L                                       20–32 MEQ/L
+                                                Albumin                                4.4 g/dL                                      3.6–5.1 g/dL
+CMP                                             Bilirubin                              0.3 g/dL                                      0.2–1.2 g/dL
+                                                   AST                                 27 IU/L                                        10–35 IU/L
+                                                   ALT                                 37 IU/L                                         6-29 IU/L
+                                                   BUN                                17 mg/dL                                       7–25 mg/dL
+                                                Creatinine                           0.83 mg/dL                                    0.5–1.10 mg/dL
+                                                 Calcium                             12.1 mg/dL                                    8.6–10.2 mg/dL
+                                                    B12                              484 pg/mL                                    254–1320 pg/mL
+                                                    B1                               <7 nmol/L                                       8–30 nmol/L
+                                                    B6                                <2 ng/μL                                      2.1–21.7 ng/μL
+                                                    B2                              43.5 nmol/L                                     6.2–39 nmol/L
+                                                    B3                               <20 ng/mL                                   <20–30000 ng/mL
+                                           Vitamin D 25 (OH)                          19 ng/mL                                      30–100 ng/mL
+Micronutrients/vitamins
+                                              Transthyretin                          27.7 mg/dL                                      20–40 mg/dL
+                                                  Folate                             13.1 ng/mL                                    3.1–17.5 ng/mL
+                                                   TIBC                             370 mcg/dL                                    250–450 mcg/dL
+                                                 Ferritin                           147.8 ng/mL                                    8–252.0 ng/mL
+                                                   Iron                               48 ng/mL                                      50–170 ng/mL
+                                                   Zinc                              53 mcg/dL                                     60–130 mcg/dL
+                                                  ANCA                                Negative                                         Negative
+                                                   ANA                                Negative                                         Negative
+                                           Rheumatoid factor                          Negative                                         Negative
+                                                TTG-IGA                               Negative                                         Negative
+Serologies/autoimmune work up                  Lupus panel                            Negative                                         Negative
+                                                 SSA/SSB                              Negative                                         Negative
+                                                    T4                               1.02 ng/dL                                   0.76–1.46 ng/dLf
+                                                   TSH                               1.12 mIU/L                                  0.358–3.740 mIU/L
+                                                    A1c                                  6.2%                                            <5.5%
+                                                   HIV                                Negative                                         Negative
+                                                  HSV 1                             Positive abs                                       Negative
+Infectious work up
+                                              Hepatitis C ab                          Negative                                         Negative
+                                        H pylori (stool antigen)            Negative (after eradication)                               Negative
+                                            Total cholesterol                        217 mg/dL                                       <200 mg/dL
+Lipid Panel                                        HDL                                67 mg/dL                                        >50 mg/dL
+                                               Triglyceride                          263 mg/dL                                       <150 mg/dL
+CBC: complete blood count, WBC: white blood cell, Hgb: hemoglobin, Hct: hematocrit, MCV: mean corpuscular volume. CMP: comprehensive metabolic
+panel. AST: aspartate aminotransferase. ALT: alanine transaminase. TIBC: total iron-binding capacity. ANCA: antineutrophil cytoplasmic antibodies. ANA:
+antinuclear antibodies. TTG-IGA: tissue transglutaminase-immunoglobulin A. SSA/SSB: Sjögren’s-syndrome-related antigen A/Sjögren’s-syndrome-related
+antigen B. TSH: thyroid stimulating hormone. HIV: human immunodeﬁciency virus.
+
+
+studies containing 339 cases and 271 controls. The result                     patients (52%) had positive ELISA tests, and only one patient
+revealed that patients with RAS had signiﬁcantly higher rates                 (2%) was positive for DNR PCR [10]. Similarly, Fritscher
+of H. pylori infection than non-RAS controls. They con-                       et al. also evaluated 105 children and adolescents, where 53
+cluded that H. Pylori is associated with an increased risk of                 patients were found to have RAS and 52 without it. They
+RAS [9].                                                                      analyzed samples obtained by swabbing aphthous lesions,
+    On the contrary, few studies were found to have no                        oral mucosa, and dental plaque. These samples were then
+association between H pylori infection and RAS. In a study                    sent for nested PCR to be evaluated for H. pylori, and results
+by Mansour-Ghanaei et al., toothbrush was used to obtain                      were similar to the study conducted by Fritscher et al. [11].
+the oral aphthous ulcer from 50 patients that aged from 18 to                 Moreover, Iamaroon et al. evaluated the association of
+60 years old, and samples were sent for both DNA PCR and                      H. pylori and RAS by nested PCR, the oral samples were also
+ELISA tests to evaluate for H. Pylori. The result revealed 26                 obtained by using toothpicks to brush the ulcer surfaces and/
+4                                                                                     Case Reports in Gastrointestinal Medicine
+
+
+
+
+                                           Figure 2: Endoscopic appearance of stomach.
+
+
+or the dorsum of the tongue in 22 patients with RAS that           untreated H. pylori infection such as lymphoma or other
+ages ranging from 12–36 years. The results revealed H. pylori      gastric malignancies.
+does not play a role in the pathogenesis of RAS [12]. The
+negative associations found in the above studies could be due      Data Availability
+to the level of bacteria in the oral cavity under undetectable
+level by one round of PCR (Kignel et al. 2005), the location in    The data used to support this study are available within the
+the mouth for collection, or sensitivity of PCR diﬀerence          article.
+with saliva vs gastric biopsies [13]. Kignel pointed out that
+the location mouth used for the collection of the samples can      Ethical Approval
+inﬂuence the prevalence of the microorganism [13]. This
+statement was further supported by Song et al. (2000), who         Informed consent was obtained from the patient.
+found 82% prevalence in the molar region, 64% in premolar
+region, and 59% in the incisor region [14]. Besides the lo-        Disclosure
+cation, the PCR sensitivity diﬀerence in gastric biopsy
+sample and saliva sample remained unclear, and the evi-            The authors certify that they have no aﬃliations with or
+dence is limited. Sekhar et al. found sensitivity and speciﬁcity   involvement with any organization with any ﬁnancial in-
+of PCR for saliva were found to be 80% and 70% [15] which          terest in the subject matter discussed.
+is lower compared to gastric biopsy in detecting H. pylori
+which might explain the potential variance in result [16].         Conflicts of Interest
+
+4. Conclusion                                                      The authors declare that they have no conﬂicts of interest.
+
+The debate on the association between RAS and H. pylori            References
+remains. The variable results could stem from the broad
+inclusion and exclusion criteria each study had, small sample      [1] C. C. Gomes, R. S. Gomez, L. G. Zina, and F. R. Amaral,
+sizes, demographics, and the various detection methods that            “Recurrent aphthous stomatitis and Helicobacter pylori,”
+diﬀer among studies. This association requires further in-             Medicina Oral, Patologia Oral y Cirugia Bucal, vol. 21, no. 2,
+                                                                       pp. e187–e191, 2016.
+vestigation. Despite the ongoing debate between association
+                                                                   [2] J. K. Y. Hooi, W. Y. Lai, W. K. Ng et al., “Global prevalence of
+between H. pylori and RAS, H. pylori should still always be            Helicobacter pylori infection: systematic review and meta-
+considered as one of the potential factors contributing to             analysis,” Gastroenterology, vol. 153, no. 2, pp. 420–429, 2017.
+recurrent aphthous stomatitis. Eradication of H. Pylori could      [3] J. E. Everhart, D. Kruszon-Moran, G. I. Perez-Perez,
+potentially make a drastic impact on a patient’s quality of life       T. S. Tralka, and G. McQuillan, “Seroprevalence and ethnic
+and help prevent potential detrimental consequences of                 diﬀerences inHelicobacter pyloriInfection among adults in the
+Case Reports in Gastrointestinal Medicine                                5
+
+     United States,” The Journal of Infectious Diseases, vol. 181,
+     no. 4, pp. 1359–1363, 2000.
+ [4] S. O. Akintoye and M. S. Greenberg, “Recurrent aphthous
+     stomatitis,” Dental Clinics of North America, vol. 58, no. 2,
+     pp. 281–297, 2014.
+ [5] S. Koybasi, A. H. Parlak, E. Serin, F. Yilmaz, and D. Serin,
+     “Recurrent aphthous stomatitis: investigation of possible
+     etiologic factors,” American Journal of Otolaryngology, vol. 27,
+     no. 4, pp. 229–232, 2006.
+ [6] B. Tarakji, G. Gazal, S. A. Al-Maweri, S. N. Azzeghaiby, and
+     N. Alaizari, “Guideline for the diagnosis and treatment of
+     recurrent aphthous stomatitis for dental practitioners,” Indian
+     Journal of Forensic Medicine & Toxicology, vol. 14, no. 4, 2020.
+ [7] S. Karaca, M. Seyhan, M. Senol, M. M. Harputluoglu, and
+     A. Ozcan, “The eﬀect of gastric Helicobacter pylori eradication
+     on recurrent aphthous stomatitis,” International Journal of
+     Dermatology, vol. 47, no. 6, pp. 615–617, 2008.
+ [8] D. A. Tas, T. Yakar, H. Sakalli, and E. Serin, “Impact of
+     Helicobacter pylori on the clinical course of recurrent aph-
+     thous stomatitis,” Journal of Oral Pathology & Medicine,
+     vol. 42, pp. 89–94, 2013.
+ [9] L. Li, H. Gu, and G. Zhang, “Association between recurrent
+     aphthous stomatitis and Helicobacter pylori infection: a meta-
+     analysis,” Clinical Oral Investigations, vol. 18, no. 6,
+     pp. 1553–1560, 2014.
+[10] F. Mansour-Ghanaei, M. Asmar, A. H. Bagherzadeh, and
+     S. Ekbataninezhad, “Helicobacter pylori infection in oral le-
+     sions of patients with recurrent aphthous stomatitis,” Medical
+     Science Monitor, vol. 11, no. 12, 2005.
+[11] A. M. G. Fritscher, K. Cherubini, J. Chies, and A. C. O. Dias,
+     “Association between Helicobacter pylori and recurrent
+     aphthous stomatitis in children and adolescents,” Journal of
+     Oral Pathology and Medicine, vol. 33, no. 3, pp. 129–132, 2004.
+[12] A. Iamaroon, S. Chaimano, S. Linpisarn, S. Pongsiriwet, and
+     K. Phornphutkul, “Detection of Helicobacter pylori in re-
+     current aphthous ulceration by nested PCR,” Journal of Oral
+     Science, vol. 45, no. 2, pp. 107–110, 2003.
+[13] S. Kignel, F. Almeida Pina, E. André, M. Alves Mayer, and
+     E. Birman, “Occurrence of Helicobacter pylori in dental plaque
+     and saliva of dyspeptic patients,” Oral Diseases, vol. 11, no. 1,
+     pp. 17–21, 2005.
+[14] Q. Song, T. Lange, A. Spahr, G. Adler, and G. Bode,
+     “Characteristic distribution pattern of Helicobacter pylori in
+     dental plaque and saliva detected with nested PCR,” Journal of
+     Medical Microbiology, vol. 49, no. 4, pp. 349–353, 2000.
+[15] E. V. S. Goud, R. Kannan, U. Rao, E. Joshua, R. Tavaraja, and
+     Y. Jain, “Identiﬁcation of Helicobacter pylori in saliva of pa-
+     tients with and without gastritis by polymerase chain reac-
+     tion,” Journal of Pharmacy and Bioallied Sciences, vol. 11,
+     no. Suppl 3, pp. 523–S529, 2019.
+[16] Y.-K. Wang, F. C. Kuo, C. J. Liu et al., “Diagnosis ofHeli-
+     cobacter pyloriinfection: current options and developments,”
+     World Journal of Gastroenterology, vol. 21, no. 40,
+     pp. 11221–11235, 2015.
+

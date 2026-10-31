@@ -94,11 +94,46 @@ The papers were downloaded from the open-access copy of PubMed Central (US Natio
 
 - **India's "Ayurvedic Standard Treatment Guidelines"** (Ministry of AYUSH, 2017) has a chapter on acidity. Its website could not be reached from the download computer. You can download it yourself from <https://main.ayush.gov.in/ayurvedic-standard-treatment-guidelines/>.
 
+## Stomach bacteria
+
+Added on 31 October 2026. Each PDF also has a TXT copy for easy searching.
+
+### H. pylori, the main stomach germ: [`stomach-bacteria/h-pylori`](stomach-bacteria/h-pylori)
+
+| File | What it is | Authors and journal | License |
+| --- | --- | --- | --- |
+| kyoto-consensus-h-pylori-gastritis-2015 | World doctors' agreement on H. pylori stomach inflammation (Kyoto) | Sugano K et al., *Gut* 2015, [doi:10.1136/gutjnl-2015-309252](https://doi.org/10.1136/gutjnl-2015-309252) | CC BY-NC |
+| probiotics-for-h-pylori-treatment-network-meta-analysis-2023 | Which probiotics help H. pylori treatment work | Wang Y et al., *Frontiers in Cellular and Infection Microbiology* 2023, [doi:10.3389/fcimb.2023.1120789](https://doi.org/10.3389/fcimb.2023.1120789) | CC BY |
+| probiotics-before-h-pylori-treatment-meta-analysis-2025 | Probiotics taken before H. pylori treatment | Zhang Y et al., *Annals of Medicine* 2025, [doi:10.1080/07853890.2025.2533431](https://doi.org/10.1080/07853890.2025.2533431) | CC BY-NC |
+| h-pylori-and-mouth-ulcers-study-2016 | Is H. pylori linked to mouth ulcers? (study) | Gomes CC et al., *Medicina Oral, Patología Oral y Cirugía Bucal* 2016, [doi:10.4317/medoral.20872](https://doi.org/10.4317/medoral.20872) | CC BY |
+| h-pylori-and-mouth-ulcers-review-2011 | Is H. pylori linked to mouth ulcers? (review) | Afghari P et al., *Dental Research Journal* 2011, [PMC3556289](https://pmc.ncbi.nlm.nih.gov/articles/PMC3556289/) | CC BY-NC-SA |
+| mouth-ulcers-improved-after-h-pylori-treatment-case-2021 | One patient's mouth ulcers got better after H. pylori treatment | Gao Y et al., *Case Reports in Gastrointestinal Medicine* 2021, [doi:10.1155/2021/5543838](https://doi.org/10.1155/2021/5543838) | CC BY |
+
+### Gut bacteria (SIBO, too many bacteria in the small intestine): [`stomach-bacteria/sibo-gut-bacteria`](stomach-bacteria/sibo-gut-bacteria)
+
+| File | What it is | Authors and journal | License |
+| --- | --- | --- | --- |
+| sibo-clinical-features-and-treatment-2019 | SIBO: signs and treatment | Rao SSC et al., *Clinical and Translational Gastroenterology* 2019, [doi:10.14309/ctg.0000000000000078](https://doi.org/10.14309/ctg.0000000000000078) | CC BY-NC-ND |
+| breath-testing-north-american-consensus-2017 | How breath tests for gut bacteria should be done | Rezaie A et al., *American Journal of Gastroenterology* 2017, [doi:10.1038/ajg.2017.46](https://doi.org/10.1038/ajg.2017.46) | CC BY-NC-ND |
+| sibo-diet-management-review-2026 | Diet for SIBO around the world | Jodkiewicz M et al., *Frontiers in Medicine* 2026, [doi:10.3389/fmed.2026.1952995](https://doi.org/10.3389/fmed.2026.1952995) | CC BY |
+| acid-tablets-ppi-and-sibo-risk-meta-analysis-2025 | Long use of acidity tablets (PPIs) and the risk of SIBO | Khurmatullina AR et al., *Journal of Clinical Medicine* 2025, [doi:10.3390/jcm14134702](https://doi.org/10.3390/jcm14134702) | CC BY |
+
+### Good bacteria (probiotics), from NIH: [`stomach-bacteria/probiotics-nih`](stomach-bacteria/probiotics-nih)
+
+Saved without pictures.
+
+| File | What it is | Web page |
+| --- | --- | --- |
+| probiotics-what-you-need-to-know-nccih | Probiotics: what you need to know (NCCIH, NIH) | <https://www.nccih.nih.gov/health/probiotics-what-you-need-to-know> |
+| probiotics-fact-sheet-ods | Probiotics fact sheet for consumers (Office of Dietary Supplements, NIH) | <https://ods.od.nih.gov/factsheets/Probiotics-Consumer/> |
+
+The papers were downloaded from the open-access copy of PubMed Central (US National Library of Medicine).
+
 ## Copyright
 
 - **Charaka (Kaviratna)**, **Sushruta** and **The Materia Medica of the Hindus** are more than 100 years old. Everyone is free to use them (public domain).
 - **Charaka 1949** is free to read on archive.org, in the Digital Library of India collection. It may still be under copyright in some countries. If the rights owner objects, remove it.
-- **NIH patient guides**: NIDDK text is free to copy, if NIDDK is named as the source (<https://www.niddk.nih.gov/copyright>).
+- **NIH guides** (NIDDK, NCCIH, ODS) are US government works and free to copy, if NIH is named as the source (<https://www.niddk.nih.gov/copyright>).
 - **Research papers and guidelines**: free to share for non-commercial use, under the license shown in their tables. Do not change them.
 
 ## Please note

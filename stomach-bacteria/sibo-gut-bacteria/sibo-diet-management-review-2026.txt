@@ -1,0 +1,637 @@
+                                                                                                             TYPE Systematic Review
+                                                                                                             PUBLISHED 28 September 2026
+                                                                                                             DOI 10.3389/fmed.2026.1952995
+
+
+
+
+                                             Global perspectives on dietary
+                                             management of small intestinal
+EDITED BY
+Naseh Pahlavani,
+                                             bacterial overgrowth (SIBO): a
+Torbat Heydarieh University of Medical
+Sciences, Iran                               systematic review of clinical
+REVIEWED BY
+Lucía Redondo Cuevas,
+Hospital Casa de Salud, Spain
+                                             guidelines, consensus statements
+Elma Hrustemović ,
+International Burch University, Bosnia       and expert recommendations
+and Herzegovina
+
+*CORRESPONDENCE
+Magdalena Jodkiewicz                         Magdalena Jodkiewicz*, Justyna Malinowska and
+  mjodkiewicz@pzh.gov.pl                     Karolina Marek-Woźny
+RECEIVED 18 August 2026
+REVISED 11 September 2026                    Medical Center of Dietetics and Health Education, National Institute of Public Health NIH - National
+ACCEPTED 15 September 2026                   Research Institute, Warsaw, Poland
+PUBLISHED 28 September 2026
+
+CITATION
+Jodkiewicz M, Malinowska J and Marek-        Introduction: Small intestinal bacterial overgrowth (SIBO) is a disorder
+Woźny K (2026) Global perspectives on        associated with gastrointestinal symptoms, alterations in gut microbiota
+dietary management of small intestinal
+bacterial overgrowth (SIBO): a systematic    composition, and a high rate of recurrence. Although antibiotic therapy
+review of clinical guidelines, consensus     remains the cornerstone of treatment, dietary interventions are increasingly
+statements and expert                        used as adjunctive strategies to improve symptom control and support long-
+recommendations.
+Front. Med. 13:1952995.                      term management. However, international recommendations regarding
+doi: 10.3389/fmed.2026.1952995               dietary management remain heterogeneous and lack standardization.
+COPYRIGHT
+                                             Therefore, the aim of this systematic review was to analyze and compare
+© 2026 Jodkiewicz, Malinowska and            dietary recommendations for the treatment of SIBO presented by
+Marek-Woźny. This is an open-access          international scientific organizations and recent expert reviews.
+article distributed under the terms of the
+Creative Commons Attribution License         Methods: This guidelines review was conducted in accordance with PRISMA
+(CC BY). The use, distribution or            2020 recommendations. PubMed and Cochrane Library were searched for
+reproduction in other forums is              publications published between January 2016 and January 2026. Eligible
+permitted, provided the original author(s)
+and the copyright owner(s) are credited      documents included clinical guidelines, consensus statements, official
+and that the original publication in this    position papers, and supplementary expert review articles addressing dietary
+journal is cited, in accordance with         management in SIBO. Data were extracted on the role of dietary therapy, low-
+accepted academic practice. No use,
+distribution or reproduction is permitted    FODMAP recommendations, dietary fiber, probiotics, prebiotics, treatment
+which does not comply with these             priorities, and the reported impact of dietary interventions on the gut
+terms.                                       microbiota. A qualitative synthesis of recommendations from different
+                                             geographic regions was performed.
+                                             Results: Five key documents from North America, South America, Europe, and
+                                             the Asia-Pacific region met the inclusion criteria. Dietary therapy was
+                                             consistently regarded as supportive rather than curative, although its
+                                             perceived importance varied across regions. The low-FODMAP diet was the
+                                             most frequently discussed dietary intervention and was generally
+                                             recommended for symptom relief, particularly for bloating, abdominal pain,
+                                             and altered bowel habits. Nevertheless, evidence supporting its role in
+                                             eradicating SIBO remains insufficient. Recommendations regarding dietary
+                                             fiber, probiotics, and prebiotics were heterogeneous and largely emphasized
+                                             individualized use. Antibiotic therapy and management of underlying
+                                             predisposing factors remained the central therapeutic strategy in all
+                                             analyzed regions.
+
+
+
+
+Frontiers in Medicine                                              01                                                              frontiersin.org
+Jodkiewicz et al.                                                                                                  10.3389/fmed.2026.1952995
+
+
+
+
+                                             Conclusion: Despite increasing interest in nutritional approaches, substantial
+                                             international variability exists in dietary recommendations for SIBO. Current
+                                             evidence supports dietary therapy primarily as an adjunct to medical treatment
+                                             and a tool for symptom management. High-quality prospective studies are
+                                             needed to establish standardized, evidence-based dietary recommendations
+                                             and to clarify the long-term effects of dietary interventions on the gut
+                                             microbiota and disease recurrence.
+
+                                             KEYWORDS
+
+                                             antibiotic therapy, dietary fiber, dietary therapy, gut microbiota, low-FODMAP diet,
+                                             probiotics, SIBO
+
+
+
+
+1 Introduction                                                             allowing for the development of a personalized, long-term
+                                                                           eating plan that effectively alleviates IBS symptoms as part of
+    Small intestinal bacterial overgrowth (SIBO) is a disorder             the third phase of the diet (6, 7).
+characterized by an in-creased number of bacteria in the small                 Managing SIBO remains a significant clinical challenge due to
+intestine or the presence of microorganisms that do not                    high recurrence rates and the limitations of currently available
+normally occur in this section of the gastrointestinal tract. These        therapeutic approaches. While antibiotic therapy remains the
+changes result in gastrointestinal symptoms, primarily including           cornerstone of bacterial eradication, dietary interventions are
+bloating, abdominal pain, excessive gas, diarrhea, constipation,           increasingly used as supportive strategies for symptom
+and malabsorption of nutrients. Disorders of the gut microbiota,           management. However, international clinical guidelines,
+including SIBO, are considered one of the potential                        consensus statements, and expert reviews provide heterogeneous
+pathophysiological mechanisms underlying IBS, particularly in              dietary     recommendations,       ranging    from    fermentable
+its diarrhea-predominant form (1). SIBO is diagnosed in 33.8%              carbohydrate restriction to individualized use of fiber,
+of individuals reporting gastrointestinal symptoms who have                probiotics, and prebiotics. This lack of standardization
+undergone a breath test. This condition is significantly                   complicates clinical decision-making and highlights the need for
+correlated with cigarette smoking, bloating, abdominal pain, and           a comprehensive synthesis of the available evidence. Therefore,
+anemia. The use of proton pump inhibitors is considered an                 the aim of this study was to analyze and compare dietary
+important factor contributing to the development of SIBO.                  recommendations for the treatment of SIBO presented by
+Furthermore, the likelihood of its occurrence increases with age           scientific organizations and recent expert reviews.
+but is not associated with gender or ethnicity (2). Recurrence
+after treatment is common and has been reported in a
+substantial proportion of patients, highlighting the need for
+long-term management strategies, including nutritional                     2 Materials and methods
+interventions (3).
+    Despite growing interest in SIBO, significant controversy              2.1 Study design
+remains regarding both the diagnosis and treatment of this
+condition. Most current guidelines focus on the use of                         A systematic review was conducted on dietary
+antibiotics, particularly rifaximin, while the role of dietary             recommendations used in the treatment of SIBO in accordance
+interventions remains less clear. In clinical practice, elimination        with the PRISMA 2020 statement. The review aimed to
+diets are increasingly being used, particularly a diet low in              systematically      identify   and     compare        international
+fermentable oligo-, di-, and monosaccharides and polyols (low              recommendations regarding dietary management of small
+FODMAP); however, evidence supporting its effectiveness in                 intestinal bacterial overgrowth (SIBO). The review protocol was
+treating SIBO is limited (4).                                              developed a priori; however, it was not registered in PROSPERO.
+    A diet low in fermentable oligosaccharides, disaccharides,
+monosaccharides, and polyols (low FODMAP) is a relatively
+new therapeutic approach. The first study, published in 2008,
+was a double-blind, randomized, placebo-controlled trial that              2.2 Research question (PICOS)
+involved the re-introduction of fructans and fructose in patients
+with irritable bowel syndrome (IBS) who had previously                         The review was designed to address the following research
+responded well to a low-FODMAP diet (5). The dietary                       question:
+approach consists of three stages, beginning with an elimination               How do international clinical guidelines, consensus
+phase in which all foods containing these compounds are                    statements, and official position papers differ in their
+excluded. If there is a marked improvement in symptoms after               recommendations regarding dietary management of small
+approximately 6–8 weeks, the next groups of FODMAPs are                    intestinal bacterial overgrowth (SIBO)?
+gradually reintroduced in the second stage. This makes it                      The research question was formulated according to the PICOS
+possible to identify which ingredients trigger symptoms,                   framework:
+
+
+
+Frontiers in Medicine                                                 02                                                         frontiersin.org
+Jodkiewicz et al.                                                                                                         10.3389/fmed.2026.1952995
+
+
+
+
+    • Population (P): adults diagnosed with small intestinal                     23 were excluded because they did not match the scope of our
+      bacterial overgrowth (SIBO) or patients with SIBO-related                  search. Additionally, two European review articles were
+      gastrointestinal symptoms.                                                 identified through supplementary hand-searching and
+    • Intervention (I): dietary interventions used in the                        incorporated into the qualitative synthesis because no European
+      management of SIBO, including low-FODMAP diets,                            clinical guidelines, consensus statements, or position papers
+      dietary fiber modification, probiotics, prebiotics, elemental              addressing dietary management of SIBO were identified,
+      diets, and other nutrition-based strategies.                               resulting in a total of five included documents (Figure 1).
+    • Comparator (C): standard medical care, antibiotic therapy,
+      alternative dietary approaches, or differences in
+      recommendations across geographical regions.
+    • Outcomes (O): recommendations regarding symptom                            2.4 Eligibility criteria
+      management, SIBO eradication, prevention of recurrence,
+      gut microbiota modulation, and overall treatment strategy.                     Documents were selected according to predefined eligibility
+    • Study Design (S): clinical guidelines, consensus statements,               criteria established before the literature search. The inclusion
+      and official position papers and, where no regional                        criteria were developed based on the objective of identifying
+      guidance documents were available, supplementary review                    documents that provide recommendations regarding dietary
+      articles addressing dietary management of SIBO.                            management of small intestinal bacterial overgrowth (SIBO).
+                                                                                     Inclusion criteria:
+The primary objective of this review was to compare
+recommendations regarding the role of dietary therapy in SIBO
+management across different world regions. Particular attention
+                                                                                    • clinical guidelines,
+was given to recommendations concerning low-FODMAP diets,
+                                                                                    • consensus statements,
+dietary fiber intake, probiotic and prebiotic supplementation,
+                                                                                    • official position papers.
+and the integration of nutritional therapy with antibiotic
+treatment. Additionally, the review evaluated how the impact of
+dietary interventions on the gut microbiota was interpreted in
+different international documents.                                               Exclusion criteria included case reports, conference abstracts, non-
+                                                                                 English publications, and studies not addressing dietary
+                                                                                 management of SIBO.
+                                                                                     The following documents were included in the analysis:
+2.3 Search strategy
+                                                                                 guidelines from the American College of Gastroenterology
+                                                                                 (ACG) (8), an Asia-Pacific expert consensus developed by the
+    A literature search was conducted in PubMed and Cochrane
+                                                                                 Indian Neurogastroenterology and Motility Association (9), a
+Library in January 2026. Search terms included: (“small
+                                                                                 position statement from the Brazilian Federation of
+intestinal bacterial overgrowth” OR “SIBO”) AND (“diet” OR
+                                                                                 Gastroenterology (10), and due to the lack of European
+“low FODMAP” OR “nutrition”) AND (“guideline” OR
+                                                                                 guidelines, two European review articles were additionally
+“consensus” OR “recommendation”). Only publications
+                                                                                 incorporated through supplementary hand-searching to provide
+published in English between January 2016 and January 2026
+                                                                                 representation of European perspectives on dietary management
+were considered. A total of 26 documents were found, of which
+                                                                                 in SIBO (3, 4). Based on the available data, a qualitative
+                                                                                 comparison of recommendations from different regions of the
+                                                                                 world was conducted.
+                                                                                     Extracted domains included the role of dietary therapy, low-
+                                                                                 FODMAP recommendations, dietary fiber, probiotics,
+                                                                                 prebiotics, treatment priorities, and reported effects on
+                                                                                 gut microbiota.
+
+
+
+
+                                                                                 2.5 Assessment of methodological quality
+                                                                                     Because the review focused primarily on clinical guidelines,
+                                                                                 consensus statements, position papers, and supplementary
+                                                                                 review articles rather than primary clinical studies, a formal
+                                                                                 risk-of-bias assessment designed for intervention studies was not
+   FIGURE 1
+   Flow diagram adapted from PRISMA 2020 guidelines, illustrating the
+                                                                                 considered applicable. Instead, methodological characteristics of
+   identification of records via databases (PubMed and Cochrane                  the included documents, including transparency of development
+   Library, January 2026; n = 26) and manual hand-searching for                  methods, evidence base, and reporting of recommendations,
+   regional European evidence (n = 2), culminating in a final qualitative
+   synthesis of 5 documents.
+                                                                                 were evaluated qualitatively and taken into account during
+                                                                                 interpretation of the findings.
+
+
+Frontiers in Medicine                                                       03                                                         frontiersin.org
+Jodkiewicz et al.                                                                                                                                10.3389/fmed.2026.1952995
+
+
+
+
+3 Findings                                                                                     predisposing factors remain the main therapeutic approaches in
+                                                                                               SIBO management (3).
+3.1 A comparative analysis of dietary
+recommendations for SIBO in different
+regions of the world                                                                           3.2 The role of the low-FODMAP diet
+     The analysis examined key elements of dietary management in                                   A diet low in fermentable oligo-, di-, and monosaccharides and
+SIBO, including the role of the low-FODMAP diet, the                                           polyols (low-FODMAP) is the most widely studied dietary approach
+importance of dietary fiber, the use of probiotics and prebiotics,                             in the context of SIBO. In Europe and North America, this diet is
+the role of dietary therapy versus antibiotic therapy, and the                                 viewed primarily as a tool for symptom relief rather than a causal
+impact of dietary interventions on the gut microbiota. The                                     treatment. It has been shown to effectively reduce bloating,
+findings suggest differences among the documents originating                                   abdominal pain, and irregular bowel movements; however, its
+from different regions with respect to the strength of                                         effect on the eradication of SIBO remains unconfirmed (4).
+recommendations and the interpretation of available scientific                                 Similarly, Ahmed et al. emphasized that although low-FODMAP
+evidence (Table 1). In addition, contemporary European                                         and other carbohydrate-restrictive dietary approaches may reduce
+literature highlights that dietary interventions are primarily                                 symptoms associated with bacterial fermentation, current
+considered supportive strategies aimed at symptom control,                                     evidence is insufficient to recommend these diets as primary
+whereas antibiotic therapy and correction of underlying                                        treatment modalities for SIBO (3).
+
+
+
+TABLE 1 A comparison of dietary recommendations for SIBO in different regions of the world.
+
+
+ Parameter                    ACG (USA)                  Brazilian position                   Asia-Pacific           Ahmed et al.                    Wielgosz-
+                                                                paper                         consensus                 (UK)                      Grochowska et al.
+                                                                                                                                                      (Poland)
+ Role of dietary        Supportive role; evidence        Important adjunct within       Potentially beneficial,    Supportive role;            Potentially important adjunctive
+ therapy                insufficient to recommend        a multimodal treatment         but evidence remains       symptom-oriented            therapy, especially in patients
+                        diet as primary treatment        strategy                       limited                    management                  with overlapping IBS
+
+ Low-FODMAP             No formal                        Recommended as an              No consensus               May improve                 Most extensively discussed
+ diet                   recommendation due to            adjunctive option for          recommendation             symptoms, but evidence      dietary approach; may reduce
+                        limited evidence in SIBO         symptom relief                                            is insufficient for         bloating, abdominal pain and
+                                                                                                                   routine use                 gas production
+
+ FODMAP                 Not specifically addressed       Considered part of             Individualized             May reduce bacterial        Mechanistically justified to
+ restriction                                             symptom-control                according to symptoms      fermentation substrates     decrease fermentation and
+                                                         strategies                     and clinical context                                   symptom burden
+
+ Dietary fiber          No clear recommendations         Supportive role depending      No specific                Excess fermentable fiber    Individualized approach;
+                                                         on clinical presentation       recommendation             may aggravate               tolerance depends on fiber type
+                                                                                                                   symptoms in some            and symptom profile
+                                                                                                                   patients
+
+ Probiotics             Limited and inconsistent         May be used as adjunctive      Evidence remains           Evidence inconsistent;      Potential benefit suggested, but
+                        evidence; not routinely          therapy                        inconclusive               routine use not             current evidence remains
+                        recommended                                                                                recommended                 heterogeneous
+
+ Prebiotics             No routine                       Possible supportive role       Not established            May worsen symptoms         Potential microbiota benefits but
+                        recommendation                   with individualized use                                   due to increased            may aggravate symptoms during
+                                                                                                                   fermentation;               active SIBO
+                                                                                                                   insufficient evidence
+
+ Treatment              Antibiotic therapy and           Combination therapy            No single standardized     Antibiotics and             Combined medical and
+ cornerstone            treatment of underlying          including antibiotics and      approach; management       correction of               nutritional management
+                        causes                           management of                  individualized             predisposing conditions
+                                                         predisposing factors
+
+ Impact of diet on      Secondary consideration;         Clinically acknowledged        Insufficiently             Long-term dietary           Low-FODMAP diet may reduce
+ the microbiota         insufficient evidence for        but poorly characterized       understood                 restriction may reduce      commensal bacterial
+                        long-term effects in SIBO                                                                  microbial diversity         populations; reintroduction
+                                                                                                                                               phase is essential
+
+ACG, American College of Gastroenterology; FODMAP, fermentable oligosaccharides, disaccharides, monosaccharides and polyols; IBS, irritable bowel syndrome; SCFA, short-chain fatty
+acid; SIBO, small intestinal bacterial overgrowth.
+
+
+
+Frontiers in Medicine                                                                    04                                                                         frontiersin.org
+Jodkiewicz et al.                                                                                                     10.3389/fmed.2026.1952995
+
+
+
+
+    In South America, according to the consensus of the Brazilian            SIBO. For this reason, their use requires individualized
+Federation of Gastroenterology, the low-FODMAP diet may be                   management (3, 4).
+used as an adjunct to antibiotic therapy (10). At the same time,
+the literature highlights the potential limitations of this strategy.
+Long-term low-FODMAP dietary restriction has been reported                   3.5 The role of dietary therapy in relation to
+to affect gut microbiota composition, particularly through                   antibiotic therapy
+reductions in Bifidobacteria, although findings regarding overall
+microbial diversity and short-chain fatty acid production remain                 In all regions analyzed, antibiotic therapy forms the basis of
+inconsistent (4).                                                            SIBO treatment. The American guidelines (ACG) emphasize
+                                                                             that treatment should be primarily aimed at eradicating bacterial
+                                                                             overgrowth, and that the use of antibiotics, particularly
+                                                                             rifaximin, is the first-line strategy (8). The effectiveness of this
+3.3 The importance of dietary fiber                                          form of treatment is con-firmed by clinical studies, which have
+                                                                             demonstrated significant improvement in symptoms and high
+    The importance of dietary fiber in SIBO is not clearly
+                                                                             SIBO eradication rates depending on the antibiotic regimen
+established and depends on the type of fiber and the clinical
+                                                                             used (12). This position is consistent with the review by Ahmed
+context. Included publications discussed several fiber and
+                                                                             et al., who concluded that the primary therapeutic objective
+prebiotic interventions, including psyllium, inulin, and partially
+                                                                             should be the reduction of bacterial overgrowth with antibiotic
+hydrolyzed guar gum (PHGG). These products differ
+                                                                             therapy and the correction of underlying predisposing factors,
+substantially in their fermentability, physiological properties,
+                                                                             while dietary interventions should be considered supportive
+tolerability, and potential effects on gastrointestinal symptoms
+                                                                             rather than curative measures (3). In Brazilian guidelines, a
+and gut microbiota. Some documents reported that selected
+                                                                             more integrated approach is observed, in which dietary therapy
+fiber interventions may increase the abundance of SCFA-
+                                                                             is part of combination therapy (10).
+producing bacteria and may be associated with improved
+                                                                                 Comparative studies indicate that a low-FODMAP diet may be
+intestinal barrier function, while others emphasized the need for
+                                                                             as effective as rifaximin in short-term symptom control; however,
+individualized use depending on symptom profile and tolerance
+                                                                             antibiotic therapy remains more effective in rapidly alleviating
+(4). Among these interventions, PHGG deserves particular
+                                                                             symptoms and is associated with higher patient adherence (13).
+attention because direct evidence is available in patients with
+                                                                             Therefore, dietary therapy is most often considered as:
+SIBO. A randomized clinical trial demonstrated higher breath-
+test normalization rates with rifaximin combined with PHGG
+                                                                                • a supplement to treatment,
+compared with rifaximin alone; however, this finding originated
+                                                                                • a component of long-term management,
+from a relatively small study and requires confirmation in larger
+                                                                                • a strategy for preventing relapses.
+clinical trials. Some documents also reported that fiber
+supplementation may be associated with improvement in
+                                                                             The European literature largely supports this approach,
+symptoms such as constipation, bloating, and abdominal pain.
+                                                                             emphasizing that dietary measures should be integrated with
+Excessive dietary fiber restriction was identified as a potential
+                                                                             medical treatment rather than used as stand-alone interventions
+concern in some publications (4). Ahmed et al. additionally
+                                                                             (3, 4).
+noted that excessive dietary restrictions may worsen nutritional
+status and potentially negatively affect the intestinal microbial
+ecosystem, highlighting the need for individualized dietary
+management (3).
+                                                                             3.6 The impact of dietary interventions on
+                                                                             the gut microbiota
+
+                                                                                 One of the key aspects distinguishing regional approaches is
+3.4 Probiotics and prebiotics                                                the interpretation of the diet’s impact on the gut microbiota.
+                                                                             European reviews reported that low-FODMAP dietary
+    The use of probiotics and prebiotics in the treatment of SIBO            interventions may alter gut microbiota composition, with
+remains a subject of debate, and recommendations vary by region.             reductions in Bifidobacteria being among the most consistently
+According to Ahmed et al., evidence supporting routine probiotic             reported findings, whereas effects on overall microbial diversity
+supplementation remains inconsistent, and currently available                remain inconsistent (3, 4). Included publications suggested that
+studies do not allow for strong recommendations regarding their              dietary fiber and prebiotics may influence gut microbial
+routine use in SIBO treatment (3). Reported effects appear to                composition and short-chain fatty acid production (4).
+vary according to the specific microorganism, strain,
+formulation, and treatment protocol evaluated. Brazilian
+guidelines and selected clinical studies suggest a potential role            4 Discussion
+for probiotics as adjunctive therapy, particularly in combination
+with antibiotic treatment (10, 11).                                              This review demonstrated substantial international variability
+    Prebiotics, although they potentially support the growth of              in dietary recommendations for SIBO despite broad agreement
+commensal microbiota, may also exacerbate fermentation                       that dietary interventions should primarily be considered
+symptoms, which limits their use during the active phase of                  supportive rather than curative strategies. Across all analyzed
+
+
+Frontiers in Medicine                                                   05                                                         frontiersin.org
+Jodkiewicz et al.                                                                                                  10.3389/fmed.2026.1952995
+
+
+
+
+regions, antibiotic therapy and management of predisposing                rifaximin in the short term; however, it is characterized by a
+factors remained the cornerstone of treatment, whereas                    slower onset of action and lower patient adherence (13). In
+recommendations regarding low-FODMAP diets, dietary fiber,                a Polish study by Bogdanowska-Charkiewicz et al., based on a
+probiotics, and prebiotics varied considerably. These findings            multivariate regression analysis, it was found that the use of
+highlight the absence of standardized global dietary guidance for         antibiotic therapy (rifaximin, rifaximin with metronidazole, or
+SIBO and the limited evidence base supporting many                        rifaximin with neomycin) prior to starting the low-FODMAP
+nutritional interventions.                                                diet increased the likelihood of a better response to the diet and
+    A comparative analysis revealed differences in approaches to          increased the likelihood of a favorable response to the diet and
+dietary therapy for the treatment of small intestinal bacterial           improved well-being by approximately sevenfold. However, this
+overgrowth (SIBO) among the documents originating from                    finding should be interpreted with caution, as it was derived
+different regions of the world, which stem from both the limited          from a single observational study and does not necessarily
+quality of available scientific evidence and differing                    translate into sustained long-term clinical remission or
+interpretations of the disorder’s pathophysiology.                        improved quality of life across broader SIBO populations (14).
+    The most pronounced differences concern the role of dietary           In contrast, a study by Gong et al. found that in a group of
+therapy in the treatment regimen. In North America, in                    patients with SIBO-related halitosis that was resistant to
+accordance with the guidelines of the American College of                 antibiotic therapy, after following a low-FODMAP diet for 4
+Gastroenterology, antibiotic therapy remains the mainstay of              weeks, 80.85% of patients achieved breath-test normalization,
+treatment, while dietary interventions are not considered first-          and 78.72% showed an improvement in the concentration of
+line therapy and serve a supplementary role (8). The                      dimethyl sulfide (the compound responsible for the unpleasant
+effectiveness of antibiotic therapy as the cornerstone of SIBO            odor) in exhaled breath (15). While these findings are
+treatment is al-so confirmed by clinical studies, which have              encouraging, breath-test normalization should not be interpreted
+demonstrated significant improvement in symptoms and high                 as definitive evidence of SIBO eradication, and the clinical
+rates of breath-test normalization and symptom improvement                significance of this outcome requires further investigation.
+depending on the treatment regimen used (12). A similar                   Although these results appear promising, they were obtained in
+pattern is observed in Europe, where dietary therapy focuses              a highly specific patient population with refractory halitosis and
+primarily on alleviating symptoms rather than eliminating the             short-term follow-up. Therefore, their generalizability to the
+cause of the disease (4). Ahmed et al. emphasized that the                wider SIBO population remains uncertain (15). In contrast, the
+primary therapeutic goal in SIBO is the reduction of bacterial            ESPGHAN Position Paper on the Use of the Low-FODMAP
+overgrowth with antibiotic therapy and the identification and             Diet in Pediatric Gastroenterology states that there is insufficient
+correction of predisposing factors, whereas dietary interventions         evidence to support the routine use of a low-FODMAP diet in
+should be regarded mainly as supportive measures aimed at                 the treatment of children with functional gastrointestinal
+symptom control (3).                                                      disorders, including SIBO (16). It is worth noting, however, that
+    In contrast to this approach, the consensus of the Brazilian          children and adolescents are not included in the treatment
+Federation of Gastroenterology points to a more integrated                recommendations for SIBO.
+treatment model, in which dietary interventions, including a                   A significant concern is the potential impact of a low-
+low-FODMAP diet, constitute an essential component of                     FODMAP diet on the gut microbiota. Several studies have
+supportive therapy used in conjunction with antibiotic therapy.           reported reductions in the abundance of Bifidobacteria during
+This approach takes into account the multifactorial etiology of           the restrictive phase of the low-FODMAP diet (3, 4). However,
+SIBO and the importance of modulating the gut environment,                evidence regarding broader effects on microbial diversity, other
+particularly in light of the high rate of disease recurrence (10).        bacterial taxa, and short-chain fatty acid production remains
+    The relationship between SIBO and irritable bowel syndrome            inconsistent. Furthermore, most available data relate to the
+(IBS) is widely debated, and disturbances in the gut microbiota           initial restriction phase, whereas the complete low-FODMAP
+represent one of the key pathophysiological mechanisms                    approach        includes    subsequent      reintroduction      and
+underlying these conditions (1). One of the key issues analyzed           personalization phases that may modify or attenuate these
+in this study was the role of the low-FODMAP diet. Although               microbiota-related effects. Consequently, the clinical relevance of
+its effectiveness in reducing gastrointestinal symptoms is well           these microbiota changes in patients with SIBO remains
+documented, particularly in patients with irritable bowel                 uncertain and requires further investigation.
+syndrome (IBS), direct evidence supporting its effectiveness in                It is also important to recognize that the impact of a low-
+patients with confirmed SIBO remains limited (4). Therefore,              FODMAP diet on the gut microbiota may depend on the overall
+part of the rationale for dietary interventions in SIBO is                quality and diversity of the diet. Even during FODMAP
+extrapolated from studies conducted in IBS populations, which             restriction, patients may consume a wide variety of plant foods,
+may not be fully representative of patients with confirmed                dietary fiber sources, and polyphenol-rich products. Therefore,
+bacterial overgrowth. This observation is consistent with the             microbiota-related outcomes may vary substantially depending
+conclusions of Ahmed et al., who noted that despite the                   on dietary implementation and adherence. Therefore, differences
+widespread use of low-fermentation and low-FODMAP dietary                 in dietary implementation may potentially influence microbiota-
+strategies in clinical practice, evidence supporting their                related outcomes, although this hypothesis requires further
+effectiveness in eradicating bacterial overgrowth remains                 investigation (17).
+insufficient (3). Comparative studies have shown that this diet                The role of dietary fiber is equally complex. The literature
+may provide symptomatic improvement similar to that of                    suggests that soluble fiber may have a beneficial effect on the
+
+
+Frontiers in Medicine                                                06                                                         frontiersin.org
+Jodkiewicz et al.                                                                                                       10.3389/fmed.2026.1952995
+
+
+
+
+microbiota by increasing the production of short-chain fatty acids            diagnostic criteria, dietary protocols, and outcome measures,
+(SCFAs) and promoting the growth of anti-inflammatory bacteria                and frequently include patients with overlapping IBS.
+(4). However, dietary fiber should not be considered a                        Consequently, direct comparisons between studies are difficult,
+homogeneous intervention. Different fiber types vary                          and the overall strength of evidence remains insufficient to
+substantially in their fermentability, gas-producing potential,               support strong universal dietary recommendations.
+and physiological effects. For example, psyllium, inulin, and                     Taken together, the findings suggest that differences
+partially hydrolyzed guar gum (PHGG) differ in their impact                   observed across the analyzed documents may reflect both
+on gastrointestinal symptoms and microbial metabolism.                        variability in the available evidence and differing interpretations
+Similarly, Ahmed et al. emphasized that nutritional                           of the role of the gut microbiota in the pathogenesis of SIBO.
+interventions in SIBO should be patient-specific, as symptom                  Regional differences may also reflect variability in dietary habits,
+severity, underlying predisposing conditions, and nutritional                 healthcare systems, access to breath testing, availability of
+status may substantially influence dietary tolerance and clinical             rifaximin, and the extent to which nutritional therapy is
+out-comes (3). Among the studied interventions, PHGG has                      integrated into gastroenterological care.
+generated particular interest because direct evidence is                          Future research should focus on developing standardized
+available in patients with SIBO. In a randomized clinical trial,              dietary recommendations for SIBO, evaluating the long-term
+supplementation with PHGG (5 g/day) in combination with                       effects of dietary interventions on gut microbiota composition
+rifaximin was associated with higher breath-test normalization                and disease recurrence, and facilitating the development of
+rates compared with rifaximin alone. Although this finding                    personalized dietary strategies tailored to patients’ clinical and
+originates from a relatively small study and requires                         microbiological characteristics.
+confirmation in larger trials, it suggests that selected fiber-
+based interventions may have a potential adjunctive role in
+SIBO management (18).                                                         Limitations
+    The role of probiotics in SIBO remains uncertain. One of the
+challenges in interpreting the available evidence is that probiotics               This analysis has several significant limitations that should be
+represent a heterogeneous group of interventions, with effects                taken into account when interpreting the results.
+depending on the specific microorganism, strain, dose,                             First, the available scientific data on dietary therapy for SIBO
+formulation, and treatment duration. Consequently, findings                   are limited and heterogeneous. Many of the analyzed publications
+from studies evaluating different probiotic preparations are not              pertain to populations of patients with irritable bowel syndrome
+directly comparable. Current evidence suggests that selected                  (IBS), in which SIBO is considered one of several possible
+probiotic formulations may provide benefit as adjunctive                      pathophysiological mechanisms, which may limit the direct
+therapy; however, the overall quality of evidence remains limited             generalizability of the results to the population of patients with
+and substantial heterogeneity exists across studies. In the                   isolated SIBO (1, 4). This heterogeneity also limits the
+randomized trial by Redondo-Cuevas et al., a multimodal                       translation of existing recommendations into routine clinical
+intervention combining dietary modification, antibiotics,                     practice, as clinicians are faced with substantially different
+probiotics, and bioactive compounds was associated with clinical              dietary approaches and varying levels of evidence supporting
+improvement (11). However, because multiple interventions                     their implementation. Furthermore, the limited number of
+were administered simultaneously, the independent contribution                included documents and their heterogeneous methodological
+of the probiotic component cannot be determined. Particular                   nature restrict the ability to draw definitive conclusions
+interest has been directed toward Saccharomyces boulardii,                    regarding true regional differences in clinical practice.
+which, as a probiotic yeast, is not directly affected by                      Consequently, observed differences should be interpreted as
+antibacterial antibiotics and may therefore be suitable for                   differences between the analyzed documents originating from
+concomitant administration during antibiotic treatment.                       various regions rather than direct evidence of geographically
+Nevertheless, evidence regarding its specific effectiveness in                distinct clinical approaches.
+SIBO remains limited, and further well-designed studies are                        Second, there is a lack of high-quality randomized clinical
+required before firm recommendations can be made. In a study                  trials that directly compare the efficacy of different dietary
+by Bogdanowska-Charkiewicz et al., probiotic supplementation                  strategies in the treatment of SIBO. Consequently, some of the
+during a low-FODMAP diet was not associated with improved                     conclusions are based on indirect data, observational studies, or
+intervention outcomes (14). This finding further illustrates the              analyses conducted in other disease entities, which weakens the
+heterogeneity of currently available evidence and the difficulty in           strength of the evidence.
+drawing generalized conclusions regarding probiotic use in                         Additionally, studies evaluating probiotics differed
+SIBO. Prebiotics, due to their potential to increase fermentation             substantially with respect to the microorganisms, strains,
+and exacerbate symptoms in some patients, require                             dosages, formulations, and treatment protocols used, limiting
+individualized assessment and careful clinical implementation (4).            comparisons across studies and preventing formulation-
+    In the Asia-Pacific region, an additional challenge is the lack of        specific conclusions.
+standardized recommendations, which reflects both an insufficient                  Third, differences between regions of the world may stem not
+number of studies and variability in clinical practice (9).                   only from differing scientific recommendations, but also from
+    Importantly, the evidence supporting dietary interventions in             systemic and cultural factors as well as the availability of
+SIBO remains limited and heterogeneous. Most available studies                therapeutic interventions, which were not analyzed in detail in
+involve relatively small sample sizes, differ substantially in                this study.
+
+
+Frontiers in Medicine                                                    07                                                          frontiersin.org
+Jodkiewicz et al.                                                                                                                              10.3389/fmed.2026.1952995
+
+
+
+
+    Fourth, the analysis conducted was qualitative rather than                               Author contributions
+quantitative (e.g., in the form of a meta-analysis), which limits
+the ability to precisely assess the effects of individual dietary                                MJ:    Conceptualization,    Investigation,   Methodology,
+interventions and compare their efficacy.                                                    Supervision, Writing – original draft, Writing – review &
+    Finally, the impact of dietary interventions on the gut                                  editing. JM: Conceptualization, Methodology, Visualization,
+microbiota was assessed primarily based on indirect studies,                                 Writing – original draft, Writing – review & editing. KM-W:
+which highlights the need for further mechanistic and long-term                              Conceptualization, Supervision, Writing – review & editing.
+research aimed at evaluating changes in the composition and
+function of the microbiome in patients with SIBO.
+    These limitations underscore the need for future prospective
+                                                                                             Funding
+and randomized studies using standardized diagnostic criteria
+and breath-testing protocols. Further research should evaluate
+                                                                                                 The author(s) declared that financial support was received for
+the long-term effects of dietary interventions on symptom
+                                                                                             this work and/or its publication. Project carried out as part of
+control, microbial composition, and disease recurrence, while
+                                                                                             research tasks conducted by the National Institute of Public
+also investigating dietary strategies independently of antibiotic-
+                                                                                             Health – National Research Institute, financed by the Minister
+related confounding factors.
+                                                                                             of Health on the basis of agreement No. PZH-PIB/2026/1094/113.
+
+
+5 Conclusion
+                                                                                             Conflict of interest
+    Despite increasing interest in nutritional approaches,
+                                                                                                 The authors declare that the research was conducted in the
+substantial international variability exists in dietary
+                                                                                             absence of any commercial or financial relationships that could
+recommendations for SIBO, and clear global standards for
+                                                                                             be construed as a potential conflict of interest.
+dietary management remain lacking. Antibiotic therapy remains
+the cornerstone of treatment across most regions, whereas the
+role of dietary therapy varies considerably.
+    The low-FODMAP diet appears to be effective for symptom                                  Generative AI statement
+management; however, its impact on SIBO eradication, gut
+microbiota composition, and long-term clinical outcomes                                           The author(s) declared that generative AI was not used in the
+remains uncertain. Similarly, recommendations regarding dietary                              creation of this manuscript.
+fiber, probiotics, and prebiotics remain heterogeneous and                                        Any alternative text (alt text) provided alongside figures in this
+support an individualized approach based on patient                                          article has been generated by Frontiers with the support of
+characteristics and clinical presentation.                                                   artificial intelligence and reasonable efforts have been made to
+    Current evidence supports dietary therapy primarily as an                                ensure accuracy, including review by the authors wherever
+adjunct to medical treatment rather than a stand-alone                                       possible. If you identify any issues, please contact us.
+therapeutic strategy. An integrated approach combining
+pharmacological and nutritional management appears to
+represent the most appropriate strategy for patients with SIBO.                              Publisher’s note
+                                                                                                 All claims expressed in this article are solely those of the
+Data availability statement                                                                  authors and do not necessarily represent those of their affiliated
+                                                                                             organizations, or those of the publisher, the editors and the
+    The original contributions presented in the study are included                           reviewers. Any product that may be evaluated in this article, or
+in the article/Supplementary Material, further inquiries can be                              claim that may be made by its manufacturer, is not guaranteed
+directed to the corresponding authors.                                                       or endorsed by the publisher.
+
+
+
+
+References
+1. Corsetti M, Shin A, Lacy BE, Cash BD, Simrén M, Schmulson MJ, et al.                      overgrowth: a narrative review. Nutrients. (2022) 14:3382. doi: 10.3390/
+Bowel disorders. Gastroenterology. (2026) 170:1261–82. doi: 10.1053/j.gastro.                nu14163382
+2026.02.003
+                                                                                             5. Shepherd SJ, Parker FC, Muir JG, Gibson PR. Dietary triggers of abdominal
+2. Efremova I, Maslennikov R, Poluektova E, Vasilieva E, Zharikov Y, Suslov A, et al.        symptoms in patients with irritable bowel syndrome: randomized placebo-
+Epidemiology of small intestinal bacterial overgrowth. World J Gastroenterol. (2023)         controlled evidence. Clin Gastroenterol Hepatol Off Clin Pract J Am Gastroenterol
+29:3400–21. doi: 10.3748/wjg.v29.i22.3400                                                    Assoc. (2008) 6:765–71. doi: 10.1016/j.cgh.2008.02.058
+                                                                                             6. Lomer MCE. The low FODMAP diet in clinical practice: where are we and what are
+3. Ahmed JF, Padam P, Ruban A. Aetiology, diagnosis and management of small
+                                                                                             the long-term considerations? Proc Nutr Soc. (2024) 83:17–27. doi: 10.1017/
+intestinal bacterial overgrowth. Frontline Gastroenterol. (2023) 14:149–54. doi: 10.         S0029665123003579
+1136/flgastro-2022-102163
+                                                                                             7. Van Lanen A-S, De Bree A, Greyling A. Efficacy of a low-FODMAP diet in adult
+4. Wielgosz-Grochowska JP, Domanski N, Drywień ME. Efficacy of an                            irritable bowel syndrome: a systematic review and meta-analysis. Eur J Nutr. (2021)
+irritable bowel syndrome diet in the treatment of small intestinal bacterial                 60:3505–22. doi: 10.1007/s00394-020-02473-0
+
+
+
+Frontiers in Medicine                                                                   08                                                                      frontiersin.org
+Jodkiewicz et al.                                                                                                                                   10.3389/fmed.2026.1952995
+
+
+
+
+8. Pimentel M, Saad RJ, Long MD, Rao SSC. ACG clinical guideline: small intestinal            13. Chuah KH, Loo QY, Loh AJC, Leong JY, Chan WL, Khoo XH, et al. Clinical trial:
+bacterial overgrowth. Off J Am Coll Gastroenterol ACG. (2020) 115(165):165–78.                rifaximin versus low FODMAP diet in irritable bowel syndrome. Aliment Pharmacol
+doi: 10.14309/ajg.0000000000000501                                                            Ther. (2026) 63:210–21. doi: 10.1111/apt.70420
+9. Ghoshal UC, Sachdeva S, Ghoshal U, Misra A, Puri AS, Pratap N, et al. Asian-               14. Bogdanowska-Charkiewicz D, Górski P, Jurkowska G, Środa R, Świdnicka-
+Pacific consensus on small intestinal bacterial overgrowth in gastrointestinal                Siergiejko A, Dąbrowski A, et al. Effectiveness of the low FODMAP diet in
+disorders: an initiative of the Indian neurogastroenterology and motility                     patients with irritable bowel syndrome and small intestine bacterial overgrowth
+association. Indian J Gastroenterol Off J Indian Soc Gastroenterol. (2022)                    syndrome. Front Nutr. (2026) 13:1725524. doi: 10.3389/fnut.2026.1725524
+41:483–507. doi: 10.1007/s12664-022-01292-x                                                   15. Gong P, Kang T, Wang SM, Qian XX. Therapeutic effect of the low FODMAPs
+10. Silva BCD, Ramos GP, Barros LL, Ramos AFP, Domingues G, Chinzon D, et al.                 diet for refractory halitosis associated with small intestinal bacterial overgrowth.
+Diagnosis and treatment of small intestinal bacterial overgrowth: an official position        J Breath Res. (2025) 19:046007. doi: 10.1088/1752-7163/ae0aec
+paper from the Brazilian federation of gastroenterology. Arq Gastroenterol. (2025) 62:        16. Thomassen RA, Luque V, Assa A, Borrelli O, Broekaert I, Dolinsek J, et al. An
+e24107. doi: 10.1590/S0004-2803.24612024-107                                                  ESPGHAN position paper on the use of low-FODMAP diet in pediatric gastroenterology.
+11. Redondo-Cuevas L, Belloch L, Martín-Carbonell V, Nicolás A, Alexandra I,                  J Pediatr Gastroenterol Nutr. (2022) 75:356–68. doi: 10.1097/MPG.0000000000003526
+Sanchis L, et al. Do herbal supplements and probiotics complement antibiotics and             17. So D, Loughman A, Staudacher HM. Effects of a low FODMAP diet on the
+diet in the management of SIBO? A randomized clinical trial. Nutrients. (2024)                colonic microbiome in irritable bowel syndrome: a systematic review with meta-
+16:1083. doi: 10.3390/nu16071083                                                              analysis. Am J Clin Nutr. (2022) 116:943–52. doi: 10.1093/ajcn/nqac176
+12. Von Muhlenbrock C, Landskron G, Madrid AM. Treatment of small intestinal                  18. Furnari M, Parodi A, Gemignani L, Giannini EG, Marenco S, Savarino E, et al. Clinical
+bacterial overgrowth in Chilean patients with irritable bowel syndrome: a                     trial: the combination of rifaximin with partially hydrolysed guar gum is more effective
+prospective and comparative study. Rev Gastroenterol Mex. (2025) 90:54–62.                    than rifaximin alone in eradicating small intestinal bacterial overgrowth. Aliment
+doi: 10.1016/j.rgmxen.2024.08.003                                                             Pharmacol Ther. (2010) 32:1000–6. doi: 10.1111/j.1365-2036.2010.04436.x
+
+
+
+
+Frontiers in Medicine                                                                    09                                                                          frontiersin.org
+

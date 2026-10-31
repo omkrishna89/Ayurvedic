@@ -1,0 +1,355 @@
+Med Oral Patol Oral Cir Bucal. 2016 Mar 1;21 (2):e187-91.                                                                  Aphthous stomatitis and H. pylori
+
+
+
+
+Journal section: Oral Medicine and Pathology                                                      doi:10.4317/medoral.20872
+Publication Types: Review                                                                         http://dx.doi.org/doi:10.4317/medoral.20872
+
+
+
+
+                             Recurrent aphthous stomatitis and Helicobacter pylori
+
+
+Carolina-Cavaliéri Gomes 1, Ricardo-Santiago Gomez 2, Lívia-Guimarães Zina 3, Fabrício-Rezende Amaral 2,4
+
+
+1
+  Department of Pathology, Biological Sciences Institute, Universidade Federal de Minas Gerais, Belo Horizonte, Minas Ge-
+rais, Brazil
+2
+  Department of Oral Pathology, School of Dentistry, Universidade Federal de Minas Gerais, Belo Horizonte, Minas Gerais,
+Brazil
+3
+  Department of Social and Preventive Dentistry, Universidade Federal de Minas Gerais, Belo Horizonte, Minas Gerais, Brazil
+4
+  Dentist of the Oral Medicine Service of the Brazilian Army
+
+
+
+Correspondence:
+Universidade Federal de Minas Gerais
+Faculdade de Odontologia
+Av. Antônio Carlos 6627
+Pampulha - 31270-901                                        Gomes CC, Gomez RS, Zina LG, Amaral FR. Recurrent aphthous stoma-
+Belo Horizonte, Minas Gerais, Brazil                        titis and Helicobacter pylori. Med Oral Patol Oral Cir Bucal. 2016 Mar
+framaral2@gmail.com                                         1;21 (2):e187-91.
+                                                            http://www.medicinaoral.com/medoralfree01/v21i2/medoralv21i2p187.pdf
+
+                                                            Article Number: 20872        http://www.medicinaoral.com/
+                                                            © Medicina Oral S. L. C.I.F. B 96689336 - pISSN 1698-4447 - eISSN: 1698-6946
+Received: 13/06/2015                                        eMail: medicina@medicinaoral.com
+Accepted: 14/10/2015                                        Indexed in:
+                                                                Science Citation Index Expanded
+                                                                Journal Citation Reports
+                                                                Index Medicus, MEDLINE, PubMed
+                                                                Scopus, Embase and Emcare
+                                                                Indice Médico Español
+
+
+
+
+  Abstract
+  Background: Recurrent aphthous stomatitis (RAS) is a recurrent painful ulcerative disorder that commonly af-
+  fects the oral mucosa. Local and systemic factors such as trauma, food sensitivity, nutritional deficiencies, sys-
+  temic conditions, immunological disorders and genetic polymorphisms are associated with the development of
+  the disease. Helicobacter pylori (H. pylori) is a gram-negative, microaerophile bacteria, that colonizes the gastric
+  mucosa and it was previously suggested to be involved in RAS development. In the present paper we reviewed all
+  previous studies that investigated the association between RAS and H. pylori.
+  Material and Methods: A search in Pubmed (MEDLINE) databases was made of articles published up until July
+  2015 using the following keywords: Helicobacter Pylori or H. pylori and RAS or Recurrent aphthous stomatitis.
+  Results: Fifteen experimental studies that addressed the relationship between infection with H. pylori and the
+  presence of RAS and three reviews, including a systematic review and a meta-analysis were included in this
+  review. The studies reviewed used different methods to assess this relationship, including PCR, nested PCR,
+  culture, ELISA and urea breath test. A large variation in the number of patients included in each study, as well as
+  inclusion criteria and laboratorial methods was observed. H. pylori can be detected in the oral mucosa or ulcerated
+  lesion of some patients with RAS. The quality of the all studies included in this review was assessed using levels
+  of evidence based on the University of Oxford’s Center for Evidence Based Medicine Criteria.
+  Conclusions: Although the eradication of the infection may affect the clinical course of the oral lesions by unde-
+  termined mechanisms, RAS ulcers are not associated with the presence of the bacteria in the oral cavity and there
+  is no evidence that H. pylori infection drives RAS development.
+
+  Key words: Campylobacter, elisa, h. pylori, Helicobacter Pylori, RAS, recurrent aphthous stomatitis, PCR.
+
+
+                                                             e187
+Med Oral Patol Oral Cir Bucal. 2016 Mar 1;21 (2):e187-91.                                                                    Aphthous stomatitis and H. pylori
+
+
+
+
+Introduction                                                                      Table 1. Classification of the studies selected for review
+                                                                                  according to type of study and level of evidence (CEMB
+Recurrent aphthous stomatitis (RAS) is a very common
+                                                                                  2009).
+condition characterized by solitary or multiple small,
+                                                                                                                                         Level of
+round, recurrent oral ulcers, with erythematous haloes                                       Authors                Type of study
+                                                                                                                                         evidence
+and circumscribed margins. The appearance of the
+painful ulcers is periodic and the onset is usually during                               Porter et al. (17)           Transversal            4
+childhood and tends to diminish in severity with age (1).                           Mravak-Stipetic et al. (10)       Transversal            4
+The diagnosis of RAS is based on clinical grounds but                                   Chapman et al. (7)            Case-series            4
+the etiology and pathogenesis remain unclear (2). Local                                  Birek et al. (11)            Case-series            4
+and systemic factors have been suggested to affect the                                   Riggio et al. (8)           Case-control            4
+development of RAS. These factors are illustrated in the
+                                                                                      Shimoyama et al. (12)           Case-series            4
+figure 1. For example, some genetic polymorphisms are
+                                                                                        Victoria et al. (13)         Case-control            4
+associated with the occurrence of RAS (3). Some predis-
+posing factors include trauma, hormonal changes, diet,                                  Iamaron et al. (14)          Case-control            4
+nutritional deficiencies, Coeliac disease, and immuno-                                  Fritscher et al. (15)        Case-control            4
+logical disorders (4,5). Regarding nutritional deficien-                            Mansour-Ghanaei et al. (16)       Case-series            4
+cies, some studies have found decreased levels of iron,                               Elsheik & Marfouz. (9)         Case-control            4
+vitamin B3 and B12, vitamin C, and folic acid (2).                                 Albanidou-Farmaki et al. (25)      Case-series            4
+Helicobacter pylori (H. pylori) is a gram-negative, micro-                               Karaca et al. (23)           Case-series            4
+aerophile bacteria, that colonizes the gastric mucosa and
+                                                                                         Maleki et al. (18)          Case-control           3b
+its infection is associated with the development of peptic
+                                                                                        Afghari et al. (26)        Systematic review        3a
+ulcers, gastric mucosa associated lymphoid tissue lym-
+phoma, and gastric cancer (6). Although H. pylori infec-                                  Tas et al. (24)             Case-series            4
+tion has been suggested to be one of the etiological factors                               Li et al. (27)            Meta-analysis          3a
+in the pathogenesis of RAS, this association is debatable.                               Adler et al. (28)             Review               NC
+In the present paper we review this issue and present the                         NC: not classified.
+available evidence regarding this controversial topic.
+                                                                              Results and Discussion
+                                                                              We included in this review fifteen experimental studies
+                                                                              that addressed the relationship between infection with
+                                                                              H. pylori and the presence of RAS and three reviews,
+                                                                              including a systematic review and a meta-analysis that
+                                                                              assessed this association (Table 2). As shown in table
+                                                                              2 there was a large variation in the number of patients
+                                                                              evaluated in each study as well as the methods used to
+                                                                              collect the samples or to identify H. pylori. While in
+                                                                              some studies biopsies of the lesions were used (7-9),
+                                                                              others used swabs (10-16). Ten out of fifteen studies did
+                                                                              not demonstrate a statistically significant association
+                                                                              between H. pylori and the presence of RAS (7,8,10,12-
+                                                                              18). Another important variation that affects the analysis
+   Fig. 1. Clinical picture of a RAS lesion and the etiological fac-          of the studies is the inclusion criteria used to diagnose
+   tors associated with its development.
+                                                                              RAS. As the histopathological features of RAS are non-
+                                                                              specific and the diagnosis is based on clinical grounds,
+Material and Methods                                                          the standardization of patients’ selection in future stud-
+- Association between RAS and helicobacter pylori                             ies is important. There are good reviews about the clini-
+In this review, a search in Pubmed (MEDLINE) data-                            cal and diagnostic aspects of the disease (19).
+bases was made of articles published up until July 2015                       The polymerase chain reaction (PCR) method was used
+using the following keywords: Helicobacter Pylori or                          to identify the presence of H. pylori DNA in eight stud-
+H. pylori and RAS or Recurrent aphthous stomatitis. We                        ies (8-11,13-16). In two of them, the authors reported
+included experimental and review studies that assessed                        a statistically significant association between H.pylori
+the relationship between H. pylori and RAS. Quality of                        presence and RAS (9,11). While Birek et al. (11) detect-
+the studies was assessed using levels of evidence based                       ed H. pylori in 72% of RAS samples using PCR and
+on the University of Oxford’s Center for Evidence Based                       RT-PCR, Elsheikh & Mahfouz (9) reported that this was
+Medicine Criteria (CEMB 2009) (Table 1).                                      mainly observed in lesions localized in mucosa-associ-
+
+                                                                       e188
+Med Oral Patol Oral Cir Bucal. 2016 Mar 1;21 (2):e187-91.                                                                    Aphthous stomatitis and H. pylori
+
+
+
+
+      Table 2. Studies that investigated the association between recurrent aphthous stomatitis (RAS) development and H. pylori infection.
+                                                                                 Number of                                       Association
+                        Authors                             Year   Country      patients with             Methods               between RAS
+                                                                                    RAS                                         and H. pylori
+                  Porter et al. (17)                        1997     UK                 75                 ELISA                    Negative
+
+           Mravak-Stipetic et al. (10)                      1998    Croatia             32              Nested PCR                  Negative
+
+                Chapman et al. (7)                          1998   Lebanon               4          CLO culture and test            Negative
+
+                  Birek et al. (11)                         1999    Canada              32            PCR and RT-PCR                Positive
+
+                  Riggio et al. (8)                         2000     UK                 28              Culture/PCR                 Negative
+
+              Shimoyama et al. (12)                         2000    Japan               12             Culture/ELISA                Negative
+
+                Victoria et al. (13)                        2003    Brazil              36              Nested PCR                  Negative
+
+                Iamaron et al. (14)                         2003   Thailand             22              Nested PCR                  Negative
+
+                Fritscher et al. (15)                       2004    Brazil              52              Nested PCR                  Negative
+
+         Mansour-Ghanaei et al. (16)                        2005     Iran               50              PCR/ELISA                   Negative
+
+             Elsheik & Marfouz. ( 9)                        2005    Egypt              146                  PCR                     Positive
+
+        Albanidou-Farmaki et al. (25)                       2005    Greece              48           ELISA/C-urea test              Positive
+                                                                                                         Endoscopy
+                 Karaca et al. (23)                         2008    Turkey              23            biopsy/Histologic             Positive
+                                                                                                         evaluation
+
+                 Maleki et al. (18)                         2009     Iran               43         Urea breath test (UBT)           Negative
+
+                 Afghari et al. (26)                        2011     Iran                _           Systematic review              Negative
+
+                                                                                                        Endoscopic
+                    Tas et al. (24)                         2013    Turkey              46                                          Positive
+                                                                                                   biopsy/urea breath test
+
+                     Li et al. (27)                         2014    China                _              Meta-analysis               Positive
+
+                  Adler et al. (28)                         2014   Argentina             _                 Review                   Positive
+
+        ! Polymerase chain reaction, RT-PCR: reverse transcription PCR, ELISA: Enzyme-linked immunosorbent assay, UBT: Urea
+       PCR:
+       breath test.
+
+
+
+ated lymphoid tissue of pharynx. However, it is neces-                                tween the number of positive samples in the case and
+sary to emphasise that the simple detection of the bacte-                             control groups. It is interesting that all authors who used
+ria in the oral lesion does not mean a causal relationship,                           the highly sensitive nested PCR method to detect the
+as the microorganism may be a “passenger” and may                                     presence of H. pylori DNA in oral lesions did not find
+not be the initiating factor of the disease. Most of the                              a positive relationship (10,13-15). The frequency of H.
+studies that employed PCR or nested PCR did not find                                  pylori in the non-affected oral mucosa of patients with
+association between the presence of the bacteria in the                               RAS is not different from those without this condition
+oral lesions and its development (8,10,13-16). H. pylori                              (10,13-15).
+DNA was detected between 2% and 38.9% of RAS le-                                      Song et al. (20) compared three of the most used sets
+sions included in the studies (8,10,13-16). None of these                             of primers for PCR analysis of H. pylori on samples
+studies reported a statistically significant difference be-                           of dental plaque. They concluded that the primer pairs
+
+                                                                               e189
+Med Oral Patol Oral Cir Bucal. 2016 Mar 1;21 (2):e187-91.                                                 Aphthous stomatitis and H. pylori
+
+
+
+
+EHC-U/EHC-L was the most recommended for the                          of the H. pylori in the biopsy samples obtained from
+detection of H. pylori in the oral cavity. An important               patients with active RAS and history of RAS after per-
+issue that should be addressed is that the PCR-based                  forming CLO (Campylobacter-like organism) culture.
+studies used different primers, some of which specific                In addition, no association between H. pylori and RAS
+to conserved regions of the H. pylori genome, and some                was observed by Maleki et al. (18) using the UBT (Urea
+detecting the variable regions of the genome. The pos-                Breath Test). Furthermore, it is important to state that
+sible presence of other Helicobacter-like species in the              H. pylori in the oral cavity might be in a non-culturable
+mouth such as Campylobacter Rectus, Campylobacter                     coccoid state without the productive infection (12).
+Curvus and Campylobacter Concisus that are peri-                      Recent literature review, including a systematic review
+odontopathogens and have up to 90% similarity with                    and a meta-analysis, assessed the association between
+H. pylori is also a factor that needs to be considered                the infection by H. pylori and RAS. Afghari et al. (26)
+(21). In addition, some of the primers used in the studies            after reviewing nine publications up to 2011, concluded
+could also amplify other Helicobacter species that have               that there is no association. Li et al. (27) conducted a
+also been found in human gut, such as H. fennelliae,                  meta-analysis on studies published up to 2013 that eval-
+H cinaedias (22). Thus appropriate positive and nega-                 uated the prevalence of infection by H. pylori in patients
+tive controls together with DNA direct sequencing of                  with RAS and controls. In this review they found an in-
+the PCR product are necessary to define the best PCR                  creased risk of RAS in patients with infection by H. py-
+conditions and primers that should be used to detect H.               lori and eradication of this infection may prevent occur-
+pylori in samples collected from the oral cavity.                     rence of RAS. Adler et al. (28) in a revision concluded
+In two studies, patients with RAS were submitted to en-               that H. pylori infection in the occurrence of RAS would
+doscopy biopsy to detect H. pylori (23,24). Both studies              be associated with the anemia produced by H pylori-
+showed a positive relationship between the presence of                positive stomach disease.
+the bacteria in the stomach and the occurrence of RAS                 - Helicobacter pylori eradication and RAS
+in the mouth. In the studies of Karaca et al. (23) and Tas            While there is no evidence that RAS ulcers are directly
+et al. (24) 87% and 65% of the patients with RAS, re-                 associated with the infection by H. pylori, some studies
+spectively, showed the bacteria in the gastric mucosa.                have demonstrated that the eradication of the bacteria
+In four studies, the enzyme-linked immunosorbant assay                affects the clinical course of the oral disease (23-25).
+(ELISA) was used to detect specific antibodies to H. py-              Karaca et al. (23) studied 23 patients with RAS and
+lori in RAS patients (12,16,17,25). In the study of Farmaki           performed endoscopy and gastric biopsies. The patients
+et al. (25) most of the patients with RAS were H. pylori              with H. pylori were put on an eradication therapy and
+positive in the ELISA test of serum and saliva. The other             follow-up for annual recurrence. They observed signifi-
+studies that performed ELISA did not find association be-             cant positive effect of eradication on the recurrence rate,
+tween the presence of anti-H. pylori antibodies and RAS.              number, diameter, and amelioration of time of RAS.
+Mansour-Ghanaei et al. (16) found that 26 (52%) of 50                 Albanidou-Farmaki et al. (25) studied 34 RAS patients
+subjects with RAS analysed were positive for H. pylori in             that were positive for H. pylori. After the eradication
+the ELISA test. Of these, 16 patients had gastric disorders           therapy, the group of patients who had become nega-
+and 10 did not. These authors did not find a relationship             tive showed a remarkable improvement with respect to
+between H. pylori positivity in the ELISA test and the                recurrence of RAS lesions and symptom intensity. Tas
+presence of this bacterium in RAS lesions. In the study of            et al. (24) studied forty-six patients with RAS during 6
+Porter et al. (17) the frequency of anti-H. pylori seroposi-          months and recorded vitamin B12 levels. Thirty of these
+tivity was not significantly greater in patients with RAS             46 subjects were positive for H. pylori. They found that
+(30.6%) compared with patients with other ulcerated le-               vitamin B12 levels were significantly increased in the
+sions (33.0%) and controls (24%). Shimoyama et al. (12)               group of H. pylori-eradicated RAS patients. In addition,
+measured the presence of IgG antibody against H. pylori               the number of RAS lesions in these patients decreased
+in the serum of 12 patients and found only three seroposi-            significantly. This study suggests that vitamin B12 levels
+tive cases. Although no temporal analysis was performed               could be the underlying mechanism that explains the
+in any of these studies, on the basis of these ELISA-based            effect of H. pylori eradication on RAS development.
+findings, there is no sound evidence of any association               However, these findings need to be further confirmed in
+between the H. pylori infection and RAS.                              a large group of patients with a long follow-up period.
+Two studies used culture to detect H. pylori in RAS le-               Furthermore, other biological mechanisms related to H.
+sions. Shimoyama et al. (12) employed culture in sam-                 pylori infection and treatment should be investigated.
+ples collected by swabbing in the ulcer surface of 12
+patients to detect H. pylori. Their results showed that               Conclusion
+none of 12 patients were positive for the bacteria in the             The H. pylori can be occasionally detected in RAS le-
+culture. Chapman et al. (7) did not find the presence                 sions and the eradication of the infection may affect the
+
+
+                                                               e190
+Med Oral Patol Oral Cir Bucal. 2016 Mar 1;21 (2):e187-91.                                                                  Aphthous stomatitis and H. pylori
+
+
+
+
+clinical course of RAS lesions by undetermined mecha-                            18. Maleki Z, Sayyari AA, Alavi K, Sayyari L, Baharvand M. A
+nisms. However, most of the studies do not support the                           study of the relationship between Helicobacter pylori and recurrent
+                                                                                 aphthous stomatitis using a urea breath test. J Contemp Dent Pract.
+association of RAS ulcers with the presence of the bac-                          2009;10:9-16.
+teria in the oral cavity and the presence of the bacteria                        19. Scully C, Porter S. Oral mucosal disease: recurrent aphthous
+in the ulcer may reflect a passenger infection and not                           stomatitis. Br J Oral Maxillofac Surg. 2008;46:198-206.
+the trigger event. There is no convincing evidence of a                          20. Song Q, Haller B, Schmid RM, Adler G, Bode G. Helicobacter
+                                                                                 pylori in dental plaque: a comparison of different PCR primer sets.
+direct cause- consequence effect of H. pylori infection                          Dig Dis Sci. 1999;44:479-84.
+and RAS ulcers development. This association requires                            21. Silva DG, Tinoco EM, Rocha GA, Rocha AM, Guerra JB, Sarai-
+further investigation by well-design prospective stud-                           va IE, et al. Helicobacter pylori transiently in the mouth may par-
+ies.The debate goes on.                                                          ticipate in the transmission of infection. Mem Inst Oswaldo Cruz.
+                                                                                 2010;105:657-60.
+                                                                                 22. Totten PA, Fennell CL, Tenover FC, Wezenberg JM, Perine PL,
+References                                                                       Stam WE, et al. Campylobacter cinaedi (sp. nov.) and Campylobacter
+1. Scully C, Gorsky M, Lozada-Nur F. The diagnosis and manage-                   fennelliae (sp. nov.): two new Campylobacter species associated with
+ment of recurrent aphthous stomatitis: a consensus approach. J Am                enteric disease in homosexual men. J Infect Dis. 1985;151:131-9.
+Dent Assoc. 2003;134:200-7.                                                      23. Karaca S, Seyhan M, Senol M, Harputluoglu MM, Ozcan A. The
+2. Chavan M, Jain H, Diwan N, Khedkar S, Shete A, Durkar S. Recur-               effect of gastric Helicobacter pylori eradication on recurrent apht-
+rent aphthous stomatitis: a review. J Oral Pathol Med. 2012;41:577-              hous stomatitis. Int J Dermatol. 2008;47:615-7.
+83.                                                                              24. Tas DA, Yakar T, Sakalli H, Serin E. Impact of Helicobacter py-
+3. Guimaraes AL, Correia-Silva JF, Sa AR, Victória JM, Diniz MG,                 lori on the clinical course of recurrent aphthous stomatitis. J Oral
+Costa FO, et al. Investigation of functional gene polymorphisms IL-              Pathol Med. 2013;42:89-94.
+1beta, IL-6, IL-10 and TNF-alpha in individuals with recurrent aph-              25. Albanidou-Farmaki E, Giannoulis L, Markopoulos A, Fotiades
+thous stomatitis. Arch Oral Biol. 2007;52:268-72.                                S, Aggouridaki X, Farmakis K, et al. Outcome following treatment
+4. McCullough MJ, Abdel-Hafeth S, Scully C. Recurrent aphthous                   for Helicobacter pylori in patients with recurrent aphthous stomati-
+stomatitis revisited; clinical features, associations, and new associa-          tis. Oral Dis. 2005;11:22-6.
+tion with infant feeding practices?. J Oral Pathol Med. 2007;36:615-             26. Afghari P, Khazaei S, Kazemi S, Savabi O, Keshteli AH, Adibi
+20.                                                                              P. The role of Helicobacter pylori in the development of recurrent
+5. Porter S, Scully C. Aphthous ulcers (recurrent). Clin Evid.                   aphthous stomatitis: SEPAHAN systematic review no. 9. Dent Res J
+2005;13:1687-94.                                                                 (Isfahan). 2011;8(Suppl 1):S2-8.
+6. Gatta L, Vakil N, Vaira D, Scarpignato C. Global eradication rates            27. Li L, Gu H, Zhang G. Association between recurrent aphtous
+for Helicobacter pylori infection: systematic review and meta-analy-             stomatitis and Helicobacter pylori infection: a meta-analysis. Clin
+sis of sequential therapy. BMJ. 2013;347:f4587.                                  Oral Investg. 2014;18:1553-60.
+7. Chapman MS, Cimis RJ, Baughman RD. Lack of association                        28. Adler I, Muiño A, Aguas S, Arada L, Dias M, Lence A, et al. He-
+between aphthous ulcers and Helicobacter pylori. Arch Dermatol.                  licobacter Pylori and oral pathology: Relathionship with the Gastric
+1998;134:1634-5.                                                                 Infection. World J Gastroenterol. 2014;20:9922-35.
+8. Riggio MP, Lennon A, Wray D. Detection of Helicobacter pylori
+DNA in recurrent aphthous stomatitis tissue by PCR. J Oral Pathol
+Med. 2000;29:507-13.                                                             Acknowledgements
+9. Elsheikh MN, Mahfouz ME. Prevalence of Helicobacter pylori                    CC Gomes and RS Gomez are research fellows at CNPq (National
+DNA in recurrent aphthous ulcerations in mucosa-associated lym-                  Counsil of Technological and Scientific Development), Brazil.
+phoid tissues of the pharynx. Arch Otolaryngol Head Neck Surg.
+2005;131:804-8.
+10. Mravak-Stipetic M, Gall-Troselj K, Lukac J, Kusic Z, Pavelic K,
+Pavelic J. Detection of Helicobacter pylori in various oral lesions
+by nested polymerase chain reaction (PCR). J Oral Pathol Med.
+1998;27:1-3.
+11. Birek C, Grandhi R, McNeill K, Singer D, Ficarra G, Bowden
+G. Detection of Helicobacter pylori in oral aphthous ulcers. J Oral
+Pathol Med. 1999;28:197-203.
+12. Shimoyama T, Horie N, Kato T, Kaneko T, Komiyama K. Helico-
+bacter pylori in oral ulcerations. J Oral Sci. 2000;42:225-9.
+13. Victoria JM, Kalapothakis E, Silva JF, Gomez RS. Helicobacter
+pylori DNA in recurrent aphthous stomatitis. J Oral Pathol Med.
+2003;32:219-23.
+14. Iamaroon A, Chaimano S, Linpisarn S, Pongsiriwet S, Phorn-
+phutkul K. Detection of Helicobacter pylori in recurrent aphthous
+ulceration by nested PCR. J Oral Sci. 2003;45:107-10.
+15. Fritscher AM, Cherubini K, Chies J, Dias AC. Association be-
+tween Helicobacter pylori and recurrent aphthous stomatitis in chil-
+dren and adolescents. J Oral Pathol Med. 2004;33:129-32.
+16. Mansour-Ghanaei F, Asmar M, Bagherzadeh AH, Ekbatanine-
+zhad S. Helicobacter pylori infection in oral lesions of patients with
+recurrent aphthous stomatitis. Med Sci Monit 2005;11:CR576-9.
+17. Porter SR, Barker GR, Scully C, Macfarlane G, Bain L. Serum
+IgG antibodies to Helicobacter pylori in patients with recurrent aph-
+thous stomatitis and other oral disorders. Oral Surg Oral Med Oral
+Pathol Oral Radiol Endod. 1997;83:325-8.
+
+
+                                                                          e191
+

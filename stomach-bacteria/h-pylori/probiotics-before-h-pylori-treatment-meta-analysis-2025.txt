@@ -1,0 +1,694 @@
+Annals of Medicine
+2025, VOL. 57, NO. 1, 2533431
+https://doi.org/10.1080/07853890.2025.2533431
+
+
+RESEARCH ARTICLE
+
+Efficacy of probiotics pretreatment in Helicobacter pylori eradication
+therapy: a systematic review and meta-analysis of clinical outcomes
+Yinghui Zhanga , Mengtian Tub, Ping Longa, Jing Zhenga, Guanghong Duc, Shiyu Xiaoa
+and Caiping Gaoa,d
+a
+ Department of Gastroenterology, Sichuan Provincial People’s Hospital, University of Electronic Science and Technology of
+China, Chengdu, China; bSichuan Provincial Center for Mental Health, Sichuan Provincial People’s Hospital, University of
+Electronic Science and Technology of China, Chengdu, China; cGeriatric Department, Sichuan Provincial People’s Hospital,
+University of Electronic Science and Technology of China, Chengdu, China; dClinical Immunology Translational Medicine Key
+Laboratory of Sichuan Province, Sichuan Provincial People’s Hospital, University of Electronic Science and Technology of
+China, Chengdu, China
+
+
+    ABSTRACT                                                                                                                    ARTICLE HISTORY
+    Background: Probiotics inhibit Helicobacter pylori (H. pylori) growth and alter gut                                         Received 26 March 2025
+    microbiome, in addition to alleviating the side effects of H. pylori eradication. It has also                               Revised 29 June 2025
+    been reported that H. pylori be eradicated after fecal microbiota transplantation in                                        Accepted 1 July 2025
+    some cases. However, whether probiotics used before H. pylori eradication improves the                                      KEYWORDS
+    eradication rate remains unclear. This study evaluates their role through a systematic                                      Helicobacter pylori;
+    review and meta-analysis.                                                                                                   pretreatment; probiotics;
+    Methods: We searched PubMed, EMBASE, the Cochrane Library, and the Conference                                               microbiome;
+    Proceedings Citation Index up to January 31, 2024, to identify randomized controlled                                        meta-analysis
+    studies (RCTs) assessing the efficacy of probiotics used before H. pylori eradication.
+    Meta-analyses of eradication rates were performed.
+    Results: Twelve eligible RCTs with 2,144 participants were included. The intention-to-
+    treat analysis revealed that the overall eradication rate of H. pylori was higher in the
+    probiotics pretreatment group compared to the control group (80.34% vs. 70.49%), with
+    a risk ratio (RR) of 1.14 (95% CI: 1.08 to 1.19; I2 = 36%) and side effects were less (16.0%
+    vs. 28.3%, RR = 0.59, 95% CI 0.41 to 0.84). The per-protocol analysis yielded similar
+    results (86.43% vs. 76.88%, RR = 1.12, 95% CI: 1.08 to 1.17; I2 = 57%). Subgroup analyses,
+    considering factors like geographic location, eradication regimens, and probiotic
+    combinations, consistently confirmed the benefits. Finally, probiotics pretreatment
+    durations of 14 days or more, as well as the study designs pre vs. free and pre and
+    combine vs. free, demonstrated significant effects. Shorter durations and other study
+    designs with fewer studies did not show significant effects.
+    Conclusion: There is moderate to high evidence to suggest that probiotics pretreatment
+    improves H. pylori eradication rate and reduces side effects. These findings highlight the
+    potential value of gut microbiome modulation in H. pylori treatment and offer a new
+    direction for addressing the challenges of antibiotic resistance and treatment failure.
+
+
+
+
+Introduction
+The global prevalence of Helicobacter pylori (H. pylori) infection remains above 40% [1]. H. pylori infection,
+which invariably causes gastritis, is difficult to clear naturally unless treated with eradication therapies
+consisting of antibiotics and acid suppressants [2]. Persistent infection can lead to chronic atrophic gas-
+tritis, peptic ulcers, gastric cancer, gastric mucosa-associated lymphoid tissue lymphoma etc. H. pylori has
+
+
+CONTACT Shiyu Xiao           xiaoshiyu57@163.com       Department of Gastroenterology, Sichuan Provincial People’s Hospital, University of
+Electronic Science and Technology of China, Chengdu, China; Caiping Gao                gaocaiping@med.uestc.edu.cn           Clinical Immunology
+Translational Medicine Key Laboratory of Sichuan Province, Sichuan Provincial People’s Hospital, University of Electronic Science and Technology
+of China, Chengdu, China.
+Yinghui Zhang and Mengtian Tu contributed equally to this work.
+    Supplemental data for this article can be accessed online at https://doi.org/10.1080/07853890.2025.2533431.
+This article has been corrected with minor changes. These changes do not impact the academic content of the article.
+© 2025 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial License (http://creativecommons.org/licenses/
+by-nc/4.0/), which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited. The terms
+on which this article has been published allow the posting of the Accepted Manuscript in a repository by the author(s) or with their consent.
+2     Y. ZHANG ET AL.
+
+
+also been linked to an increased risk of colorectal cancer and Alzheimer’s disease [3,4]. However, the rise
+in antibiotic resistance, fueled by widespread antibiotic use, has caused H. pylori eradication rate to
+decline [5]. Additionally, H. pylori eradication therapies also induce an increase in long-term resistant
+bacteria communities in the gut [6].
+   Probiotics, live microorganisms that bring health benefits, have emerged as a potential adjunct to H.
+pylori therapy. Randomized controlled trials (RCTs) and meta-analyses suggest that probiotics can reduce
+side effects associated with H. pylori eradication treatments, though their impact on H. pylori eradication
+rate remains unclear [7–14]. Emerging evidence highlights the gut microbiome’s role in H. pylori clear-
+ance. Probiotics may inhibit H. pylori growth through producing antibacterial substances, competing for
+ecological niches, and modulating the immune system [15–18]. Probiotics also modulate the microbiome
+across the digestive tract [19–22], potentially altering the environment in which H. pylori thrives and
+leading to the decolonization of pathogenic bacteria [23]. Furthermore, faecal microbiota transplantation
+(FMT) has even been reported to clear H. pylori in some cases, underscoring the microbiome’s impor-
+tance [24].
+   Despite these findings, it remains unclear whether using probiotics before H. pylori eradication therapy
+improves outcomes. This study aims to address this gap by evaluating the efficacy of probiotics admin-
+istered prior to H. pylori treatment through a systematic review and meta-analysis.
+
+
+Methodology
+Registration of review protocol
+This systematic review and meta-analysis were conducted according to the Preferred Reporting Items for
+Systematic Reviews and Meta-Analyses (PRISMA) guideline [25]. The study protocol was registered on the
+International Prospective Register of Systematic Reviews (CRD42021233382; 22 Feb 2021; Updated 07
+Jan 2024).
+
+
+Search strategy
+A comprehensive literature search of PubMed, EMBASE, the Cochrane Library, and the Conference
+Proceedings Citation Index was carried out up till January 2024 with the following search strategy
+(Helicobacter pylori OR H. pylori OR Campylobacter Pylori) AND (probiotic OR probiotics OR yeast OR yeasts
+OR yogurt OR Lactobacillus OR Bifidobacterium OR Saccharomyces OR Streptococcus OR Enterococcus OR
+Bacillus OR prebiotics OR Lactococcus OR fermented milk OR Clostridium butyricum OR Bacillus subtilis OR
+Bacillus licheniformis OR Curd). We also manually checked the reference lists of RCTs and systematic
+reviews identified by previous searches to include other potentially eligible studies.
+
+
+Eligibility criteria
+The title and abstract were used to assess the eligibility of the records. Eligible records were screened
+for duplicates. Data were extracted from these eligible articles independently by two authors (TM and
+SX), and any disagreements were resolved through discussion with a third reviewer (ZY). RCTs that com-
+pared the pretreatment of probiotics for H. pylori eradication (pretreatment group) with current main-
+stream guideline-recommended therapies (control group) [7,26], with or without the use of probiotics,
+were included. Reviews, meta-analyses, comments, letters, case reports, case series, animal studies, and
+studies without controls were excluded. Additionally, studies that did not report the H. pylori eradication
+rate, used serological tests to diagnose active H. pylori infection, had an interval of less than 4 weeks for
+H. pylori re-check, or did not report the interval were also excluded.
+
+
+Risk of bias assessment
+Two investigators (TM and ZY) separately rated the risk of bias in the included RCTs according to the risk of
+bias assessment tool (RevMan 5.4, Nordic Cochrane Center, Cochrane Collaboration, Copenhagen, Denmark).
+                                                                                      Annals of Medicine      3
+
+
+The assessment covered the following bias domains: random sequence generation (selection bias), allocation
+concealment (selection bias), blinding of participants and personnel (performance bias), blinding of outcome
+assessment (detection bias), incomplete outcome data (attrition bias), selective reporting (reporting bias),
+and others. Each domain was categorized as having a low, high, or uncertain risk of bias. If RCTs ≥ 10 was
+included in the meta-analysis, funnel plots were constructed to assess the risk of publication bias.
+
+
+Data extraction
+We extracted the following information from the included studies: (a) year of publication, region, first
+author, study design, participants’ characteristics, number of patients in each treatment arm, methods
+used to confirm H. pylori infection; (b) the type, dose, and duration of probiotics used; (c) initial or rescue
+therapy, regimen of eradication, eradication rates, side effects, number of patients in whom H. pylori
+infection was successfully eradicated (either provided directly or calculated from the intention-to-treat
+[ITT] and the per-protocol [PP] analyses).
+
+
+Data synthesis and analysis
+The endpoints of interest in this meta-analysis were the H. pylori eradication rate. To evaluate the het-
+erogeneity among the included studies, the inconsistency index (I2) statistic was performed. An I2 value
+larger than 50% indicated a high degree of heterogeneity, and a random-effects model was used to pool
+studies for analyses. Otherwise, a fixed-effects model was used [27]. Statistical heterogeneity was assessed
+using sensitivity analyses to determine whether any clinical heterogeneity contributed to such a statisti-
+cal difference.
+   Both ITT and PP analyses were used to determine the clinical outcomes. Subgroup analyses were
+performed to compare the H. pylori eradication rates across studies from different countries, eradication
+regimens, H. pylori group, probiotic types (single probiotic strains or combinations of probiotics), dura-
+tions of probiotics used before H. pylori eradication therapies, and study designs of probiotics pretreat-
+ment. We summed dichotomous outcome measures as the risk ratio (RR) along with 95% confidence
+interval (CI) using RevMan 5.4. The results of this meta-analysis were reported as forest plots.
+
+
+Results
+Study selection
+A flow diagram of this study is presented in Figure 1. Initially, 867 articles were identified through the
+primary literature search. Of these, 605 were excluded due to being duplicates, irrelevant to the analysis,
+or not RCTs. A total of 262 articles were retrieved for further review.
+   Eight studies were excluded because they were either incomplete or unpublished after registration.
+153 articles were excluded as they did not involve the use of probiotics prior to H. pylori eradication
+treatment. Further exclusions included 52 articles that lacked current mainstream guideline-recommended
+therapies as controls, 29 articles that did not involve probiotics, and two similar studies published by
+authors from the same institution within a year. Two articles were excluded for not reporting the H. pylori
+eradication rate, and two others were excluded because the H. pylori re-check interval was either less
+than four weeks or not reported. One article was excluded as it was a conference report, and the final
+report of the same study had already been published. Another article was excluded for using non-viable
+probiotics. Finally, twelve studies involving 2,144 patients met the inclusion criteria and were included in
+the meta-analysis [28–39].
+
+
+Characteristics of eligible studies
+The characteristics of the included studies are summarized in Table 1. All studies involved adults, with
+no pediatric participants. Six studies from China included 1,156 patients, while six studies from Japan,
+the United States, Italy, Iraq, Iran, and the UAE included 988 patients. The studies covered both initial
+4     Y. ZHANG ET AL.
+
+
+
+
+Figure 1. Preferred Reporting Items for systematic Reviews and meta-analyses flow diagram of study selection.
+
+
+
+and rescue therapies for H. pylori infection, with four studies not specifying the therapy type and one
+including both. Six studies used standard triple therapy, and six used bismuth quadruple therapy. Nine
+studies used a combination of probiotics, while three used a single probiotic. Probiotic duration varied:
+3-7 days (3 studies), 14 days (6 studies), and 21 days or longer (3 studies). The most common pretreat-
+ment comparisons were pre vs. free (7 studies) and pre and combine vs. free (4 studies), with fewer studies
+exploring other variations.
+
+
+
+Outcomes of overall eradication rate
+The eradication rate of H. pylori was evaluated across twelve studies involving 2,144 patients. By ITT
+analysis, the pooled eradication rate was 80.34% (707/880) in the pretreatment group and 70.49%
+(891/1,264) in the control group. Pretreatment with probiotics significantly improved the eradication rate
+(RR = 1.14, 95% CI 1.08 to 1.19, p < 0.001), with low heterogeneity observed between studies (I2 = 36%)
+(Figure 2). Similarly, PP analysis revealed a pooled eradication rate of 86.43% (707/818) in the pretreat-
+ment group and 76.88% (891/1,159) in the control group. Probiotics pretreatment also improved the
+eradication rate (RR = 1.12, 95% CI 1.08 to 1.17, p < 0.001), although heterogeneity was higher (I2 = 57%)
+(Figure 3).
+                                                                                                                 Annals of Medicine             5
+
+
+Table 1. The characteristics of included studies.
+                                                               Hp infection.                               Probiotics used before
+                                                                   Initial                                       Hp eradication   Eradication
+                                         Male/                  diagnosis /                    Regimen of     treatment / Dose /   rate (ITT/
+Study              Subgroup(n)          Female     Age (years)   Re-check     Hp group         eradication          Duration         PP, %)
+Sheu          Pre (69)                   37/31        48.9     UBT / UBT     Rescue            BQT         L. acidophilus La5,     85.5/90.8
+(2006,        Free (69)                  38/30        46.4                                                     Bifidobacterium     71.0/76.6
+   China)                                                                                                      lactis Bb12,
+   [28]                                                                                                        Lactobacillus
+                                                                                                               bulgaricus,
+                                                                                                               Streptococcus
+                                                                                                               thermophilus /
+                                                                                                               2 × 1011 CFU / 14d
+Deguchi       Pre + combine (115)       76/39          55.9       Culture, RUT, Initial        STT         Lactobacillus gasseri/  82.6/85.6
+   (2012,     Free (114)                66/48          57.8          histology /                               ≥109 / 21 d         69.3/74.5
+   Japan)                                                            UBT, SAT,
+   [29]                                                              culture
+Du            Pre (78)                  32/44       44.9 ± 13.8   UBT, RUT,      Initial       STT          Acidophilus,                79.5/81.6
+(2012,        Free (79)                 33/45       48.0 ± 13.3      histology /                                Streptococcus           60.8/61.5
+   China)     After (77)                26/48       48.2 ± 12.2      UBT                                        faecalis, Bacillus      79.2/82.4
+   [30]                                                                                                         subtilis /≥4.5 × 107/
+                                                                                                                7d
+Dajani        Pre + combine (95)        47/48         19-61       RUT,         Initial or      STT          Bifidobacterium             90.5/90.5
+   (2013,     Free (106)                51/55         17-64         histology,     rescue                       infantis / 6 × 109      68.9/68.9
+   United     Combine (100)             51/49         17-62         UBT, SAT /                                  CFU/ 14d                83.0/83.0
+   Arab)                                                            UBT
+   [31]
+Francavilla   Pre (50)                  18/32         22-65       UBT / UBT       Not report   STT          L. reuteri DSM 17938        75.0/76.7
+   (2014,     Free (50)                 21/29         18-61                                                     and ATCC PTA 6475       65.9/67.4
+   United                                                                                                       /2 × 108 CFU / 28d
+   States)
+   [32]
+Wang F        Pre (90)                  66/24        42 ± 14      UBT, histology Rescue        BQT          Lactobacillus               66.7/81.1
+   (2014,     Free (90)                 68/22        40 ± 14        / UBT                                       acidophilus,            75.6/78.2
+   China)                                                                                                       Streptococcus
+   [33]                                                                                                         faecalis and Bacillus
+                                                                                                                subtilis / >3 × 107
+                                                                                                                CFU / 14d
+Peng (2016, Pre (48)                    27/21       42.7 ± 15.0   UBT / UBT       Rescue       STT          Bifidobacterium,            81.3/83.0
+   China)   Free (48)                   38/18       47.4 ± 16.7                                                 Lactobacillus           60.4/69.0
+   [34]     Combine (48)                31/17       45.0 ± 15.7                                                 bulgaricus and          83.3/83.3
+                                                                                                                Streptococcus
+                                                                                                                thermophilus /
+                                                                                                                >6 × 107 CFU / 14d
+Shafaghi      Pre + combine (38)        18/20       43.7 ± 13.3   Histology /     Not report   BQT          Lactobacillus,              92.1/92.1
+   (2016,     Combine (38)              17/21       43.3 ± 12.2      UBT                                        Bifidobacterium,        63.2/100
+   Iran) [35]                                                                                                   Streptococcus
+                                                                                                                thermophilus
+                                                                                                                /4 × 108 CFU/ 3d
+Jin (2018,    Pre (70)                  37/33         18-70       UBT / UBT       Rescue       BQT          Bifidobacterium,            75.7/84.1
+    China)    Pre + combine (70)        41/29                                                                   Lactobacillus           77.1/84.4
+    [36]      Free (70)                 43/27                                                                   bulgaricus and          62.9/72.1
+              Combine (70)              39/31                                                                   Streptococcus           71.4/79.4
+                                                                                                                thermophilus /
+                                                                                                                >6 × 107 CFU / 28d
+Wang L        Pre (60)                  34/26       40.3 ± 11.5   UBT / UBT       Rescue       BQT          Lactobacillus               91.7/91.7
+  (2018,      Free (60)                 36/24       39.5 ± 10.4                                                 acidophilus,            65.0/65.0
+  China)      Combine (60)              33/27       38.6 ± 12.3                                                 Streptococcus           80.0/80.0
+  [37]                                                                                                          faecalis and Bacillus
+                                                                                                                subtilis / >3 × 107
+                                                                                                                CFU / 14d
+Ameen        Pre + combine (37)       Not report      17-70       SAT and UBT     Not report   STT          lactobacillus               45.9/89.5
+  (2019,     Free (31)                                               / SAT or                                   acidophilus,            41.9/76.5
+  Iraq) [38] Combine (38)                                            UBT                                        lactobacillus           47.4/78.3
+             After (24)                                                                                         salivarius,             62.5/83.3
+                                                                                                                bifidobacterium
+                                                                                                                bifidum and
+                                                                                                                streptococcus
+                                                                                                                thermophillus /
+                                                                                                                1 × 109 CFU/ 14d
+Marinelli     Pre + combine + after      23/43        50.0–59.3 UBT,               Not report BQT           Lactobacillus             74.2/94.2
+  (2022,         (66)                                                 histology, /                              rhamnosus GG /
+  Italy)      Free (98)                  20/78        53.9–62.0       UBT                                       6 × 107 CFU / 7d      83.7/96.5
+  [39]
+BQT: bismuth quadruple therapy; CFU: colony forming unit; Hp: Helicobacter pylori; ITT: intention-to-treat; PP: per-protocol; Pre: pretreatment;
+RUT: rapid urease test; SAT: stool antigen test; STT: standard triple therapy; UBT: urea Breath Test.
+6     Y. ZHANG ET AL.
+
+
+
+
+Figure 2. Forest Plot of randomized controlled trials of H. pylori eradication therapy: Efficacy on H. pylori eradication
+rate (intention-to-treat analysis).
+
+Subgroup analysis for H. pylori eradication rate by region
+In ITT analysis, studies from China (6 studies) showed a higher eradication rate in the pretreatment
+group (RR = 1.14, 95% CI 1.07 to 1.22, p < 0.001, I2 = 0%), while studies outside China (6 studies) also
+demonstrated higher rates (RR = 1.13, 95% CI 1.05 to 1.22, p < 0.001, I2 = 60%). In PP analysis, studies
+from China reported similar results (RR = 1.13, 95% CI 1.07 to 1.20, p < 0.001, I2 =0%), whereas studies
+outside China showed higher rates (RR = 1.11, 95% CI 1.05 to 1.18, p < 0.001, I2 = 74%). Both sub-
+groups had consistent findings, with lower heterogeneity in studies from China (Table 2, Supplement
+Figures S1–S2).
+
+Subgroup analysis for H. pylori eradication rate by eradication regimen
+In ITT analysis, standard triple therapy (6 studies) showed a higher eradication rate in the pretreatment
+group (RR = 1.15, 95% CI: 1.07–1.23; I2 = 0%), while the bismuth quadruple therapy (6 studies) also
+demonstrated higher rates (RR = 1.13, 95% CI: 1.05–1.21; I2 = 66%). In PP analysis, standard triple therapy
+yielded similar results (RR = 1.15, 95% CI: 1.08–1.22; I2 = 0%), whereas bismuth quadruple therapy showed
+slightly lower rates (RR = 1.10, 95% CI: 1.04–1.16; I2 = 75%). Both regimens were effective (Table 2,
+Supplement Figures S3–S4).
+
+Subgroup analysis for H. pylori eradication rate by H. pylori group
+In ITT analysis, consistent results were observed across different H. pylori groups (initial therapy, rescue
+therapy, and unclear). The initial H. pylori group (2 studies) exhibited a higher eradication rate in the
+pretreatment group (RR = 1.17, 95% CI: 1.05 to 1.30; I2 = 0%). The rescue H. pylori group (5 studies) also
+showed increased eradication rates (RR = 1.14, 95% CI: 1.06 to 1.23; I2 = 12%). Similarly, the unclear H.
+pylori group (5 studies) demonstrated higher efficacy (RR = 1.11, 95% CI: 1.02 to 1.21; I2 = 67%). PP
+analysis reported similar results (Table 2, Supplement Figures S5–S6).
+
+
+Subgroup analysis for H. pylori eradication rate by probiotic types
+In ITT analysis, the combination of probiotics (8 studies) showed a higher eradication rate in the pretreat-
+ment group (RR = 1.15, 95% CI: 1.07–1.23; I2 = 20%), while a certain probiotic (4 studies) also demon-
+strated higher rates (RR = 1.12, 95% CI: 1.05–1.20; I2 = 63%). In PP analysis, the combination of probiotics
+yielded similar results (RR = 1.12, 95% CI: 1.05–1.18; I2 = 53%), whereas the certain probiotic showed
+comparable rates (RR = 1.13, 95% CI: 1.07–1.20; I2 = 73%). Both probiotic types were effective (Table 2,
+Supplement Figures S7–S8).
+                                                                                              Annals of Medicine       7
+
+
+
+
+Figure 3. Forest Plot of randomized controlled trials of H. pylori eradication therapy: Efficacy on H. pylori eradication
+rate (per-protocol analysis).
+
+Subgroup analysis for H. pylori eradication rate by probiotics pretreatment duration
+In ITT analysis, the duration of probiotics pretreatment prior to H. pylori eradication therapy yielded
+inconsistent results. Pretreatment for 3 to 7 days did not significantly improve the eradication rate
+(RR = 1.06, 95% CI 0.93 to 1.22, p = 0.39, I2 = 89%). However, pretreatment for 14 days significantly
+enhanced the eradication rate (RR = 1.14, 95% CI 1.08 to 1.21, p < 0.001, I2 = 5%). Similarly, pretreatment
+for 21 days or longer also improved the eradication rate (RR = 1.16, 95% CI 1.05 to 1.28, p = 0.003,
+I2 = 0%). PP analysis reported similar results. (Table 2, Supplement Figures S9–S10).
+
+
+Subgroup analysis for H. pylori eradication rate by study design
+In ITT analysis, significant improvements were observed in pre vs. free (RR = 1.21, 95% CI 1.12 to 1.31,
+p < 0.001, I2 = 25%) and pre and combine vs. free (RR = 1.23, 95% CI: 1.12–1.36; I2 = 0%), while other study
+designs with fewer studies did not show significant effects. In PP analysis, pre vs. free (RR = 1.20, 95% CI:
+1.11 to1.29; I2 = 16%) and pre and combine vs. free (RR = 1.21, 95% CI: 1.11 to1.32; I2 = 0%) remained
+significant, with other designs yielding non-significant findings. Pretreatment before H. pylori eradication
+therapy showed consistent efficacy, particularly in comparison to free regimens (Table 2, Supplement
+Figures S11–S12).
+
+
+Side effects
+The main reported side effects included nausea, diarrhea, constipation and metallic taste et al. Some
+studies reported that side effects were similar, and some studies did not report side effects. According
+to available data from eight studies (1551 patients), side effects were less likely in the probiotics pretreat-
+ment group compared to the control group (16.0% vs. 28.3%, RR = 0.59, 95% CI 0.41 to 0.84, p < 0.005,
+Figure 4).
+
+
+Risk of bias and sensitivity analysis
+The risk of bias summary was shown in Figure 5. The risks for bias were shown in Supplement Figure S13.
+In the sensitivity analysis, after deleting one study at a time, the statistical significance of the combined
+RR remained unchanged.
+
+
+Publication bias
+Funnel plot showed no significant publication bias among the twelve studies included in this meta-analysis
+(Supplement Figure S14).
+                                                                                                                                                                                                               8
+                                                                                                                                                                                                               Y. ZHANG ET AL.
+
+
+
+
+Table 2. Summary of Forest plot for subgroup analysis.
+                                                                                           Intention-to-treat analysis                                          Per-protocol analysis
+
+                                                           No. of      Pretreatment           Control              Risk Ratio                Pretreatment        Control                Risk Ratio
+                       Sub-group                           studies   Events        Total   Events    Total     MH, Fixed,95%CI    I2 Test   Events   Total   Events     Total     MH, Fixed,95%CI    I2 Test
+Country                    studies from China                6         391         485      476       671     1.14 [1.07, 1.22]    0%        391      460     476       637      1.13 [1.07, 1.20]    0%
+                           studies from outside China        6         316         395      415       593     1.13 [1.05, 1.22]   60%        316      358     415       522      1.11 [1.05, 1.18]   74%
+Regimen of eradication     STT                               6         332         417      488       709     1.15 [1.07, 1.23]    0%        332      391     488       655      1.15 [1.08, 1.22]    0%
+                           BQT                               6         375         463      403       555     1.13 [1.05, 1.21]   66%        375      427     403       504      1.10 [1.04, 1.16]   75%
+H. pylori group            initial                           2         157         193      188       270     1.17[1.05, 1.30]     0%        157      187     188       258      1.14[1.04, 1.26]     0%
+                           rescue                            5         329         407      367       515     1.14[1.06, 1.23]    12%        329      384     367       485      1.13[1.06, 1.21]    12%
+                           unclear                           5         221         280      336       479     1.11[1.02, 1.21]    67%        221      247     336       416      1.10[1.04. 1.17]    77%
+Probiotic type             combination of probiotics         8         414         526      466       690     1.15 [1.07, 1.23]   20%        414      484     466       610      1.12 [1.05, 1.18]   53%
+                           certain probiotic                 4         293         354      425       574     1.12 [1.05, 1.20]   63%        293      334     425       549      1.13 [1.07, 1.20]   73%
+Probiotics pretreatment    3d-7d                             2          85         104      105       136     1.06 [0.93, 1.22]   89%         85      90      105       109      0.98 [0.92, 1.04]   32%
+   duration                14d                               7         387         477      584       830     1.14 [1.08, 1.21]    5%        387      447     584       777      1.15 [1.09, 1.22]    0%
+                           > =21d                            3         235         299      202       298     1.16 [1.05, 1.28]    0%        235      281     202       273      1.13 [1.04, 1.23]    0%
+Study design               pre vs. free                      7         370         459      306       460     1.21[1.12, 1.31]    25%        370      439     306       436      1.20[1.11, 1.29]    16%
+                           pre vs. combine                   3         147         178      138       178     1.07[0.96, 1.18]     0%        147      170     138       171      1.07[0.97, 1.18]     0%
+                           pre vs. after                     1          62         78       61        77      1.00[0.85, 1.18]      /         62      76       61        74      0.99[0.85, 1.15]      /
+                           pre + combine vs. free            4         252         317      209       321     1.23[1.12, 1.36]     0%        252      289     209       290      1.21[1.11, 1.32]     0%
+                           pre + combine vs. combine         4         192         240      175       246     1.13[1.02, 1.24]    36%        192      216     175       210      1.06[0.98, 1.14]    48%
+                           pre + combine vs. after           1          17         37       15        24      0.74[0.46, 1.17]      /         17      19       15        18      1.07[0.83, 1.39]      /
+                           pre + combine + after vs.         1          50         66       81        98      0.92[0.78, 1.08]      /         50      52       81        85      1.01[0.94, 1.08]      /
+                               free
+BQT: bismuth quadruple therapy, pre: pretreatment, STT: standard triple therapy.
+                                                                                                Annals of Medicine   9
+
+
+Quality of evidence through GRADEPro analysis
+The quality of evidence from the included studies was assessed using the Cochrane review tool GRADEpro
+GDT (https://gdt.gradepro.org/app/), focusing on the efficacy of probiotics pretreatment in H. pylori erad-
+ication therapy. As shown in Table 3, the certainty of the overall effects of probiotics pretreatment (n = 12)
+was high (⊕⊕⊕⊕) in the ITT analysis, demonstrating the effectiveness of probiotics in improving H. pylori
+eradication rates. However, the certainty decreased from high to moderate in PP analysis. Across all sub-
+group analyses, the certainty of evidence for probiotics pretreatment remained either high or moderate.
+Detailed GRADEpro assessments for all subgroups are provided in Supplement (Supplement Table S1).
+
+
+4. Discussion
+This systematic review and meta-analysis investigated the efficacy of probiotics pretreatment in improv-
+ing H. pylori eradication rate. Unlike previous studies, which primarily focused on probiotics administered
+during or after H. pylori eradication therapies, this study explored the role of probiotics as a pretreatment
+strategy. Probiotics pretreatment significantly increased eradication rate (80.34% vs. 70.49%, RR = 1.14,
+95% CI 1.08–1.19, p < 0.001). Subgroup analyses confirmed benefits across regions and eradication regi-
+mens, H. pylori group, with both single and combined probiotics showing efficacy. However, pretreat-
+ment duration was critical: 14 days or longer improved eradication rates, while shorter durations (3–7 days)
+did not. Study designs pre vs. free and pre and combine vs. free further validated probiotic pretreatment’s
+efficacy in improving H. pylori eradication rate. These results suggest that probiotics, when administered
+prior to H. pylori eradication therapy, may play a beneficial role in improving treatment outcomes.
+   Two previous meta-analyses examined the efficacy of probiotics administered at different timings
+(before, during, after) in H. pylori eradication therapy. Lv et al. found that probiotics used before and after
+the treatment regimen improved eradication rates [40], while Shi et al. reported that probiotics adminis-
+tered before and throughout eradication therapy enhanced efficacy [10]. These meta-analyses included 4
+or 5 RCTs with probiotics used before H. pylori eradication, and 1or 2 RCTs did not meet the current
+study’s eligibility criteria; and their findings align with our study results. These findings contrast with
+earlier research, which suggested that while certain probiotics, such as Lactobacillus, can inhibit H. pylori
+growth, adhesion, and colonization through mechanisms like autolysin secretion and reduced binding to
+glycolipid receptors,16-18 they do not clear H. pylori infection on their own [41]. For instance, single pro-
+biotic strains have been shown to reduce urease activity in H. pylori-infected patients but fail to eradicate
+the pathogen [21,42].
+
+
+
+
+Figure 4. Forest Plot of randomized controlled trials of H. pylori eradication therapy: side effects.
+10     Y. ZHANG ET AL.
+
+
+
+
+Figure 5. Risk of bias summary.
+
+
+   The potential mechanisms underlying the benefits of probiotics pretreatment may involve biofilm for-
+mation and gut microbiome modulation. Some probiotics can bind to and produce biofilms in cultured
+cells, significantly reducing H. pylori binding and colonization [43,44]. Additionally, supplementing with
+probiotics alters the gut microbiome, which may create an environment less conducive to H. pylori sur-
+vival [19–21]. This is supported by studies showing that FMT cleared H. pylori in 40.6% of patients, high-
+lighting the gut microbiome’s potential role in H. pylori treatment [24]. Furthermore, a meta-analysis
+involving patients with inflammatory bowel disease (IBD), a condition associated with significant gut
+microbiome changes, found a reduced H. pylori infection rate in IBD patients, further emphasizing the
+interplay between the gut microbiome and H. pylori clearance [45].
+   The gut microbiome is increasingly recognized as a critical factor in maintaining intestinal homeostasis
+and immune function, offering hope for the treatment of infectious diseases. For example, FMT has proven
+Table 3. GRADEpro Summary of findings for assessing the quality of evidence as assessed separately by two reviewers.
+                                                  Certainty assessment                                                          № of patients                            Effect
+                                                                                                           Other         Pretreatment of                      Relative              Absolute
+№ of studies             Study design Risk of bias      Inconsistency    Indirectness    Imprecision   considerations       probiotics       control         (95% CI)               (95% CI)      Certainty   Importance
+Total: intention-to-treat analysis (ITT)
+12                       randomised      not serious not serious         not serious    not serious    none             707/880 (80.3%)    891/1264     RR 1.14                   99 more per     ⊕⊕⊕⊕        CRITICAL
+                            trials                                                                                                            (70.5%)   (1.08 to 1.19)                1,000        High
+                                                                                                                                                                                  (from 56 more
+                                                                                                                                                                                      to 134
+                                                                                                                                                                                      more)
+Total: per-protocol analysis (PP)
+12                      randomised         not serious serious           not serious    not serious    none             707/818 (86.4%)    891/1159     RR 1.12                   92 more per      ⊕⊕⊕○       CRITICAL
+                            trials                                                                                                            (76.9%)   (1.12 to 117.00)              1,000       Moderate
+                                                                                                                                                                                  (from 92 more
+                                                                                                                                                                                      to 1,000
+                                                                                                                                                                                      more)
+CI: confidence interval; RR: risk ratio.
+                                                                                                                                                                                                                           Annals of Medicine
+                                                                                                                                                                                                                           11
+12     Y. ZHANG ET AL.
+
+
+effective against Clostridium difficile infection and shows promise in treating human immunodeficiency virus
+infection [46–48]. Similarly, probiotic supplementation has been associated with reduced mortality in
+COVID-19 patients and may help decolonize pathogenic bacteria from the gut [49]. These findings, along
+with our results, suggest that modulating the gut microbiome—whether through probiotics, FMT, or other
+methods—could be a valuable strategy for addressing multidrug-resistant H. pylori and the long-term resis-
+tant bacterial communities that arise from eradication therapies. However, the mechanisms underlying these
+effects, such as the migration of gut-licensed immune cells to other tissues, require further investigation [50].
+    Despite these promising findings, this study has several limitations. First, the meta-analysis included
+only twelve RCTs with varying probiotic strains, doses, durations, and combinations, which may affect the
+reliability of the conclusions. Second, six of the included studies were conducted in China, and although
+studies from other regions supported the same conclusions, more diverse populations are needed to
+generalize the findings. Third, this study did not evaluate the simultaneous use of probiotics during
+eradication therapies or their supplementation after treatment, as these topics have been extensively
+covered in previous umbrella meta-analyses [9]. Future research should investigate key factors affecting
+probiotic efficacy, including strain selection, dosage optimization, antimicrobial interactions, and ethnic/
+age-specific responses through rigorous clinical trials and omics technologies.
+    In conclusion, this meta-analysis provides evidence that probiotics pretreatment significantly improves
+H. pylori eradication rate and reduces side effects, particularly when probiotics is used for an adequate
+duration. These findings highlight the potential value of gut microbiome modulation in H. pylori treat-
+ment and offer a new direction for addressing the challenges of antibiotic resistance and treatment
+failure. Further studies are needed to elucidate the mechanisms involved and to develop standardized
+protocols for probiotic use in H. pylori eradication therapies.
+
+
+Acknowledgements
+We are grateful to Professor Xing-Xiang He from the First Affiliated Hospital of Guangdong Pharmaceutical University
+for his help in reconfirming that none of the patients who were cleared of H. pylori after FMT tested positive for H.
+pylori until April 2024. Yinghui Zhang and Mengtian Tu are joint first authors. Shiyu Xiao and Caiping Gao are joint
+senior authors. CRediT: Yinghui Zhang: Validation, Investigation, Methodology, Visualization, Writing – original draft;
+Mengtian Tu: Data curation, Investigation, Formal analysis, Software, Writing – original draft; Ping Long: Data cura-
+tion; Jing Zheng: Data curation; Guanghong Du: Data curation; Shiyu Xiao: Investigation, Methodology, Software,
+Visualization, Writing – review & editing; Caiping Gao: Conceptualization, Data curation, Funding acquisition, Project
+administration, Writing – review & editing. All authors have read and approved the final work.
+
+
+Ethics statement
+This meta-analysis is based on existing published RCTs. The Ethics Committee of Sichuan Academy of Science &
+Sichuan Provincial People’s Hospital hereby declares that this meta - analysis is exempt from ethical review.
+
+
+Author contributions
+CRediT: Yinghui Zhang: Investigation, Methodology, Validation, Visualization, Writing – original draft; Mengtian Tu:
+Data curation, Formal analysis, Investigation, Software, Writing – original draft; Ping Long: Data curation; Jing Zheng:
+Data curation; Guanghong Du: Data curation; Shiyu Xiao: Investigation, Methodology, Software, Visualization,
+Writing – review & editing; Caiping Gao: Conceptualization, Data curation, Funding acquisition, Project administra-
+tion, Writing – review & editing.
+
+
+Disclosure statement
+No potential conflict of interest was reported by the author(s).
+
+
+Funding
+This work was supported by the [National Natural Science Foundation of China #1] under Grant [number 82170579];
+and [Science and Technology Department of Sichuan Province #2] under Grant [number 2023YFS0286].
+                                                                                            Annals of Medicine      13
+
+
+ORCID
+Yinghui Zhang     http://orcid.org/0009-0003-3853-4497
+Shiyu Xiao    http://orcid.org/0000-0002-4611-1457
+Caiping Gao     http://orcid.org/0000-0002-2299-0303
+
+
+Data availability statement
+The data will be made available from the corresponding author [Caiping Gao] on reasonable request.
+
+
+References
+ [1] Chen YC, Malfertheiner P, Yu HT, et al. Global prevalence of Helicobacter pylori infection and incidence of
+     gastric cancer between 1980 and 2022. Gastroenterology. 2024;166(4):605–619. doi: 10.1053/j.gas-
+     tro.2025.01.008.
+ [2] Sugano K, Tack J, Kuipers EJ, faculty members of Kyoto Global Consensus Conference., et al. Kyoto global con-
+     sensus report on Helicobacter pylori gastritis. Gut. 2015;64(9):1353–1367. doi: 10.1136/gutjnl-2015-309252.
+ [3] Zuo Y, Jing Z, Bie M, et al. Association between Helicobacter pylori infection and the risk of colorectal cancer:
+     a systematic review and meta-analysis. Medicine (Baltimore). 2020;99(37):e21832.). doi: 10.1097/
+     MD.0000000000021832.
+ [4] Douros A, Ante Z, Fallone CA, et al. Clinically apparent Helicobacter pylori infection and the risk of incident
+     Alzheimer’s disease: a population-based nested case-control study. Alzheimers Dement. 2024;20(3):1716–1724.
+     doi: 10.1002/alz.13561.
+ [5] Mégraud F, Graham DY, Howden CW, et al. Rates of antimicrobial resistance in helicobacter pylori isolates from
+     clinical trial patients across the US and Europe. Am J Gastroenterol. 2023;118(2):269–275. doi: 10.14309/
+     ajg.0000000000002045.
+ [6] Sjomina O, Vangravs R, Ļeonova E, et al. Clarithromycin-containing triple therapy for Helicobacter pylori eradi-
+     cation is inducing increased long-term resistant bacteria communities in the gut. Gut. 2024;73(7):1214–1215.
+     doi: 10.1136/gutjnl-2023-329792.
+ [7] Malfertheiner P, Megraud F, Rokkas T, European Helicobacter and Microbiota Study group., et al. Management
+     of Helicobacter pylori infection: the Maastricht VI/Florence consensus report. Gut 2022; 0:1–39. doi: 10.1136/
+     gutjnl-2022-327745.
+ [8] Liu LH, Han B, Tao J, et al. The effect of Saccharomyces boulardii supplementation on Helicobacter pylori erad-
+     ication in children: a systematic review and meta-analysis of Randomized controlled trials. BMC Infect Dis.
+     2023;23(1):878. doi: 10.1186/s12879-023-08896-4.
+ [9] Musazadeh V, Nazari A, Faghfouri AH, et al. The effectiveness of treatment with probiotics in Helicobacter py-
+     lori eradication: results from an umbrella meta-analysis on meta-analyses of randomized controlled trials. Food
+     Funct. 2023;14(16):7654–7662. doi: 10.1039/d3fo00300k.
+[10] Shi X, Zhang J, Mo L, et al. Efficacy and safety of probiotics in eradicating Helicobacter pylori: a network
+     meta-analysis. Medicine (Baltimore). 2019;98(15):e15180. doi: 10.1097/MD.0000000000015180.
+[11] Zhou BG, Chen LX, Li B, et al. Saccharomyces boulardii as an adjuvant therapy for Helicobacter pylori eradica-
+     tion: a systematic review and meta-analysis with trial sequential analysis. Helicobacter. 2019;20124(5):e12651.
+     doi: 10.1111/hel.12651.
+[12] Lu C, Sang J, He H, et al. Probiotic supplementation does not improve eradication rate of Helicobacter pylori
+     infection compared to placebo based on standard therapy: a meta-analysis. Sci Rep. 2016;6(1):23522. doi:
+     10.1038/srep23522.
+[13] Wang F, Feng J, Chen P, et al. Probiotics in Helicobacter pylori eradication therapy: systematic review and net-
+     work meta-analysis. Clin Res Hepatol Gastroenterol. 2017;41(4):466–475. doi: 10.1016/j.clinre.2017.04.004.
+[14] Feng JR, Wang F, Qiu X, McFarland LV, et al. Efficacy and safety of probiotic-supplemented triple therapy for
+     eradication of Helicobacter pylori in children: a systematic review and network meta-analysis. Eur J Clin
+     Pharmacol. 2017;73(10):1199–1208. doi: 10.1007/s00228-017-2291-6.
+[15] Urrutia-Baca VH, Escamilla-García E, de la Garza-Ramos MA, et al. In Vitro Antimicrobial Activity and
+     Downregulation of Virulence Gene Expression on Helicobacter pylori by Reuterin. Probiotics Antimicrob Proteins.
+     2018;10(2):168–175. doi: 10.1007/s12602-017-9342-2.
+[16] Lorca GL, Wadström T, Valdez GF, et al. Lactobacillus acidophilus autolysins inhibit Helicobacter pylori in vitro.
+     Curr Microbiol. 2001;42(1):39–44. doi: 10.1007/s002840010175.
+[17] de Klerk N, Maudsdotter L, Gebreegziabher H, et al. Lactobacilli Reduce Helicobacter pylori Attachment to Host
+     Gastric Epithelial Cells by Inhibiting Adhesion Gene Expression. Infect Immun. 2016;84(5):1526–1535. doi:
+     10.1128/IAI.00163-16.
+[18] Mukai T, Asasaka T, Sato E, et al. Inhibition of binding of Helicobacter pylori to the glycolipid receptors by
+     probiotic Lactobacillus reuteri. FEMS Immunol Med Microbiol. 2002;32(2):105–110. doi: 10.1111/j.1574-695X.2002.
+     tb00541.x.
+14     Y. ZHANG ET AL.
+
+
+[19] Yuan Z, Xiao S, Li S, et al. The impact of Helicobacter pylori infection, eradication therapy, and probiotics inter-
+     vention on gastric microbiota in young adults. Helicobacter. 2021;26(6):e12848. doi: 10.1111/hel.12848.
+[20] He C, Xie Y, Zhu Y, et al. Probiotics modulate gastrointestinal microbiota after Helicobacter pylori eradication: a
+     multicenter randomized double-blind placebo-controlled trial. Front Immunol. 2022;13:1033063. doi: 10.3389/
+     fimmu.2022.1033063.
+[21] Chen MJ, Chen CC, Huang YC, Taiwan Gastrointestinal Disease, Helicobacter Consortium., et al. The efficacy of
+     Lactobacillus acidophilus and rhamnosus in the reduction of bacterial load of Helicobacter pylori and modifi-
+     cation of gut microbiota-a double-blind, placebo-controlled, randomized trial. Helicobacter. 2021;26(6):e12857.
+     doi: 10.1111/hel.12857.
+[22] Guillemard E, Poirel M, Schäfer F, et al. A Randomised, Controlled Trial: effect of a Multi-Strain Fermented Milk
+     on the Gut Microbiota Recovery after Helicobacter pylori Therapy. Nutrients. 2021;13(9):3171. doi: 10.3390/
+     nu13093171.
+[23] Rahman MN, Barua N, Tin MCF, et al. The use of probiotics and prebiotics in decolonizing pathogenic bacteria
+     from the gut; a systematic review and meta-analysis of clinical outcomes. Gut Microbes. 2024;16(1):2356279.
+     doi: 10.1080/19490976.2024.2356279.
+[24] Ye ZN, Xia HH, Zhang R, et al. The efficacy of washed microbiota transplantation on helicobacter pylori eradi-
+     cation: a pilot study. Gastroenterol Res Pract. 2020;2020:8825189–8825188. doi: 10.1155/2020/8825189.
+[25] Page MJ, McKenzie JE, Bossuyt PM, et al. The PRISMA 2020 statement: an updated guideline for reporting sys-
+     tematic reviews. BMJ. 2021;372:n71. doi: 10.1136/bmj.n71.
+[26] Zhou L, Lu H, Song Z, Helicobacter Pylori Study Group of Chinese Society of Gastroenterology., et al. 2022
+     Chinese national clinical practice guideline on Helicobacter pylori eradication treatment. Chin Med J (Engl).
+     2022;135(24):2899–2910. doi: 10.1097/CM9.0000000000002546.
+[27] Higgins JP, Thompson SG, Deeks JJ, et al. Measuring inconsistency in meta-analyses. BMJ. 2003;327(7414):557–
+     560. doi: 10.1136/bmj.327.7414.557.
+[28] Sheu BS, Cheng HC, Kao AW, et al. Pretreatment with Lactobacillus- and Bifidobacterium-containing yogurt can
+     improve the efficacy of quadruple therapy in eradicating residual Helicobacter pylori infection after failed triple
+     therapy. Am J Clin Nutr. 2006;83(4):864–869. doi: 10.1093/ajcn/83.4.864.
+[29] Deguchi R, Nakaminami H, Rimbara E, et al. Effect of pretreatment with Lactobacillus gasseri OLL2716 on
+     first-line Helicobacter pylori eradication therapy. J Gastroenterol Hepatol. 2012;27(5):888–892. doi:
+     10.1111/j.1440-1746.2011.06985.x.
+[30] Du YQ, Su T, Fan JG, et al. Adjuvant probiotics improve the eradication effect of triple therapy for Helicobacter
+     pylori infection. World J Gastroenterol. 2012;18(43):6302–6307. doi: 10.3748/wjg.v18.i43.6302.
+[31] Dajani AI, Abu Hammour AM, Yang DH, et al. Do probiotics improve eradication response to Helicobacter pylori
+     on standard triple or sequential therapy? Saudi J Gastroenterol. 2013;19(3):113–120. doi: 10.4103/1319-3767.111953.
+[32] Wang F, Gao Y, Liu P, et al. Use of compound Lactobacillus acidophilus tablets in rescue therapy for failed erad-
+     ication of Helicobacter pylori. Chinese Journal of Gastroenterology. 2014;19:284–287. doi: 10.3969/j.
+     issn.1008-7125.2014.05.007.
+[33] Francavilla R, Polimeno L, Demichina A, et al. Lactobacillus reuteri strain combination in Helicobacter pylori
+     infection: a randomized, double-blind, placebo-controlled study. J Clin Gastroenterol. 2014;48(5):407–413. doi:
+     10.1097/MCG.0000000000000007.
+[34] Peng W, , Rong H, , Sha W, et al. Efficacy of levofloxacin-based triple therapy combined with probiotics as a
+     rescue therapy for Helicobacter pylori re-eradication. Chinese Journal of Gastroenterology. 2016;21:211–214. doi:
+     10.3969/j.issn.1008-7125.2016.04.005.
+[35] Shafaghi A, Pourkazemi A, Khosravani M, et al. The effect of probiotic plus prebiotic supplementation on the
+     tolerance and efficacy of Helicobacter pylori eradication quadruple therapy: a randomized prospective double
+     blind controlled trial. Middle East J Dig Dis. 2016;8(3):179–188. doi: 10.15171/mejdd.2016.30.
+[36] Jin L, Li SY, Dai FL, et al. Efficacy and safety of Bifidobacterium combined with ilaprazole-containning quadruple
+     therapy in rescue eradication of Helicobacter pylori. Shijie Huaren Xiaohua Zazhi; 2018; 26(4): 256–262 doi:
+     10.11569/wcjd.v26.i4.256.
+[37] Wang LM, Shang XJ. Therapeutic efficacy of pretreatment with compound Acidophilus lactobacillus tablets fol-
+     lowed by quadruple therapy in gastric ulcer patients with Helicobacter pylori infection. WCJD. 2018;26(33):1953–
+     1958. doi: 10.11569/wcjd.v26.i33.1953.
+[38] Ameen AM, Abdulridha MK, Najeeb AA. Comparative effectiveness of probiotics timing regimen in Helicobacter
+     pylori- induced peptic ulcer disease patients. Journal of Pharmaceutical Sciences and Research. 2019;77:75–83.
+[39] Marinelli P, Scalese G, Covelli A, et al. Lactobacillus rhamnosus GG supplementation on eradication rate and
+     dyspepsia in Helicobacter pylori infection treated with three-in-one bismuth quadruple therapy. Front Microbiol.
+     2022;13:932331. doi: 10.3389/fmicb.2022.932331.
+[40] Lv Z, Wang B, Zhou X, et al. Efficacy and safety of probiotics as adjuvant agents for Helicobacter pylori infection:
+     a meta-analysis. Exp Ther Med. 2015;9(3):707–716. doi: 10.3892/etm.2015.2174.
+[41] Dore MP, Bibbò S, Pes GM, et al. Role of Probiotics in Helicobacter pylori Eradication: lessons from a Study of
+     Lactobacillus reuteri Strains DSM 17938 and ATCC PTA 6475 (Gastrus®) and a Proton-Pump Inhibitor. Can J
+     Infect Dis Med Microbiol. 2019;2019:3409820–3409828. doi: 10.1155/2019/3409820.
+                                                                                          Annals of Medicine      15
+
+
+[42] Wang KY, Li SN, Liu CS, et al. Effects of ingesting Lactobacillus- and Bifidobacterium-containing yogurt in sub-
+     jects with colonized Helicobacter pylori. Am J Clin Nutr. 2004;80(3):737–741. doi: 10.1093/ajcn/80.3.737.
+[43] Salas-Jara MJ, Sanhueza EA, Retamal-Díaz A, et al. Probiotic Lactobacillus fermentum UCO-979C biofilm forma-
+     tion on AGS and Caco-2 cells and Helicobacter pylori inhibition. Biofouling. 2016;32(10):1245–1257. doi:
+     10.1080/08927014.2016.1249367.
+[44] Garcia-Castillo V, Marín-Vega AM, Ilabaca A, et al. Characterization of the immunomodulatory and
+     anti-Helicobacter pylori properties of the human gastric isolate Lactobacillus rhamnosus UCO-25A. Biofouling.
+     2019;35(8):922–937. doi: 10.1080/08927014.2019.1675153.
+[45] Shirzad-Aski H, Besharat S, Kienesberger S, et al. Association between Helicobacter pylori colonization and in-
+     flammatory bowel disease: a systematic review and meta-analysis. J Clin Gastroenterol. 2021;55(5):380–392. doi:
+     10.1097/MCG.0000000000001415.
+[46] Peery AF, Kelly CR, Kao D, AGA Clinical Guidelines Committee. Electronic address: clinicalpractice@gastro.org.,
+     et al. AGA clinical practice guideline on fecal microbiota-based therapies for select gastrointestinal diseases.
+     Gastroenterology. 2024;166(3):409–434. doi: 10.1053/j.gastro.2024.01.008.
+[47] Serrano-Villar S, Talavera-Rodríguez A, Gosalbes MJ, et al. Fecal microbiota transplantation in HIV: A pilot
+     placebo-controlled study. Nat Commun. 2021;12(1):1139. doi: 10.1038/s41467-021-21472-1.
+[48] Díaz-García C, Moreno E, Talavera-Rodríguez A, et al. Fecal microbiota transplantation alters the proteomic
+     landscape of inflammation in HIV: identifying bacterial drivers. Microbiome. 2024;12(1):214. doi: 10.1186/
+     s40168-024-01919-5.
+[49] Kow CS, Ramachandram DS, Hasan SS. The effect of probiotics on the risk of mortality in patients with
+     COVID-19: systematic review and meta-analysis of randomized trials. Inflammopharmacology. 2023;31(6):3327–
+     3332. doi: 10.1007/s10787-023-01358-y.
+[50] He C, Xiu W, Chen Q, et al. Gut-licensed β7+ CD4+ T cells contribute to progressive retinal ganglion cell dam-
+     age in glaucoma. Sci Transl Med. 2023;15(707):eadg1656. doi: 10.1126/scitranslmed.adg1656.
+

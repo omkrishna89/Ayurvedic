@@ -1,0 +1,924 @@
+                                                                                                                                REVIEW ARTICLE               1
+
+
+
+
+Small Intestinal Bacterial Overgrowth: Clinical Features
+and Therapeutic Management
+Satish S. C. Rao, MD, PhD1 and Jigar Bhagatwala, MBBS, MPH1
+
+
+Small intestinal bacterial overgrowth (SIBO) is a common, yet underrecognized, problem. Its prevalence is unknown
+because SIBO requires diagnostic testing. Although abdominal bloating, gas, distension, and diarrhea are common
+symptoms, they do not predict positive diagnosis. Predisposing factors include proton-pump inhibitors, opioids, gastric
+bypass, colectomy, and dysmotility. Small bowel aspirate/culture with growth of 103–105 cfu/mL is generally accepted as
+the “best diagnostic method,” but it is invasive. Glucose or lactulose breath testing is noninvasive but an indirect method
+that requires further standardization and validation for SIBO. Treatment, usually with antibiotics, aims to provide
+symptom relief through eradication of bacteria in the small intestine. Limited numbers of controlled studies have shown
+systemic antibiotics (norfloxacin and metronidazole) to be efficacious. However, 15 studies have shown rifaximin,
+a nonsystemic antibiotic, to be effective against SIBO and well tolerated. Through improved awareness and scientific
+rigor, the SIBO landscape is poised for transformation.
+Clinical and Translational Gastroenterology 2019;10:e00078. https://doi.org/10.14309/ctg.0000000000000078
+
+INTRODUCTION                                                                         testing for SIBO were included. Although we recognize that SIBO
+The adult gastrointestinal (GI) tract has the largest microbial                      occurs in a wide spectrum of diseases discussed below, most lit-
+population in the human body (1); the predominant site is the                        erature on this topic has focused on patients presenting with
+colon, containing 38 trillion bacteria (2). Culture-independent                      either unexplained symptoms or symptoms of irritable bowel
+methods, such as next-generation sequencing, show low con-                           syndrome (IBS). Our review primarily focuses on these patients,
+centration of distinct bacterial populations in the duodenum of                      as they are most commonly encountered in gastroenterology
+healthy individuals, in contrast with bacterial populations that                     clinics, but other conditions are appropriately referenced wher-
+inhabit the mouth (3). Bacterial concentrations increase pro-                        ever necessary.
+gressively along the small intestine (4,5).
+   Small intestinal bacterial overgrowth (SIBO) is characterized
+                                                                                     CLINICAL FEATURES, PREVALENCE,
+by the presence of an abnormal amount of bacteria in the small
+                                                                                     AND PATHOETIOLOGY
+intestine together with a constellation of GI symptoms. The
+                                                                                     Symptoms of SIBO are nonspeciﬁc and include abdominal pain,
+purpose of this article is to provide an up-to-date review of SIBO,
+                                                                                     belching, bloating, diarrhea, distension, ﬂatulence, and in-
+including symptom patterns, predisposing risk factors, preva-
+                                                                                     digestion that overlap and vary in frequency, duration, and se-
+lence, specialized diagnostic testing, and potential therapeutic
+                                                                                     verity. Typically, over two-thirds of patients report the
+interventions, and to describe gaps in our knowledge and unmet
+                                                                                     aforementioned symptoms (6,7). Diagnosis of SIBO is challeng-
+needs.
+                                                                                     ing, as illustrated by 1 study in which mean total symptom scores
+                                                                                     were similar regardless of whether patients tested positive or
+METHODS                                                                              negative with duodenal aspirate and breath testing (P 5 0.9) (6).
+A PubMed search was performed on June 8, 2018, to identify                           Because a SIBO diagnosis requires specialized testing (e.g., mi-
+English-language publications of clinical trials pertaining to SIBO                  crobial culture and breath testing), and owing to variability in
+in adults since 1985 using the search terms “small bowel bacterial                   patient populations and methods used to establish a diagnosis
+overgrowth,” “small intestinal bacterial overgrowth,” “SIBO,”                        across studies (8), prevalence has been diﬃcult to estimate.
+“epidemiology,” “diagnosis,” “treatment,” “antibiotic (e.g.,                         However, SIBO appears to be more prevalent in women and in
+ciproﬂoxacin, cotrimoxazole, and metronidazole),” “rifaximin,”                       older individuals (9).
+or “probiotic.” Clinical studies of rifaximin (n 5 15), systemic                        Several factors are associated with or predispose patients to
+antibiotics (n 5 6), and probiotics (n 5 3) in SIBO were included,                   SIBO, including small intestinal dysmotility (10). A study using
+whereas studies of combination therapies, for example, rifaximin                     duodenal aspirate/culture demonstrated that patients with
+with another antibiotic and/or other combination of systemic                         small intestinal dysmotility were at increased risk of SIBO
+antibiotics or probiotics, were excluded from this review. A total                   (>103 colony-forming units [cfu]/mL threshold, odds ratio [OR],
+of 23 references on predisposing factors and 4 on diagnostic                         3.6; P 5 0.0003; >105 cfu/mL threshold, OR, 2.7; P 5 0.005) (7).
+
+1
+ Augusta University, Augusta, Georgia, USA. Correspondence: Satish S. C. Rao, MD, PhD. E-mail: srao@augusta.edu.
+Received March 18, 2019; accepted August 5, 2019; published online October 3, 2019
+© 2019 The Author(s). Published by Wolters Kluwer Health, Inc. on behalf of The American College of Gastroenterology
+
+
+American College of Gastroenterology                                                                           Clinical and Translational Gastroenterology
+             2   Rao and Bhagatwala
+
+
+
+
+                 Indeed, a signiﬁcantly greater percentage of patients with IBS
+                 and SIBO were considered to have dysmotility vs patients with         Table 1. Predisposing factors for SIBO
+                 IBS without SIBO (86% vs 39%, respectively; P 5 0.02) (11).
+                                                                                       Category                                             Factor
+                 Besides IBS, conditions that have been associated with SIBO
+REVIEW ARTICLE
+
+
+
+
+                 include inﬂammatory bowel disease, dyspepsia, rosacea, restless       Demographics                   Female sex (9)
+                 legs syndrome, small bowel diverticula, pancreatitis, hypothy-                                       Age (9)
+                 roidism, Parkinson’s disease, diabetes, coronary artery disease,
+                                                                                       Medication use                 PPIs (7,18,19)
+                 and abdominal surgery (e.g., hysterectomy, gastrectomy, cho-
+                 lecystectomy, and colectomy). However, the prevalence of SIBO                                        Opioids (23)
+                 in patients with these associated conditions is highly variable       GI conditions                  Dyspepsia (24)
+                 (range, 4%–79%) (11–16). In a 2018 case-control study, a sig-                                        IBD (9,25)
+                 niﬁcantly greater percentage of patients who underwent colec-
+                                                                                                                      IBS (11–14)
+                 tomy had SIBO compared with patients with long-standing
+                 GI complaints without colectomy (62% vs 32%, respectively;                                           Intestinal dysmotility (7)
+                 P 5 0.0005) (17).                                                                                    Small bowel diverticula (9)
+                     Some studies have suggested an association between SIBO and                                      Systemic sclerosis (33)
+                 use of proton-pump inhibitors (PPIs) (7,18,19); however, others
+                                                                                       Other conditions               Abdominal surgery (i.e., hysterectomy,
+                 have not (9,20). PPIs may predispose patients to bacterial over-
+                                                                                                                      gastrectomy, cholecystectomy, colectomy,
+                 growth by decreasing gastric acid (21). An initial study reported
+                                                                                                                      and Roux-en-Y gastric bypass) (17,26,34)
+                 that 56% of 25 patients with peptic ulcers who received ome-
+                 prazole had SIBO compared with none of 15 controls referred for                                      Coronary artery disease (16)
+                 diagnostic endoscopy (P 5 0.0003). Subsequent studies have                                           Diabetes (27)
+                 conﬁrmed the association of SIBO with PPIs (18,19), including
+                                                                                                                      Hypothyroidism (28)
+                 a retrospective study (n 5 1,263 duodenal aspirates), showing
+                 that PPI use was signiﬁcantly greater in patients with positive                                      Pancreatitis (9,29)
+                 duodenal culture results compared with negative culture results                                      Parkinson’s disease (30)
+                 (52.6% vs 30.2%, respectively; P , 0.0001) (18). Results of a 2017                                   Restless legs syndrome (31)
+                 meta-analysis of 19 studies (N 5 7,055) conﬁrmed a higher risk of
+                                                                                                                      Rosacea (32)
+                 SIBO with PPI use (OR, 1.7; 95% conﬁdence interval [CI],
+                 1.2–2.4) (22). A recent study demonstrated that probiotic bacteria    GI, gastrointestinal; IBD, inflammatory bowel disease; IBS, irritable bowel
+                 may colonize the small bowel and predispose patients to SIBO          syndrome; PPI, proton-pump inhibitor; SIBO, small intestinal bacterial
+                                                                                       overgrowth.
+                 and brain fogginess (23). Thus, numerous factors predispose an
+                 individual to the development of SIBO (Table 1)
+                 (7,9,11–19,23–34). Interestingly, up to 13% of healthy individuals
+                 have also tested positive for SIBO, based on the results of breath   before intubation, is passed into the second/third portion of the
+                 testing or small bowel aspirate and culture (26,35–41).              duodenum using minimal air insuﬄation. Thereafter, the staﬀ
+                                                                                      change to another set of sterile gloves to prevent contamination
+                 DIAGNOSIS OF SIBO                                                    during specimen collection. The endoscopist then passes the
+                 Small bowel culture is widely accepted as the “best diagnostic       Liguory catheter through the biopsy channel of the scope, using
+                 method” for establishing a diagnosis of SIBO (9); a threshold of     the short overtube to prevent biopsy valve contamination. The
+                 $103 cfu/mL is recommended as a positive test result for SIBO,       technician is usually seated for gravity-assisted suction and ﬂow
+                 especially when performing duodenal aspirate and culture, be-        and gently aspirates ﬂuid by repeated suction using a 5-mL
+                 cause of very low bacterial counts in this more acidic environ-      sterile syringe connected to a 3-way stopcock. If the lumen is dry,
+                 ment (6–8). However, some investigators have suggested               the liver may be gently massaged to facilitate the ﬂow of bile into
+                 a higher threshold of $105 cfu/mL based on traditional micro-        the duodenum. Typically, within approximately 2–5 minutes,
+                 biological standards for bacterial infection and for jejunal cul-    3 mL of bile-stained duodenal juice is successfully aspirated
+                 ture (11–13,42,43). In culture-based diagnostic testing, aseptic     (Figure 1) (17). The syringe is capped with a sterile cap, and
+                 technique is critical to minimize cross-contamination from           the specimen is placed in a biohazard bag and immediately
+                 outside the duodenum (6), and standardized methods are               sent to the microbiology laboratory for aerobic and anaerobic
+                 needed (8). To this end, aspiration of duodenal juice by endo-       cultures (6,7,44).
+                 scopic suction and collection in a container may be fraught with         Care is taken not to aspirate oral secretions or stomach juices
+                 contamination (18). One study described the use of a double-         before securing the scope in the duodenum and passing the
+                 lumen catheter for collection of small bowel aspirate to prevent     catheter. In the microbiology laboratory, after vortexing the
+                 oropharyngeal cross-contamination of the sample (12), but this       sample, the following agar plates are inoculated using a 0.001
+                 device is not commercially available. For more than 2 decades,       calibrated loop: blood, chocolate, MacConkey, Columbia nali-
+                 we have successfully used a 6F Liguory catheter (COOK Medi-          dixic acid with blood, anaerobic blood, phenyl ethyl alcohol,
+                 cal, Bloomington, IN) with multiple side holes at its tip            Remel Anaerobic LPV Blood (Thermo Fisher Scientiﬁc, Wal-
+                 (Figure 1) for collection of small bowel aspirate. The catheter      tham, MA), which contains paromomycin and vancomycin, in-
+                 assembly and aspiration kit is ﬁrst prepared by wearing sterile      hibitory mold, and mycobiotic. Agar plates are then struck for the
+                 gloves before the procedure (Figure 1). Next, a sterilized upper     colony count. The blood and chocolate agars are held at 37 °C in
+                 endoscope, kept in a sterile wrap and ﬂushed with sterile water      carbon dioxide for 5 days. MacConkey and Columbia nalidixic
+
+                 Clinical and Translational Gastroenterology                                                                      VOLUME 10 |      www.clintranslgastro.com
+                                                                                                              Clinical Features and Treatment of SIBO           3
+
+
+
+
+                                                                                                                                                                    REVIEW ARTICLE
+Figure 1. Description of the procedure for duodenal aspiration, specimen collection, and handling: The technician flushes the scope with sterile water and
+prepares a sterile field. A Liguory catheter with a stopcock is assembled (a). The scope is passed into the second/third portion of the duodenum with minimal
+air insufflation and suctioning. The endoscopist and the technician wear sterile gloves and advance the Liguory catheter through the biopsy channel. The
+technician performs gravity-assisted aspiration by holding the syringe at a height lower than the patient to aid fluid flow. Using gentle suction, ;3 mL of
+duodenal fluid is collected and immediately transferred to the microbiology laboratory (b).
+
+
+acid plates are held in oxygen for 48 hours before being discarded.                  In 2017, the North American consensus regarding breath
+Anaerobic media are incubated under anaerobic conditions for 5                   testing (8) provided updates to previously published statements
+days. Any bacterial growth $1,000 cfu/mL is identiﬁed and                        by expert groups from Germany and Italy in 2005 and 2009,
+reported out using colony count numeration. The organisms                        respectively (47,48). The consensus recommends that patients
+(i.e., Neisseria sp, Gram-positive bacilli resembling diphtheroids/              avoid treatment with antibiotics for 4 weeks and promotility
+coryneforms, Lactobacillus species, Streptococcus viridans group,                agents and laxatives for at least 1 week before breath testing (8).
+Staphylococcus coagulase negative, and Rothia sp.) are identiﬁed                 Furthermore, a strict bland diet, including avoidance of fer-
+based on gram stain, colonial morphology, or spot tests. Wher-                   mentable foods (e.g., complex carbohydrates), is recommended
+ever appropriate, antibiotic susceptibility panels are performed                 for the day before administration of the breath test. Patients
+and reported (17).                                                               should also fast 8–12 hours before the breath test, avoid smoking
+    The limitations of small bowel culture include its invasive                  the day of the breath test, and minimize physical exertion during
+nature, cost, potential inability to detect bacterial strains that are           the breath test (8).
+diﬃcult to grow under standard culture conditions, detection of                      The North American consensus for breath testing recom-
+proximal SIBO only, and potential for sample contamina-                          mends administering 75 g of glucose or 10 g of lactulose, taken
+tion (6,8).                                                                      with or followed by 1 cup of water; breath testing should measure
+    Breath testing is a safe and noninvasive diagnostic method for               hydrogen, methane, and carbon dioxide (see Table 2 for test
+SIBO. However, there is currently no standard methodology for                    characteristics) (8). An increase in hydrogen concentrations of
+breath testing (8). During a breath test, patients ingest a carbo-               $20 ppm from baseline within 90 minutes (8) (Figure 2a,b) (49)
+hydrate substrate that is metabolized when exposed to GI                         and an increase from baseline in methane concentrations of $10
+microbes, leading to the production of hydrogen and methane.                     ppm within 2 hours are considered diagnostic of SIBO
+Some of these gases are absorbed from the GI tract into the blood                (Figure 2a,c) (8,49). When using lactulose as a substrate, an initial
+stream and ﬁnally exhaled through the lungs, and therefore,                      duodenal peak from bacterial overgrowth in the small intestine
+analysis of breath samples after carbohydrate ingestion provides                 followed by a second hydrogen peak from colonic bacterial fer-
+an indirect measure of detecting SIBO (45). Glucose and lactulose                mentation has been observed (50), although both hydrogen peaks
+are commonly used as breath test substrates for detecting SIBO                   are not required for the diagnosis of SIBO (8). In addition, the ﬁrst
+(Table 2) (6,8,46).                                                              peak must occur within 90 minutes of substrate administration
+
+American College of Gastroenterology                                                                            Clinical and Translational Gastroenterology
+                                                                                                                                                                                                                          REVIEW ARTICLE
+
+
+
+
+                                                                                                                                                                                                                                                                                  4
+Clinical and Translational Gastroenterology
+
+
+
+
+                                                                                                                                                                                                                                                                                  Rao and Bhagatwala
+                                              Table 2. Diagnostic tests for SIBO
+
+                                              Diagnostic test              Substrate and characteristic                   Testing protocol                      Test interpretationa                  Diagnostic performance                         Limitations
+                                              Breath test
+                                                  Glucose8,46          Monosaccharide                           75 g of glucose in 250 mL of water      Rise in hydrogen $20 ppm from           Sensitivity: 20%–93%                    A negative test excludes proximal
+                                                                       • Absorbed in the proximal small         Breath samples are collected at         baseline                                Specificity: 30%–86%                    SIBO, but not distal SIBO
+                                                                       intestine                                baseline and every 15 min for           Or                                                                              Not suitable for patients with
+                                                                                                                90–120 min and measured for             Rise in methane $10 ppm from                                                    diabetes
+                                                                                                                hydrogen and methane                    baseline
+                                                                                                                                                        Or
+                                                                                                                                                        Rise in hydrogen and methane
+                                                                                                                                                        combined $15 ppm from baseline
+                                                  Lactulose8,46        Disaccharide                             10 g of lactulose                       Interpretation of the test results       Sensitivity: 31%–68%                   May accelerate gut transit, giving the
+                                                                       • Nonabsorbable                          Breath samples are collected at         requires reliable differentiation of the Specificity: 44%–100%                  false-negative results
+                                                                       • Reaches the colon                      baseline and every 15 min for           colonic peak from the small intestine                                           May cause bloating
+                                                                       • Used to measure orocecal transit in    180–240 min for hydrogen                peakb                                                                           Interpretation difficult if only 1 peak
+                                                                       some cases                                                                       Positive test: increase from baseline                                           in hydrogen concentration
+                                                                                                                                                        $20 ppm H2 by 90 min
+                                                  Fructose8            Monosaccharide                           25 g of fructose in 250 mL of water     Rise in hydrogen $20 ppm above          Sensitivity: 25%–71%                    Observation based on the single
+                                                                       • Absorbed in the proximal small         Breath samples are collected at         baseline                                Specificity: 42%–92%                    study
+                                                                       intestine                                baseline and every 15 min for 180       Or                                                                              Cannot differentiate between SIBO
+                                                                       • Suitable for patients with diabetes    min and measured for hydrogen and       Rise in methane $10 ppm above                                                   and fructose intolerance in patients
+                                                                                                                methane                                 baseline                                                                        with diabetes
+                                                                                                                                                        Or
+                                                                                                                                                        Rise in hydrogen and methane
+                                                                                                                                                        combined $15 ppm from baseline
+                                              Small bowel aspirates/
+                                              culture
+                                                  Duodenal6,8          Upper endoscopy performed to             3–5 mL of duodenal liquid aspirated Positive test: $103 cfu/mL     Currently, the most widely accepted Testing is invasive, time intensive,
+                                                                       obtain samples from the third or         using an aseptic technique (e.g.,   65.5% agreement between GBTand best diagnostic method for SIBO     and expensive
+                                                                       fourth portion of the duodenum           sterile gloves)                     duodenal aspirate/culture
+                                                                                                                Samples sent to the laboratory
+                                                                                                                immediately after collection
+    VOLUME 10 |
+
+
+
+
+                                                  Jejunal8             Upper endoscopy performed to             $2 mL of jejunal liquid aspirated       Positive test: $103 cfu/mL              Currently, the most widely accepted Testing is invasive, time intensive,
+                                                                       obtain samples from the proximal         Samples sent to the laboratory in                                               best diagnostic method for SIBO     and expensive
+                                                                       jejunum                                  sterile fashion immediately
+                                              a
+                                               Glucose dose of 50 g with rise in hydrogen >12 ppm from baseline is also considered positive.
+    www.clintranslgastro.com
+
+
+
+
+                                              b
+                                               North American consensus no longer considers 2 peaks on a lactulose breath test a requirement for establishing a diagnosis of SIBO (8).
+                                              The table created with data from Rezaie A, Buresi M, Lembo A, et al. Hydrogen and methane-based breath testing in gastrointestinal disorders: The North American Consensus. Am J Gastroenterol 2017;112:775–84 (8); Erdogan A,
+                                              Rao SS, Gulley D, et al. Small intestinal bacterial overgrowth: Duodenal aspiration vs glucose breath test. Neurogastroenterol Motil 2015;27:481–9 (6); and Romagnuolo J, Schiller D, Bailey RJ. Using breath tests wisely in
+                                              a gastroenterology practice: An evidence-based review of indications and pitfalls in interpretation. Am J Gastroenterol 2002;97:1113–26 (46).
+                                              GBT, glucose breath test; SIBO, small intestinal bacterial overgrowth.
+                                                                                                              Clinical Features and Treatment of SIBO           5
+
+
+
+
+                                                                                                                                                                    REVIEW ARTICLE
+
+Figure 2. Typical example of breath test results: Shown are a negative breath test result (a), a positive hydrogen breath test showing hydrogen concentration
+rising >20 ppm from baseline (b), and a positive breath test showing methane concentration rising >10 ppm from baseline (c). Red lines show hydrogen
+concentrations, and black lines show methane concentrations. Duodenal aspirates and culture results are shown in the text inset of (b).
+
+
+for the test to be considered positive (Table 2) (8). Although                   proximal jejunum (Table 2) (8,46). A study from Lin and Massey
+lactulose breath testing has higher sensitivity than glucose, scin-              (51) demonstrated that rapid transit of glucose into the cecum
+tigraphic studies have shown that the rise in breath hydrogen                    may provide a false-positive breath test within 90 minutes, pos-
+coincides with the arrival of lactulose in the cecum, raising con-               sibly because of colonic fermentation, based on GBT combined
+cerns for a false-positive result; by contrast, the glucose breath test          with nuclear scintigraphy. Although possible, the likelihood of
+(GBT) has good speciﬁcity but low sensitivity, as it detects only                glucose reaching the cecum is low, as glucose is usually completely
+proximal SIBO because glucose is completely absorbed in the                      absorbed in the proximal small bowel. On the other hand,
+
+American College of Gastroenterology                                                                            Clinical and Translational Gastroenterology
+             6   Rao and Bhagatwala
+
+
+
+
+                 lactulose invariably will reach the cecum, as it is a nonabsorbable   dose and duration of treatment, SIBO diagnostic methods and
+                 disaccharide (52). Arguably, scintigraphy is an imperfect test to     deﬁnitions, and patient populations vary among studies (Table 3)
+                 localize the cecum. Small bowel loops or diverticula overlying the    (15,18,25,28,30,57–66). A systematic review and meta-analysis of
+                 cecal region could be erroneously reported as a tracer ﬁlling this    rifaximin (dose range: 600–1,600 mg/d; duration of treatment:
+REVIEW ARTICLE
+
+
+
+
+                 area. Also, the head of the meal may have reached the cecum, but      5–28 days) reported that SIBO was eradicated (determined by
+                 the bulk of the meal could remain in the small intestine un-          glucose or lactulose breath testing) in 70.8% of patients (26
+                 dergoing fermentation from SIBO, and both sources of fermen-          studies; 95% CI, 61.4–78.2) (67). Adverse events (AEs) were
+                 tation could produce a rise in breath hydrogen or methane.            uncommon and occurred in 4.6% of 815 patients from 17 studies
+                 Consequently, better substrates, better localization methods, and     reporting safety (67). In the meta-analysis (67), patients dis-
+                 further validation are needed to settle this dilemma.                 continued rifaximin treatment because of an AE (5% of 120
+                     Microbial culture and breath testing used to diagnose SIBO do     patients) in only 1 study (68). Clostridium diﬃcile infection was
+                 not always produce similar ﬁndings (6,12). In 1 study, duodenal       reported in 1 patient receiving rifaximin 1,200 mg/d for 4 weeks;
+                 aspirate culture (i.e., $103 cfu/mL) and GBT (i.e., increase from     however, detailed information was lacking (59,67).
+                 baseline of both hydrogen and methane $20 ppm, of hydrogen
+                 $20 ppm, or of methane $15 ppm) agreed on the diagnosis of            Systemic antibiotics
+                 SIBO in 65.5% of 139 patients with GI-related symptoms                Studies of systemic antibiotics (e.g., ciproﬂoxacin, norﬂoxacin,
+                 (i.e., abdominal discomfort, gas, bloating, and diarrhea) consid-     and metronidazole) also reported eradication of SIBO as de-
+                 ered related to SIBO (6). Another study found that although 39%       termined by either the breath test or bacterial culture (Table 4)
+                 of 18 patients were positive for SIBO with GBT, these results         (43,69–73). However, the sample sizes are small, and the meth-
+                 correlated poorly with jejunal culture results, suggesting that       odologies used and populations evaluated diﬀer across studies. A
+                 further validation is required. Therefore, 1 testing method may       meta-analysis of 10 prospective clinical studies of nonsystemic
+                 not deﬁnitively diagnose SIBO, and additional testing may be          antibiotics in patients with SIBO reported higher rates for breath
+                 necessary when SIBO is suspected (6).                                 test normalization with an antibiotic vs placebo (51.1% vs 9.8%,
+                     The North American consensus recommended a cutoﬀ of               respectively; eﬀectiveness ratio, 2.6; 95% CI, 1.3–5.0; P 5 0.03)
+                 $103 cfu/mL when using culture methods for the diagnosis of           (56). Normalization of the breath test occurred in 49.5% of the
+                 SIBO (8). Although additional validation studies are warranted to     pooled population (n 5 325) treated with a nonsystemic antibi-
+                 standardize breath testing including optimal cutoﬀ thresholds         otic, rifaximin. The response rate varied widely (21.7%–85.0%),
+                 (8), new approaches of breath testing have been investigated. A       possibly because of rifaximin dosing and the timing of the breath
+                 2017 study reported the results of administering glucose through      test. Normalization of the breath test with metronidazole, a sys-
+                 endoscope rather than oral ingestion in patients with a negative      temic agent (n 5 86), was observed in 51.2% of patients (56).
+                 oral GBT (53). The results showed an increased yield for the          Finally, 70% of patients with SIBO and brain fogginess who re-
+                 diagnosis of SIBO, implying that endoscopic administration of         ceived diﬀerent antibiotics reported signiﬁcant improvement of
+                 glucose may facilitate detection of distal SIBO. This requires        SIBO symptoms (P 5 0.005), and 85% achieved complete reso-
+                 further validation with combined scintigraphy to reassure that        lution of brain fogginess (P 5 0.05) (23).
+                 the rise is not from colonic fermentation. A novel, orally ingested
+                 capsule technology that can measure in vivo hydrogen and carbon       Probiotics
+                 dioxide after ingestion of a carbohydrate meal is currently under     Probiotics are believed to have beneﬁcial eﬀects on the gut
+                 development and may provide a better alternative to current           microbiota. However, few clinical studies have examined this
+                 breath hydrogen measurement techniques (54). Also, another            option (Table 4) (74–76); furthermore, these studies lack con-
+                 novel oral diagnostic capsule, a smart capsule bacterial detection    sistency not only in the formulations used but also in the duration
+                 system, has been developed and tested ex vivo (55). This system       of treatment, populations assessed, and methods of diagnosing
+                 can detect bacteria and, in a noninvasive manner, provides bac-       SIBO (74,75). In a safety study, probiotics were not associated
+                 terial concentration; however, further clinical trials and valida-    with AEs (76). More recently, a 2017 meta-analysis of 18 studies
+                 tion are needed to assess the use of the smart capsule bacterial      reported that probiotics were associated with signiﬁcantly in-
+                 detection system for SIBO diagnosis (55).                             creased clearance of SIBO compared with nonprobiotic therapy
+                                                                                       (6 studies; relative risk, 1.6; 95% CI, 1.2–2.2), although probiotics
+                 TREATMENT OF SIBO                                                     were not found to be eﬃcacious for the prevention of SIBO (77).
+                 The goal of treatment for patients with SIBO is symptom relief by     Furthermore, probiotics may inadvertently colonize the small
+                 eradicating overgrowth of bacteria. This is typically achieved by     bowel, causing both SIBO and D-lactic acidosis, as well as brain
+                 treatment with antibiotics. However, some patients may remain         fogginess (23). Some experts consider these ﬁndings to be con-
+                 symptomatic despite treatment, suggesting that other underlying       troversial (78).
+                 conditions (e.g., dysmotility and PPI use) may potentially be the
+                 cause of symptoms and/or the bacteria may be antibiotic resistant     Nonpharmacologic and dietary therapies
+                 (56). Hence, eﬀective treatment includes eradication of bacteria,     Several nonpharmacologic treatments have been proposed be-
+                 treatment of predisposing conditions, and prevention of SIBO. To      cause of the cost and potential adverse eﬀects of antibiotics and
+                 date, no drugs have received regulatory approval in the United        probiotics. One such approach is an elemental diet, which con-
+                 States or Europe speciﬁcally for the treatment of SIBO. However,      tains predigested micronutrients that are mostly absorbed within
+                 the following treatments have been studied in patients with SIBO.     the proximal small bowel, thus limiting the delivery of nutrients
+                    Rifaximin, a nonsystemic antibiotic, is currently the most         to bacteria in the distal portion of the small intestine (79). In
+                 studied agent for patients with SIBO, with numerous studies           a retrospective review, 124 patients with SIBO received an ele-
+                 demonstrating its eﬃcacy (e.g., eradication of SIBO), although the    mental diet for 14 days; patients without normalization of breath
+
+                 Clinical and Translational Gastroenterology                                                              VOLUME 10 |   www.clintranslgastro.com
+                                                                                                                Clinical Features and Treatment of SIBO                 7
+
+
+
+
+ Table 3. Summary of clinical studies of rifaximin
+
+ Study and                                            Method used to diagnose          Pts with
+
+
+
+
+                                                                                                                                                                            REVIEW ARTICLE
+ design                  Location and population              SIBO                      SIBO               Treatment                           Efficacy
+            57
+ Bae et al.           South Korea                    LBT (10 g of lactulose/15 mL       100%      Rifaximin 1,200 mg/               102 pts had normalized LBT
+ Retrospective        Pts with IBS-D or IBS-M        of water; BT result at baseline              d (N 5 192) for 4 wk (initial     results after receiving rifaximin
+ study                (N 5 192)                      $20 ppm, or an increase                      tx); LBT repeated every 4 wk      for 4 wk (n 5 36), 8 wk (n 5
+                                                     from baseline >20 ppm H2 or                  until normalization with          43), or 12 wk (n 5 23)
+                                                     CH4 # 90 min)                                maintenance tx (max, 12 wk)       Rifaximin significantly
+                                                                                                                                    improved symptom scores in
+                                                                                                                                    pts receiving rifaximin for 4, 8,
+                                                                                                                                    and 12 wk (P , 0.05, for all
+                                                                                                                                    comparisons)
+ Franco et al.18      United States                Bacterial culture                   30.4%      Antibiotic use in pts with        Overall, significant symptom
+ Retrospective        Pts undergoing upper         (>105 cfu/mL)                                  positive culture results:         improvement in pts receiving
+ review               endoscopy (N 5 1,263) for                                                   67.4%                             antibiotics (53.1%) vs no
+                      diarrhea (n 5 480), gas-                                                    Rifaximin: 73.4%                  antibiotics (24.6%;
+                      related symptoms (n 5 419),                                                 Ciprofloxacin: 6.9%               P , 0.0001)
+                      diffuse/upper abdominal pain                                                Metronidazole: 5% (dosage         In pts with a positive culture
+                      (n 5 397), dyspepsia/GERD                                                   not provided)                     result, clinical improvement
+                      (n 5 199), and/or nausea/                                                                                     in pts receiving antibiotics
+                      vomiting (n 5 174)                                                                                            (53%) vs no antibiotics
+                                                                                                                                    (46.5%; P 5 NS)
+ Greco et al.25       Italy                          GBT (75 g of glucose/150 mL       26.5%      Pts with SIBO received         Normalization of GBT 1 mo
+ Prospective          Pts with CD (N 5 68)           of water; BT result indicating               ciprofloxacin 500 mg/d         after tx with probiotic, 86.7%
+ study                                               an increase from baseline                    (n 5 9), metronidazole
+                                                     $12 ppm H2 and/or                            750 mg/d (n 5 4), or rifaximin
+                                                     CH4 # 180 min, in $3                         1,200 mg/d (n 5 2) for 1 mo,
+                                                     samples taken every 30 min)                  followed by probiotics
+                                                                                                  containing Lactobacillus
+                                                                                                  casei DG Tx ($7,595 billion
+                                                                                                  living cells/100 g) for 2 mo
+ Boltin et al.58      Israel                         LBT (15 g of lactulose/400        41.5%      Rifaximin 1,200 mg/d for 10 d Normalization of LBT, 42.1%
+ Prospective          Pts with bloating and          mL of water; BT result                       (n 5 19)
+ study                flatulence (non-IBS)           indicating an increase from
+                                                     baseline >10 ppm H2 # 90
+                                                     min)
+ Chedid et al.59      Pts with SIBO based on         LBT (10 g of lactulose/30 mL       100%      Rifaximin 400 mg t.i.d. (n 5      Negative LBT results with
+ Retrospective,       the positive LBT result        of water; BT result at baseline              67) vs herbal therapy b.i.d. (n   rifaximin (34%) vs herbal
+ OL, SC                                              >10 ppm for H2 or >7 ppm for                 5 37; Dysbiocide and FC-Cidal     therapy (46%; P 5 0.2)
+                                                     CH4 if pts were compliant with               [Biotics Research Laboratories,   Herbal therapy vs rifaximin:
+                                                     tx, or an increase from                      Rosenberg, TX] or                 OR, 1.8; CI, 0.8–4.4; P 5 0.2
+                                                     baseline $20 ppm H2 or $12                   Candibactin-AR and                Retreatment of rifaximin
+                                                     ppm CH4 excretion #90 min)                   Candibactin-BR [Metagenics,       nonresponders:
+                                                                                                  Aliso Viejo, CA]) for 4 wk        Negative LBT results with
+                                                                                                  Rifaximin nonresponders           herbal therapy (57.1%) vs
+                                                                                                  (n 5 41) received herbal          antibiotics (60%; P > 0.99)
+                                                                                                  therapy (n 5 14) or triple
+                                                                                                  antibiotic (clindamycin
+                                                                                                  300 mg t.i.d., metronidazole
+                                                                                                  250 mg t.i.d., and neomycin
+                                                                                                  500 mg t.i.d.; n 5 10) for 4 wk
+ Fasano et al.30      Italy                          LBT or GBT (50 g of glucose/      54.5%      Rifaximin 400 mg t.i.d. for 7 d 77.8% of pts with SIBO had
+ Prospective          Pts with Parkinson’s disease   250 mL of water; BT result                   (n 5 18)                        resolution of SIBO 1 mo
+ study                (N 5 33)                       indicating an increase from                                                  after tx
+                                                     baseline >12 ppm H2
+                                                     # 120 min)
+
+
+
+
+American College of Gastroenterology                                                                              Clinical and Translational Gastroenterology
+             8   Rao and Bhagatwala
+
+
+
+
+                  Table 3. (continued)
+
+                  Study and                                           Method used to diagnose          Pts with
+REVIEW ARTICLE
+
+
+
+
+                  design               Location and population                SIBO                      SIBO                  Treatment                           Efficacy
+                              60
+                  Moraru et al.      Romania                         GBT (50 g of glucose/250 mL        11.1%        Rifaximin 400 mg t.i.d. for       7 of 8 pts (87.5%) with SIBO
+                  Prospective        Pts with IBS (N 5 72)           of water; BT result indicating                  14 d (n 5 8 with SIBO)            underwent GBT and had
+                  study                                              an increase from baseline                                                         resolution of SIBO and little to
+                                                                     >20 ppm H2 , 120 min)                                                             complete improvement
+                                                                                                                                                       (range, no improvement to
+                                                                                                                                                       complete improvement) of
+                                                                                                                                                       IBS symptoms 1 wk after the
+                                                                                                                                                       end of tx
+                                                                                                                                                       Of the 7 pts, 1 pt (14.2%) with
+                                                                                                                                                       SIBO received a second 2-wk
+                                                                                                                                                       course of rifaximin and had
+                                                                                                                                                       resolution of SIBO with repeat
+                                                                                                                                                       rifaximin tx
+                  Rosania et al.61   Italy                           LBT                                100%         Rifaximin 400 mg/d for 7 d,       Rifaximin/probiotic
+                  R                  Pts with SIBO (N 5 40)          GBT (BT result [i.e., 2 H2                      followed by probiotic (L. casei   significantly improved
+                                                                     peaks, with the first peak an                   DG 24 milliards/d) for 7 d, vs    symptoms from baseline to
+                                                                     increase from baseline of                       rifaximin 400 mg/d for 7 d,       6 mo: diffuse abdominal pain
+                                                                     $10 ppm and a second,                           followed by prebiotic             (P , 0.001), left iliac area
+                                                                     larger peak at ;60 min for                      (fructooligosaccharides           pain (P , 0.002), abdominal
+                                                                     both tests])                                    2.5 g/d) for 7 d                  distension (P , 0.002),
+                                                                                                                                                       flatulence (P , 0.001), and
+                                                                                                                                                       nausea (P , 0.01)
+                                                                                                                                                       Rifaximin/prebiotic
+                                                                                                                                                       significantly improved
+                                                                                                                                                       symptoms from baseline to
+                                                                                                                                                       6 mo: diffuse abdominal pain
+                                                                                                                                                       (P , 0.02), left iliac area pain
+                                                                                                                                                       (P , 0.005), abdominal
+                                                                                                                                                       distension (P , 0.001), and
+                                                                                                                                                       flatulence (P , 0.001)
+                  Lauritano et al.62 Italy                    GBT (50 g of glucose; BT                    NA         Rifaximin 400 mg t.i.d.           GBT normalization with
+                  Prospective, PG, Pts with GI symptoms $6 mo result indicating an increase                          (n 5 71) vs metronidazole         rifaximin (63.4%) vs
+                  R                  (N 5 142)                from baseline >12 ppm H2                               250 mg t.i.d. (n 5 71)            metronidazole (43.7%) 1 mo
+                                                              # 120 min)                                                                               after tx
+                                                                                                                                                       Rifaximin vs metronidazole:
+                                                                                                                                                       OR, 1.5; 95% CI, 1.1–4.4;
+                                                                                                                                                       P , 0.05
+                  Lauritano et al.28 Italy                           GBT (50 g of glucose; BT          54% (pts)     Rifaximin 400 mg t.i.d. for 7 d 70.4% of pts with SIBO had
+                  Prospective        Pts with overt hypothyroidism   result indicating an increase    5% (healthy    Only pts with positive GBT      eradication of SIBO 1 mo after
+                  study              (n 5 50) vs healthy             from baseline >12 ppm H2         individuals)   received rifaximin (n 5 27)     the end of tx
+                                     individuals (n 5 40)            # 120 min)                                                                      Abdominal discomfort,
+                                                                                                                                                     bloating, and flatulence
+                                                                                                                                                     significantly improved after
+                                                                                                                                                     1 mo (P , 0.01)
+                  Majewski and     United States                     GBT (50 g of glucose/150 mL         46%         Rifaximin 200 mg q.i.d. for 4     GBT results after rifaximin tx
+                  McCallum15       Pts with IBS (N 5 204)            of water; BT result indicating                  wk                                (n 5 8): 75% of pts had
+                  Study design not                                   [1] for baseline measurement                    Pts with positive GBTreceived     normal GBT and 12.5% of pts
+                  described                                          ,10 ppm, then >20 ppm H2                        rifaximin (n 5 8 of 204)          had normal GBT by
+                                                                     or CH4, or [2] for baseline                                                       hydrogen, not methane
+                                                                     measurement >10 ppm, then                                                         Overall symptom score
+                                                                     an increase from baseline                                                         improved in 87.5% of pts
+                                                                     >12 ppm H2 or CH4 # 90 min)
+
+
+
+
+                 Clinical and Translational Gastroenterology                                                                                  VOLUME 10 |       www.clintranslgastro.com
+                                                                                                                             Clinical Features and Treatment of SIBO             9
+
+
+
+
+ Table 3. (continued)
+
+ Study and                                                Method used to diagnose             Pts with
+
+
+
+
+                                                                                                                                                                                     REVIEW ARTICLE
+ design                  Location and population                  SIBO                         SIBO                     Treatment                           Efficacy
+ Scarpellini          Italy                             GBT (50 g of glucose/200 mL            100%          Rifaximin 1,200 mg/d or            GBT normalization 1 mo after
+ et al.63             Pts with positive GBT results,    of water; BT result indicating         IBS: 79%      1,600 mg/d for 7 d                 the end of tx: rifaximin
+ Prospective, PG,     including pts with IBS            an increase from baseline                                                               1,600 mg/d (80%) vs
+ R                    (N 5 80)                          >12 ppm H2 and/or >100%                                                                 1,200 mg/d (58%; P , 0.05;
+                                                        CH4 # 120 min)                                                                          OR, 1.8; 95% CI, 1.1–8.0)
+ Lauritano et al.64 Italy                               GBT (50 g of glucose; BT               100%          Rifaximin 600 mg/d,                GBT normalization 1 mo after
+ Prospective,       Pts with positive GBT results       result indicating an increase                        800 mg/d, or 1,200 mg/d            the end of tx: rifaximin
+ PG, R              (N 5 90)                            from baseline >12 ppm H2                             for 7 d                            600 mg/d (16.7%), 800 mg/d
+                                                        # 120 min)                                                                              (26.7%), and 1,200 mg/d
+                                                                                                                                                (60%)
+                                                                                                                                                Rifaximin 1,200 mg/d vs
+                                                                                                                                                600 mg/d: OR, 7.5; 95% CI,
+                                                                                                                                                2.2–25.1; P , 0.001;
+                                                                                                                                                rifaximin 1,200 mg/d vs
+                                                                                                                                                800 mg/d: OR, 4.1; 95% CI,
+                                                                                                                                                1.4–12.3; P , 0.01; and
+                                                                                                                                                rifaximin 600 mg/d vs
+                                                                                                                                                800 mg/d: OR, 1.8; 95% CI,
+                                                                                                                                                0.5–6.4; P 5 NS
+ Di Stefano           Italy                             GBTa (50 g of glucose; BT              100%          Rifaximin 400 mg t.i.d.        Rifaximin, but not
+ et al.65             Pts with SIBO (N 5 26)            result indicating an increase                        (n 5 10) vs chlortetracycline chlortetracycline,
+ DB, R, C                                               from baseline >12 ppm H2                             333 mg t.i.d. (n 5 11) for 7 d significantly improved
+                                                        # 120 min; or in the fasted                                                         fasting, peak, and total
+                                                        state, increase from baseline                                                       hydrogen excretion from
+                                                        >12 ppm H2)                                                                         baseline (P , 0.03, P , 0.01,
+                                                                                                                                            and P , 0.05, respectively)
+ Corazza et al.66     Italy                             LBT (10 g of 50% lactulose             100%          Rifaximin 400 mg b.i.d. or         66.7% of pts in each group
+ Prospective          Pts with SIBO (N 5 12)            solution; BT result indicating                       t.i.d. for 5 d (n 5 6 in each      with eradication of SIBO 1
+ study                                                  an increase from baseline                            group)                             d after the end of tx
+                                                        >10 ppm H2, $20 min before                                                              Symptoms (i.e., abdominal
+                                                        the colonic peak. Samples                                                               distension, abdominal pain,
+                                                        collected for 180 min)                                                                  and no. of bowel movements)
+                                                                                                                                                improved from baseline in
+                                                                                                                                                83.3% of pts
+ a
+  SIBO could also be diagnosed if any of the following were present: malabsorption or other predisposing conditions (i.e., autoimmune atrophic gastritis, chronic nonspecific
+ diarrhea after travel to the tropical region, diabetic neuropathy, ileocolonic anastomosis, jejunoileal bypass, radiation enteritis, small bowel diverticula, small bowel
+ obstruction, subtotal gastrectomy with gastrojejunostomy, and systemic sclerosis) (65).
+ b.i.d., twice a day; BT, breath test; C, controlled; CD, Crohn’s disease; cfu, colony-forming unit; DB, double blind; GBT, glucose breath test; GERD, gastroesophageal reflux
+ disease; GI, gastrointestinal; IBS, irritable bowel syndrome; IBS-D, diarrhea-predominant IBS; IBS-M, mixed IBS; LBT, lactulose breath test; NA, not applicable; NS, not
+ specified; OL, open label; OR, odds ratio; PG, parallel group; pt(s), patient(s); q.i.d., 4 times a day; R, randomized; SC, single center; SIBO, small intestinal bacterial
+ overgrowth; t.i.d., 3 times a day; tx, treatment.
+
+
+
+
+testing continued the diet for an additional 7 days (80). The cu-                          products, thereby stiﬂing bacterial growth or altering luminal
+mulative symptomatic response rate for an elemental diet was                               ﬂuid transport and/or colonic gas production. However, there is
+85% (79/93 patients) (80). A total of 14 patients (12%) were un-                           a lack of sound data to suggest that a low fermentable oligo-
+able to tolerate the diet (80). At 1-month follow-up (n 5 63                               saccharides, disaccharides, monosaccharides, and polyol diet is
+patients), 28/36 patients with improved IBS symptoms had                                   beneﬁcial for patients with SIBO.
+a normalized breath test result (80). However, these diets are
+generally not palatable and diﬃcult to adhere to and require                               Recurrent SIBO
+a motivated patient (79).                                                                  Approximately 44% of patients with SIBO may experience a re-
+    A diet low in fermentable oligosaccharides, disaccharides,                             lapse of symptoms within 9 months of initial treatment (82). For
+monosaccharides, and polyols has been shown to be beneﬁcial in                             these patients, the most eﬀective way to achieve eradication is by
+IBS (81). This may be due to decreasing the exposure of small                              ﬁrst identifying the appropriate organism(s) and providing tar-
+intestinal bacteria exposure to carbohydrate and its fermentation                          geted antibiotic therapy (i.e., “the right drug for the right bug”
+
+American College of Gastroenterology                                                                                           Clinical and Translational Gastroenterology
+                                                                                                                                                                                                                  REVIEW ARTICLE
+
+
+
+
+                                                                                                                                                                                                                                                                    10
+Clinical and Translational Gastroenterology
+
+
+
+
+                                                                                                                                                                                                                                                                    Rao and Bhagatwala
+                                              Table 4. Summary of clinical studies of systemic antibiotics or probiotics
+
+                                                                                                                                              Pts with
+                                              Study and design           Location and population         Method used to diagnose SIBO          SIBO                 Treatment                  Efficacy for eradication of SIBO                  AEs
+                                                                43                                                              5
+                                              Ghoshal et al.         India                               Bacterial culture ($10 cfu/mL)        19%       Norfloxacin 400 mg b.i.d. vs PBO Norfloxacin eliminated SIBO in          Tx well tolerated
+                                              Prospective, DB, R,    Pts with IBS (N 5 80)               and GBT (100 g of glucose/200                   for 10 d                         100% of 4 pts who had a repeat
+                                              PBO-C, SC                                                  mL of water; BT result indicating               Pts with SIBO:                   test for SIBO 1 mo after tx
+                                                                                                         an increase from baseline >12                   Norfloxacin (n 5 8) vs PBO (n 5
+                                                                                                         ppm H2)                                         7)
+                                                                                                                                                         Pts without SIBO: Norfloxacin
+                                                                                                                                                         (n 5 32) vs PBO (n 5 33)
+                                              Khalighi et al.69      Iran                                BT (BT result indicating an           100%      Broad-spectrum antibiotics for     HBT results negative with             NR
+                                              Prospective, R, DB,    Pts with SIBO (N 5 30)              increase from baseline >20 ppm                  3 wk, then minocycline 100 mg      antibiotic plus probiotic (93.3%)
+                                              SC                                                         H2)                                             b.i.d. for 15 d, followed by       vs antibiotic (66.7%; P 5 0.2)
+                                                                                                                                                         probiotic (Bacillus coagulans and
+                                                                                                                                                         fructooligosaccharides) b.i.d. for
+                                                                                                                                                         15 d (n 5 15) vs minocycline
+                                                                                                                                                         100 mg b.i.d. for 15 d (n 5 15),
+                                                                                                                                                         then no tx for 6 mo
+                                              Sajjad et al.70        United Kingdom                    GBT (75 g of glucose/250 mL of           NR       Ciprofloxacin 500 mg b.i.d. for 5 d GBT positive result at baseline   NR
+                                              C                      Pts with NASH (n 5 12) vs healthy water; increase from baseline >20                                                     and 4–7 d after tx:
+                                                                     individuals (n 5 11)              ppm H2 # 120 min)                                                                     NASH: 50% vs 8.3%, respectively
+                                                                                                                                                                                             (P 5 0.025); healthy individuals:
+                                                                                                                                                                                             9.1% vs 9.1%
+                                              Castiglione et al.71   Italy                               LBT (10 g of lactulose/100 mL of      20%       Metronidazole 250 mg t.i.d. or        GBT normalization 1 wk after the Tx well tolerated; 1 pt receiving
+                                              R                      Pts with CD (N 5 145)               water; peak >20 ppm occurring                   ciprofloxacin 500 mg b.i.d. for       end of tx: metronidazole (86.7%) metronidazole discontinued due
+                                                                                                         15 min before the colonic peak                  10 d                                  vs ciprofloxacin (100%; P 5 NS) to nausea
+                                                                                                         #180 min); or in the fasted state,
+                                                                                                         H2 and/or CH4 > 12–15 ppm;
+                                                                                                         If positive LBT, then GBT (50 g of
+                                                                                                         glucose/100 mL of water;
+                                                                                                         increase from baseline >12 ppm
+                                                                                                         H2 # 120 min)
+                                              Madrid et al.72                                                                                   —
+    VOLUME 10 |
+
+
+
+
+                                                                     Chile                               LBT (12 g of lactulose/300 mL of                Norfloxacin 400 mg b.i.d. and         Patients positive for SIBO in      NR
+                                              R, PBO-C               Pts with liver cirrhosis (N 5 34)   water; baseline >20 ppm H2 and                  neomycin 500 mg t.i.d. for            norfloxacin and neomycin,
+                                                                                                         $100 ppm H2 # 60 min)                           alternating 15-d periods (n 5 12),    cisapride, and PBO groups:
+                                                                                                                                                         cisapride 10 mg t.i.d. (n 5 12), or   baseline: 67%, 42%, and 40%,
+                                                                                                                                                         PBO t.i.d. (n 5 10) for 6 mo          respectively;
+    www.clintranslgastro.com
+
+
+
+
+                                                                                                                                                                                               3 mo: 50%, 25%, and 60%;
+                                                                                                                                                                                               6 mo: 17%, 8%, and 60%
+    American College of Gastroenterology
+
+
+
+
+                                              Table 4. (continued)
+
+                                                                                                                                                         Pts with
+                                              Study and design               Location and population             Method used to diagnose SIBO             SIBO                    Treatment                  Efficacy for eradication of SIBO                       AEs
+                                              Attar et al.73            France                              GBT (50 g of glucose; increase                  —        Norfloxacin 800 mg/d,                   GBT normalized in 30% and 50% NR
+                                              R, DB, CO                 Pts with chronic diarrhea (i.e., >3 from baseline >10 ppm H2 , 120                           amoxicillin-clavulanic acid 1,500       of 10 pts receiving norfloxacin and
+                                                                        stools/d for >3 mo), predisposition min)                                                     mg/d, S. boulardii 1,500 mg/d, or       amoxicillin-clavulanic acid,
+                                                                        to SIBO, and positive GBT result                                                             PBO for 7 d                             respectively, at the end of tx; no
+                                                                        (N 5 20)                                                                                                                             change from baseline with PBO
+                                                                                                                                                                                                             and S. boulardii
+                                              Probiotics
+                                                 Yao et al.89           Australia                               LBT (15 g of lactulose/100 mL of          100%       Probiotic (Yakult; contains 6.5 ×       Loss of early rise in breath           DB phase: 37% vs 32% (e.g., UTI,
+                                                 DB, R, PBO-C, OL       Pts with IBS (N 5 56)                   solution, including 100 mg of 13C                    109 cfu L. casei strain Shirota; n 5    hydrogen after lactulose with          URTI, gastroenteritis,
+                                                                                                                sodium acetate tracer; increase                      28) vs PBO (n 5 28) for 6 wk, then      probiotic (43%) vs PBO (54%) in        musculoskeletal pain, sinusitis,
+                                                                                                                $10 ppm H2 at $2 consecutive                         OL probiotic for 6 wk (n 5 45)          the DB phase                           anxiety, and depression)
+                                                                                                                time points ,90 min)                                                                         OL phase: probiotic (33%) vs DB        OL phase: 24%
+                                                                                                                                                                                                             PBO (33%)
+                                                 Kwak et al.74          South Korea                      LBT (10 g of lactulose/250 mL of                  26%       Probiotic (Duolac Gold; contains 5 Improvement in SIBO (by LBT)     NR
+                                                 R, PBO-C               Pts with chronic liver disease   water; baseline $20 ppm H2 or                               × 109 total viable cells:          with probiotic (24%) vs PBO (0%;
+                                                                        (N 5 52; n 5 50 completed study) increase >20 ppm H2 , 90 min)                               Bifidobacterium bifidum,           P , 0.05)
+                                                                                                                                                                     Bifidobacterium lactis,
+                                                                                                                                                                     Bifidobacterium longum,
+                                                                                                                                                                     Lactobacillus acidophilus,
+                                                                                                                                                                     Lactobacillus acidophilus
+                                                                                                                                                                     rhamnosus, and Streptococcus
+                                                                                                                                                                     thermophilus; n 5 25) vs PBO (n
+                                                                                                                                                                     5 25) b.i.d. for 4 wk
+                                                 Lunia et al.76         India                              GBT (100 g of glucose/200 mL of               36.9%       Probiotic (VSL#3, Sigma-Tau        Significant decrease from          No AEs observed
+                                                 OL, R                  Pts with cirrhosis and no previous water; increase from baseline                             Pharmaceuticals, Gaithersburg,     baseline in pts with SIBO (by GBT)
+                                                                        history of HE (N 5 160)            >12 ppm H2 , 180 min)                                     MD; n 5 86) vs PBO (n 5 74) t.i.d. receiving probiotic at 3 mo
+                                                                                                                                                                                                        (38.4% vs 17.7%; P 5 0.006), but
+
+
+
+
+                                                                                                                                                                                                                                                                                          Clinical Features and Treatment of SIBO
+Clinical and Translational Gastroenterology
+
+
+
+
+                                                                                                                                                                                                        not PBO (35.1% vs 33.9%; P 5
+                                                                                                                                                                                                        0.9)
+                                                 Stotzer et al.75       Sweden                                  Achieve $2 criteria:                      100%       Probiotic (Lactobacillus          No significant difference between NR
+                                                 DB, CO                 Pts with SIBO (N 5 17; n 5 14           Bacterial culture (>105 cfu/mL)                      fermentum KLD 1–3 × 1011          probiotic and PBO regarding GBT,
+                                                                        completed study)                        GBT (50 g of glucose/250 mL of                       bacteria) vs PBO b.i.d. for 4 wk, stool frequency, or symptom score
+                                                                                                                water; increase from baseline                        followed by a 4-wk washout
+                                                                                                                >12 ppm H2 , 120 min)                                period, then cross-over to PBO or
+                                                                                                                Tx response (GBT and symptoms)                       probiotic for 4 wk
+
+                                              AE, adverse event; b.i.d., twice a day; BT, breath test; C, controlled; CD, Crohn’s disease; cfu, colony-forming unit; CO, cross-over; DB, double blind; GBT, glucose breath test; HBT, hydrogen breath test; HE, hepatic encephalopathy;
+                                              IBS, irritable bowel syndrome; LBT, lactulose breath test; NASH, nonalcoholic steatohepatitis; NR, not reported; NS, not specified; OL, open label; PBO, placebo; PBO-C, placebo-controlled; pt(s), patient(s); R, randomized; SC,
+                                              single center; SIBO, small intestinal bacterial overgrowth; t.i.d., 3 times a day; tx, treatment; URTI, upper respiratory tract infection; UTI, urinary tract infection.
+
+
+
+
+                                                                                                                                                                                                                                                                                          11
+                                                                                                                                                                                                                                   REVIEW ARTICLE
+         12      Rao and Bhagatwala
+
+
+
+
+                 approach). This is best achieved by small bowel aspiration, cul-       CONFLICTS OF INTEREST
+                 ture, and sensitivity. Another strategy is to identify and correct     Guarantor of the article: Satish S. C. Rao, MD, PhD, is the guarantor
+                 any underlying condition(s), such as avoiding medications that         of the narrative review and assumes responsibility for the decision to
+                 delay gut transit, reduce PPI and opioid use, and improve gly-         publish.
+REVIEW ARTICLE
+
+
+
+
+                 cemic control, and adhesiolysis or correction of blind loops           Speciﬁc author contributions: S.S.C.R. and J.B. were involved in
+                 (7,83). Prokinetic agents improve motility and could enhance           interpreting data included in this review, drafting the manuscript,
+                 antegrade clearance of bacteria (72). Hence, a trial of prokinetic     and approving the ﬁnal draft of the review.
+                 agents such as cisapride, tegaserod, erythromycin, and pruca-          Financial support: This work was supported by Salix
+                 lopride may be considered, but there are no data to support their      Pharmaceuticals, Bridgewater, NJ. S.S.C.R.: Previously received
+                 use, and some of these agents are not universally available or have    research funding from Salix Pharmaceuticals.
+                 risks (72,84,85). Some factors are not reversible, such as radiation   Potential competing interests: None.
+                 enteritis, systemic sclerosis, postgastric resection, and surgical
+                 resection of the ileocecal valve (83,86). In such patients, some       ACKNOWLEDGEMENTS
+                 experts recommend cyclical monthly low-dose antibiotic therapy         Technical editorial assistance was provided, under the direction of
+                 using 2 or 3 antibiotics (83,86). However, these approaches merit      the author, by Mary Beth Moncrief, PhD, and Sophie Bolick, PhD,
+                 controlled trials.                                                     Synchrony Medical Communications, LLC, West Chester, PA.
+
+                 Treatment failures                                                     REFERENCES
+                 Approximately 30%–40% of patients may not have resolution of           1. D’Argenio V, Salvatore F. The role of the gut microbiome in the healthy
+                                                                                            adult status. Clin Chim Acta 2015;451:97–102.
+                 SIBO symptoms with antibiotic trials as shown in Table 4. In such      2. Sender R, Fuchs S, Milo R. Revised estimates for the number of human
+                 cases, other overlapping or alternate diagnosis should be con-             and bacteria cells in the body. PLoS Biol 2016;14:e1002533.
+                 sidered, such as disaccharide deﬁciency or food intolerances           3. Stearns JC, Lynch MD, Senadheera DB, et al. Bacterial biogeography of
+                 (87,88). For example, a patient with SIBO and lactose intolerance          the human digestive tract. Sci Rep 2011;1:170.
+                 could present with symptoms of gas, bloating, and diarrhea;            4. Drasar BS, Shiner M, McLeod GM. Studies on the intestinal ﬂora. I. The
+                                                                                            bacterial ﬂora of the gastrointestinal tract in healthy and achlorhydric
+                 antibiotics will only confer partial resolution of symptoms. In            persons. Gastroenterology 1969;56:71–9.
+                 addition, the patient will require a lactose-free diet. Therefore,     5. Gorbach SL. Population control in the small bowel. Gut 1967;8:530–2.
+                 a comprehensive assessment of symptoms with appropriate di-            6. Erdogan A, Rao SS, Gulley D, et al. Small intestinal bacterial overgrowth:
+                 agnostic tests and careful exclusion of other conditions is im-            Duodenal aspiration vs glucose breath test. Neurogastroenterol Motil
+                                                                                            2015;27:481–9.
+                 portant in a patient with risk factors or in those with suboptimal     7. Jacobs C, Coss Adame E, Attaluri A, et al. Dysmotility and proton pump
+                 response to therapy. Rigorous controlled studies are needed to             inhibitor use are independent risk factors for small intestinal bacterial
+                 guide clinical management. Moreover, other overlapping con-                and/or fungal overgrowth. Aliment Pharmacol Ther 2013;37:1103–11.
+                 ditions such as pancreatic exocrine insuﬃciency, bile acid mal-        8. Rezaie A, Buresi M, Lembo A, et al. Hydrogen and methane-based breath
+                 absorption, hormonal oversecretion, medications, functional                testing in gastrointestinal disorders: The North American Consensus. Am
+                                                                                            J Gastroenterol 2017;112:775–84.
+                 bloating, hypersensitivity, and factitious symptoms should all be      9. Choung RS, Ruﬀ KC, Malhotra A, et al. Clinical predictors of small
+                 considered as possible causes.                                             intestinal bacterial overgrowth by duodenal aspirate culture. Aliment
+                                                                                            Pharmacol Ther 2011;33:1059–67.
+                                                                                        10. Hoog CM, Lindberg G, Sjoqvist U. Findings in patients with chronic
+                 CONCLUSIONS                                                                intestinal dysmotility investigated by capsule endoscopy. BMC
+                 SIBO causes nonspeciﬁc GI symptoms and is associated with                  Gastroenterol 2007;7:29.
+                 other GI and non-GI conditions. Because of the broad range of          11. Posserud I, Stotzer PO, Björnsson ES, et al. Small intestinal bacterial
+                                                                                            overgrowth in patients with irritable bowel syndrome. Gut 2007;56:
+                 symptoms experienced by these patients, symptoms alone cannot              802–8.
+                 be used to establish a SIBO diagnosis. Consequently, diagnostic        12. Ghoshal UC, Srivastava D, Ghoshal U, et al. Breath tests in the diagnosis of
+                 testing is required. Although inconsistencies exist, bacterial cul-        small intestinal bacterial overgrowth in patients with irritable bowel
+                 ture of small bowel aspirates is generally accepted as the best            syndrome in comparison with quantitative upper gut aspirate culture. Eur
+                 diagnostic method for the diagnosis of SIBO, but aseptic pre-              J Gastroenterol Hepatol 2014;26:753–60.
+                                                                                        13. Pyleris E, Giamarellos-Bourboulis EJ, Tzivras D, et al. The prevalence of
+                 cautions and proper technique is key. Although a perfect breath            overgrowth by aerobic bacteria in the small intestine by small bowel
+                 test for SIBO is currently lacking, the 2017 North American                culture: Relationship with irritable bowel syndrome. Dig Dis Sci 2012;57:
+                 consensus document oﬀers clinical direction regarding choice of            1321–9.
+                 substrate, testing methodology, and interpretation of results,         14. Pimentel M, Chow EJ, Lin HC. Eradication of small intestinal bacterial
+                                                                                            overgrowth reduces symptoms of irritable bowel syndrome. Am J
+                 which requires further reﬁning as new evidence emerges (8).                Gastroenterol 2000;95:3503–6.
+                 Breath testing is considered a safe and noninvasive diagnostic tool    15. Majewski M, McCallum RW. Results of small intestinal bacterial
+                 for SIBO, although gaps in knowledge regarding the optimal                 overgrowth testing in irritable bowel syndrome patients: Clinical proﬁles
+                 method(s) of performing and interpreting the breath test remain.           and eﬀects of antibiotic trial. Adv Med Sci 2007;52:139–42.
+                     Therapies shown to be eﬃcacious and well tolerated for             16. Fialho A, Fialho A, Kochhar G, et al. Association between small intestinal
+                                                                                            bacterial overgrowth by glucose breath test and coronary artery disease.
+                 patients with SIBO include the nonsystemic antibiotic rifaximin            Dig Dis Sci 2017;63:412–21.
+                 and systemic antibiotics. However, given the diﬀerences across         17. Rao SSC, Tan G, Abdulla H, et al. Does colectomy predispose to small
+                 study populations, diagnostic tests and interpretation, and dosing         intestinal bacterial (SIBO) and fungal overgrowth (SIFO)? Clin Transl
+                 and duration of antibiotic therapy, large well-designed random-            Gastroenterol 2018;9:146.
+                                                                                        18. Franco DL, Disbrow MB, Kahn A, et al. Duodenal aspirates for small
+                 ized clinical trials with appropriate patient selection and well-          intestine bacterial overgrowth: Yield, PPIs, and outcomes after treatment
+                 deﬁned symptoms and objective criteria are warranted to guide              at a tertiary academic medical center. Gastroenterol Res Pract 2015;2015:
+                 eﬀective management of SIBO.                                               971582.
+
+
+                 Clinical and Translational Gastroenterology                                                                     VOLUME 10 |     www.clintranslgastro.com
+                                                                                                                   Clinical Features and Treatment of SIBO              13
+
+
+
+
+19. Lombardo L, Foti M, Ruggia O, et al. Increased incidence of small                44. Erdogan A, Rao SS. Small intestinal fungal overgrowth. Curr
+    intestinal bacterial overgrowth during proton pump inhibitor therapy.                Gastroenterol Rep 2015;17:16.
+    Clin Gastroenterol Hepatol 2010;8:504–8.                                         45. Levitt MD, Bond JH Jr. Volume, composition, and source of intestinal
+20. Ratuapli SK, Ellington TG, O’Neill MT, et al. Proton pump inhibitor                  gas. Gastroenterology 1970;59:921–9.
+    therapy use does not predispose to small intestinal bacterial overgrowth.        46. Romagnuolo J, Schiller D, Bailey RJ. Using breath tests wisely in
+
+
+
+
+                                                                                                                                                                             REVIEW ARTICLE
+    Am J Gastroenterol 2012;107:730–5.                                                   a gastroenterology practice: An evidence-based review of indications and
+21. Tsuda A, Suda W, Morita H, et al. Inﬂuence of proton-pump inhibitors on              pitfalls in interpretation. Am J Gastroenterol 2002;97:1113–26.
+    the luminal microbiota in the gastrointestinal tract. Clin Transl                47. Gasbarrini A, Corazza GR, Gasbarrini G, et al. Methodology and
+    Gastroenterol 2015;6:e89.                                                            indications of H2-breath testing in gastrointestinal diseases: The Rome
+22. Su T, Lai S, Lee A, et al. Meta-analysis: Proton pump inhibitors                     Consensus Conference. Aliment Pharmacol Ther 2009;29(Suppl 1):
+    moderately increase the risk of small intestinal bacterial overgrowth.               1–49.
+    J Gastroenterol 2018;53:27–36.                                                   48. Keller J, Franke A, Storr M, et al. Clinically relevant breath tests in
+23. Rao SSC, Rehman A, Yu S, et al. Brain fogginess, gas and bloating: A link            gastroenterological diagnostics: Recommendations of the German
+    between SIBO, probiotics and metabolic acidosis. Clin Transl                         Society for Neurogastroenterology and Motility as well as the German
+    Gastroenterol 2018;9:162.                                                            Society for Digestive and Metabolic Diseases. Z Gastroenterol 2005;43:
+24. Costa MB, Azeredo IL Jr, Marciano RD, et al. Evaluation of small intestine           1071–90. German.
+    bacterial overgrowth in patients with functional dyspepsia through H2            49. Erdogan A, Lee YY, Badger C, et al. What is the optimal threshold for an
+    breath test. Arq Gastroenterol 2012;49:279–83. Portuguese.                           increase in hydrogen and methane levels with glucose breath test (GBT)
+25. Greco A, Caviglia GP, Brignolo P, et al. Glucose breath test and Crohn’s             for detection of small intestinal bacterial overgrowth (SIBO)?
+    disease: Diagnosis of small intestinal bacterial overgrowth and evaluation           Gastroenterology 2014;146:S–532.
+    of therapeutic response. Scand J Gastroenterol 2015;50:1376–81.                  50. Ghoshal UC. How to interpret hydrogen breath tests.
+26. Kim DB, Paik CN, Kim YJ, et al. Positive glucose breath tests in patients with       J Neurogastroenterol Motil 2011;17:312–7.
+    hysterectomy, gastrectomy, and cholecystectomy. Gut Liver 2017;11:237–42.        51. Lin EC, Massey BT. Scintigraphy demonstrates high rate of false-positive
+27. Virally-Monod M, Tielmans D, Kevorkian JP, et al. Chronic diarrhoea                  results from glucose breath tests for small bowel bacterial overgrowth.
+    and diabetes mellitus: Prevalence of small intestinal bacterial overgrowth.          Clin Gastroenterol Hepatol 2016;14:203–8.
+    Diabetes Metab 1998;24:530–6.                                                    52. Saad RJ, Chey WD. Breath testing for small intestinal bacterial
+28. Lauritano EC, Bilotta AL, Gabrielli M, et al. Association between                    overgrowth: Maximizing test accuracy. Clin Gastroenterol Hepatol 2014;
+    hypothyroidism and small intestinal bacterial overgrowth. J Clin                     12:1964–72, quiz e1119–1920.
+    Endocrinol Metab 2007;92:4180–4.                                                 53. Viswanathan L, Larion S, Shaﬀer N, et al. Endoscopically assisted glucose
+29. Therrien A, Bouchard S, Sidani S, et al. Prevalence of small intestinal              breath test (EAGBT): A novel diagnostic approach for distal sibo.
+    bacterial overgrowth among chronic pancreatitis patients: A case-control             Gastroenterol 2017;152:S413.
+    study. Can J Gastroenterol Hepatol 2016;2016:7424831.                            54. Kalantar-Zadeh K, Berean KJ, Ha N, et al. A human pilot trial of ingestible
+30. Fasano A, Bove F, Gabrielli M, et al. The role of small intestinal bacterial         electronic capsules capable of sensing diﬀerent gases in the gut. Nat
+    overgrowth in Parkinson’s disease. Mov Disord 2013;28:1241–9.                        Electronics 2018;1:79–87.
+31. Weinstock LB, Walters AS. Restless legs syndrome is associated with              55. Singh S, Allan N, Wahl C, et al. Development of a swallowable diagnostic
+    irritable bowel syndrome and small intestinal bacterial overgrowth. Sleep            capsule to monitor gastrointestinal health. Paper presented at: AGA 2019.
+    Med 2011;12:610–3.                                                                   Gastroenterology 2019;156(Suppl 1):s-376.
+32. Egeberg A, Weinstock LB, Thyssen EP, et al. Rosacea and gastrointestinal         56. Shah SC, Day LW, Somsouk M, et al. Meta-analysis: Antibiotic therapy for
+    disorders: A population-based cohort study. Br J Dermatol 2017;176:                  small intestinal bacterial overgrowth. Aliment Pharmacol Ther 2013;38:
+    100–6.                                                                               925–34.
+33. Parodi A, Sessarego M, Greco A, et al. Small intestinal bacterial                57. Bae S, Lee KJ, Kim YS, et al. Determination of rifaximin treatment period
+    overgrowth in patients suﬀering from scleroderma: Clinical eﬀectiveness              according to lactulose breath test values in nonconstipated irritable bowel
+    of its eradication. Am J Gastroenterol 2008;103:1257–62.                             syndrome subjects. J Korean Med Sci 2015;30:757–62.
+34. Sabaté JM, Jouët P, Harnois F, et al. High prevalence of small intestinal      58. Boltin D, Perets TT, Shporn E, et al. Rifaximin for small intestinal
+    bacterial overgrowth in patients with morbid obesity: A contributor to               bacterial overgrowth in patients without irritable bowel syndrome. Ann
+    severe hepatic steatosis. Obes Surg 2008;18:371–7.                                   Clin Microbiol Antimicrob 2014;13:49.
+35. Zhang Y, Liu G, Duan Y, et al. Prevalence of small intestinal bacterial          59. Chedid V, Dhalla S, Clarke JO, et al. Herbal therapy is equivalent to
+    overgrowth in multiple sclerosis: A case-control study from China.                   rifaximin for the treatment of small intestinal bacterial overgrowth. Glob
+    J Neuroimmunol 2016;301:83–7.                                                        Adv Health Med 2014;3:16–24.
+36. Wang L, Yu YM, Zhang YQ, et al. Hydrogen breath test to detect small             60. Moraru IG, Portincasa P, Moraru AG, et al. Small intestinal bacterial
+    intestinal bacterial overgrowth: A prevalence case-control study in                  overgrowth produces symptoms in irritable bowel syndrome which are
+    autism. Eur Child Adolesc Psychiatry 2018;27:233–40.                                 improved by rifaximin: A pilot study. Rom J Intern Med 2013;51:143–7.
+37. Lasa JS, Zubiaurre I, Fanjul I, et al. Small intestinal bacterial overgrowth     61. Rosania R, Giorgio F, Principi M, et al. Eﬀect of probiotic or prebiotic
+    prevalence in celiac disease patients is similar in healthy subjects and             supplementation on antibiotic therapy in the small intestinal bacterial
+    lower in irritable bowel syndrome patients. Rev Gastroenterol Mex 2015;              overgrowth: A comparative evaluation. Curr Clin Pharmacol 2013;8:
+    80:171–4.                                                                            169–72.
+38. Rana SV, Sinha SK, Lal S, et al. Small intestinal bacterial overgrowth in        62. Lauritano EC, Gabrielli M, Scarpellini E, et al. Antibiotic therapy in small
+    North Indian patients with celiac disease. Trop Gastroenterol 2007;28:               intestinal bacterial overgrowth: Rifaximin versus metronidazole. Eur Rev
+    159–61.                                                                              Med Pharmacol Sci 2009;13:111–6.
+39. Rubio-Tapia A, Barton SH, Rosenblatt JE, et al. Prevalence of small              63. Scarpellini E, Gabrielli M, Lauritano CE, et al. High dosage rifaximin for
+    intestine bacterial overgrowth diagnosed by quantitative culture of                  the treatment of small intestinal bacterial overgrowth. Aliment
+    intestinal aspirate in celiac disease. J Clin Gastroenterol 2009;43:157–61.          Pharmacol Ther 2007;25:781–6.
+40. Niu XL, Liu L, Song ZX, et al. Prevalence of small intestinal bacterial          64. Lauritano EC, Gabrielli M, Lupascu A, et al. Rifaximin dose-ﬁnding study
+    overgrowth in Chinese patients with Parkinson’s disease. J Neural                    for the treatment of small intestinal bacterial overgrowth. Aliment
+    Transm (Vienna) 2016;123:1381–6.                                                     Pharmacol Ther 2005;22:31–5.
+41. Gabrielli M, Bonazzi P, Scarpellini E, et al. Prevalence of small intestinal     65. Di Stefano M, Malservisi S, Veneto G, et al. Rifaximin versus
+    bacterial overgrowth in Parkinson’s disease. Mov Disord 2011;26:889–92.              chlortetracycline in the short-term treatment of small intestinal bacterial
+42. Ghoshal UC, Ghoshal U. Small intestinal bacterial overgrowth and other               overgrowth. Aliment Pharmacol Ther 2000;14:551–6.
+    intestinal disorders. Gastroenterol Clin North Am 2017;46:103–20.                66. Corazza GR, Ventrucci M, Strocchi A, et al. Treatment of small intestine
+43. Ghoshal UC, Srivastava D, Misra A, et al. A proof-of-concept study                   bacterial overgrowth with rifaximin, a non-absorbable rifamycin. J Int
+    showing antibiotics to be more eﬀective in irritable bowel syndrome with             Med Res 1988;16:312–6.
+    than without small-intestinal bacterial overgrowth: A randomized,                67. Gatta L, Scarpignato C. Systematic review with meta-analysis: Rifaximin
+    double-blind, placebo-controlled trial. Eur J Gastroenterol Hepatol 2016;            is eﬀective and safe for the treatment of small intestine bacterial
+    28:281–9.                                                                            overgrowth. Aliment Pharmacol Ther 2017;45:604–16.
+
+
+American College of Gastroenterology                                                                                 Clinical and Translational Gastroenterology
+         14      Rao and Bhagatwala
+
+
+
+
+                 68. Meyrat P, Safroneeva E, Schoepfer AM. Rifaximin treatment for the             80. Pimentel M, Constantino T, Kong Y, et al. A 14-day elemental diet is
+                     irritable bowel syndrome with a positive lactulose hydrogen breath test           highly eﬀective in normalizing the lactulose breath test. Dig Dis Sci 2004;
+                     improves symptoms for at least 3 months. Aliment Pharmacol Ther 2012;             49:73–7.
+                     36:1084–93.                                                                   81. Dionne J, Ford AC, Yuan Y, et al. A systematic review and meta-analysis
+                 69. Khalighi AR, Khalighi MR, Behdani R, et al. Evaluating the eﬃcacy of              evaluating the eﬃcacy of a gluten-free diet and a low FODMAPs diet in
+REVIEW ARTICLE
+
+
+
+
+                     probiotic on treatment in patients with small intestinal bacterial                treating symptoms of irritable bowel syndrome. Am J Gastroenterol 2018;
+                     overgrowth (SIBO)–A pilot study. Indian J Med Res 2014;140:604–8.                 113:1290–300.
+                 70. Sajjad A, Mottershead M, Syn WK, et al. Ciproﬂoxacin suppresses               82. Lauritano EC, Gabrielli M, Scarpellini E, et al. Small intestinal bacterial
+                     bacterial overgrowth, increases fasting insulin but does not correct low          overgrowth recurrence after antibiotic therapy. Am J Gastroenterol 2008;
+                     acylated ghrelin concentration in non-alcoholic steatohepatitis. Aliment          103:2031–5.
+                     Pharmacol Ther 2005;22:291–9.                                                 83. Sachdev AH, Pimentel M. Gastrointestinal bacterial overgrowth:
+                 71. Castiglione F, Rispo A, Di Girolamo E, et al. Antibiotic treatment of small       Pathogenesis and clinical signiﬁcance. Ther Adv Chronic Dis 2013;4:
+                     bowel bacterial overgrowth in patients with Crohn’s disease. Aliment              223–31.
+                     Pharmacol Ther 2003;18:1107–12.                                               84. Hennessy S, Leonard CE, Newcomb C, et al. Cisapride and ventricular
+                 72. Madrid AM, Hurtado C, Venegas M, et al. Long-term treatment with                  arrhythmia. Br J Clin Pharmacol 2008;66:375–85.
+                     cisapride and antibiotics in liver cirrhosis: Eﬀect on small intestinal       85. Pimentel M, Morales W, Lezcano S, et al. Low-dose nocturnal tegaserod
+                     motility, bacterial overgrowth, and liver function. Am J Gastroenterol            or erythromycin delays symptom recurrence after treatment of irritable
+                     2001;96:1251–5.                                                                   bowel syndrome based on presumed bacterial overgrowth. Gastroenterol
+                 73. Attar A, Flourié B, Rambaud JC, et al. Antibiotic eﬃcacy in small                Hepatol (N Y) 2009;5:435–42.
+                     intestinal bacterial overgrowth-related chronic diarrhea: A crossover,        86. Pittman N, Rawn SM, Wang M, et al. Treatment of small intestinal
+                     randomized trial. Gastroenterology 1999;117:794–7.                                bacterial overgrowth in systemic sclerosis: A systematic review.
+                 74. Kwak DS, Jun DW, Seo JG, et al. Short-term probiotic therapy alleviates           Rheumatology (Oxford) 2018;57:1802–11.
+                     small intestinal bacterial overgrowth, but does not improve intestinal        87. Viswanathan L, Larion S, Shaﬀer N, et al. How useful is histological testing
+                     permeability in chronic liver disease. Eur J Gastroenterol Hepatol 2014;          of disaccharidase deﬁciency in the evaluation of unexplained GI
+                     26:1353–9.                                                                        symptoms in adults? AGA Abstracts 2017;152:S7–S8.
+                 75. Stotzer PO, Blomberg L, Conway PL, et al. Probiotic treatment of small        88. Philpott H, Yu S, Rao S. Letter to the editor: It’s all in the mix: Diagnosis
+                     intestinal bacterial overgrowth by Lactobacillus fermentum KLD. Scand J           and management of food intolerance. Clin Gastro Hepatol 2016;14:
+                     Infect Dis 1996;28:615–9.                                                         1221–4.
+                 76. Lunia MK, Sharma BC, Sharma P, et al. Probiotics prevent hepatic              89. Yao CK, Barrett JS, Philpott H, et al. Poor predictive value of breath
+                     encephalopathy in patients with cirrhosis: A randomized controlled trial.         hydrogen response for probiotic eﬀects in IBS. J Gastroenterol Hepatol
+                     Clin Gastroenterol Hepatol 2014;12:1003–8.e1001.                                  2015;30:1731–9.
+                 77. Zhong C, Qu C, Wang B, et al. Probiotics for preventing and treating small
+                     intestinal bacterial overgrowth: A meta-analysis and systematic review of
+                     current evidence. J Clin Gastroenterol 2017;51:300–11.
+                 78. Quigley EMM, Pot B, Sanders ME. “Brain fogginess” and D-lactic acidosis:      Open Access This is an open-access article distributed under the terms of the
+                     Probiotics are not the cause. Clin Transl Gastroenterol 2018;9:187.           Creative Commons Attribution-Non Commercial-No Derivatives License 4.0
+                 79. Winitz M, Adams RF, Seedman DA, et al. Studies in metabolic nutrition         (CCBY-NC-ND), where it is permissible to download and share the work pro-
+                     employing chemically deﬁned diets. II. Eﬀects on gut microﬂora                vided it is properly cited. The work cannot be changed in any way or used
+                     populations. Am J Clin Nutr 1970;23:546–59.                                   commercially without permission from the journal.
+
+
+
+
+                 Clinical and Translational Gastroenterology                                                                                 VOLUME 10 |     www.clintranslgastro.com
+

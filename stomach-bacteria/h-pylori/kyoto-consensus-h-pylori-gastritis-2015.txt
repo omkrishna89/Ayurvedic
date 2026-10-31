@@ -1,0 +1,1163 @@
+                                                                                                                                          Guidelines
+
+                                  Kyoto global consensus report on Helicobacter pylori
+                                  gastritis
+                                  Kentaro Sugano,1 Jan Tack,2 Ernst J Kuipers,3 David Y Graham,4 Emad M El-Omar,5
+                                  Soichiro Miura,6 Ken Haruma,7 Masahiro Asaka,8 Naomi Uemura,9
+                                  Peter Malfertheiner,10 on behalf of faculty members of Kyoto Global Consensus
+                                  Conference
+
+▸ Additional material is          ABSTRACT                                                        gastritis remain poorly understood. The discovery
+published online only. To view    Objective To present results of the Kyoto Global                that Helicobacter pylori (H. pylori) was a cause of
+please visit the journal online
+(http://dx.doi.org/10.1136/       Consensus Meeting, which was convened to develop                gastritis2 focused attention on the aetiology, natural
+gutjnl-2015-309252).              global consensus on (1) classiﬁcation of chronic gastritis      history and prognosis of gastritis.
+                                  and duodenitis, (2) clinical distinction of dyspepsia              Worldwide the most common cause of chronic
+For numbered afﬁliations see
+end of article.                   caused by Helicobacter pylori from functional dyspepsia,        gastritis is infection with H. pylori. H. pylori causes
+                                  (3) appropriate diagnostic assessment of gastritis and (4)      progressive damage to the gastric mucosa and is
+Correspondence to                 when, whom and how to treat H. pylori gastritis.                now accepted as playing a causative role in a
+Professor Kentaro Sugano,         Design Twenty-three clinical questions addressing the           number of important diseases, including duodenal
+Department of Medicine, Jichi
+Medical University, 3311-1        above-mentioned four domains were drafted for which             ulcer disease, gastric ulcer disease, gastric adenocar-
+Yakushiji, Shimotsuke, Tochigi    expert panels were asked to formulate relevant                  cinoma and gastric mucosa-associated lymphoid
+329-0498, Japan;                  statements. A Delphi method using an anonymous                  tissue (MALT) lymphoma.3–5 Indeed, H. pylori–
+sugano@jichi.ac.jp                electronic system was adopted to develop the consensus,         induced gastritis is considered as the most import-
+Received 25 January 2015
+                                  the level of which was predeﬁned as ≥80%. Final                 ant risk factor for peptic ulcer and its complications
+Revised 25 June 2015              modiﬁcations of clinical questions and consensus were           as well as for gastric cancer.5
+Accepted 26 June 2015             achieved at the face-to-face meeting in Kyoto.                     The current International Statistical Classiﬁcation
+Published Online First            Results All 24 statements for 22 clinical questions after       of Diseases and Related Health Problems (ICD-10),
+17 July 2015                      extensive modiﬁcations and omission of one clinical             issued in 1989 by the International Conference for
+                                  question were achieved with a consensus level of >80%.          the Tenth Revision of the ICD was endorsed by
+                                  To better organise classiﬁcation of gastritis and               WHO at the 43rd general assembly in 1990 and
+                                  duodenitis based on aetiology, a new classiﬁcation of           has been used for disease statistics since 1994
+                                  gastritis and duodenitis is recommended for the 11th            among member countries of WHO. In the ICD-10,
+                                  international classiﬁcation. A new category of H. pylori-       all the digestive diseases are classiﬁed under K code
+                                  associated dyspepsia together with a diagnostic                 with different two-digit numbers.6 However,
+                                  algorithm was proposed. The adoption of grading                 H. pylori was not integrated into gastritis classiﬁca-
+                                  systems for gastric cancer risk stratiﬁcation, and modern       tion in the gastritis section (K29) of ICD-10, even
+                                  image-enhancing endoscopy for the diagnosis of                  though H. pylori gastritis is the predominant type
+                                  gastritis, were recommended. Treatment to eradicate             of gastritis and clinically by far the most relevant
+                                  H. pylori infection before preneoplastic changes develop,       because of its predisposing role of severe gastro-
+                                  if feasible, was recommended to minimise the risk of            duodenal complications.3–5 Moreover, the current
+                                  more serious complications of the infection.                    ICD-10 classiﬁcation of gastritis is not organised
+                                  Conclusions A global consensus for gastritis was                according to aetiology but is merely a mixture of
+                                  developed for the ﬁrst time, which will be the basis for        phenotype and aetiology and also includes duoden-
+                                  an international classiﬁcation system and for further           itis (box 1). Therefore, a revision of the gastritis
+                                  research on the subject.                                        and duodenitis classiﬁcation based on all the pos-
+                                                                                                  sible aetiologies was proposed after the working
+                                                                                                  group meeting for the ICD-11 revision held
+                                  INTRODUCTION                                                    in Tokyo in 2010 and submitted as the ICD11
+                                  For decades endoscopic ‘gastritis,’ gastric erosions            β foundation component. However, in the ICD11
+                                  and even histological ﬁndings of gastric inﬂamma-               β foundation classiﬁcation (box 2), the original
+          Open Access
+       Scan to access more        tion have failed to attract much attention from clini-          plan was changed. In an attempt to gather broader
+          free content            cians as the majority of patients with these ﬁndings            opinions on the rationale of the new classiﬁcation
+                                  remain asymptomatic. Although gastritis is often                system originally proposed to ICD-11, we devoted
+                                  used to describe dyspeptic symptoms, the presence               one section to this important issue at this meeting.
+                                  of such symptoms correlates poorly with histological               As stated above, if H. pylori gastritis is categorised
+                                  or endoscopic gastritis. Although the term ‘gastritis’          as an infectious disease, the inclusion of H. pylori
+                                  is still used as a concept to explain dyspeptic symp-           gastritis-associated dyspeptic symptoms as a ‘func-
+                                  toms, gastritis as a term refers to gastric inﬂamma-            tional disease’ entity poses a special challenge,7 8
+                                  tion, often accompanying structural mucosal                     despite it being implicated in the pathogenesis of
+ To cite: Sugano K, Tack J,       changes.1 This gastric inﬂammation (gastritis) has              functional dyspepsia (FD) symptoms.9 Despite the
+ Kuipers EJ, et al. Gut           long been associated with peptic ulcer, gastric cancer          deﬁnition given by Rome III,9 a conceptual ambigu-
+ 2015;64:1353–1367.               and pernicious anaemia, but the cause or causes of              ity on how to deal with H. pylori gastritis-associated
+                                          Sugano K, et al. Gut 2015;64:1353–1367. doi:10.1136/gutjnl-2015-309252                                      1353
+ Guidelines
+
+                                                                        METHOD
+  Box 1 Current International Statistical Classiﬁcation of              Consensus development process
+  Diseases and Related Health Problems (ICD-10)                         Four major topics were chosen by core members of the orga-
+  classiﬁcation of gastritis (K29 code) http://apps.who.int/            nising committee (KS, NU and PM). Drafts of clinical ques-
+  classiﬁcations/icd10/browse/2015/en#/K29                              tions (CQs) about each topic were prepared by the ad hoc
+                                                                        committee of the Japanese Society of Gastroenterology
+                                                                        ( JSGE) and were further revised by core members (KS, PM
+ K29 Gastritis and duodenitis
+                                                                        and EME-O). Altogether, 23 CQs were selected for the ﬁrst
+   Excl: eosinophilic gastritis or gastroenteritis (K52.8)
+                                                                        round of voting.
+          Zollinger–Ellison syndrome (E16.4)
+                                                                           Faculty members were selected from members of the JSGE,
+ K29.0 Acute haemorrhagic gastritis
+                                                                        European Helicobacter Study Group, Asian Paciﬁc Association
+   Incl: Acute (erosive) gastritis with haemorrhage
+                                                                        of Gastroenterology, Healthy Stomach Initiative and the
+   Excl: erosion (acute) of stomach (K25.–)
+                                                                        working group members of gastroenterology for ICD-11. These
+ K29.1 Other acute gastritis
+                                                                        members were assigned to one of the four subgroups by core
+ K29.2 Alcoholic gastritis
+                                                                        members (KS, NU and PM) based on their expertise and two
+ K29.3 Chronic superﬁcial gastritis
+                                                                        members from each subgroup were invited to serve as modera-
+ K29.4 Chronic atrophic gastritis
+                                                                        tors. The faculty members of each group were assigned one or
+   Incl: Gastric atrophy
+                                                                        two CQs for which they were asked to prepare statements and
+ K29.5 Chronic gastritis, unspeciﬁed
+                                                                        supporting evidence. These statements were edited by modera-
+   Incl: Chronic gastritis
+                                                                        tors and core members and uploaded to the electronic voting
+   Antral
+                                                                        system developed by JSGE.
+   Fundal
+                                                                           The Delphi method was used for consensus development, and
+ K29.6 Other gastritis
+                                                                        voting by each faculty member was done anonymously through
+   Incl: Giant hypertrophic gastritis
+                                                                        the electronic system. Each faculty member was asked to indi-
+          Granulomatous gastritis
+                                                                        cate one of the following levels of agreement: strongly agree,
+          Ménétrier disease
+                                                                        agree with minor reservation, agree with major reservation, dis-
+ K29.7 Gastritis, unspeciﬁed
+                                                                        agree with minor reservation, disagree with major reservation
+ K29.8 Duodenitis
+                                                                        and strongly disagree. If the member’s vote was other than
+ K29.9 Gastroduodenitis, unspeciﬁed
+                                                                        strongly agree or agree with minor reservation, they were asked
+ Excl, exclusion criteria; Incl, inclusion criteria.                    to give the reasons for reservation or disagreement.
+                                                                           Consensus level was predeﬁned as ≥80% of the sum of the
+                                                                        votes of strongly agree plus agree with minor reservation.
+dyspeptic symptoms in the context of the clinical assessment of         After the ﬁrst round of voting, moderators in each subgroup
+FD still remains.5 10–12 Accordingly, guidelines and meta-analyses      initiated further discussion about the statements which had
+that included dyspepsia associated with H. pylori under the             failed to reach consensus. After this discussion, the revised
+umbrella of ‘functional dyspepsia’5 10–12 would require reconsid-       statements were uploaded to the electronic voting system for
+eration in accordance with advances made in the area of                 a second round of voting. This process resulted in several
+H. pylori gastritis.                                                    CQs being modiﬁed for improved understanding and to
+   Third, there has been signiﬁcant technical progress in diagnos-      better ﬁt the statements. At the second round of voting,
+tic tools for GI diseases. Advanced endoscopy with image-               faculty members were asked to provide recommendation as to
+enhanced modalities and magniﬁcation allows diagnosis of gastri-        the grade of evidence and the levels of supporting evidence
+tis with a high degree of accuracy, even before histological con-       for the statements. Recommendation grade and evidence level
+ﬁrmation.13–15 Furthermore, non-invasive diagnostic tests such as       were based on the GRADE system21 22 (see online supplemen-
+the [13C]-urea breath test, faecal antigen test and serological para-   tary table S1 and S2). Electronic reminders were automatically
+meters serve as surrogate markers of H. pylori gastritis and indi-      sent to all faculty members twice (3 days and 1 day before the
+cators of gastritis severity.5 Classiﬁcation systems for grading        closing dates). Voting rates of 100% were achieved in the two
+gastritis such as the Operative Link for Gastritis Assessment           voting sessions.
+(OLGA) and Operative Link for Gastric Intestinal Metaplasia                The second round of voting was followed by a face-to-face
+Assessment (OLGIM) have also been proposed,16–18 in addition            meeting in Kyoto on 31 January to 1 February 2014. On the
+to the internationally accepted Sydney System,19 20 and their           ﬁrst day, preliminary plenary voting was conducted since
+utility needs to be evaluated and agreed upon.                          faculty members had hitherto been blinded to the voting
+   In 2013, the Japanese government insurance policy approved           results in other sections. This process identiﬁed several state-
+eradication therapy for H. pylori-positive gastritis after endo-        ments which failed to achieve consensus of ≥80%. Each
+scopic examination, to exclude more serious diseases such as            group then met to resolve disagreements and better reﬂect
+ulcer and cancer, in line with the Japanese guidelines for              opinions from all group members. On the second day, the
+H. pylori management.11 However, no global consensus has                revised statements were presented at plenary discussions with
+been published on when to recommend eradication therapy for             all group members. Voting for each statement was done using
+H. pylori gastritis and how to follow up after eradication.             a key pad system with the levels of agreements being shown
+   Since the global awareness of gastritis is still confounded by a     on the screen in real time. Statements that failed to reach con-
+number of controversial issues as described above, a meeting            sensus were discussed, revised if considered necessary and
+was set up in Kyoto to achieve global consensus on H. pylori            voted on again. Finalised statements were summarised by
+gastritis; to attempt conceptual changes in gastritis classiﬁcation     moderators assigned to each group.
+in general; to agree diagnosis and management strategies with              The ﬁve colleagues who could not attend the face-to-face
+special reference to FD and cancer prevention.                          meeting or missed the ﬁnal voting were invited later to give
+1354                                                                         Sugano K, et al. Gut 2015;64:1353–1367. doi:10.1136/gutjnl-2015-309252
+                                                                                                                           Guidelines
+
+                                                                                 Mild to moderate gastric atrophy
+  Box 2 Classiﬁcation of gastritis (2A) and duodenitis (2B)                      Severe gastric atrophy
+  in the foundation component of International Statistical                   ▸ Metaplastic gastritis
+  Classiﬁcation of Diseases and Related Health Problems                      ▸ Granulomatous gastritis
+  (ICD11 β) (as accessed at 20 January 2015) http://apps.                    ▸ Hypertrophic gastritis
+  who.int/classiﬁcations/icd11/browse/f/en#/                              Other gastritis
+                                                                             ▸ Chronic gastritis, not elsewhere classiﬁed
+ Please note that this classiﬁcation is continuously updated and             ▸ Acute gastritis, not elsewhere classiﬁed
+ hence is subject to change. This classiﬁcation is not authorised         2B Classiﬁcation of duodenitis at the foundation layer
+ by WHO.                                                                  Helicobacter pylori-induced duodenitis
+ 2A Classiﬁcation of gastritis at the foundation layer of                 Stress-induced duodenitis
+ ICD11 β                                                                  Duodenitis due to external causes
+ Helicobacter pylori-induced gastritis                                       ▸ Alcoholic duodenitis
+ Drug-induced gastritis                                                      ▸ Chemical duodenitis
+ Autoimmune gastritis                                                        ▸ Radiation duodenitis
+ Stress-induced gastritis                                                    ▸ Duodenitis due to other external causes
+ Special forms of gastritis                                                  ▸ Drug-induced duodenitis
+    ▸ Allergic gastritis                                                  Special forms of duodenitis
+    ▸ Gastritis due to biliary reﬂux                                         ▸ Allergic duodenitis
+    ▸ Lymphocytic gastritis                                                  ▸ Eosinophilic duodenitis
+    ▸ Ménétrier disease                                                      ▸ Lymphocytic duodenitis
+    ▸ Eosinophilic gastritis                                              Infectious duodenitis
+ Infectious gastritis                                                        ▸ Duodenal phlegmone
+    ▸ Gastric phlegmone                                                      ▸ Bacterial duodenitis
+    ▸ Bacterial gastritis                                                        Mycobacterial duodenitis
+        H. pylori-induced gastritis                                                  Non-tuberculous mycobacterial duodenitis
+        Enterococcal gastritis                                                       Tuberculous duodenitis
+        Mycobacterial gastritis                                                  Duodenitis due to Whipple’s disease
+           Tuberculous gastritis                                             ▸ Fungal duodenitis
+           Non-tuberculous mycobacterial gastritis                               Duodenal candidiasis
+              Mycobacterium avium-intracellulare gastritis                   ▸ Parasitic duodenitis
+              Gastritis due to other speciﬁed non-tuberculous                    Ancylostomiasis duodenitis
+              mycobacteria                                                       Duodenal anisakiasis
+            Secondary syphilitic gastritis                                       Duodenitis due to Giardia lamblia
+    ▸ Viral gastritis                                                            Strongyloides duodenitis
+        Cytomegaloviral gastritis                                            ▸ Viral duodenitis
+        Enteroviral gastritis                                                    Cytomegaloviral duodenitis
+    ▸ Fungal gastritis                                                           Herpetic duodenitis
+        Gastritis due to mucoromycosis                                    Duodenitis due to other diseases, classiﬁed elsewhere
+        Gastric candidiasis                                                  ▸ Duodenitis due to coeliac disease
+        Gastric histoplasmosis                                               ▸ Duodenitis due to Crohn’s disease
+    ▸ Parasitic gastritis                                                    ▸ Duodenitis due to sarcoidosis
+        Gastric anisakiasis                                                  ▸ Duodenitis due to vasculitis
+        Cryptosporidium gastritis                                                Duodenitis due to IgA vasculitis
+        Gastric strongyloides stercoralis                                    ▸ Duodenitis due to Whipple’s disease
+ Gastritis due to other diseases classiﬁed elsewhere                      Duodenitis of unknown aetiology with speciﬁc endoscopic or
+    ▸ Gastritis due to Crohn’s disease                                    pathological features
+    ▸ Gastritis due to sarcoidosis                                           ▸ Acute haemorrhagic duodenitis
+    ▸ Gastritis due to vasculitis                                            ▸ Granulomatous duodenitis
+ Gastritis due to external causes
+    ▸ Alcoholic gastritis
+    ▸ Radiation gastritis                                                their votes for all the ﬁnalised statements without notiﬁcation of
+    ▸ Chemical gastritis                                                 the plenary voting results. The impact of their votes is discussed
+    ▸ Gastritis due to other speciﬁed external causes                    below.
+ Gastritis of unknown aetiology with speciﬁc endoscopic or                  For management of conﬂict of interest (COI), each member
+ pathological features                                                   was asked to present COI status according to the JSGE guide-
+    ▸ Superﬁcial gastritis                                               lines. If a relevant COI had existed, that person would have been
+        Acute superﬁcial gastritis                                       asked not to vote, in accordance with the recent consensus,23 but
+        Chronic superﬁcial gastritis                                     no such case was encountered. The majority of the funding was
+    ▸ Acute haemorrhagic gastritis                                       provided by JSGE with a hand-reach support from industries,
+    ▸ Chronic atrophic gastritis                                         which were otherwise not involved in the planning, organisation
+                                                                         or manuscript writing and did not join in the discussions.
+
+
+
+Sugano K, et al. Gut 2015;64:1353–1367. doi:10.1136/gutjnl-2015-309252                                                                 1355
+ Guidelines
+
+Process and results                                                  disease.2 24 25 At present, no classiﬁcation of gastritis would be
+At the ﬁrst round of voting 16 CQs achieved the predeﬁned            complete without including H. pylori as the aetiological cause.
+consensus level of ≥80%. Six statements failed to reach consen-
+sus and each section met to modify their assigned statements         CQ2. Is the proposed ICD-11 classiﬁcation for gastritis
+based on the comments and opinions received. This led to some        appropriate?
+questions being split into two or being combined, resulting in       Statement 2
+24 CQs, including 25 statements which were subjected to the          The newly proposed classiﬁcation of gastritis in the ICD11 β
+second round of voting within their assigned group. The results      version is an improvement because it is based on aetiological
+of the second round of voting were disclosed on the ﬁrst day of      factors.
+the face-to-face meeting in Kyoto. At this stage, all statements        Grade of recommendation: strong
+except one had achieved consensus. To facilitate further discus-        Evidence level: moderate
+sion in the break-out sessions, preliminary plenary voting was          Consensus level: 100%
+done to enable the respective section members to consider the
+opinions of all group members.                                       Comment
+   On the second day, the ﬁnalised CQs and accompanying state-       Although the ICD-10 has been updated regularly to accommodate
+ments were presented for plenary voting. If consensus levels         new diseases and concepts, WHO recognised the necessity of
+were not reached, open discussions ensued to modify the state-       overall systematic changes in the ICD and decided to revise the
+ments, followed by voting. All the ﬁnalised CQs and statements       current ICD-10 to ICD-11 in 2007. As the intermediate process
+are shown in the four consensus sections. Levels of recommen-        for this revision, the ICD11 β version was formulated with input
+dation and evidence are shown together with the voting results.      from various scientiﬁc advisory groups. This version was open to
+For CQ1 to CQ8A, 39 members voted, while 38 voted for                the public so that opinions from various interest groups and a
+CQ8B to CQ14A and 37 voted for CQ14B to CQ23. During                 broader range of medical specialists could be reﬂected before com-
+the plenary voting, one subdivided CQ (CQ19) was recom-              piling the ICD-11. ICD11 β foundation component consists of the
+bined, while another CQ (CQ21) was deleted because of redun-         core of the ICD-11 classiﬁcation from which mortality and mor-
+dancy, resulting in 22 CQs and 24 statements. All voting during      bidity classiﬁcations will derive. However, it remains a draft and
+the plenary session was done anonymously by an electronic            can be changed from time to time before ﬁnalisation of ICD-11
+voting system with key pads distributed to each faculty member.      (for more details, please visit http://www.who.int/classiﬁcations/
+The ﬁve faculty members who missed the plenary voting session        icd/revision/betaexpectations/en/).
+were asked to vote later for the ﬁnalised CQs and statements            In the ICD11 β foundation component of the gastritis
+without knowledge of the plenary voting results. Their voting        section, classiﬁcation of gastritis was principally based on aetio-
+results were almost identical with the plenary voting results.       logical factors with consideration of their speciﬁc pathophysio-
+They agreed on all the CQs with the only exception being             logical principles (box 2). Accordingly, H. pylori gastritis is
+CQ11, showing 80% (one out of ﬁve) agreement. Since there            categorised as a speciﬁc nosological entity.
+was no inconsistency between the plenary voting and voting by           The assessment of gastritis based on histopathological criteria
+the absentees, combining the two sets of results did not inﬂu-       was completely changed after recognition of H. pylori as the
+ence the outcome. The entire consensus results are shown             most common cause of chronic gastritis. The Sydney System
+below.                                                               was developed as a consequence and has been integrated into
+                                                                     clinical practice. The Sydney classiﬁcation of gastritis combined
+CONSENSUS STATEMENT                                                  histological parameters of activity, chronicity, atrophy, intestinal
+                                                                     metaplasia, topographical distribution and aetiopathogenic
+Section 1. Classiﬁcation of gastritis in relation to ICD-11          information for reporting the pathology of gastritis in endo-
+CQ1. Is the current ICD-10 classiﬁcation for gastritis               scopic biopsies.19 20
+appropriate?                                                            As described above, classiﬁcation of gastritis in the foundation
+Statement 1                                                          component of ICD11 β version is principally based on causative
+The current ICD-10 classiﬁcation for gastritis is obsolete in view   factors, in order to cover the three most important and best
+of the discovery of H. pylori.                                       deﬁned categories of gastritis—namely, (a) H. pylori-induced,
+  Grade of recommendation: strong                                    (b) drug-induced and (c) autoimmune gastritis. A speciﬁc diag-
+  Evidence level: high                                               nosis among these different categories of gastritis is required to
+  Consensus level: 100%                                              direct speciﬁc management and treatment strategies. The diag-
+                                                                     nosis of H. pylori-induced gastritis has major implications for
+Comment                                                              life-long healthcare. H. pylori gastritis may cause dyspeptic
+The ICD-10 classiﬁcation of gastritis was formulated in 1989         symptoms26 27 and result in gastroduodenal pathologies, includ-
+and is still in effect in most countries. At the time of formula-    ing peptic ulcer disease (PUD) and gastric cancer. The recog-
+tion, the ICD-10 classiﬁcation of gastritis and duodenitis (K29)     nised role of H. pylori as a carcinogen makes eradication of
+was rudimentary as it was based on macroscopic and histomor-         H. pylori infection the preferred strategy for the prevention of
+phological criteria; the only aetiological factor assigned was       gastric cancer.5 11 28 There is more to learn about aetiologies
+alcohol6 (box 1). The histological classiﬁcation of gastritis con-   other than H. pylori in gastritis and this is dealt with as
+sidered mainly aspects of atrophy and autoimmunity.1                 ‘H. pylori-negative or idiopathic gastritis’.29
+   The discovery of H. pylori had not been taken into account,          The proposed aetiology-based classiﬁcation for gastritis in the
+possibly because even though release came after the discovery of     foundation component of ICD11 β version was further reﬁned by
+Campylobacter pylori (H. pylori), the role of H. pylori in disease   this consensus meeting (box 3). Clinical validation is needed to
+was still controversial. The recognition of H. pylori infection as   further deﬁne and conﬁrm the usefulness of the new classiﬁcation.
+the primary cause of chronic gastritis proved to be a break-            Furthermore, duodenitis, which was in the gastritis section in
+through that reopened the chapter on gastritis and its role in       ICD-10, is now categorised in an independent section in the
+1356                                                                      Sugano K, et al. Gut 2015;64:1353–1367. doi:10.1136/gutjnl-2015-309252
+                                                                                                                             Guidelines
+
+                                                                          Duodenitis due to external causes
+  Box 3 Aetiology-based classiﬁcation of gastritis (3A)                     ▸ Alcoholic duodenitis
+  and duodenitis (3B). A proposal according to the                          ▸ Chemical duodenitis
+  consensus at the Kyoto consensus conference                               ▸ Radiation duodenitis
+                                                                            ▸ Duodenitis due to other external causes
+ 3A Proposed classiﬁcation of gastritis in the Kyoto consensus              ▸ Drug-induced duodenitis
+ conference                                                               Duodenitis due to speciﬁed causes
+ Autoimmune gastritis                                                       ▸ Allergic duodenitis
+ Infectious gastritis                                                       ▸ Eosinophilic duodenitis
+    ▸ Helicobacter pylori-induced gastritis                                 ▸ Lymphocytic duodenitis
+    ▸ Bacterial gastritis other than H. pylori                            Duodenitis due to other diseases classiﬁed elsewhere
+          Helicobacter heilmannii gastritis                                 ▸ Duodenitis due to Crohn’s disease
+          Enterococcus gastritis                                            ▸ Duodenitis due to sarcoidosis
+          Mycobacteria gastritis                                            ▸ Duodenitis due to vasculitis
+          Secondary syphilitic gastritis                                    ▸ Duodenitis due to Henoch–Schönlein purpura
+    ▸ Gastric phlegmone                                                     ▸ Duodenitis due to coeliac disease
+    ▸ Viral gastritis
+          Enteroviral gastritis
+          Cytomegalovirus gastritis                                      foundation component. It should be noted that the Joint
+    ▸ Fungal gastritis                                                   Linearisation of Mortality and Morbidity of ICD11 β version is
+          Gastritis due to mucormycosis                                  now publicly available (see online supplementary table S3) and
+          Gastric candidiasis                                            differs signiﬁcantly from the foundation component (box 2) or
+          Gastric histoplasmosis                                         aetiology-based classiﬁcation proposed in this paper (box 3).
+    ▸ Parasitic gastritis                                                This linearisation did not adopt the principle of aetiology-based
+          Cryptosporidium gastritis                                      classiﬁcation, thus requiring further revision.
+          Gastric strongyloides stercorale
+          Gastric anisakiasis                                            CQ3. Is it necessary to categorise gastritis according to gastric
+ Gastritis due to external causes                                        subsite?
+    ▸ Drug-induced gastritis                                             Statement 3
+    ▸ Alcoholic gastritis                                                It is useful to categorise H. pylori-induced gastritis according to
+    ▸ Radiation gastritis                                                gastric subsites, because the risks of gastric cancer and peptic
+    ▸ Chemical gastritis                                                 ulcer are affected by the patterns of gastritis.
+    ▸ Gastritis due to duodenal reﬂux                                       Grade of recommendation: strong
+    ▸ Gastritis due to other speciﬁed external cause                        Evidence level: high
+ Gastritis due to speciﬁed causes                                           Consensus level: 97.4%
+    ▸ Lymphocytic gastritis
+    ▸ Ménétrier disease                                                  Comment
+    ▸ Allergic gastritis                                                 The categorisation of H. pylori gastritis according to gastritis
+    ▸ Eosinophilic gastritis                                             subsites together with the assessment of gastritis severity allows
+ Gastritis due to other diseases classiﬁed elsewhere                     prediction of an individual’s risk of developing severe gastro-
+    ▸ Gastritis due to sarcoidosis                                       duodenal complications and, in particular, gastric cancer.30–32
+    ▸ Gastritis due to vasculitis                                           Depending on the gastric subsites involved, gastric function
+    ▸ Gastritis due to Crohn’s disease                                   and, in particular, gastric acid secretion may be profoundly
+ 3B Proposed classiﬁcation of duodenitis in the Kyoto consensus          affected, resulting in gastric acid hypersecretion, hyposecretion
+ conference                                                              or even achlorhydria.33–35
+ Infectious duodenitis                                                      Subsite characterisation of gastritis is also critically important
+    ▸ H. pylori-induced duodenitis                                       for identifying those patients who remain at high risk after
+    ▸ Bacterial duodenitis other than H. pylori                          H. pylori eradication and thus are candidates for regular endo-
+          Mycobacterial duodenitis                                       scopic and histological follow-up.36 Patients with severe atrophic
+          Duodenitis due to Tropheryma whipplei (Whipple’s               gastritis (with or without intestinal metaplasia) in the corpus or
+          disease)                                                       with severe corpus predominant gastritis are those at highest
+    ▸ Duodenal phlegmone                                                 risk for progression to gastric cancer of the intestinal type31 37
+    ▸ Fungal duodenitis                                                  and for diffuse-type gastric cancer. In diffuse-type gastric cancer
+          Duodenal candidiasis                                           the prevalence of antral atrophic gastritis is almost identical to
+    ▸ Parasitic duodenitis                                               that seen in the intestinal type but is slightly less with corpus
+          Ancylostomasis (hookworm) duodenitis                           atrophic gastritis than with intestinal type gastric cancer.38
+          Duodenal anisakiasis
+          Duodenitis due to Giardia lamblia                              CQ4. Is it necessary to categorise gastritis according to
+          Strongyloides duodenitis                                       histology (severity) and/or endoscopy?
+    ▸ Viral duodenitis                                                   Statement 4
+          Cytomegaloviral duodenitis                                     It is advisable to categorise gastritis according to histology,
+          Herpetic duodenitis                                            because the risk of development of gastric cancer in H. pylori
+
+
+Sugano K, et al. Gut 2015;64:1353–1367. doi:10.1136/gutjnl-2015-309252                                                                   1357
+ Guidelines
+
+gastritis varies according to the extent and severity of inﬂamma-     CQ6. Is H. pylori gastritis an infectious disease irrespective of
+tion and atrophy.                                                     symptom and complications?
+   Grade of recommendation: strong                                    Statement 6
+   Evidence level: high                                               H. pylori gastritis should be deﬁned as an infectious disease,
+   Consensus level: 100%                                              even when patients have no symptoms and irrespective of com-
+                                                                      plications such as peptic ulcers and gastric cancer.
+                                                                         Grade of recommendation: strong
+Comment
+                                                                         Evidence level: high
+The updated Sydney System has been globally implemented into
+                                                                         Consensus level: 100%
+clinical practice and requires proper assessment of all the rele-
+vant characteristics of H. pylori gastritis including atrophy
+                                                                      Comment
+and intestinal metaplasia at different gastric subsites.19 20
+                                                                      H. pylori gastritis is an infectious disease and leads to chronic active
+Categorising gastritis is clinically relevant because the ‘pheno-
+                                                                      gastritis of varying severity in virtually all infected subjects.50
+type’ of H. pylori gastritis determines the risk of progression to
+                                                                         There is a signiﬁcant variability in the interindividual expres-
+gastroduodenal complications.
+                                                                      sions of gastric mucosal structural damage and accordingly the
+   Severity and extent of atrophic gastritis and intestinal
+                                                                      associated physiological perturbations also vary.30 35 H. pylori
+metaplasia are well established as indicators of the increased risk
+                                                                      gastritis may remain clinically unapparent or evolve into severe
+for developing gastric cancer.31 39 40 Similarly, severe
+                                                                      complications. The rate of progression is unpredictable. The
+H. pylori-induced corpus gastritis is associated with an increased
+                                                                      most severe clinical expression is gastric cancer, which is often
+risk for gastric cancer.31 41 New staging systems for the charac-
+                                                                      incurable by the time of diagnosis.
+terisation of gastritis have been introduced to assess the gastric
+                                                                         Cure of H. pylori infection leads to healing of the inﬂamed
+cancer risk. They are used in clinical practice and are either
+                                                                      gastric mucosa, which may return to normal. H. pylori eradica-
+based on the severity of atrophy in various gastric subsites
+                                                                      tion may improve or resolve dyspeptic symptoms and usually
+(OLGA)16 17 or on intestinal metaplasia (OLGIM).18 Both
+                                                                      cures PUD. H. pylori gastritis is a disease which can be cured
+systems, discussed further in section 3, are reported to have a
+                                                                      and thus prevent severe complications. If H. pylori gastritis has
+positive impact on patient management.
+                                                                      progressed to more severe forms of gastritis, including atrophic
+                                                                      gastritis with or without intestinal metaplasia, or severe corpus
+CQ5. How should we classify gastric erosions in the context of
+                                                                      predominant gastritis, the risk of gastric cancer is increased and
+chronic gastritis?
+                                                                      eradication of the infection at this stage needs to be integrated
+Statement 5
+                                                                      with a follow-up strategy.5 11 28 31 36 40
+Gastric erosions should be reported separately from gastritis.
+The natural history and clinical signiﬁcance of gastroduodenal
+                                                                      Section 2 Dyspepsia associated with H. pylori infection
+erosions depend on aetiology and need further clariﬁcation.
+                                                                      CQ7. Does H. pylori gastritis cause dyspepsia?
+  Grade of recommendation: strong
+                                                                      Statement 7
+  Evidence level: low
+                                                                      H. pylori gastritis is the cause of dyspepsia in a subset of patients.
+  Consensus level: 100%
+                                                                        Grade of recommendation: strong
+                                                                        Evidence level: high
+Comment                                                                 Consensus level: 100%
+Gastric erosions are deﬁned as superﬁcial mucosal breaks with a
+diameter of <3 mm or <5 mm.42 This small size makes it less           Comment
+likely to confound erosions with peptic ulcers which, by deﬁn-        A large number of observations support the conclusion that
+ition, penetrate the muscularis mucosae.3                             H. pylori infection may be a cause of symptoms in a proportion
+   Gastric erosions can be detected in the context of H. pylori       of patients presenting with dyspepsia.26 27 First, acute iatrogenic
+infection but are more frequently caused by intake of mucosal         or self-administered infection with H. pylori can induce acute
+damaging drugs—in particular, aspirin and non-steroidal anti-         dyspeptic symptoms.24 25 However, while persistent colonisation
+inﬂammatory drugs (NSAIDs).43 44                                      virtually always leads to chronic gastritis,48 in the majority of
+   Furthermore, several different morphological forms were            individuals severe dyspeptic symptoms are transient.24 25 51
+noted after eradication of H. pylori as (a) ﬂat, (b) raised,          Second, most but not all, epidemiological studies show associa-
+(c) haemorrhagic and (d) appearing as bleeding spots with local-      tions between H. pylori infection and (uninvestigated) dyspeptic
+isation in the antrum in the absence of drugs,45 possibly owing       symptoms.52–55 The most convincing evidence can be derived
+to hyperacidity after eradication therapy.46 47                       from H. pylori eradication studies in infected patients with unin-
+   From a clinical perspective, the most relevant aspect of ero-      vestigated or FD.12 56–61 In these studies, eradication is associated
+sions is that patients taking NSAIDs and having numerous ero-         with a small but statistically signiﬁcant beneﬁt for symptom
+sions in the stomach are at increased risk of developing ulcers       control over no eradication; the estimated number needed to
+subsequently.48                                                       treat is 1412 and in a more recent study the number was 8.61 At
+   Few studies on the clinical signiﬁcance or natural history of      present there are no criteria to predict whether a patient with
+gastric or duodenal erosions have been reported. Thus, it is          dyspeptic symptoms will respond to eradication therapy or not.
+important to conduct a prospective research in which erosions in      Therefore, the only way in clinical practice is to eradicate the
+the stomach and duodenum are separately reported in conjunc-          H. pylori infection and see whether symptoms resolve or
+tion with the category of gastritis, which is needed to better        whether additional treatments will be required. The symptomatic
+understand the natural history of gastric erosions and their          gain takes at least 6 months to become signiﬁcant over no eradi-
+potential to progress to ulceration and bleeding. Validated scores    cation and this has been attributed to the time it takes for gastritis
+for reporting erosions for research purposes should be used.49        to recover.12 59–61
+
+
+1358                                                                        Sugano K, et al. Gut 2015;64:1353–1367. doi:10.1136/gutjnl-2015-309252
+                                                                                                                              Guidelines
+
+CQ8. Should we categorise H. pylori-associated dyspepsia as a             patients with FD derive symptomatic beneﬁt from eradication,
+speciﬁc entity?                                                           with a delay of at least 6 months from cure of the infection.12 59–61
+Statement 8A                                                                 Based on these considerations, sustained symptom control
+In H. pylori-infected patients with dyspepsia, symptoms can be            after successful eradication identiﬁes H. pylori as the organic
+attributed to H. pylori gastritis if successful eradication therapy       cause of the symptoms in these patients and provides the ration-
+is followed by sustained symptom remission.                               ale to consider H. pylori-associated dyspepsia as a separate clin-
+   Grade of recommendation: strong                                        ical entity. H. pylori-infected patients with chronic dyspeptic
+   Evidence level: high                                                   symptoms and negative endoscopy are now treated and labelled
+   Consensus level: 97.4%                                                 depending on their treatment response as outlined in ﬁgure 1.
+Statement 8B
+H. pylori-associated dyspepsia (as in statement 8A) is a distinct         CQ9. Is eradication of H. pylori infection ﬁrst-line treatment
+entity.                                                                   for improving dyspeptic symptoms?
+   Grade of recommendation: strong                                        Statement 9
+   Evidence level: moderate                                               Eradication of H. pylori is ﬁrst-line treatment for
+   Consensus level: 92.1%                                                 H. pylori-infected dyspeptic patients.
+                                                                            Grade of recommendation: strong
+                                                                            Evidence level: high
+Comment                                                                     Consensus level: 94.7%
+Based on the Rome III consensus,9 62 FD is deﬁned as “the pres-
+ence of chronic dyspeptic symptoms ( postprandial fullness,
+                                                                          Comment
+early satiation, epigastric pain or burning) without evidence of
+                                                                          As is apparent from statement 8, there is a group of patients
+structural disease (including at upper endoscopy) that is likely to
+                                                                          with FD for whom H. pylori is considered the cause of their
+explain the symptoms” (ﬁgure 1). This group was contrasted
+                                                                          symptoms, and this can be established if eradication is associated
+with those in whom chronic dyspeptic symptoms have an identi-
+                                                                          with sustained symptom beneﬁt.9 59–61 This scenario is the only
+ﬁed organic or metabolic cause, where elimination of that cause
+                                                                          one where patients with chronic dyspeptic symptoms and a
+or improvement of the disease leads to resolution or improve-
+                                                                          negative endoscopy can be ‘cured’, albeit with some delay after
+ment of symptoms.9
+                                                                          successful eradication therapy.12 59–61 Moreover, very few effect-
+   The Rome III consensus mentions a subset of patients with
+                                                                          ive alternative therapeutic approaches have been proved to have
+H. pylori gastritis as representative of organic dyspepsia if they
+                                                                          substantial and sustained beneﬁt in FD.63 Finally, eradication
+respond to eradication. Patients with H. pylori gastritis in whom
+                                                                          therapy is a short treatment, with acceptable cost–beneﬁt for
+symptoms persist despite eradication therapy eliminating the infec-
+                                                                          controlling dyspeptic symptoms, and with other potential bene-
+tion were identiﬁed as having FD.9 As mentioned above, eradica-
+                                                                          ﬁts for prevention of peptic ulcer and gastric cancer.5 Based on
+tion therapy studies showed that a subset of H. pylori-infected
+                                                                          these considerations, eradication therapy can be proposed as
+                                                                          ﬁrst-line treatment for H. pylori-infected dyspeptic patients,
+                                                                          which is in line with a recent management algorithm by the
+                                                                          Rome foundation.64
+
+                                                                          CQ10. How effective is H. pylori eradication on dyspeptic
+                                                                          symptoms—in the short and long term—and how does it
+                                                                          compare with other treatments (such as proton pump inhibitors
+                                                                          (PPIs))?
+                                                                          Statement 10
+                                                                          In H. pylori-infected dyspeptic patients, eradication therapy for
+                                                                          dyspeptic symptoms is better than placebo and is the preferred
+                                                                          option.
+                                                                            Grade of recommendation: strong
+                                                                            Evidence level: high
+                                                                            Consensus level: 97.4%
+
+                                                                          Comment
+                                                                          Eradication therapy studies have conﬁrmed that a subset of
+                                                                          H. pylori-infected patients with FD is relieved of dyspeptic
+                                                                          symptoms by eradication therapy.12 56–61 To date, only a limited
+                                                                          number of studies have directly compared eradication therapy
+                                                                          with other treatments that are used for FD, such as PPIs or pro-
+                                                                          kinetic therapy.57 60 61 Hence, although the symptomatic gain
+                                                                          takes at least 6 months,57 60 61 eradication is the preferred treat-
+Figure 1 Diagnostic algorithm of Helicobacter pylori-associated           ment. Future trials should compare eradication with treatment
+dyspepsia. Patients with dyspeptic symptoms after negative routine
+                                                                          modalities other than placebo in H pylori-infected patients with
+laboratory and upper gastrointestinal endoscopy except for positive
+H. pylori tests, should undergo eradication therapy. If sustained         chronic dyspeptic symptoms and a negative endoscopy.
+symptomatic relief is obtained, their dyspeptic symptoms are considered
+as H. pylori-associated dyspepsia. On the other hand, if dyspeptic        CQ11. Should patients who remain dyspeptic after successful
+symptoms do not resolve or recur after eradication therapy, they are      H. pylori eradication be considered to have FD?
+judged to have functional dyspepsia. EGD, oesophagastroduodenoscopy.      Statement 11
+Sugano K, et al. Gut 2015;64:1353–1367. doi:10.1136/gutjnl-2015-309252                                                                    1359
+ Guidelines
+
+Patients who remain symptomatic after successful H. pylori                    diagnosis of premalignant gastric lesions. This includes chro-
+eradication should be considered to have FD.                                  moendoscopy,65 high-resolution magniﬁcation endoscopy66 67
+  Grade of recommendation: weak                                               and image-enhanced endoscopy combined with magniﬁca-
+  Evidence level: moderate                                                    tion15 68–72 (ﬁgure 2). These methods are now routinely available
+  Consensus level: 97.4%                                                      in Japan and will be increasingly used worldwide. Adequate
+                                                                              evaluation of the stomach mucosa with each of these methods
+Comment
+                                                                              requires appropriate training66 and offers the advantage of tar-
+As indicated in statements 8A and 8B and in agreement with the
+                                                                              geted biopsies.
+Rome III criteria,9 62 H. pylori infected dyspeptic patients with
+negative endoscopy who experience sustained symptom control
+                                                                              CQ13. Is the updated Sydney System appropriate for histo-
+are labelled as having H. pylori-associated dyspepsia.
+                                                                              logical diagnosis of gastritis?
+Conversely, when symptoms do not beneﬁt in the long term
+                                                                              Statement 13
+from successful eradication, this indicates that H. pylori gastritis
+                                                                              Accurate histological assessment of gastritis requires biopsy sam-
+did not cause the symptoms in these patients. Consequently,
+                                                                              pling of both antrum and corpus.
+they can keep the label ‘functional dyspepsia’ (ﬁgure 1).
+                                                                                 Grade of recommendation: strong
+Section 3 Diagnosis of gastritis                                                 Evidence level: high
+CQ12. Is it possible to make a diagnosis of atrophy and/or                       Consensus level: 92.1%
+intestinal metaplasia by endoscopy?
+Statement 12                                                                  Comment
+Atrophic mucosa and intestinal metaplasia can be accurately                   Premalignant lesions of the stomach may be unevenly distribu-
+detected by image-enhanced endoscopy, after appropriate training.             ted. Therefore, accurate histological assessment of gastritis
+   Grade of recommendation: strong                                            requires biopsy sampling of both antrum and corpus. This may
+   Evidence level: high                                                       facilitate the classiﬁcation and grading of preneoplastic gastric
+   Consensus level: 84.2%                                                     lesions.73 Various studies have shown that more extensive
+                                                                              biopsy sampling increases the diagnostic yield for identifying
+Comment                                                                       patients with premalignant lesions and provides a better over-
+Conventional endoscopy is, in most hands, an inadequate tool                  view of the severity and distribution of these lesions.74–76
+for diagnosing atrophy and intestinal metaplasia and therefore it             This also has practical limitations, which led to the updated
+remains mandatory that a biopsy is carried out, allowing histo-               Sydney System. This provides guidance on the methods of
+morphological assessment of the gastric mucosa according to the               sampling and the histopathological grading of individual
+Sydney classiﬁcation.19 20 However, image-enhanced endoscopy                  abnormalities—in particular, inﬂammation, gland loss and
+has improved the accuracy and reproducibility of endoscopic                   metaplasia.20 The Sydney System recommends routine
+
+
+
+
+Figure 2 Image enhanced endoscopy. (A) Narrow band imaging (NBI) of the gastric mucosa. Round homogeneous sized pits with regularly
+arranged collecting venules are shown (left). This pattern (regular arrangement of collecting venules) named ‘RAC’ pattern in the corpus mucosa
+highly indicates a Helicobacter pylori negative state.13 In the H. pylori-infected mucosa with inﬂammation, pit patterns are elongated, varied in sizes
+and shapes with spaces between them. Collecting venules are obscured owing to inﬂammation (centre).14 When intestinal metaplasia develops, the
+pit pattern is further elongated with light blue lines (light blue crest sign) decorating the pits margins (right).66 The images were provided by
+Dr Kazuyoshi Yagi. (B) Blue laser imaging (BLI) of the gastric mucosa. BLI is a new modality of image enhancement.70 The BLI-bright mode can
+easily obtain lower magniﬁcation images, similar to the NBI images in (A) (left). With BLI-magniﬁcation mode, further mucosal details including
+periglandular capillary networks (red coloured circles surrounding the pits) are seen (centre). BLI endoscopy is useful for identifying the area of
+intestinal metaplasia where greenish coloured elongated pit patterns predominate (right). The images were provided by Dr Hiroyuki Osawa, Jichi
+Medical University.
+1360                                                                                Sugano K, et al. Gut 2015;64:1353–1367. doi:10.1136/gutjnl-2015-309252
+                                                                                                                            Guidelines
+
+sampling of ﬁve gastric biopsy specimens: antrum greater and             CQ15. Are serological tests ( pepsinogen I, II, I/II, H. pylori
+lesser curvature, incisura and corpus greater and lesser curva-          antibody) useful for risk stratiﬁcation?
+ture. Specimens need to be put into separate vials and grouped           Statement 15
+for each site or lesion. The system is widely used; the most             Serological tests ( pepsinogen I and II and H. pylori antibody)
+common modiﬁcation being to leave out the separate incisura              are useful for identifying individuals at increased risk for gastric
+sample.36 It is of key importance that separate specimens are            cancer.
+obtained from endoscopically visible lesions. The accuracy of              Grade of recommendation: strong
+image-enhanced endoscopy in trained hands further increases                Evidence level: high
+the yield of targeted biopsies.66 77 78                                    Consensus level: 91.9%
+
+CQ14. Are grading systems such as OLGA and OLGIM useful                  Comment
+for risk stratiﬁcation?                                                  Serological tests for the diagnosis of chronic gastritis and gastric
+Statement 14A                                                            atrophy have been in use for more than 25 years. These include
+Gastric cancer risk correlates with the severity and extent of           H. pylori serology (crude antigen with or without additional
+atrophic gastritis.                                                      determination of anti-CagA antibodies) for the diagnosis of gas-
+   Grade of recommendation: strong                                       tritis, and serum pepsinogen I and II and gastrin for the diagno-
+   Evidence level: high                                                  sis of gland loss resulting in hypoacidity.85 These tests are
+   Consensus level: 94.7%                                                usually applied in panels of multiple tests and have been shown
+Statement 14B                                                            to be a useful non-invasive diagnostic tool in an individual
+Histological staging systems such as OLGA and OLGIM are                  patient, and as a population screening and surveillance tool.86 87
+useful for risk stratiﬁcation.                                           A Japanese cohort of 9293 screenees underwent serological
+   Grade of recommendation: strong                                       assessment by means of H. pylori serology and pepsinogen I
+   Evidence level: low                                                   and II measurement.86 The annual progression to gastric cancer
+   Consensus level: 97.3%                                                was very low in subjects with normal pepsinogens, irrespective
+                                                                         of H. pylori status. The annual progression to gastric cancer was
+Comment                                                                  substantially higher (3.5–6 per 1000 per year) in individuals
+Most gastric cancers are triggered by longstanding gastritis, pri-       with low serum pepsinogen levels, compatible with presence of
+marily due to H. pylori infection. This can occur via a multistep        atrophic gastritis.86 In the latter group, the incidence of gastric
+pathway of precancerous lesions—in particular, atrophic gastri-          cancer was higher among those with negative H. pylori serology
+tis, intestinal metaplasia and dysplasia/intraepithelial neoplasia.      than among those with positive H. pylori serology, which is
+Various studies conﬁrm an increased gastric cancer risk in               indicative of progressive and widespread atrophy and metaplasia
+patients with premalignant gastric lesions. For instance, a              impairing further H. pylori colonisation. Similar ﬁndings were
+nationwide study from the Netherlands including approximately            obtained in other studies.88 89
+98 000 patients with premalignant gastric lesions reported, on
+average, a 2–3% gastric cancer risk over 10 years.79 This risk           CQ16. When is it appropriate to search and screen for
+varied with the baseline stage of premalignant lesions, being            H. pylori gastritis?
+0.8%, 1.8%, 3.9% and 32.7% for patients with atrophic gastri-            Statement 16
+tis, intestinal metaplasia, mild-to-moderate dysplasia and severe        Depending on the epidemiological context, it is appropriate to
+dysplasia, respectively.79                                               search and screen for H. pylori gastritis at an age before devel-
+   These data conﬁrmed the association between presence of               opment of atrophic gastritis and intestinal metaplasia.
+premalignant gastric lesions and development of gastric cancer,            Grade of recommendation: strong
+yet also showed that the risk for developing gastric cancer in an          Evidence level: moderate
+individual with premalignant lesions is nevertheless small (2–6            Consensus level: 97.3%
+per 1000 people per year). This necessitates the use of risk
+stratiﬁcation methods.
+   Gastric biopsy sampling can be used to provide the most               Comment
+important information for risk classiﬁcation. This led to the            H. pylori infection is mainly acquired in childhood, up to the age
+OLGA staging system.16 17 This histological staging system               of 12 years, in developed countries mostly by intrafamilial trans-
+grades patients with gastritis into stages with corresponding            mission.90–92 The bacterium and associated gastritis persist life-
+gastric cancer risk. Further studies showed that this staging            long, unless treated by eradication therapy, or unless end-stage
+system provides relevant clinical information.80–82 Based on the         widespread atrophic gastritis and intestinal metaplasia occur. The
+high prevalence of atrophic gastritis in at-risk populations and         risk for gastric cancer depends on the grade of gastric atrophy
+the limited reproducibility and high interobserver variability in        and intestinal metaplasia.31 82–84 86 H. pylori eradication can
+histological diagnosis of atrophic gastritis, a further proposal         reduce the risk for cancer, but this effect is largely conﬁned to
+was made for the OLGIM system based on diagnosis and distri-             patients without atrophy and metaplasia.93–95 In patients with
+bution of intestinal metaplasia.18                                       these lesions, H. pylori eradication reduces gastritis, but may not
+   The interobserver reproducibility was improved for intestinal         stop further progression to cancer. As a result, cancer can occur
+metaplasia compared with atrophic gastritis, and the correlation         more than 10 years after H. pylori eradication treatment.96
+between the severities of gastritis remained at least as strong.18       Against this background, it is appropriate to search and screen
+Subsequent studies with both the OLGA and OLGIM systems                  for H. pylori gastritis at an age when new infections become less
+showed a higher gastric cancer risk in patients in stage III or IV       likely (>12 years) and before development of atrophic gastritis
+of OLGA or OLGIM.82–84 As a result, upper gastrointestinal               and intestinal metaplasia. This all depends on the geographical
+surveillance endoscopy should be offered to patients in these            location and epidemiological context, taking into account the
+subcategories.                                                           prevalence of infection and age-related cancer incidence.97
+Sugano K, et al. Gut 2015;64:1353–1367. doi:10.1136/gutjnl-2015-309252                                                                  1361
+ Guidelines
+
+Section 4 Management of gastritis                                       infected      individuals    and       reducing     or      preventing
+CQ17. Should all H. pylori-positive individuals receive eradica-        H. pylori-associated diseases. The maximum beneﬁt of eradica-
+tion therapy?                                                           tion for an individual is obtained if eradication is done while
+Statement 17                                                            the H. pylori-induced mucosal damage has not progressed
+H. pylori infected individuals should be offered eradication            beyond the non-atrophic stage. This population is found in
+therapy, unless there are competing considerations.                     countries where gastric cancer is still prevalent and is concen-
+   Grade of recommendation strong                                       trated in the younger generation. H. pylori eradication of ado-
+   Evidence level: high                                                 lescents and young adults has an additional advantage of
+   Consensus level: 100%                                                reducing or preventing transmission of the infection to their
+                                                                        children.
+                                                                           As noted above (Section 3), the risk for development of
+Comment
+                                                                        gastric cancer correlates with the extent and severity of atrophic
+H. pylori is a major human pathogen that causes chronic and
+                                                                        gastritis. It is impossible to deﬁne the risk for an individual
+progressive gastric mucosal damage and is aetiologically related
+                                                                        based on age. Cancer risk in any population relates to the rate
+to peptic ulcer, gastric cancer and gastric atrophy. It is also
+                                                                        of progression of gastric mucosal damage, which is high in
+closely associated with gastric MALT lymphoma, dyspepsia,
+                                                                        populations at high risk of cancer and low in H. pylori-infected
+hyperplastic gastric polyps and idiopathic thrombocytopenic
+                                                                        populations with a low cancer risk. Thus, while it is possible to
+purpura.5 12 46 47 61 98–104 H. pylori-positive individuals are
+                                                                        identify an average age at which the transition from non-
+also the major reservoir for transmission of the infection.
+                                                                        atrophic to atrophic phenotype occurs for any population, one
+   The decision to eradicate a chronic infection in a society
+                                                                        should expect that any age group will contain individuals with a
+should be based on quantitative data regarding the outcome of
+                                                                        wide range of damage, ranging from uninfected (normal) to
+untreated infections. H. pylori causes a chronic infection,
+                                                                        advanced atrophy. This emphasises the need for risk stratiﬁca-
+similar, for example, to asymptomatic syphilis or tuberculosis,
+                                                                        tion based on objective parameters including a validated histo-
+and the ﬁnal outcome for any individual cannot be predicted.105
+                                                                        logical staging system rather than on age, to identify whether
+H. pylori infection differs from many other chronic infectious
+                                                                        one eradication treatment is needed or whether the patient
+diseases because it is always transmissible, thus putting others at
+                                                                        might require surveillance.
+risk. Because the gastric damage is progressive, the lack of an
+                                                                           The incidence of gastric cancer increases with age, which is a
+obvious clinical manifestation at diagnosis has no predictive
+                                                                        surrogate marker for the time required for progression of atro-
+value for life-time risk to an individual patient, their family or
+                                                                        phic gastritis. When atrophic gastritis becomes extensive and
+to the community. Beneﬁts of H. pylori eradication for an indi-
+                                                                        severe, the risk increases exponentially. Cancer is the culmin-
+vidual depend in part on the degree and extent of damage that
+                                                                        ation of a multistep process of genetic instability, with cancer
+has already occurred and the reversibility of that damage.
+                                                                        cells possessing mutations in coding regions, somatic gene rear-
+Potential beneﬁts of eradication include stopping the progres-
+                                                                        rangements and epigenetic changes such as methylation.
+sion of mucosal damage, stabilisation or reduction in risk of
+                                                                        Current data are consistent with the notion that H. pylori eradi-
+developing gastric cancer, resolution of mucosal inﬂammation,
+                                                                        cation halts the progression of damage and reduces or eliminates
+stabilisation or improvement of gastric mucosal function, return
+                                                                        the H. pylori-associated events that increase genetic instability in
+of the normal mechanisms governing acid secretion, cure of
+                                                                        the gastric mucosa. These include infection-associated DNA
+H. pylori-related PUD, reduction in risk of gastrointestinal com-
+                                                                        double-strand breaks,118 impaired DNA mismatch repair,119
+plications of NSAID therapy and prevention of future develop-
+                                                                        aberrant activation-induced cytidine deaminase expression,
+ment of H. pylori-related peptic ulcer.2 5 11 28 46 47 106–115
+                                                                        which induces nucleotide alterations involved in DNA muta-
+   For society, the beneﬁts include reduction of the reservoir of
+                                                                        tions,120 aberrant methylation in a number of gene promoters
+infected individuals capable of transmitting the infection to others,
+                                                                        in the gastric mucosa, including cell growth-related genes,
+and avoidance of the costs associated with diagnosis, management
+                                                                        DNA-repair genes, tumour-suppressor genes, the cell adherence
+and outcomes of H. pylori-related diseases that are prevented.
+                                                                        gene E-cadherin and CpG islands of microRNA genes121–123
+Thus, H. pylori-infected patients should be offered eradication
+                                                                        and aberrant microRNA expression.124 H. pylori infection also
+therapy unless there are competing considerations such as
+                                                                        causes an inﬂammatory response with mucosal inﬁltration of
+comorbidities, re-infection rates in their communities, competing
+                                                                        acute and chronic inﬂammatory cells. Cancer risk is increased in
+health priorities of society and ﬁnancial cost. It has to be remem-
+                                                                        relation to the ability of the infecting strain to cause inﬂamma-
+bered, however, that there are concerns about the negative impact
+                                                                        tion (eg, those possessing the Cag pathogenicity island).
+of eradication therapies on human health, such as increase in
+                                                                        However, all strains cause inﬂammation, and gastric cancer is
+allergy or obesity and perturbation of microbiota.116 117
+                                                                        associated with infections lacking putative virulence factors.
+                                                                        Thus all H. pylori infections should be considered pathogenic
+CQ18. What is the optimal timing for H. pylori eradication in
+                                                                        and should be eradicated.
+asymptomatic subjects?
+                                                                           Because of the damage and premalignant changes, H. pylori
+Statement 18
+                                                                        eradication cannot ‘reset the clock’ to zero (ie, no risk) but can stop
+The maximum beneﬁt of H. pylori eradication is obtained if it is
+                                                                        the progression of risk and stabilise or decrease the subsequent risk.
+done while the mucosal damage is still non-atrophic.
+  Grade of recommendation: strong
+                                                                        CQ19. Do we need to adopt eradication regimens according to
+  Evidence level: high
+                                                                        the geographical area?
+  Consensus level: 100%
+                                                                        Statement 19
+                                                                        Eradication regimens should be based on the best locally effect-
+Comment                                                                 ive regimen, ideally using individual susceptibility testing or
+H. pylori eradication always confers a beneﬁt by halting progres-       community antibiotic susceptibility, or antibiotic consumption
+sion of gastric mucosal damage, reducing the reservoir of               data and clinical outcome data. The agents available differ in
+1362                                                                          Sugano K, et al. Gut 2015;64:1353–1367. doi:10.1136/gutjnl-2015-309252
+                                                                                                                               Guidelines
+
+different regions and this, in part, dictates what regimens are          preferably using a non-invasive test such as a urea breath test or a
+possible.                                                                validated monoclonal-based stool antigen test.5 For patients
+   Grade of recommendation: strong                                       requiring endoscopic follow-up, such as after endoscopic
+   Evidence level: high                                                  removal of a gastric adenoma, histological assessment can be
+   Consensus level: 100%                                                 used. Conﬁrmation of cure also provides an early warning system
+                                                                         for the increasing antibiotic resistance in a population that will
+Comment
+                                                                         manifest as increasing rates of treatment failure.125 128 129
+The success of a proven successful H. pylori eradication regimen
+depends on the pattern of resistance in the population and on
+                                                                         CQ22. Which patients need long-term follow-up after eradication?
+the common host genotypes of drug metabolising enzymes in
+                                                                         Statement 22
+the population. The prevalence of H. pylori resistance to com-
+                                                                         H. pylori eradication may not completely eliminate the risk of
+monly used antimicrobial agents greatly varies geographically
+                                                                         gastric cancer. Patients who remain at risk, as deﬁned by the
+and is linked to consumption of antibiotics in the region,125 so
+                                                                         extent and severity of atrophy, should be offered endoscopic
+the preferred eradication regimen often differs between regions.
+                                                                         and histological surveillance.
+Ideally, treatment regimens should be chosen based on suscepti-
+                                                                           Grade of recommendation: strong
+bility testing. Within any region, only regimens that reliably
+                                                                           Evidence level: high
+produce eradication rates of ≥90% in that population should be
+                                                                           Consensus level: 97.3%
+used for empirical treatment.5 126–129
+                                                                         Comment
+CQ20. Does eradication of H. pylori prevent gastric cancer?
+                                                                         Long-term follow-up such as regular endoscopic surveillance
+Statement 20
+                                                                         should be based on estimating the risk of developing gastric cancer
+Eradication of H. pylori reduces the risk of gastric cancer. The
+                                                                         after H. pylori eradication (ie, risk stratiﬁcation).95 133 Cancer risk
+degree of risk reduction depends on the presence, severity and
+                                                                         correlates with the extent and severity of atrophic gastritis and risk
+extent of atrophic damage at the time of eradication.
+                                                                         stratiﬁcation should be conﬁrmed using a validated histological
+  Grade of recommendation: strong
+                                                                         risk scoring systems such as OLGA or OLGIM.16–18 In areas with
+  Evidence level: high
+                                                                         proven expertise in endoscopic scoring, a system such as that of
+  Consensus level: 100%
+                                                                         Kimura and Takemoto can be used initially, although histological
+Comment                                                                  conﬁrmation is still recommended.134 135 Patients whose H. pylori
+H. pylori infection is the most important cause of gastric cancer        infection was diagnosed non-invasively (eg, urea breath test or
+as it is estimated that 89% of non-cardia gastric cancer, repre-         stool antigen) should be considered for histological assessment.
+senting 78% of all cases of gastric cancer, can be attributed to         These patients should include those within the age range in which
+chronic H. pylori infection.130 Prevention of H. pylori infections       atrophic changes are common in that population and those with a
+removes the primary cause of gastric cancer and will thus                history of gastric ulcer as well as those with a pretreatment serum
+reduce the incidence of gastric cancer in that population. The           pepsinogen I of ≤70 ng/mL and a pepsinogen I:II ratio ≤3.136–138
+effectiveness of H. pylori eradication for prevention of gastric         All those at especially high risk, including those at risk for intrae-
+cancer depends on the severity and extent of atrophic damage             pithelial neoplasia (dysplasia) or early gastric cancer, are candidates
+at the time of eradication and ranges from essentially complete          for regular endoscopic surveillance.
+prevention for those with non-atrophic gastritis to stabilisation
+or reduction of risk in those with established atrophic                  DISCUSSION
+changes.94 95 As noted in Section 3, risk can be stratiﬁed using a       The global consensus meeting on H. pylori gastritis has set a
+variety of approaches, such as one of the validated histological         new landmark for gastritis, which has continued to be an ill-
+stratiﬁcation systems (eg, OLGA or OLGIM),16–18 and H. pylori            conceived clinical entity placed between a histological picture
+eradication can stabilise risk and halt the progression of               and upper abdominal symptoms.
+risk.28 94 Prevention of acquisition of H. pylori infections and            In spite of the fact that gastritis had been long recognised as
+eradication of the infection before the development of atrophic          an important clinical entity, generations of gastroenterologists
+changes are forms of primary prevention. Secondary prevention            have neglected the importance of treatment of this nosological
+involves identiﬁcation and surveillance of those at risk in order        entity. Rudolf Schindler described chronic gastritis as a serious
+to remove intraepithelial lesions and early gastric cancer(s)            disease and a precursor of gastric cancer and considered their
+before they become invasive.5 71 72 77 131 There may be also a           relationship as being of outstanding importance in the ﬁght
+role for cancer immunotherapy to treat premalignant lesions              against gastric cancer.139
+and halt their progression to more advanced lesions.132                     The discovery of H. pylori has revolutionised the pre-existing
+                                                                         concepts of gastritis by assigning a speciﬁc aetiology to this
+CQ21. Should the outcome of eradication therapy always be                entity underlying PUD and gastric cancer. The majority of these
+assessed (ie, test for cure)?                                            serious conditions are manifestations developed on the back-
+Statement 21                                                             ground of chronic gastritis caused by a unique infectious agent,
+The outcome of eradication therapy should always be assessed,            H. pylori. For PUD, guidelines unanimously recommend eradi-
+preferably non-invasively.                                               cation as the primary treatment for those with positive H. pylori
+  Grade of recommendation: strong                                        tests. However, there has been no consensus on how and when
+  Evidence level: high                                                   to manage individuals with H. pylori gastritis itself, which is
+  Consensus level: 100%                                                  crucial to the efﬁciency of gastric cancer prevention because
+                                                                         most patients with chronic gastritis may remain asymptomatic
+Comment                                                                  until the appearance of severe complications. Furthermore, both
+Failure of eradication is common and allows the mucosal damage           gastritis and duodenitis were recognised as important causes of
+to progress, and so eradication should always be conﬁrmed,               upper gastrointestinal bleeding,140 encouraging our attention to
+Sugano K, et al. Gut 2015;64:1353–1367. doi:10.1136/gutjnl-2015-309252                                                                     1363
+ Guidelines
+
+these conditions now that anti-thrombotic therapies are increas-         Author afﬁliations
+                                                                         1
+ingly being used.                                                         Department of Medicine, Jichi Medical University, Tochigi, Japan
+                                                                         2
+                                                                          Translational Research Center for Gastrointestinal Disorders, University of Leuven,
+   To further compromise the concept of gastritis as a signiﬁcant        Leuven, Belgium
+clinical entity, the term ‘gastritis’ has historically, but wrongly,     3
+                                                                          Department of Gastroenterology and Hepatology, Erasmus MC University Medical
+been used as a substitute for a clinical diagnosis of FD.                Center, Rotterdam, Netherland
+                                                                         4
+Historical studies, however, failed to demonstrate a signiﬁcant           Department of Medicine, Michael E DeBakery VA Medical Center, Baylor College of
+association between histological ﬁndings of gastritis and the dys-       Medicine, Houston, USA
+                                                                         5
+                                                                          Division of Applied Medicine, Institute of Medical Sciences, Aberdeen University,
+peptic symptom complex.141 142 Hence, a potential pathogen-              Aberdeen, UK
+etic role for H. pylori in causing dyspeptic symptoms was                6
+                                                                          National Defense Medical College, Tokorozawa, Japan
+                                                                         7
+initially considered doubtful and its eradication in FD controver-        Department of Gastroenterology, Kawasaki Medical School, Kurashiki, Japan
+                                                                         8
+sial.143 144 Meta-analysis of a large number of controlled trials         Department of Cancer Preventive Medicine, Hokkaido University, Sapporo, Japan
+                                                                         9
+                                                                          Kohnodai Hospital, National Center for Global Health and Medicine, Ichikawa, Japan
+with longer follow-up conﬁrmed that eradication of H. pylori in          10
+                                                                           Department of Gastroenterology, University of Magdeburg, Magdeburg, Germany
+patients with FD conveys a small but statistically signiﬁcant
+beneﬁt.12 Consequently, dyspepsia attributable to H. pylori gas-
+                                                                         Correction notice This article has been corrected since it published Online First.
+tritis involves an underlying organic cause and should be                Hidekazu Suzuki has been added to the collaborators list.
+excluded from the FD category. Additionally, ‘dyspeptic’ patients
+should not automatically be labelled as having ‘gastritis’ without       Acknowledgements We thank the Japanese Society of Gastroenterology (JSGE)
+any histological conﬁrmation.                                            for providing ﬁnancial support, enabling this global consensus meeting. Technical
+   Diagnostic assessment of gastritis has been advanced by the           support by Omura Publishing Co Ltd and Mr Osamu Iimura of the JSGE is greatly
+                                                                         appreciated. We also thank Japan Convention Service Co Ltd for their excellent
+recent introduction of high-resolution endoscopy with image-             management of the conference.
+enhanced modalities, and magniﬁcation is now used routinely in
+                                                                         Collaborators List of faculty members and afﬁliations (alphabetical order of family
+major hospitals in Japan. This endoscopic technology allows the          names): Takeshi Azuma, Department of Gastroenterology, Kobe University; Franco
+identiﬁcation of mucosal changes (for targeted biopsies) more pre-       Bazzoli, Department of Gastroenterology, University of Bologna; Francis Ka-Leung
+cisely, leading to more accurate evaluation of cancer risks such as      Chan, Department of Medicine and Therapeutics, The Chinese University of Hong
+preneoplastic changes. Wider use of this new endoscopic system           Kong; Minhu Chen, Department of Gastroenterology, The ﬁrst afﬁliated hospital,
+                                                                         SunYat-sen University; Naoki Chiba, McMaster University; Tsutomu Chiba,
+outside Japan may be limited at present.                                 Department of Gastroenterology, Kyoto University; Luiz Gonzaga Vas Coelho,
+   The Kyoto consensus meeting focused attention on gastritis in         Department of Internal Medicine, Faculty of Medicine, Federal University of Minas
+all its clinical expression and dealt with four main topics: classi-     Gerais; Francesco Di Mario, Department of Clinical Experimental Medicine, University
+ﬁcation of gastritis in relation to ongoing ICD revision, FD and         of Parma; Kwong Ming Fock, Department of Gastroenterology, Changi General
+H. pylori infection, diagnosis of gastritis and the management           Hospital; Yasuhiro Fukuda, Sasayama Medical Center, Hyogo College of Medicine;
+                                                                         Takahisa Furuta, Center for Clinical Research, Hamamatsu University School of
+of gastritis. The methodology of the meeting adopted all                 Medicine; Robert Maximilian Genta, Department of Pathology, Miraca Life Sciences
+modern means for reaching consensus and included an internet-            Research Institute and University of Texas Southwestern; Khean-Lee Goh, Division of
+based Delphi method with full access to published data in a              Gastroenterology and Hepatology, Department of Medicine, University of Malaya;
+completely ‘neutral’ environment.                                        Masanori Ito, Department of Gastroenterology and Metabolism, Hiroshima
+                                                                         University, Tomonori Kamada, Department of Internal Medicine, Kawasaki Medical
+   In summary, The Kyoto meeting proposed an aetiology-based             School; Peter Harry Katelaris, Department of Gastroenterology, Concord Hospital,
+classiﬁcation for gastritis and concluded that H. pylori gastritis       University of Sidney; Mototsugu Kato, Division of Endoscopy, Hokkaido University
+is an infectious disease. As such, H. pylori gastritis requires treat-   Hospital; Takashi Kawai, Endoscopy Center, Tokyo Medical University Hospital;
+ment whether or not it is associated with symptoms because it            Nayoung Kim, Department of Internal Medicine, Seoul National University Bundang
+represents a condition that may evolve towards serious compli-           Hospital; Ryuji Kushima, Department of Pathology, Shiga University of Medical
+                                                                         Science; Varocha Mahachai, Division of Gastroenterology, Chulalongkorn University
+cations, including peptic ulcer and gastric neoplasia.                   Hospital; Takeshi Matsuhisa, Nippon Medical School Tama Nagayama Hospital;
+   Consensus was reached on the existence of a separate cat-             Francis Mégraud, INSERM U853 and Department of Bacteriology; Hiroto Miwa,
+egory of patients with dyspeptic symptoms that are due to                Department of Gastroenterology, Hyogo College of Medicine; Kazunari Murakami,
+H. pylori gastritis. In these patients, eradication therapy is the       Department of Gastroenterology, Oita University; Colm Antoine O’Morain, Faculty of
+                                                                         Health Sciences, Trinity College; Massimo Rugge, Department of Pathology, Padova
+recommended ﬁrst-line treatment. Because of the diagnostic               University; Kiichi Sato, International University of Health and Welfare; Tadashi
+problems related to ‘gastritis’, these patients should be labelled       Shimoyama, Department of Gastroenterology and Hepatology, Hirosaki University;
+as having H. pylori-associated dyspepsia and are identiﬁed by            Akiko Shiotani, Department of Internal Medicine, Kawasaki Medical College; Toshiro
+sustained dyspeptic symptom relief after eradication.                    Sugiyama, Department of Internal Medicine, Toyama University; Hidekazu Suzuki,
+   For the diagnosis of gastritis, it was agreed that risk stratiﬁca-    Department of Gastroenterology, Keio University; Kazuyoshi Yagi, Department of
+                                                                         Medicine, Niigata Prefectural Yoshida Hospital; Ming-Shiang Wu, Department of
+tion systems such as OLGA and OLGIM are useful as are the                Internal Medicine, National Taiwan University.
+serological markers. In view of recent technological advance-
+                                                                         Contributors KS, NU, EME-O and PM planned the meeting and prepared the
+ments, image-enhanced endoscopy should be encouraged for                 clinical questions. KS, JT, EJK, EME-O, DYG and PM wrote the manuscipt. SM, KH
+identifying mucosal changes which carry a high risk of develop-          and MA helped to summarise the voting results of sections 1, 3 and 4, respectively.
+ing into gastric neoplasia. Finally, it was recommended that             All other faculty members contributed to formulating one or two statements for each
+early eradication therapy, ideally before preneoplastic changes          clinical question, participated in the meeting and voted. They also read and
+                                                                         approved the manuscript.
+occur, should be undertaken. However, the feasibility of imple-
+menting this strategy should be regionally tailored. As eradica-         Competing interests KS has received research grants from Eisai, Daiichi Sankyo
+                                                                         and Takeda. He has also received lecture fees from Astellas, Fuji Film and Takeda. JT
+tion therapy does not guarantee elimination of the risk of               has provided scientiﬁc advice to AlfaWassermann, Almirall, AstraZeneca, Danone, GI
+gastric cancer, follow-up should be considered for patients who          Dynamics, GlaxoSmithKline, Ironwood, Janssen, Menarini, Novartis, Rhythm, Shire,
+have preneoplastic conditions.                                           Sucampo, Takeda, Theravance, Tsumura, Will-Pharma, Yuhan and Zeria. He has also
+   Although there are still many remaining areas to be discussed,        served on speaker bureaus for Abbott, Almirall, AstraZeneca, Danone, Janssen,
+we believe the outcome of the Kyoto consensus meeting pre-               Menarini, MMS, Novartis, Shire, Takeda and Zeria. He has received research grants
+                                                                         from Novartis, Shire and Zeria. DYG is a consultant for RedHill Biopharma and has
+sented in this report will improve patient care and will provide         received research support. He is also a consultant for Otsuka Pharmaceuticals and
+a cornerstone for further reﬁnement and research in the area of          for BioGaia. KH has received lecture fees from Astellas, AstraZeneca, Daiich Sankyo,
+gastritis.                                                               Dainippon Sumitomo, Eisai, Otsuka, Takeda and Zeria. He has also received research
+
+1364                                                                            Sugano K, et al. Gut 2015;64:1353–1367. doi:10.1136/gutjnl-2015-309252
+                                                                                                                                                                   Guidelines
+funds from Astellas, Daiichi Sankyo, Eisai and Takeda. MA belongs to the                       27   Rosenstock S, Kay L, Rosenstock C, et al. Relation between Helicobacter pylori
+department funded by Eizai Co Ltd at Hokkaido University Graduate School of                         infection and gastrointestinal symptoms and syndromes. Gut 1997;41:169–76.
+Medicine. NU has received lecture fees from Astellas, AstraZeneca, Eisai and Takeda.           28   Malfertheiner P, Sipponen P, Naumann M, et al. Helicobacter pylori eradication
+PM has received speaker’s fee from Abbvie, Aptalis, AstraZeneca and Takeda.                         has the potential to prevent gastric cancer: a state-of-the-art critique. Am J
+                                                                                                    Gastroenterol 2005;100:2100–15.
+Provenance and peer review Not commissioned; externally peer reviewed.
+                                                                                               29   Nordenstedt H, Graham DY, Kramer JR, et al. Helicobacter pylori-negative gastritis:
+Open Access This is an Open Access article distributed in accordance with the                       prevalence and risk factors. Am J Gastroenterol 2013;108:65–71.
+Creative Commons Attribution Non Commercial (CC BY-NC 4.0) license, which                      30   Meining A, Stolte M, Hatz R, et al. Differing degree and distribution of gastritis in
+permits others to distribute, remix, adapt, build upon this work non-commercially,                  Helicobacter pylori-associated diseases. Virchows Arch 1997;431:11–15.
+and license their derivative works on different terms, provided the original work is           31   Uemura N, Okamoto S, Yamamoto S, et al. H. pylori infection and the
+properly cited and the use is non-commercial. See: http://creativecommons.org/                      development of gastric cancer. N Engl J Med 2001;345:784–9.
+licenses/by-nc/4.0/                                                                            32   Sipponen M, Kosunen TU, Valle J, et al. H. pylori infection and chronic gastritis in
+                                                                                                    gastric cancer. J Clin Pathol 1992;45:319–23.
+                                                                                               33   El-Omar EM, Penman ID, Ardill JE, et al. Helicobacter pylori infection and
+REFERENCES                                                                                          abnormalities of acid secretion in patients with duodenal ulcer disease.
+  1    Strickland RG. Gastritis. Front Gastrointest Res 1975;1:12–48.                               Gastroenterology 1995;109:681–91.
+  2    Marshall BJ, Warren JR. Unidentiﬁed curved bacilli in the stomach of patients with      34   El-Omar EM, Oien K, El-Nujumi A, et al. Helicobacter pylori infection and chronic
+       gastritis and peptic ulceration. Lancet 1984;323:1311–15.                                    gastric acid hyposecretion. Gastroenterology 1997;113:15–24.
+  3    Malfertheiner P, Chan FK, McColl KE. Peptic ulcer disease. Lancet                       35   Malfertheiner P. The intriguing relationship of Helicobacter pylori infection and acid
+       2009;374:1449–61.                                                                            secretion in peptic ulcer disease and gastric cancer. Dig Dis 2011;29:459–64.
+  4    Fock KM, Graham DY, Malfertheiner P. Helicobacter pylori research: historical           36   Dinis-Ribeiro M, Areia M, de Vries AC, et al. Management of precancerous
+       insights and future directions. Nat Rev Gastroenterol Hepatol                                conditions and lesions in the stomach (MAPS): guideline from the European
+       2013;10:495–500.                                                                             Society of Gastrointestinal Endoscopy (ESGE), European Helicobacter Study Group
+  5    Malfertheiner P, Mégraud F, O’Morain CA, et al. Management of Helicobacter                   (EHSG), European Society of Pathology (ESP) and the Sociedade Portuguesa de
+       pylori infection—the Maastricht IV Florence Consensus Report. Gut                            Endoscopia Digestiva (SPED). Endoscopy 2012;44:74–94.
+       2012;61:646–64.                                                                         37   Correa P. Gastric cancer: overview. Gastroenterol Clin North Am 2013;42:211–17.
+  6    http://apps.who.int/classiﬁcations/icd10/browse/2015/en#/K29 (20 January 2015).         38   Tanaka A, Kamada T, Inoue K, et al. Histological evaluation of patients with
+  7    Sugano K. Should we still subcategorize Helicobacter pylori-associated dyspepsia             gastritis at high risk of developing gastric cancer using a conventional index.
+       as functional disease? J Neurogastroenterol Motil 2011;17:366–71.                            Pathol Res Pract 2011;207:354–8.
+  8    Suzuki H, Nishizawa T, Hibi T. Can Helicobacter pylori-associated dyspepsia be          39   Meining A, Bayerdörffer E, Müller P, et al. Gastric carcinoma risk index in patients
+       categorized as functional dyspepsia? J Gastroenterol Hepatol 2011;26                         infected with Helicobacter pylori. Virchows Arch 1998;432:311–14.
+       (Suppl 3):42–5.                                                                         40   Naylor GM, Gotoda T, Dixon M, et al. Why does Japan have a high incidence of
+  9    Tack J, Talley N, Camilleri M, et al. Functional gastrodudenal disorders. In                 gastric cancer? Comparison of gastritis between UK and Japanese patients. Gut
+       Drossman DA, Corazziari F, Delvaux M, et al. eds. Rome III: the functional                   2006;55:1545–52.
+       gastrointestinal disorders. 3rd edn. McLean, VA: Denon Associates, Inc,                 41   Miehlke S, Hackelsberger A, Meining A, et al. Severe expression of corpus gastritis
+       2006:419–86.                                                                                 is characteristic in gastric cancer patients infected with Helicobacter pylori. Br J
+ 10    Miwa H, Ghoshal UC, Fock KM, et al. Asian consensus report on functional                     Cancer 1998;78:263–6.
+       dyspepsia. J Gastroenterol Hepatol 2012;27:626–41.                                      42   Yeomans ND, Naesdal J. Systematic Review: ulcer deﬁnition in NSAID ulcer
+ 11    Asaka M, Kato M, Takahashi S, et al. Guidelines for the management of                        prevention. Aliment Pharamcol Ther 2008;27:465–72.
+       Helicobacter pylori infection in Japan: 2009 revised edition. Helicobacter              43   Toljamo K, Niemelä S, Karvonen AL, et al. Histopathology of gastric erosions.
+       2010;15:1–20.                                                                                Association with etiological factors and chronicity. Helicobacter 2011;16:
+ 12    Moayyedi P, Soo S, Deeks JJ, et al. Eradication of Helicobacter pylori for non-ulcer         444–51.
+       dyspepsia. Cochrane Database Syst Rev 2011;16(2):CD002096.                              44   Hart J, Hawkey CJ, Lanas A, et al. Predictors of gastroduodenal erosions in
+ 13    Yagi K, Nakamura A, Sekine A. Characteristic endoscopic and magniﬁed                         patients taking low-dose aspirin. Aliment Pharmacol Ther 2010;31:143–9.
+       endoscopic ﬁndings in the normal stomach without Helicobacter pylori infection.         45   Kato M, Terao S, Adachi K, et al. Changes in endoscopic ﬁndings of gastritis
+       J Gastroenterol Hepatol 2002;17:39–45.                                                       after cure of H. pylori infection: multicenter prospective trial. Dig Endosc
+ 14    Yagi K, Nakamura A, Sekine A. Comparison between magniﬁcation endoscopy                      2013;25:264–73.
+       and histological, culture and urease test ﬁndings from the gastric mucosa of the        46   Annibale B, Sprile MR, D’ambra G, et al. Cure of Helicobacter pylori infection in
+       corpus. Endoscopy 2002;24:376–81.                                                            atrophic body gastritis patients does not improve mucosal atrophy but reduces
+ 15    Okubo M, Tahara T, Shibata T, et al. Usefulness of magnifying narrow-band                    hypergastrinemia and its related effects on body ECL-cell hyperplasia. Aliment
+       imaging endoscopy in the Helicobacter pylori-associated chronic gastritis. Digestion         Pharmacol Ther 2000;14:625–34.
+       2011;83:161–6.                                                                          47   Iijima K, Ohara S, Sekine H, et al. Changes in gastric secretion assayed by
+ 16    Rugge M, Genta RM. Staging and grading of chronic gastritis. Hum Pathol                      endoscopic gastrin test before and after Helicobacter pylori eradication. Gut
+       2005;36:228–33.                                                                              2000;46:20–6.
+ 17    Rugge M, Correa P, Di Mario F, et al. OLGA staging for gastritis: a tutorial. Dig Liv   48   Hawkey CJ, Wilson I, Naesdal J, et al. Inﬂuence of sex and Helicobacter pylori on
+       Dis 2008;40:650–8.                                                                           development and healing of gastroduodenal lesions in non-steroidal
+ 18    Capelle LG, de Vries AC, Haringsma J, et al. The staging of gastritis with the               anti-inﬂammatory drug users. Gut 2002;51:344–50.
+       OLGA system by using intestinal metaplasia as an accurate alternative for atrophic      49   Lanza FL, Evans DG, Graham DY. Effect of Helicobacter pylori infection on the
+       gastritis. Gastrointest Endosc 2010;71:1150–8.                                               severity of gastroduodenal mucosal injury after the acute administration of
+ 19    Price AB. The Sydney system: histological division. J Gastroenterol Hepatol                  naproxen or aspirin to normal volunteers. Am J Gastroenterol 1991;86:735–7.
+       1991;6:209–22.                                                                          50   Sonnenberg A, Lash RH, Genta RM. A national study of Helicobacter pylori
+ 20    Dixon MF, Genta RM, Yardley JH, et al. Classiﬁcation and grading of gastritis.               infection in gastric biopsy specimens. Gastroenterology 2010;139:1894–901.
+       The updated Sydney System. International Workshop on the Histopathology of              51   Graham DY, Opekun AR, Osato MS, et al. Challenge model for Helicobacter pylori
+       Gastritis, Houston 1994. Am J Surg Pathol 1996;20:1161–81.                                   infection in human volunteers. Gut 2004;53:1235–43.
+ 21    Quaseem A, Snow V, Owens DK, et al. The development of Clinical Practice                52   Bode G, Brenner H, Adler G, et al. Dyspeptic symptoms in middle-aged to old
+       guidelines and guidance statement of the American College of Physicians:                     adults: the role of Helicobacter pylori infection and various demographic and
+       summary of methods. Ann Intern Med 2010;153:194–9.                                           lifestyle factors. J Intern Med 2002;252:41–7.
+ 22    Atkins D, Best D, Briss PA, et al. Grading quality of evidence and strength of          53   Moayyedi P, Forman D, Braunholtz D, et al. The proportion of upper
+       recommendations. BMJ 2004;328:1490.                                                          gastrointestinal symptoms in the community associated with Helicobacter pylori,
+ 23    Jones DJ, Barkun AN, Lu Y, et al. Conﬂicts of interest ethics; silencing expertise in        lifestyle factors and nonsteroidal anti-inﬂammatory drugs. Leeds HELP Study
+       the development of international practice guidelines. Ann Intern Med                         Group. Am J Gastroenterol 2000;95:1448–55.
+       2012;56:809–16.                                                                         54   Wildner-Christensen M, Hansen JM, De Muckadell OB. Risk factors for dyspepsia
+ 24    Marshall BJ, Armstrong JA, McGechie DB, et al. Attempt to fulﬁl Koch’s postulates            in a general population: non-steroidal anti-inﬂammatory drugs, cigarette smoking
+       for pyloric Campylobacter. Med J Aust 1985;142:436–9.                                        and unemployment are more important than Helicobacter pylori infection. Scand J
+ 25    Morris A, Nicholson G. Ingestion of Campylobacter pyloridis causes gastritis and             Gastroenterol 2006;41:149–54.
+       raised fasting gastric pH. Am J Gastroenterol 1987;82:192–9.                            55   Nandurkar S, Talley NJ, Xia H, et al. Dyspepsia in the community is linked to
+ 26    Buckley M, O’Morain C. Prevalence of Helicobacter pylori in non-ulcer dyspepsia.             smoking and aspirin use but not to Helicobacter pylori infection. Arch Intern Med
+       Aliment Pharmacol Ther 1995;9(Suppl 2):53–8.                                                 1998;158:1427–33.
+
+Sugano K, et al. Gut 2015;64:1353–1367. doi:10.1136/gutjnl-2015-309252                                                                                                              1365
+ Guidelines
+56     Makris N, Barkun A, Crott R, et al. Cost-effectiveness of alternative approaches            85   Kuipers EJ. In through the out door: serology for atrophic gastritis. Eur J
+       in the management of dyspepsia. Int J Technol Assess Health Care                                 Gastroenterol Hepatol 2003;15:877–9.
+       2003;19:446–64.                                                                             86   Watabe H, Mitsushima T, Yamaji Y, et al. Predicting the development of gastric
+57     Ang T, Fock KM, Teo EK, et al. Helicobacter pylori eradication versus prokinetics in             cancer from combining Helicobacter pylori antibodies and serum pepsinogen
+       the treatment of functional dyspepsia: a randomized, double-blind study.                         status: a prospective endoscopic cohort study. Gut 2005;54:764–8.
+       J Gastroenterol 2006;41:647–53.                                                             87   Miki K. Gastric cancer screening by combined assay for serum anti-Helicobacter
+58     Delaney B, Ford AC, Forman D, et al. Initial management strategies for dyspepsia.                pylori IgG antibody and serum pepsinogen levels-“ABC method”. Proc Jpn Acad
+       Cochrane Database Syst Rev 2009;7:CD001961.                                                      SerB Phys Biol Sci 2011;87:405–14.
+59     Suzuki H, Moayyedi P. Helicobacter pylori infection in functional dyspepsia.                88   Broutet N, Plebani M, Sakarovitch C, et al. Pepsinogen A, pepsinogen C and
+       Nat Rev Gastroenterol Hepatol 2013;10:168–74.                                                    gastrin as markers of atrophic chronic gastritis in European dyspeptics. Br J Cancer
+60     Malfertheiner P, Mossner J, Fischbach W, et al. Helicobacter pylori eradication is               2003;88:1239–47.
+       beneﬁcial in the treatment of functional dyspepsia. Aliment Pharmacol Ther                  89   Agreus L, Kuipers EJ, Kupcinskas L, et al. Rationale in diagnosis and screening of
+       2003;18:615–25.                                                                                  atrophic gastritis with stomach-speciﬁc plasma biomarkers. Scand J Gastroenterol
+61     Mazzoleni LE, Sander GB, Francesconi CF, et al. Helicobacter pylori eradication in               2012;47:136–47.
+       functional dyspepsia: HEROES trial. Arch Intern Med 2011;171:1929–36.                       90   Okuda M, Nakazawa T, Booka M, et al. Evaluation of a urine antibody test for
+62     Tack J, Talley NJ, Camilleri M, et al. Functional gastroduodenal disorders.                      Helicobacter pylori in Japanese children. J Pediatr 2004;144:196–9.
+       Gastroenterology 2006;130:1466–79.                                                          91   Okuda M, Sugiyama T, Fukunaga K, et al. A strain-speciﬁc antigen in Japanese
+63     Camilleri M, Stanghellini V. Current management strategies and emerging treatments               Helicobacter pylori recognized in sera of Japanese children. Clin Diagn Lab
+       for functional dyspepsia. Nat Rev Gastroenterol Hepatol 2013;10:187–94.                          Immunol 2005;12:1280–4.
+64     Tack J, Talley NJ. Gastroduodenal disorders. Am J Gastroenterol 2010;105:757–63.            92   Mégraud F, European Paediatric Task Force on Helicobacter pylori. Comparison of
+65     Dinis-Ribeiro M, da Costa-Pereira A, Lopes C, et al. Magniﬁcation                                non-invasive tests to detect Helicobacter pylori infection in children and
+       chromoendoscopy for the diagnosis of gastric intestinal metaplasia and dysplasia.                adolescents: results of a multicenter European study. J Pediatr
+       Gastrointest Endosc 2003;57:498–504.                                                             2005;146:198–203.
+66     Anagnostopoulos GK, Yao K, Kaye P, et al. High-resolution magniﬁcation                      93   Ford AC, Forman D, Hunt RH, et al. Helicobacter pylori eradication therapy to prevent
+       endoscopy can reliably identify normal gastric mucosa, Helicobacter                              gastric cancer in healthy asymptomatic infected individuals: systematic review and
+       pylori-associated gastritis and gastric atrophy. Endoscopy 2007;39:202–7.                        meta-analysis of randomised controlled trials. BMJ 2014;348:g3174.
+67     Gonen C, Simsek I, Sarioglu S, et al. Comparison of high resolution magnifying              94   Take S, Mizuno M, Ishiki K, et al. Baseline gastric mucosal atrophy is a risk factor
+       endoscopy and standard videoendoscopy for the diagnosis of Helicobacter pylori                   associated with the development of gastric cancer after Helicobacter pylori
+       gastritis in routine clinical practice: a prospective study. Helicobacter 2009;14:12–21.         eradication therapy in patients with peptic ulcer diseases. J Gastroenterol 2007;42
+68     Uedo N, Ishihara R, Iishi H, et al. A new method of diagnosing gastric intestinal                (Suppl 7):21–7.
+       metaplasia: narrow-band imaging with magnifying endoscopy. Endoscopy                        95   Chen HN, Wang Z, Li X, et al. Helicobacter pylori eradication cannot reduce the
+       2006;38:819–24.                                                                                  risk of Gastric Cancer in patients with intestinal metaplasia and dysplasia:
+69     Tahara T, Shibata T, Nakamura M, et al. Gastric mucosal pattern by using                         evidence from a meta-analysis. Gastric Cancer Published Online First:
+       magnifying narrow-band imaging endoscopy clearly distinguishes histological and                  22 Jan 2015. doi:10.1007/s10120-015-0462-7.
+       serological severity of chronic gastritis. Gastrointest Endosc 2009;70:246–53.              96   de Vries AC, Kuipers EJ, Rauws EA. Helicobacter pylori eradication and gastric
+70     Kato M, Kaise M, Yonezawa J, et al. Magnifying endoscopy with narrow-band                        cancer: when is the horse out of the barn? Am J Gastroenterol 2009;104:
+       imaging achieves superior accuracy in the differential diagnosis of superﬁcial                   1342–5.
+       gastric lesions identiﬁed with white-light endoscopy: a prospective study.                  97   Zhang YY, Xia HH, Zhuang ZH, et al. Review article: ‘true’ re-infection of
+       Gastrointest Endosc 2010;72:523–9.                                                               Helicobacter pylori after successful eradication--worldwide annual rates, risk factors
+71     Capelle LG, Haringsma J, de Vries AC, et al. Narrow band imaging for the                         and clinical implications. Aliment Pharmacol Ther 2009;29:145–60.
+       detection of gastric intestinal metaplasia and dysplasia during surveillance                98   Franchini M, Vescovi PP, Garofano M, et al. Helicobacter pylori-associated
+       endoscopy. Dig Dis Sci 2010;55:3442–8.                                                           idiopathic thrombocytopenic purpura: a narrative review. Semin in Thromb Hemost
+72     Osawa H, Yamamoto H, Miura Y, et al. Blue laser imaging provides excellent                       2012;38:463–8.
+       endsocopic images of upper gastrointestinal lesions. Video J Encyclopedia of GI             99   Franchini M, Cruciani M, Mengoli C, et al. Effect of Helicobacter pylori eradication
+       endoscopy 2014;1:607–10.                                                                         on platelet count in idiopathic thrombocytopenic purpura: a systematic review and
+73     Lim JH, Kim N, Lee HS, et al. Correlation between endoscopic and histological                    meta-analysis. J Antimicrob Chemother 2007;60:237–46.
+       diagnoses of gastric intestinal metaplasia. Gut Liver 2013;7:41–50.                        100   Harvey RF, Lane JA, Nair P, et al. Clinical trial: prolonged beneﬁcial effect of
+74     de Vries AC, Haringsma J, de Vries RA, et al. Biopsy strategies for                              Helicobacter pylori eradication on dyspepsia consultations—the Bristol Helicobacter
+       endoscopic surveillance of pre-malignant gastric lesions. Helicobacter                           Project. Aliment Pharmacol Ther 2010;32:394–400.
+       2010;15:259–64.                                                                            101   Veldhuyzen van Zanten SJ, Flook N, Chiba N, et al. An evidence-based approach
+75     El-Zimaity HM, Graham DY. Evaluation of gastric mucosal biopsy site and number                   to the management of uninvestigated dyspepsia in the era of Helicobacter pylori.
+       for identiﬁcation of Helicobacter pylori or intestinal metaplasia: role of the Sydney            Canadian Dyspepsia Working Group. CMAJ 2000;162:S3–23.
+       System. Hum Pathol 1999;30:72–7.                                                           102   Ohkusa T, Takashimizu I, Fujiki K, et al. Disappearance of hyperplastic polyps in
+76     Satoh K, Kimura K, Taniguchi Y, et al. Biopsy sites suitable for the diagnosis of                the stomach after eradication of Helicobacter pylori. A randomized, clinical trial.
+       Helicobacter pylori infection and the assessment of the extent of atrophic gastritis.            Ann Intern Med 1998;129:712–15.
+       Am J Gastroenterol 1998;93:569–73.                                                         103   Suzuki H, Saito Y, Hibi T. Helicobacter pylori and Gastric Mucosa-associated
+77     Pimentel-Nunes P, Dinis-Ribeiro M, Soares JB, et al. A multicenter validation of an              Lymphoid Tissue (MALT) Lymphoma: updated review of clinical outcomes and the
+       endoscopic classiﬁcation with narrow band imaging for gastric precancerous and                   molecular pathogenesis. Gut Liver 2009;3:81–7.
+       cancerous lesions. Endsocopy 2012;44:236–46.                                               104   Du MQ, Diss TC, Dogan A, et al. Clone-speciﬁc PCR reveals wide dissemination
+78     Kikuste I, Stirna D, Liepniece-Karele I, et al. The accuracy of ﬂexible spectral                 of gastric MALT lymphoma to the gastric mucosa. J Pathol 2000;192:
+       imaging colour enhancement for the diagnosis of gastric intestinal metaplasia:                   488–93.
+       do we still need histology to select individuals at risk of adenocarcinoma? Eur J          105   Clark EG, Danbolt N. The Oslo study of the natural course of untreated syphilis.
+       Gastroenterol Hepatol 2014;26:704–9.                                                             An epidemiologic investigation based on re-study of the Boeck-Burrsgaard
+79     de Vries AC, van Grieken NC, Looman CW, et al. Gastric cancer risk in patients                   material. Med Clin North Am 1964;48:613–23.
+       with premalignant gastric lesions: a nationwide cohort study in the Netherlands.           106   Gutierrez O, Melo M, Segura AM, et al. Cure of Helicobacter pylori infection
+       Gastroenterology 2008;134:945–52.                                                                improves gastric acid secretion in patients with corpus gastritis. Scand J
+80     Rugge M, Kim JG, Mahachai V, et al. OLGA gastritis staging in young adults and                   Gastroenterol 1997;32:664–8.
+       country-speciﬁc gastric cancer risk. Int J Surg Pathol 2008;16:150–4.                      107   Gisbert JP, Khorrami S, Carballo F, et al. H. pylori eradication therapy vs.
+81     Rugge M, Meggio A, Pennelli G, et al. Gastritis staging in clinical practice: the                antisecretory non-eradication therapy (with or without long-term maintenance
+       OLGA staging system. Gut 2007;l56:631–6.                                                         antisecretory therapy) for the prevention of recurrent bleeding from peptic ulcer.
+82     Rugge M, de Boni M, Pennelli G, et al. Gastritis OLGA-staging and gastric cancer                 Cochrane Database Syst Rev 2004;(2):CD004062.
+       risk: a twelve-year clinico-pathological follow-up study. Aliment Pharmacol Ther           108   Vergara M, Catalan M, Gisbert JP, et al. Meta-analysis: role of Helicobacter pylori
+       2010;31:1104–11.                                                                                 eradication in the prevention of peptic ulcer in NSAID users. Aliment Pharmacol
+83     den Hoed CM, Holster IL, Capelle LG, et al. Follow-up of premalignant lesions in                 Ther 2005;21:1411–18.
+       patients at risk for progression to gastric cancer. Endoscopy 2013;45:249–56.              109   Genta RM, Lew GM, Graham DY. Changes in gastric mucosa following eradication
+84     Rugge M, Fassan M, Pizzi M, et al. Operative link for gastritis assessment vs                    of Helicobacter pylori. Mod Pathol 1993;6:281–9.
+       operative link on intestinal metaplasia assessment. World J Gastroenterol                  110   Franceschi F, Genta RM, Sepulveda AR. Gastric mucosa: long-term outcome after
+       2011;17:4596–601.                                                                                cure of Helicobacter pylori infection. J Gastroenterol 2002;37(Suppl 13):17–23.
+
+1366                                                                                                    Sugano K, et al. Gut 2015;64:1353–1367. doi:10.1136/gutjnl-2015-309252
+                                                                                                                                                                     Guidelines
+111   Graham DY, Shiotani A, El-Zimaity HM. Chromoendoscopy points the way to                  127   Graham DY, Shiotani A. Which therapy for Helicobacter pylori infection?
+      understanding recovery of gastric function after Helicobacter pylori eradication.              Gastroenterology 2012;143:10–12.
+      Gastrointest Endosc 2006;64:686–9.                                                       128   Graham DY, Lee YC, Wu MS. Rational Helicobacter pylori therapy: evidence-based
+112   Graham DY. Helicobacter pylori and perturbations in acid secretion: the end of the             medicine rather than medicine-based evidence. Clin Gastroenterol Hepatol
+      beginning [editorial]. Gastroenterology 1996;110:1647–50.                                      2014;12:177–86.
+113   Haruma K, Mihara M, Okamoto E, et al. Eradication of Helicobacter pylori                 129   Wu JY, Liou JM, Graham DY. Evidence-based recommendations for successful
+      increases gastric acidity in patients with atrophic gastritis of the corpus-evaluation         Helicobacter pylori treatment. Expert Rev Gastroenterol Hepatol 2014;8:21–8.
+      of 24-h pH monitoring. Aliment Pharmacol Ther 1999;13:155–62.                            130   International Agency for Research on Cancer. Helicobacter pylori eradication
+114   Yasunaga Y, Shinomura Y, Kanayama S, et al. Improved fold width and increased                  as a strategy for preventing gastric cancer. IARC Working Group Reports.
+      acid secretion after eradication of the organism in Helicobacter pylori associated             Vol 8, WHO Press, World Health Organization, Geneva, Switzerland, 2014.
+      enlarged fold gastritis. Gut 1994;35:1571–4.                                             131   Shiotani A, Cen P, Graham DY. Eradication of gastric cancer is now both possible
+115   Lee YC, Chen TH, Chiu HM, et al. The beneﬁt of mass eradication of Helicobacter                and practical. Semin Cancer Biol 2013;23:492–501.
+      pylori infection: a community-based study of gastric cancer prevention. Gut              132   Matsueda S, Graham DY. Immunotherapy in gastric cancer. World J Gastroenterol
+      2013;62:676–82.                                                                                2014;20:1657–66.
+116   Atherton JC, Blaser MJ. Coadaptation of Helicobacter pylori and humans: ancient          133   Graham DY, Shiotani A. The time to eradicate gastric cancer is now. Gut
+      history, modern implications. J Clin Invest 2009;119:2475–87.                                  2005;54:735–8.
+117   Dorer MS, Talarico S, Salama NR. Helicobacter pylori‘s unconventional role in            134   Kimura K, Satoh K, Ido K, et al. Gastritis in the Japanese stomach. Scand J
+      health and disease. PLoS Pathog 2009;5:e1000544.                                               Gastroenterol 1996;31(Suppl 214):17–20.
+118   Toller IM, Neelsen KJ, Steger M, et al. Carcinogenic bacterial pathogen                  135   Kimura K, Takemoto T. An endoscopic recognition of the atrophic border and its
+      Helicobacter pylori triggers DNA double-strand breaks and a DNA damage                         signiﬁcance in chronic gastritis. Endoscopy 1969;1:87–97.
+      response in its host cells. Proc Natl Acad Sci 2011;108:14944–9.                         136   Miki K. Gastric cancer screening using the serum pepsinogen test method. Gastric
+119   Kim JJ, Tao H, Carloni E, et al. Helicobacter pylori impairs DNA mismatch repair in            Cancer 2006;9:245–53.
+      gastric epithelial cells. Gastroenterology 2002;123:542–53.                              137   Dinis-Ribeiro M, Yamaki G, Miki K, et al. Meta-analysis on the validity of
+120   Matsumoto Y, Marusawa H, Kinoshita K, et al. Helicobacter pylori infection                     pepsinogen test for gastric carcinoma, dysplasia or chronic atrophic gastritis
+      triggers aberrant expression of activation-induced cytidine deaminase in gastric               screening. J Med Screen 2004;11:141–7.
+      epithelium. Nat Med 2007;13:470–6.                                                       138   Dinis-Ribeiro M, da Costa-Pereira A, Lopes C, et al. Validity of serum pepsinogen
+121   Shin CM, Kim N, Jung Y, et al. Genome-wide DNA methylation proﬁles in                          I/II ratio for the diagnosis of gastric epithelial dysplasia and intestinal metaplasia
+      noncancerous gastric mucosae with regard to Helicobacter pylori infection and the              during the follow-up of patients at risk for intestinal-type gastric adenocarcinoma.
+      presence of gastric cancer. Helicobacter 2011;16:179–88.                                       Neoplasia 2004;6:449–56.
+122   Ushijima T, Hattori N. Molecular pathways: involvement of Helicobacter                   139   Schindler R. Chronic gastritis. Bull NY Acad Med 1939;15:322–37.
+      pylori-triggered inﬂammation in the formation of an epigenetic ﬁeld defect and its       140   Lau JY, Barkun A, Fan DM, et al. Challenges in the management of acute peptic
+      usefulness as cancer risk and exposure markers. Clin Cancer Res 2012;18:923–9.                 ulcer bleeding. Lancet 2013;381:2033–43.
+123   Zabaleta J. MicroRNA: a bridge from H. pylori infection to gastritis and gastric         141   Jőnsson KA, Gotthard R, Bodemar G, et al. The clinical relevance of endoscopic
+      cancer development. Front Genet 2012;3:294.                                                    and histologic inﬂammation of gastroduodenal mucosa in dyspepsia of unknown
+124   Nishizawa T, Suzuki H. The role of microRNA in gastric malignancy. Int J Mol Sci               origin. Scand J Gastroenterol 1989;24:385–95.
+      2013;14:9487–96.                                                                         142   Talley N, Phillips SF. Non-ulcer dyspepsia: potential causes and pathophysiology.
+125   Mégraud F, Coenen S, Versporten A, et al. Helicobacter pylori resistance to                    Ann Intern Med 1988;108:865–79.
+      antibiotics in Europe and its relationship to antibiotic consumption. Gut                143   Lambert JR. The role of Helicobacter pylori in nonulcer dyspepsia. A debate—for.
+      2013;62:34–42.                                                                                 Gastroenterol Clin North Am 1993;22:141–51.
+126   Furuta T, Graham DY. Pharmacologic aspects of eradication therapy for                    144   Talley NJ. The role of Helicobacter pylori in nonulcer dyspepsia. A debate—
+      Helicobacter pylori Infection. Gastroenterol Clin North Am 2010;39:465–80.                     against. Gastroenterol Clin North Am 1993;22:153–67.
+
+
+
+
+Sugano K, et al. Gut 2015;64:1353–1367. doi:10.1136/gutjnl-2015-309252                                                                                                                1367
+
